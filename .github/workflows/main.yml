@@ -1,18 +1,24 @@
 name: Update News Daily
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 4-12 * * 1-5' # सोमवार-शुक्रवार, मार्केट वेळेत
+    - cron: '0 */6 * * *'    # इतर वेळी दर ६ तासांनी
   workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated to v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Updated to v5
         with:
           python-version: '3.9'
 
@@ -23,13 +29,7 @@ jobs:
         env:
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
         run: |
-          # फाईल नक्की कुठे आहे ते शोधून तिथेच रन करेल
           PYTHON_FILE=$(find . -name "fetch_news.py" | head -n 1)
-          if [ -z "$PYTHON_FILE" ]; then
-            echo "Error: fetch_news.py सापडली नाही!"
-            exit 1
-          fi
-          echo "फाईल सापडली: $PYTHON_FILE"
           python "$PYTHON_FILE"
 
       - name: Commit and Push changes
@@ -37,17 +37,17 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m "Update news" || echo "No changes to commit"
+          git commit -m "Update news and json" || echo "No changes"
           git push
-# १. बातम्या सेव्ह झाल्यावर लगेच पेजेस बिल्ड करणे
+
       - name: Setup Pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v4 # Updated to v4
         
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3 # Updated to v3/v4 fix
         with:
-          path: '.'  # तुमच्या सर्व फाईल्स पब्लिश करा
+          path: '.'
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4 # Updated to v4

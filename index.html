@@ -7,34 +7,38 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
-        body { background-color: #f0f2f5; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        body { background-color: #f0f2f5; font-family: 'Segoe UI', sans-serif; }
         .navbar { background: #ce1212; box-shadow: 0 2px 10px rgba(0,0,0,0.3); }
-        .category-scroll { overflow-x: auto; white-space: nowrap; padding: 10px 0; -webkit-overflow-scrolling: touch; }
-        .category-btn { margin: 0 5px; border-radius: 20px; font-weight: bold; transition: 0.3s; border: 2px solid #ce1212; color: #ce1212; }
+        .category-scroll { overflow-x: auto; white-space: nowrap; padding: 10px 0; }
+        .category-btn { margin: 0 5px; border-radius: 20px; font-weight: bold; border: 2px solid #ce1212; color: #ce1212; background: white; }
         .category-btn.active { background: #ce1212; color: #fff; }
-        .news-card { border: none; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-bottom: 25px; background: #fff; }
+        .news-card { border: none; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-bottom: 25px; background: #fff; position: relative; }
         .news-img { height: 200px; object-fit: cover; width: 100%; }
         .card-title { font-size: 1.1rem; font-weight: bold; color: #333; height: 3.3em; overflow: hidden; }
-        .share-btn { border-radius: 50%; width: 40px; height: 40px; display: inline-flex; align-items: center; justify-content: center; transition: 0.3s; }
-        .wa-btn { background-color: #25D366; color: white; border: none; }
-        .wa-btn:hover { background-color: #128C7E; color: white; }
+        .share-btn { border-radius: 50%; width: 40px; height: 40px; display: inline-flex; align-items: center; justify-content: center; background-color: #25D366; color: white; text-decoration: none; }
+        .new-badge { position: absolute; top: 10px; left: 10px; background: red; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-size: 0.8rem; z-index: 10; }
     </style>
 </head>
 <body>
 
-<nav class="navbar navbar-dark mb-3">
+<nav class="navbar navbar-dark mb-1">
     <div class="container text-center">
         <a class="navbar-brand fw-bold mx-auto" href="#"><i class="fas fa-newspaper me-2"></i> महाराष्ट्र सुपर न्यूज</a>
     </div>
 </nav>
 
-<div class="category-scroll text-center">
-    <button onclick="changeCategory('general', this)" class="btn category-btn active">ताज्या बातम्या</button>
-    <button onclick="changeCategory('market', this)" class="btn category-btn">शेअर मार्केट</button>
-    <button onclick="changeCategory('it_tech', this)" class="btn category-btn">आयटी/तंत्रज्ञान</button>
-    <button onclick="changeCategory('sports', this)" class="btn category-btn">क्रीडा</button>
-    <button onclick="changeCategory('entertainment', this)" class="btn category-btn">मनोरंजन</button>
+<div class="container text-end mb-2">
+    <small class="text-muted">🕒 शेवटचे अपडेट: <span id="update-time">--:--</span></small>
 </div>
+
+<div class="container mb-4 mt-2">
+    <div class="category-scroll text-center">
+        <button onclick="changeCategory('general', this)" class="btn category-btn active">ताज्या बातम्या</button>
+        <button onclick="changeCategory('market', this)" class="btn category-btn">शेअर मार्केट</button>
+        <button onclick="changeCategory('it_tech', this)" class="btn category-btn">आयटी/तंत्रज्ञान</button>
+        <button onclick="changeCategory('sports', this)" class="btn category-btn">क्रीडा</button>
+        <button onclick="changeCategory('entertainment', this)" class="btn category-btn">मनोरंजन</button>
+    </div>
 </div>
 
 <div class="container">
@@ -51,7 +55,7 @@
             newsDatabase = await response.json();
             renderNews('general');
         } catch (e) {
-            document.getElementById('news-container').innerHTML = "<p class='text-center'>बातम्या लोड होत आहेत, कृपया थोड्या वेळाने रिफ्रेश करा.</p>";
+            document.getElementById('news-container').innerHTML = "<p class='text-center'>माहिती लोड होत आहे...</p>";
         }
     }
 
@@ -60,20 +64,30 @@
         container.innerHTML = '';
         const articles = newsDatabase[category] || [];
 
-        articles.forEach(article => {
+        // Update Time set karne
+        if (articles.length > 0 && articles[0].publishedAt) {
+            const lastDate = new Date(articles[0].publishedAt);
+            document.getElementById('update-time').innerText = lastDate.toLocaleString('mr-IN');
+        }
+
+        articles.forEach((article, index) => {
             const shareText = encodeURIComponent(`*${article.title}*\n\nसविस्तर वाचा: ${article.url}`);
             const waUrl = `https://api.whatsapp.com/send?text=${shareText}`;
+            
+            // Pahilya 3 batmyanna 'नवीन' tag lavne
+            const badgeHtml = index < 3 ? '<div class="new-badge">नवीन</div>' : '';
 
             container.innerHTML += `
                 <div class="col-md-6 col-lg-4">
                     <div class="card news-card">
+                        ${badgeHtml}
                         <img src="${article.image || 'https://via.placeholder.com/400x200'}" class="news-img" alt="news">
                         <div class="card-body">
                             <h5 class="card-title">${article.title}</h5>
                             <hr>
                             <div class="d-flex justify-content-between align-items-center">
                                 <a href="${article.url}" target="_blank" class="btn btn-outline-dark btn-sm rounded-pill">वाचा</a>
-                                <a href="${waUrl}" target="_blank" class="share-btn wa-btn">
+                                <a href="${waUrl}" target="_blank" class="share-btn">
                                     <i class="fab fa-whatsapp"></i>
                                 </a>
                             </div>

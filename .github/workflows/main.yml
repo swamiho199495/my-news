@@ -1,0 +1,33 @@
+name: Update News Daily
+on:
+  schedule:
+    - cron: '0 */3 * * *' # दर ३ तासांनी आपोआप चालेल
+  workflow_dispatch: # बटन दाबून मॅन्युअली चालवण्यासाठी
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch News
+        env:
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+        run: python fetch_news.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add .
+          git commit -m "Update news and images" || exit 0
+          git push

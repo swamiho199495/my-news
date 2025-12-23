@@ -24,7 +24,9 @@ jobs:
       - name: Fetch News
         env:
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
-        run: python ./fetch_news.py # आपण येथे ./ लावून फाईल शोधणे सोपे केले आहे
+        run: |
+          ls -R  # हे आपल्याला नक्की फाईल कुठे आहे ते सांगेल
+          python fetch_news.py || python my-news/fetch_news.py
 
       - name: Commit and Push changes
         run: |

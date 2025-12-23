@@ -1,0 +1,45 @@
+<script>
+        async function loadNews() {
+            try {
+                // फाईल लोड करताना कॅश (Cache) मेमरी टाळण्यासाठी वेळ जोडली आहे
+                const response = await fetch('news_data.json?v=' + new Date().getTime());
+                
+                if (!response.ok) {
+                    throw new Error("बातम्यांची फाईल सापडली नाही (४०४)");
+                }
+
+                const newsData = await response.json();
+                const container = document.getElementById('news-container');
+                container.innerHTML = '';
+
+                if (newsData.length === 0) {
+                    container.innerHTML = "<div class='text-center'>सध्या कोणतीही बातमी उपलब्ध नाही.</div>";
+                    return;
+                }
+
+                newsData.forEach(article => {
+                    const card = `
+                        <div class="col-md-4">
+                            <div class="card news-card position-relative">
+                                <img src="${article.local_image_path || 'https://via.placeholder.com/400x200'}" 
+                                     class="news-img" 
+                                     onerror="this.src='https://via.placeholder.com/400x200';" 
+                                     alt="News Image">
+                                <div class="card-body">
+                                    <h5 class="card-title">${article.title}</h5>
+                                    <p class="card-text text-muted">${article.description ? article.description.substring(0, 100) + '...' : ''}</p>
+                                    <a href="${article.url}" target="_blank" class="btn btn-sm btn-primary">सविस्तर वाचा</a>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                    container.innerHTML += card;
+                });
+            } catch (error) {
+                console.error("News Load Error:", error);
+                document.getElementById('news-container').innerHTML = 
+                    "<div class='alert alert-warning text-center'>बातम्या अपडेट होत आहेत किंवा फाईल सापडत नाहीये. कृपया २ मिनिटांनी रिफ्रेश करा.</div>";
+            }
+        }
+        loadNews();
+    </script>

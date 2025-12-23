@@ -1,8 +1,8 @@
 name: Update News Daily
 on:
   schedule:
-    - cron: '0 */3 * * *' # दर ३ तासांनी चालेल
-  workflow_dispatch: # मॅन्युअली बटन दाबून चालवण्यासाठी
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -24,7 +24,7 @@ jobs:
       - name: Fetch News
         env:
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
-        run: python fetch_news.py
+        run: python ./fetch_news.py # आपण येथे ./ लावून फाईल शोधणे सोपे केले आहे
 
       - name: Commit and Push changes
         run: |

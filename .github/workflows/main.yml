@@ -39,3 +39,15 @@ jobs:
           git add .
           git commit -m "Update news" || echo "No changes to commit"
           git push
+# १. बातम्या सेव्ह झाल्यावर लगेच पेजेस बिल्ड करणे
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: '.'  # तुमच्या सर्व फाईल्स पब्लिश करा
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2

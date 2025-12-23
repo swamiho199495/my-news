@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="mr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>माझी स्मार्ट न्यूज वेबसाइट</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { background-color: #f4f7f6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        .news-card { margin-bottom: 20px; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: 0.3s; }
+        .news-card:hover { transform: translateY(-5px); }
+        .news-img { width: 100%; height: 200px; object-fit: cover; }
+        .category-badge { position: absolute; top: 10px; left: 10px; background: #ff4757; color: white; padding: 5px 10px; border-radius: 20px; font-size: 12px; }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark mb-4">
+        <div class="container text-center">
+            <span class="navbar-brand mb-0 h1">Live News Portal</span>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div id="news-container" class="row">
+            <div class="text-center">बातम्या लोड होत आहेत...</div>
+        </div>
+    </div>
+
+    <script>
+        async function loadNews() {
+            try {
+                // तुमच्या रिपॉझिटरीमधील न्यूज फाईल वाचणे
+                const response = await fetch('news_data.json');
+                const newsData = await response.json();
+                const container = document.getElementById('news-container');
+                container.innerHTML = '';
+
+                newsData.forEach(article => {
+                    const card = `
+                        <div class="col-md-4">
+                            <div class="card news-card position-relative">
+                                <img src="${article.local_image_path || 'https://via.placeholder.com/400x200'}" class="news-img" alt="News Image">
+                                <div class="card-body">
+                                    <h5 class="card-title">${article.title}</h5>
+                                    <p class="card-text text-muted">${article.description ? article.description.substring(0, 100) + '...' : ''}</p>
+                                    <a href="${article.url}" target="_blank" class="btn btn-sm btn-primary">सविस्तर वाचा</a>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                    container.innerHTML += card;
+                });
+            } catch (error) {
+                console.error("News Load Error:", error);
+                document.getElementById('news-container').innerHTML = "बातम्या अपडेट होत आहेत, कृपया थोड्या वेळाने प्रयत्न करा.";
+            }
+        }
+        loadNews();
+    </script>
+</body>
+</html>

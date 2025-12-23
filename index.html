@@ -3,22 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>माझा न्यूज पोर्टल</title>
+    <title>माझा न्यूज पोर्टल - ताज्या बातम्या</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        body { background-color: #f4f7f6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
-        .navbar { background-color: #2c3e50; }
-        .news-card { margin-bottom: 20px; transition: 0.3s; border: none; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
-        .news-card:hover { transform: translateY(-5px); box-shadow: 0 8px 16px rgba(0,0,0,0.2); }
-        .news-img { height: 200px; object-fit: cover; width: 100%; }
-        .card-title { font-weight: bold; font-size: 1.1rem; color: #2c3e50; }
+        body { background-color: #f4f7f6; font-family: 'Segoe UI', Arial, sans-serif; }
+        .navbar { background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); box-shadow: 0 2px 10px rgba(0,0,0,0.2); }
+        .news-card { margin-bottom: 25px; transition: 0.3s; border: none; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background: #fff; }
+        .news-card:hover { transform: translateY(-8px); box-shadow: 0 12px 20px rgba(0,0,0,0.15); }
+        .news-img { height: 210px; object-fit: cover; width: 100%; border-bottom: 3px solid #eee; }
+        .card-title { font-weight: bold; font-size: 1.15rem; color: #1e3c72; line-height: 1.4; }
+        .card-text { color: #555; font-size: 0.95rem; }
+        .btn-read { background-color: #1e3c72; border: none; color: white; border-radius: 20px; padding: 5px 15px; font-size: 0.85rem; }
+        .btn-read:hover { background-color: #2a5298; color: white; }
     </style>
 </head>
 <body>
 
-<nav class="navbar navbar-dark mb-4">
+<nav class="navbar navbar-dark mb-4 p-3">
     <div class="container">
-        <a class="navbar-brand" href="#">महाराष्ट्र ताज्या बातम्या</a>
+        <a class="navbar-brand fw-bold" href="#">🚩 महाराष्ट्र ताज्या बातम्या</a>
     </div>
 </nav>
 
@@ -26,39 +29,59 @@
     <div id="news-container" class="row">
         <div class="text-center mt-5">
             <div class="spinner-border text-primary" role="status"></div>
-            <p class="mt-2">बातम्या लोड होत आहेत...</p>
+            <p class="mt-2 text-muted">ताज्या बातम्या गोळा करत आहे...</p>
         </div>
     </div>
 </div>
 
 <script>
     async function fetchNews() {
-        try {
-            // news_data.json ही फाईल पायथन स्क्रिप्ट बनवेल
-            const response = await fetch('news_data.json?v=' + new Date().getTime());
-            const data = await response.json();
-            const container = document.getElementById('news-container');
-            container.innerHTML = '';
+        const container = document.getElementById('news-container');
+        // या दोन ठिकाणांहून बातम्या शोधण्याचा प्रयत्न करेल
+        const paths = ['./news_data.json', '../news_data.json'];
+        
+        for (let path of paths) {
+            try {
+                const response = await fetch(path + '?v=' + new Date().getTime());
+                if (!response.ok) continue;
+                
+                const data = await response.json();
+                container.innerHTML = '';
 
-            data.forEach(article => {
-                const card = `
-                    <div class="col-md-4">
-                        <div class="card news-card">
-                            <img src="${article.local_image_path || article.image || 'https://via.placeholder.com/400x200'}" class="news-img" alt="news">
-                            <div class="card-body">
-                                <h5 class="card-title">${article.title}</h5>
-                                <p class="card-text text-muted small">${article.description ? article.description.substring(0, 100) + '...' : ''}</p>
-                                <a href="${article.url}" target="_blank" class="btn btn-primary btn-sm">सविस्तर वाचा</a>
+                if (data.length === 0) {
+                    container.innerHTML = "<p class='text-center mt-5 text-muted'>आज अजून बातम्या अपडेट झाल्या नाहीत.</p>";
+                    return;
+                }
+
+                data.forEach(article => {
+                    // इमेज पाथ सेट करणे
+                    let imgSrc = article.local_image_path || article.image || 'https://via.placeholder.com/400x200?text=No+Image';
+                    
+                    const card = `
+                        <div class="col-md-6 col-lg-4">
+                            <div class="card news-card">
+                                <img src="${imgSrc}" class="news-img" alt="news" onerror="this.src='https://via.placeholder.com/400x200?text=News+Image'">
+                                <div class="card-body">
+                                    <h5 class="card-title">${article.title}</h5>
+                                    <p class="card-text">${article.description ? article.description.substring(0, 100) + '...' : 'सविस्तर बातमी वाचण्यासाठी खालील बटणावर क्लिक करा.'}</p>
+                                    <div class="d-flex justify-content-between align-items-center">
+                                        <small class="text-muted">${new Date(article.publishedAt || Date.now()).toLocaleDateString('mr-IN')}</small>
+                                        <a href="${article.url}" target="_blank" class="btn btn-read">सविस्तर वाचा</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                `;
-                container.innerHTML += card;
-            });
-        } catch (e) {
-            document.getElementById('news-container').innerHTML = "<p class='text-center'>अजून बातम्या अपडेट झालेल्या नाहीत. कृपया थोड्या वेळाने प्रयत्न करा.</p>";
+                    `;
+                    container.innerHTML += card;
+                });
+                return; // फाईल सापडली आणि बातम्या दाखवल्या, आता थांबवा
+            } catch (e) {
+                console.log("Path " + path + " वर फाईल सापडली नाही.");
+            }
         }
+        container.innerHTML = "<div class='text-center mt-5'><p class='alert alert-warning'>बातम्यांची फाईल (news_data.json) सापडत नाहीये. कृपया Actions रन होण्याची वाट पहा.</p></div>";
     }
+
     fetchNews();
 </script>
 

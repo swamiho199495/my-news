@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "3124851dd749ebf83c29cdd75f2a4f0b",
+            "title": "पटसंख्येअभावी राज्यभरातील 2 हजार मराठी शाळा अडचणीत",
+            "description": "एका बाजूला राज्य सरकार मराठीची सक्ती असल्याचे सांगत असताना, दुसर्‍या बाजूला राज्यातील जवळपास 2,000 शाळा पटसंख्येअभावी बंद होण्याच्या मार्गावर आहेत.",
+            "content": "रायगड; पुढारी वृत्तसेवा : एका बाजूला राज्य सरकार मराठीची सक्ती असल्याचे सांगत असताना, दुसर्‍या बाजूला राज्यातील जवळपास 2,000 शाळा पटसंख्येअभावी बंद होण्याच्या मार्गावर आहेत. यामुळे 25 हजार शिक्षक अतिरिक्त ठरले आहेत. आता त्यातील 620 शाळा बंदचा निर्णय ... [372 chars]",
+            "url": "https://pudhari.news/maharashtra/raigad/2000-marathi-schools-in-trouble-due-to-low-student-enrollment-ap84",
+            "image": "https://media.assettype.com/pudharinews%2F2026-01-05%2Fzhj43exc%2Fmarathi-shala.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-01-05T23:06:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari News",
+                "url": "https://pudhari.news"
+            }
+        },
+        {
             "id": "a58575b804f10d20833a54b63842f6a1",
             "title": "Bangladesh violence | बांगला देशात हिंदू पत्रकाराची हत्या; विधवेवर सामूहिक बलात्कार",
             "description": "बांगला देशात अल्पसंख्याक हिंदू समाजावरील हल्ल्यांची मालिका सुरूच असून, सोमवारी सायंकाळी स्थानिक वृत्तपत्राचा कार्यकारी संपादक असणार्‍या हिंदू उद्योजकाची हल्लेखोरांनी डोक्यात गोळ्या झाडून निर्घृण हत्या केली.",
@@ -133,21 +148,6 @@
                 "id": "d0ecbd318b81c0114aad430372084c1a",
                 "name": "ABP Majha",
                 "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "9504d4e18b3577b69418b74123fb3420",
-            "title": "Bigg Boss Marathi 6 ला टक्कर देण्यासाठी झी मराठीचा हुकमी एक्का; 'टीआरपी क्वीन' येणार एकत्र",
-            "description": "Bigg Boss Marathi 6 Vs Zee Marathi Mahasangam: पुढील आठवड्यापासून कलर्स मराठी वाहिनीवर 'बिग बॉस मराठी 6' का शो सुरू होणार असून, टीआरपीमध्ये या कार्यक्रमाला टक्कर देण्यासाठी इतर वाहिन्यांनी कंबर कसली आहे.",
-            "content": "कलर्स मराठी वाहिनीवर 11 जानेवारी 2026 पासून बिग बॉस मराठीचे पुढील पर्व म्हणजेच, Bigg Boss Marathi 6 ची सुरुवात होणार आहे. 5 जानेवारी 2026 रोजी या कार्यक्रमाची पत्रकार परिषद पार पडली. ज्यामध्ये रितेश देशमुखने या शोविषयी पत्रकारांच्या विविध प्रश्नांची ... [2187 chars]",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/bigg-boss-marathi-6-vs-zee-marathi-kamali-and-laxmi-niwas-mahasangam-epsiode-at-8-pm-slot/articleshow/126356305.cms",
-            "image": "https://static.langimg.com/mt/thumb/126356420/bigg-boss-marathi-6-vs-zee-marathi-kamali.jpg?imgsize=79192&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-01-05T15:54:21Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
             }
         }
     ],

@@ -1,43 +1,13 @@
 {
     "general": [
         {
-            "id": "6c022e04abf4d0128c68070eb3f337e7",
-            "title": "‘संतूर मम्मी’, 45 वर्षीय श्वेता तिवारीचा लाल ड्रेसमध्ये कातिल लुक, स्माईलने वेधलं लक्ष",
-            "description": "श्वेता तिवारीने तिच्या इन्स्टाग्रामवर तिचा नवीन लुक शेअर केला आहे. ज्याने काही तासांमध्ये सोशल मीडियावर धुमाकूळ घातला असून तो चर्चेचा विषय बनला आहे.",
-            "content": "प्रसिद्ध टीव्ही अभिनेत्री श्वेता तिवारी ही फक्त अभिनयामुळे चर्चेत नसून ती तिच्या सौंदर्य, हॉट लूक आणि हटके स्टाईलमुळे देखील प्रचंड चर्चेत असते.\nअभिनेत्रीचा प्रत्येक लुक हा चाहत्यांना आकर्षित करणारा असतो. अशातच आता श्वेता तिवारीने तिचे लाल रंगाच्या ड्... [280 chars]",
-            "url": "https://www.tv9marathi.com/entertainment/tv-actress-shweta-tiwari-flaunts-her-glamourous-red-dress-look-1576184.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/Shweta-Tiwari-Red-Dress-new.jpg",
-            "publishedAt": "2026-01-07T06:56:21Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "5fa79d4b84a51972056566c859d91c3e",
-            "title": "दिग्गज अभिनेत्याला आधीच लागलेली मृत्यूची चाहूल? भविष्यवाणी खरी ठरली, किचनमध्ये विवस्त्र मिळालेली बॉडी",
-            "description": "Actor Death Mystery : अभिनेत्याचे निधन हे अजूनही गुढ आहे. त्यांच्या स्वयंपाक घरात त्यांची बॉडी सापडली होती.",
-            "content": "नायक आणि खलनायक अशा दोन्ही भूमिका करून इंडस्ट्रीमध्ये स्वतःचे वेगळे स्थान निर्माण करणारे या दिग्गज अभिनेत्याचं 6 जानेवारी 2017 रोजी निधन झाले. हा किस्सा आहे प्रसिद्ध अभिनेते ओम पुरी यांचा. त्यांचा मृत्यू अपघात होता की कटकारस्थान हे अजूनही एक गुढ बनून... [2408 chars]",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/om-puri-body-found-naked-in-his-kitchen-know-what-happened/articleshow/126388518.cms",
-            "image": "https://static.langimg.com/mt/thumb/126388836/om-puri.jpg?imgsize=98442&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-01-07T06:53:57Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
-            }
-        },
-        {
-            "id": "59e161502798a86295c6877abb30c4ad",
-            "title": "पंतप्रधान नरेंद्र मोदी आणि अमित शाह यांच्याविरोधात घोषणा देणाऱ्या विद्यार्थ्यांची जेएनयूमधून हकालपट्टी",
-            "description": "जेएनयूच्या विद्यार्थ्यांच्या एका गटानं सोमवारी(5 जानेवारी) रात्री विद्यापीठाच्या आवारात या घोषणा दिल्याचा कथित व्हीडिओ सोशल मीडियावर व्हायरल झाला आहे. जेएनयू प्रशासनानं या प्रकरणात एफआयआर दाखल करण्यात आल्याची माहिती दिली आहे.",
-            "content": "19 मिनिटांपूर्वी\nजवाहरलाल नेहरू विद्यापीठात (जेएनयू) पंतप्रधान नरेंद्र मोदी आणि केंद्रीय गृहमंत्री अमित शाह यांच्याविरोधात करण्यात आलेल्या वादग्रस्त घोषणांबाबत विद्यापीठ प्रशासनानं एक निवेदन जारी केलं आहे.\nजेएनयू प्रशासनानं निवेदनात म्हटलं आहे की या ... [7042 chars]",
-            "url": "https://www.bbc.com/marathi/articles/cn42zw8x95no",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_marathi/6af8/live/a67adc20-eb86-11f0-a422-4ba8a094a8fa.jpg",
-            "publishedAt": "2026-01-07T06:49:45Z",
+            "id": "153dd09be33a7b0d22619cb84fb03c2e",
+            "title": "अमेरिकेनं रशियन ध्वज असलेलं व्हेनेझुएलाशी संबंधित तेलवाहू जहाज अटलांटिक महासागरात केलं जप्त",
+            "description": "उत्तर अटलांटिक महासागरात व्हेनेझुएलाच्या तेलाशी संबंधित असलेले एक टँकर जप्त केल्याचे अमेरिकेनं म्हटलं आहे.",
+            "content": "4 तासांपूर्वी\nउत्तर अटलांटिक महासागरात व्हेनेझुएलाच्या तेलाशी संबंधित असलेले एक टँकर जप्त केल्याचे अमेरिकेनं म्हटलं आहे.\nअमेरिकेच्या युरोपियन कमांडने दिलेल्या माहितीनुसार, \"अमेरिकेच्या न्याय विभाग आणि होमलँड सिक्युरिटी विभागाने आज अमेरिकन निर्बंधांचे... [4174 chars]",
+            "url": "https://www.bbc.com/marathi/articles/c5y2dld977do",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_marathi/0359/live/3265f630-ebe0-11f0-b385-5f48925de19a.jpg",
+            "publishedAt": "2026-01-07T14:37:30Z",
             "lang": "mr",
             "source": {
                 "id": "f331a5ed3965fb59761dfcecfc7e7a34",
@@ -46,58 +16,13 @@
             }
         },
         {
-            "id": "9ba8d005805bfd01260a169946e744ed",
-            "title": "मुंबई विद्यापीठ तायक्वांदो स्पर्धेत 'गोगटे जोगळेकर महाविद्यालयाच्या महिला संघाने पटकावले उपविजेतेपद",
-            "description": "रत्नागिरी : मुंबई विद्यापीठ पुरुष व महिला तायक्वांदो स्पर्धेत शहरातील गोगटे-जोगळेकर महाविद्यालयाच्या पुरुष व महिला संघाने १ सुवर्णपदक, १ रौप्यपदक आणि २",
-            "content": "रत्नागिरी : मुंबई विद्यापीठ पुरुष व महिला तायक्वांदो स्पर्धेत शहरातील गोगटे-जोगळेकर महाविद्यालयाच्या पुरुष व महिला संघाने १ सुवर्णपदक, १ रौप्यपदक आणि २ कांस्यपदके प्राप्त केले. या स्पर्धेत गोगटे जोगळेकर महाविद्यालयाच्या महिला संघाने मुंबई विद्यापीठ म... [982 chars]",
-            "url": "https://ratnagirikhabardar.com/news/94821/",
-            "image": "https://ratnagirikhabardar.com/wp-content/uploads/2026/01/image-105.png",
-            "publishedAt": "2026-01-07T06:40:59Z",
-            "lang": "mr",
-            "source": {
-                "id": "3c4389c66deb6d94ad6b72eb4f8db4d7",
-                "name": "Ratnagiri Khabardar",
-                "url": "https://ratnagirikhabardar.com"
-            }
-        },
-        {
-            "id": "9b4ec5186002f7f1d7b7ead03dda567f",
-            "title": "Riteish Deshmukh: 'तो सूरज चव्हाणचा फॅन होता, त्याला माझं नावही ठाऊक नव्हतं. पण...' रितेश भाऊनं सांगितला खास किस्सा",
-            "description": "'बिग बॉस मराठी' या कार्यक्रमाच्या सहाव्या पर्वातून 'भाऊ' अर्थात रितेश देशमुख पुन्हा एकदा प्रेक्षकांच्या भेटीला येण्यास सज्ज आहे. करिअरला २३ वर्ष पूर्ण झाल्याच्या निमित्तानं त्यानं 'मुंटा'शी बोलताना कलाप्रवासाला उजळा दिला.",
-            "content": "३ जानेवारी २००३ ही तारीख आठवतेय का ?\n(आनंदी होऊन हसत...) नक्कीच ! त्या तारखेमुळेच मी आज इथवर पोहोचलो आहे. २३ वर्षांपूर्वी ३ जानेवारी २००३ रोजी प्रदर्शित झालेल्या 'तुझे मेरी कसम' या सिनेमातून मी पदार्पण केलं होतं. पहिल्याच सिनेमात प्रेक्षकांनी मला प्र... [5402 chars]",
-            "url": "https://maharashtratimes.com/entertainment/interview/riteish-deshmukh-exclusive-interview-bigg-boss-marathi-6-host-talks-about-new-season-and-personal-life/articleshow/126388322.cms",
-            "image": "https://static.langimg.com/mt/thumb/126388503/riteish-deshmukh-exclusive-interview.jpg?imgsize=2252671&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-01-07T06:37:17Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
-            }
-        },
-        {
-            "id": "73c14f3ba6fb3007926ab2f0425c442b",
-            "title": "'ओ अमेय वाघ ..लेकाच्या लग्नाला टांग मारलीत..; सुचित्रा बंदेकरांनी विचारताच सगळेच हसले; अमेय म्हणाला..",
-            "description": "त्यांच्या संवादाचा एक व्हिडिओ सध्या सोशल मीडियावर फिरतोय. प्रीमियरमध्ये नक्की काय घडलं? जाणून घ्या",
-            "content": "Amey Wagh Suchitra Bandekar: काही दिवसांपूर्वीच आदेश बांदेकर आणि सुचित्रा बांदेकरच्या लेकाचा नुकताच दणक्यात विवाह सोहळा पार पडला. सोहम बांदेकरने अभिनेत्री पूजा बिरारीसोबत लग्न केलं. या लग्नाची संपूर्ण मनोरंजन विश्वात एकच चर्चा झाली. अनेक सेलिब्रिटींन... [2050 chars]",
-            "url": "https://marathi.abplive.com/entertainment/suchitra-bandekar-asks-amey-wagh-skipped-my-sons-wedding-amey-waghs-funny-reply-to-suchitra-bandekar-leaves-everyone-laughing-1407565",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/07/c6972f6a721ad215a0864e132fb58d8317677670716511063_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-01-07T06:28:28Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "22b1e8880a83a34aa5b8bd101eada12b",
-            "title": "Kartik Aaryan : कार्तिक आर्यन आणि मी.. डेटिंगच्या चर्चा सुरू होताच मिस्ट्री गर्लने सोडलं मौन",
-            "description": "अभिनेता कार्तिक आर्यनचे गोवा व्हेकेशनचे फोटो समोर येताच प्रचंड खळबळ माजली. त्यातील एक फोटोतून त्याच्या डेटिंगबद्दल आणि मिस्ट्री गर्लबद्दल चर्चा सुरू झाली. करीना कुबिलियूते ही सध्या इंटरनेटवर फेमस झाली आहे.",
-            "content": "बॉलिवूडमधील अफवांचा बाजार हा कधीकधी चित्रपटांपेक्षाही वेगाने चालतो आणि 2026 हे वर्षही त्याला अपवाद ठरलेलं नाही. या वर्षाच्या सुरूवातीलाच अभिनेता कार्तिक आर्यनचं (Kartik Aaryan) नाव गाजू लागलं आहे ते त्याच्या काही फोटोंमुळे. त्याच्या ‘तू मेरी मै तेरा,... [1862 chars]",
-            "url": "https://www.tv9marathi.com/entertainment/kartik-aaryan-goa-photos-karina-kubiliyute-spok-about-dating-rumor-1576161.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/kartik-aryan-mystry-girl.jpg",
-            "publishedAt": "2026-01-07T06:14:43Z",
+            "id": "b9fe887395ad6e812dd8fe3892738f1e",
+            "title": "Video : भाजपाच्या महिला कार्यकर्त्याला नग्न करून मारहाण? पोलिसांनी थेट…व्हिडीओमुळे खळबळ!",
+            "description": "हुबळीमध्ये एक धक्कादायक घटना घडली आहे. तेथे भाजपाच्या एका महिला कार्यकर्त्याला पोलिसांनी नग्न करून मारहाण करण्यात आल्याचा आरोप केला जातोय.",
+            "content": "BJP Activist : राज्यात महानगरपालिका निवडणुकीमुळे राजकीय वातावरण ढवळून निघाले आहे. प्रचार शिगेला पोहोचला आहे. सभा, कॉर्नर बैठका, गाठीभेटी वाढल्या आहेत. काहीही झालं तरी त्या त्या शहरातील पालिकांवर सत्ता मिळवायचीच असा निश्चय पक्षांनी केला आहे. त्यामुळेच... [1624 chars]",
+            "url": "https://www.tv9marathi.com/national/karnataka-hubli-bjp-women-activists-beaten-by-police-upto-cloth-removing-video-vent-viral-marathi-news-1576690.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/bjp-2.jpg",
+            "publishedAt": "2026-01-07T14:29:43Z",
             "lang": "mr",
             "source": {
                 "id": "86b106434a8aa7ab0755463f15cc13f7",
@@ -106,13 +31,43 @@
             }
         },
         {
-            "id": "1b0868468c221b64e484af1b78fea7fb",
-            "title": "Devendra Fadnavis मोठी बातमी: काँग्रेस अन् MIM सोबत युती खपवून घेणार नाही; नेत्यांवर कारवाई करणार, देवेंद्र फडणवीस संतापले, काय काय म्हणाले?",
-            "description": "BJP Alliance MIM And Congress: अकोट नगरपरिषदेत भाजपने एमआयएमसोबत तर अंबरनाथ नगरपरिषदेत भाजपने काँग्रेससोबत युती केल्याने राज्याच्या राजकारणात एकच खळबळ उडाली आहे.",
-            "content": "BJP Alliance MIM And Congress: अकोट नगरपरिषदेत भाजपने चक्क एमआयएमला (BJP MIM Alliance Akot Nagarparishad) सत्तेसाठी सोबत घेतल्याने राज्याच्या राजकारणात एकच खळबळ उडाली आहे. बहुमतासाठी भाजपने अकोट विकास मंच स्थापन केला. या अकोट विकास मंचमध्ये भाजपनंतर ... [2977 chars]",
-            "url": "https://marathi.abplive.com/news/politics/devendra-fadnavis-on-mim-and-congress-alliance-akot-nagarparishad-ambernath-nagarparishad-asaduddin-owaisi-maharashtra-politics-marathi-news-1407562",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/07/b3de1a96363efd2bd22e3e0e843eb8271767765944329987_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-01-07T06:10:18Z",
+            "id": "5188f3005f4ef331a8600ea52c24d688",
+            "title": "IND vs NZ : चाहत्यांच्या गराड्यात अडकला विराट कोहली, गर्दीमुळे अस्वस्थ चेहरा आणि... Video - Marathi News",
+            "description": "भारत आणि न्यूझीलंड यांच्यात तीन सामन्यांची वनडे मालिका 11 जानेवारीपासून सुरू होणार आहे. या मालिकेसाठी विराट कोहली आणि रोहित शर्मा सज्ज झाले आहेत. या सामन्यासाटी विराट कोहली 7 जानेवारी रोजी वडोदराला पोहोचला. यावेळी त्याला चाहत्यांनी गराडा घातला होता.",
+            "content": "भारत आणि न्यूझीलंड यांच्यात तीन सामन्यांची वनडे मालिका होत आहे. या मालिकेसाठी टीम इंडिया सज्ज झाली आहे. शुबमन गिलच्या नेतृत्वात संघाची घोषणा केली असून या संघात रोहित शर्मा आणि विराट कोहलीही आहे. या मालिकेतील पहिला सामना 11 जानेवारी रोजी खेळला जाणार आ... [1383 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/virat-kohli-gets-trapped-in-a-crowd-of-fans-looks-uncomfortable-manages-to-get-out-video-1576667.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/Virat_Kohli-30.jpg",
+            "publishedAt": "2026-01-07T14:04:21Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "12ca2b974fa5a10f8c1be52f00494837",
+            "title": "डिलिव्हरीनंतर अवघ्या 20 दिवसांमध्ये भारती सेटवर दाखल, मुलगी न होण्यावर केलं मोठं वक्तव्य, म्हणाली ‘आता…’",
+            "description": "प्रसिद्ध कॉमेडियन भारती सिंगने काही दिवसांपूर्वीच दुसऱ्या मुलाला जन्म दिला आहे. अशातच आता तिने आई झाल्यानंतर 20 दिवसांनंतर 'लाफ्टर शेफ्स 3' च्या शूटिंगला सुरुवात केली आहे.",
+            "content": "Bharti Singh : लोकप्रिय कॉमेडियन आणि टीव्ही होस्ट भारती सिंग पुन्हा एकदा आई झाली असून तिने 19 डिसेंबर रोजी दुसऱ्या मुलाला जन्म दिला आहे. विशेष म्हणजे डिलिव्हरीनंतर अवघ्या 20 दिवसांतच भारती कामावर परतली असून ती ‘लाफ्टर शेफ्स सीझन 3’ होस्ट करण्यासाठी प... [1546 chars]",
+            "url": "https://www.tv9marathi.com/entertainment/comedian-bharti-singh-return-to-work-3-weeks-after-son-kaju-birth-1576648.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/Bharti-Singh-Video.jpg",
+            "publishedAt": "2026-01-07T13:35:05Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "2b40a549e5475f8bf5788324c6f15e01",
+            "title": "तमन्ना भाटियाची क्रेझ; 6 मिनिटांच्या डान्ससाठी घेतले 'इतके' कोटी, पबमधील नाचतानाचा VIDEO व्हायरल",
+            "description": "Tamannaah Bhatia Becomes Highest-Paid Performer: गोव्यातील न्यू इअर पार्टीत तमन्ना भाटियाचा 6 मिनिटांचा डान्स परफॉर्मन्स. घेतले 6 कोटींचं मानधन.",
+            "content": "Tamannaah Bhatia Becomes Highest-Paid Performer: 'आज की रात' (Aaj ki raat) या गाण्यातून प्रकाशझोतात आलेली अभिनेत्री तमन्ना भाटियाचा (Tamanna Bhatia) चाहतावर्ग खूप मोठा आहे. चित्रपटापेक्षा ती सध्या आयटम साँगमुळे (Item Songs) चर्चेत आली आहे. जेलर चित्र... [1666 chars]",
+            "url": "https://marathi.abplive.com/entertainment/bollywood-actor-tamannaah-bhatia-charges-6-crore-for-6-minute-dance-performance-in-goa-1407638",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/07/5c1e52faaa26f373c0c9a8f4842df82017677923476951339_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-01-07T13:26:36Z",
             "lang": "mr",
             "source": {
                 "id": "d0ecbd318b81c0114aad430372084c1a",
@@ -121,13 +76,28 @@
             }
         },
         {
-            "id": "cf8d950e39a2d7656e3eba1d83dddaea",
-            "title": "राज ठाकरेंचे टेन्शन वाढलं! बालेकिल्ल्यातच मनसेला भगदाड, आणखी एका फायरब्रँड नेत्याचा पक्षाला 'जय महाराष्ट्र'",
-            "description": "महापालिका निवडणुकीच्या पार्श्वभूमीवर महाराष्ट्र नवनिर्माण सेनेला आणखी एक धक्का बसला.",
-            "content": "Written by :\nLast Updated:Jan 07, 2026 11:15 AM IST\nRaj Thackeray : वरळीतील मनसेचे नेते संतोष धुरी यांनी पक्षातून राजीनामा देत भाजपात प्रवेश केला. त्याला २४ तास उलटत नाही तोच मराठी बालेकिल्ल्यातून आणखी एका मनसेच्या नेत्यानं राजीनामा दिला आहे.\nमुंबई: ... [1931 chars]",
-            "url": "https://news18marathi.com/maharashtra/raj-thackeray-led-mns-got-setback-in-dadar-mahim-former-corporator-resign-from-party-1583060.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/01/Raj-Thackeray-5-2026-01-c2df61835d4cb51d8c7f4e19d7ce8fba-16x9.jpg",
-            "publishedAt": "2026-01-07T05:43:00Z",
+            "id": "56f28cebf12d604dfdaa2e14a4b1ce6d",
+            "title": "एमसीएच्या क्रिकेट स्पर्धेत रायगडच्या मुलींची झुंजार कामगिरी",
+            "description": "एमसीएच्या क्रिकेट स्पर्धेत रायगडच्या मुलींची झुंजार कामगिरी",
+            "content": "साताऱ्यावर थरारक विजय; सुपर लीगमध्ये दिमाखदार प्रवेश\nपोयनाड, ता. ७ (बातमीदार) : महाराष्ट्र क्रिकेट असोसिएशनच्या वतीने आयोजित करण्यात आलेल्या १९ वर्षांखालील मुलींच्या एकदिवसीय ५० षटकांच्या आंतरजिल्हा निवड चाचणी क्रिकेट स्पर्धेत रायगड जिल्ह्याच्या मुली... [1267 chars]",
+            "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mum26i52552-txt-raigad-today-20260107124708",
+            "image": "https://media.assettype.com/esakal%2F2026-01-07%2Fs4ck8qlz%2Fmumbai_fallback_image.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-01-07T12:47:08Z",
+            "lang": "mr",
+            "source": {
+                "id": "9b7ea871fc552e5338bb7d66d4ff9a55",
+                "name": "Esakal",
+                "url": "https://www.esakal.com"
+            }
+        },
+        {
+            "id": "0ee9e1a3e2340f34976b2b208f795313",
+            "title": "2400 कोटींची डील अन् आलिया भट्टने शेअर केला देवेंद्र फडणवीसांचा फोटो, नेमकं कारण काय?",
+            "description": "अभिनेत्री आलिया भट्टने मंगळवारी तिच्या इन्स्टा अकाऊंटवर एक पोस्ट शेअर केली, ज्यामध्ये महाराष्ट्राचे मुख्यमंत्री देवेंद्र फडणवीस यांचा फोटो होता. तिने हा फोटो शेअर करताच सोशल मीडियावर चर्चांना उधाण आले.",
+            "content": "Published by :\nLast Updated:Jan 07, 2026 5:53 PM IST\nअभिनेत्री आलिया भट्टने मंगळवारी तिच्या इन्स्टा अकाऊंटवर एक पोस्ट शेअर केली, ज्यामध्ये महाराष्ट्राचे मुख्यमंत्री देवेंद्र फडणवीस यांचा फोटो होता. तिने हा फोटो शेअर करताच सोशल मीडियावर चर्चांना उधाण ... [3103 chars]",
+            "url": "https://news18marathi.com/entertainment/a-deal-worth-rs-2400-crore-and-alia-bhatt-shared-a-photo-of-maharashtra-cm-devendra-fadnavis-what-is-the-reason-1583310.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/01/alia-bhatt-devendra-fadnavis-2026-01-a963f2271eac8f3e39326d1cc2063442-16x9.jpg",
+            "publishedAt": "2026-01-07T12:23:00Z",
             "lang": "mr",
             "source": {
                 "id": "bfd324c66556f858b94a8093cae1427c",
@@ -136,22 +106,68 @@
             }
         },
         {
-            "id": "319befda856a12346c6ee6b28e91d193",
-            "title": "Yuzvendra Chahal-Dhanshree Verma पुन्हा एकत्र दिसणार, घटस्फोटाच्या 11 महिन्यानंतर रियुनियनचं कारण काय?",
-            "description": "Yuzvendra Chahal And Dhanshree Verma News: भारतीय क्रिकेटपटू युजवेंद्र चहल आणि धनश्री वर्मा यांचा घटस्फोट झाला हे सर्वांनाच माहित आहे पण घटस्फोटानंतर ते दोघेही आता पुन्हा एकत्र येणार असल्याची चर्चा सुरु आहे.",
-            "content": "मुंबई: युजवेंद्र चहल आणि धनश्री वर्मा यांचा मागील वर्षी घटस्फोट झाला. दोघेही घटस्फोटामुळे बरेच चर्चेत आले होते. धनश्री घटस्फोटानंतर अनेक चित्रपटात आणि रिएलिटी शोमध्ये दिसली. पण आता या दोघांबद्दल एक बातमी समोर येत आहे. Yuzvendra Chahal And Dhanshree V... [2103 chars]",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/yuzvendra-chahal-and-dhanashree-verma-likely-to-feature-together-after-divorce-on-the-50-show/articleshow/126386906.cms",
-            "image": "https://static.langimg.com/mt/thumb/126387695/yuzi-chahal-and-dhanshree-verma.jpg?imgsize=59218&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-01-07T05:40:43Z",
+            "id": "8938a3d2212cf7b001f70b210dee1af4",
+            "title": "२ री खेलो इंडिया बीच स्‍पर्धा : बीच कबड्डीत महाराष्ट्र उपांत्‍य फेरीत",
+            "description": "Khelo India Beach Games: दीव येथे सुरू असलेल्या दुसऱ्या खेलो इंडिया बीच स्पर्धेत महाराष्ट्राच्या संघांनी दमदार कामगिरी करत विजयी सुरुवात कायम राखली आहे. बीच कबड्डी स्पर्धेत अपेक्षेप्रमाणे महाराष्ट्राच्या कबड्डी संघाने आपली ताकद दाखवत उपांत्य फेरीत प्रवेश केला आहे.",
+            "content": "Khelo India Beach Games: दीव येथे सुरू असलेल्या दुसऱ्या खेलो इंडिया बीच स्पर्धेत महाराष्ट्राच्या संघांनी दमदार कामगिरी करत विजयी सुरुवात कायम राखली आहे. बीच कबड्डी स्पर्धेत अपेक्षेप्रमाणे महाराष्ट्राच्या कबड्डी संघाने आपली ताकद दाखवत उपांत्य फेरीत प्... [380 chars]",
+            "url": "https://www.esakal.com/krida/maharashtra-storms-into-kabaddi-semi-finals-at-khelo-india-beach-games-svg87",
+            "image": "https://media.assettype.com/esakal%2F2026-01-07%2Fgyull5ia%2FMaharashtra-kabaddi-team-storms-into-the-semi-finals-at-the-Khelo-India-Beach-Games?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-01-07T12:22:11Z",
             "lang": "mr",
             "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
+                "id": "9b7ea871fc552e5338bb7d66d4ff9a55",
+                "name": "Esakal",
+                "url": "https://www.esakal.com"
+            }
+        },
+        {
+            "id": "1f7fc818fba08919ac07cb73d64b4c61",
+            "title": "महेश लांडगे म्हणाले अजित पवार महाराष्ट्राचे आका, अजितदादांनी चारच शब्दात विषय संपवला, नेमकं काय म्हणाले?",
+            "description": "उपमुख्यमंत्री अजित पवार हे महाराष्ट्राचे आका आहेत, अशी जहरी टीका भाजप आमदार महेश लांडगे यांनी केली आहे. या टीकेवर अजित पवार यांनी प्रत्युत्तर दिलं आहे.",
+            "content": "Ajit Pawar on Mahesh Landge : उपमुख्यमंत्री अजित पवार हे महाराष्ट्राचे आका आहेत, अशी जहरी टीका भाजप आमदार महेश लांडगे यांनी केली आहे. एक तर तुम्ही स्वतःचा भ्रष्टाचार लपवायला भाजपमध्ये आले आहेत. आधी स्वतःच्या लेकाचे पराक्रम पाहा असे लांडगे म्हणाले होत... [2576 chars]",
+            "url": "https://marathi.abplive.com/elections/ajit-pawar-on-mahesh-landge-in-pune-ncp-bjp-news-ajit-pawar-response-to-on-criticism-made-by-bjp-mla-mahesh-landge-1407629",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/07/667bea91b002238d3489b90622d328bb1767787666554339_original.JPG?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-01-07T12:08:08Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "23789405cd3153ac9e57cff0d5c14eff",
+            "title": "ISPL Season 3 : 'T10' टेनिस क्रिकेटचा थरार; सुरतमध्ये रंगणार हाय-व्होल्टेज सामने, गोलंदाजांच्या कामगिरीवर सर्वांच्या नजरा",
+            "description": "ISPL Season 3 : 'T10' टेनिस क्रिकेटचा थरार; सुरतमध्ये रंगणार हाय-व्होल्टेज सामने, गोलंदाजांच्या कामगिरीवर सर्वांच्या नजरा",
+            "content": "सुरत : ‘इंडियन स्ट्रीट प्रीमियर लीग’ (ISPL) आपल्या तिसऱ्या हंगामासह पुन्हा एकदा सज्ज झाली असून, यंदाचा हा मोसम आतापर्यंतचा सर्वात भव्य ठरणार आहे. येत्या ९ जानेवारी ते ६ फेब्रुवारी या कालावधीत सुरतमधील लालभाई कंत्राटदार स्टेडियमवर टेनिस-बॉल क्रिकेटचा ... [2218 chars]",
+            "url": "https://pudhari.news/sports/ispl-season-3-t10-tennis-cricket-thrill-begins-in-surat-bowlers-in-spotlight-rg84",
+            "image": "https://media.assettype.com/pudharinews%2F2026-01-07%2Frb6l33uj%2FISPL-Season-3-1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-01-07T11:53:47Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari",
+                "url": "https://pudhari.news"
             }
         }
     ],
     "market": [
+        {
+            "id": "976f8d2bf1ddf315bf7bff213b09b423",
+            "title": "सोन्यात गुंतवणूक न करता मिळवू शकता सोन्यासारखा रिटर्न; पाहा म्युच्युअल फंडाद्वारे कशी करू शकता गुंतवणूक?",
+            "description": "सोन्यात गुंतवणूक न करता मिळवू शकता सोन्यासारखा रिटर्न; पाहा म्युच्युअल फंडाद्वारे कशी करू शकता गुंतवणूक? - जर तुम्हाला सोने-चांदी खरेदी करायचे असेल, परंतु ते फिजिकल स्वरुपात जवळ ठेवायचे नसेल, तर म्युच्युअल फंड हा एक सोपा मार्ग आहे. पाहूया यात कशी करू शकता गुंतवणूक. . Find Latest Business Articles at Lokmat.com",
+            "content": "जर तुम्हाला सोने-चांदी खरेदी करायचे असेल, परंतु ते फिजिकल स्वरुपात जवळ ठेवायचे नसेल, तर म्युच्युअल फंड हा एक सोपा मार्ग आहे. तुम्ही एक्सचेंज ट्रेडेड फंड (ETF) किंवा फंड-ऑफ-फंड्स (FoF) मध्ये गुंतवणूक करू शकता. जेव्हा तुम्ही यामध्ये पैसे गुंतवता, तेव्ह... [2344 chars]",
+            "url": "https://www.lokmat.com/business/savings-investments/you-can-get-gold-like-returns-without-investing-in-gold-see-how-you-can-invest-through-mutual-funds-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/gold-india-import_2025021393854.jpg",
+            "publishedAt": "2026-01-07T10:14:46Z",
+            "lang": "mr",
+            "source": {
+                "id": "1db34a6190be0a479b28f37a9ae9d47e",
+                "name": "Lokmat",
+                "url": "https://www.lokmat.com",
+                "country": "in"
+            }
+        },
         {
             "id": "ecc0bcde4ea968c2d3c678a0540daf88",
             "title": "टाटा पॉवरचा मोठा धमाका! मेगा प्रोजेक्टमुळे चीनची मक्तेदारी संपणार; हजारो हातांना मिळणार काम",
@@ -295,15 +311,17 @@
                 "url": "https://www.lokmat.com",
                 "country": "in"
             }
-        },
+        }
+    ],
+    "it_tech": [
         {
-            "id": "0861259a37f462c76277c77e72ab6ea5",
-            "title": "गुंतवणूक आणि बँकिंग व्यवहार ठप्प होण्याची भीती; निष्क्रिय पॅन कार्ड ऑनलाइन कसे तपासावे? सोपी पद्धत",
-            "description": "गुंतवणूक आणि बँकिंग व्यवहार ठप्प होण्याची भीती; निष्क्रिय पॅन कार्ड ऑनलाइन कसे तपासावे? सोपी पद्धत - PAN Card Inactive : जर तुमचे पॅनकार्ड निष्क्रिय झाले तर बँकींगपासून प्राप्तीकर भरण्यापर्यंत अनेक अडचणी येऊ शकतात. त्यामुळे आत्ताच तुमचे पॅनकार्ड सक्रीय आहे की नाही? हे तपासा. . Find Latest Business Articles at Lokmat.com",
-            "content": "PAN Card Inactive : पॅन आणि आधार कार्ड लिंक करण्यासाठी सरकारने दिलेली ३१ डिसेंबर २०२५ ही अंतिम मुदत आता संपली आहे. नियमानुसार, ज्या करदात्यांनी विहित मुदतीत ही प्रक्रिया पूर्ण केलेली नाही, त्यांचे पॅन कार्ड १ जानेवारी २०२६ पासून 'निष्क्रिय' करण्यात आ... [968 chars]",
-            "url": "https://www.lokmat.com/business/income-tax/how-to-check-pan-card-status-online-after-jan-1-2026-verify-if-your-pan-is-active-or-inactive-a-a1007/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/pancard-inactive-2_2026011618238.jpeg",
-            "publishedAt": "2026-01-05T07:02:00Z",
+            "id": "a717849f47b2e4cc36416a28b4309f74",
+            "title": "बाजारात 'आयटी'ची चमक, 'मारुती'ची घसरण; सेन्सेक्स ८५ हजारांच्या खाली, पण गुंतवणूकदारांची चांदी!",
+            "description": "बाजारात 'आयटी'ची चमक, 'मारुती'ची घसरण; सेन्सेक्स ८५ हजारांच्या खाली, पण गुंतवणूकदारांची चांदी! - Share Market Today : बुधवार, ७ जानेवारी रोजी सलग तिसऱ्या दिवशी भारतीय शेअर बाजार घसरणीसह बंद झाले. व्यवहारादरम्यान बाजारात तीव्र चढउतार जाणवले. . Find Latest Business Articles at Lokmat.com",
+            "content": "Share Market Today : भारतीय शेअर बाजारात सलग तिसऱ्या सत्रात मंदीचे सावट पाहायला मिळाले. बुधवारी (७ जानेवारी) प्रचंड चढ-उतारांनंतर सेन्सेक्स आणि निफ्टी दोन्ही लाल निशाणीत बंद झाले. जागतिक भू-राजकीय तणाव आणि परदेशी गुंतवणूकदारांची सततची विक्री यामुळे ब... [1114 chars]",
+            "url": "https://www.lokmat.com/business/stock-market/titan-it-stocks-gain-maruti-suzuki-drags-sensex-market-closing-update-a-a1007/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/sensex-down-share-5_20180255061.jpg",
+            "publishedAt": "2026-01-07T11:04:50Z",
             "lang": "mr",
             "source": {
                 "id": "1db34a6190be0a479b28f37a9ae9d47e",
@@ -311,9 +329,23 @@
                 "url": "https://www.lokmat.com",
                 "country": "in"
             }
-        }
-    ],
-    "it_tech": [
+        },
+        {
+            "id": "3e6fdf45ea00474afcf7741846d26b58",
+            "title": "ऑफ ड्यूटी असतानाही मेंदू ‘ऑनच’... तज्ज्ञ म्हणतात- काम संपताच ऑफ झाल्याने मनाला विश्रांतीचे संकेत | Divya Marathi",
+            "description": "मर्लिन मन्रोने एकदा म्हटले होते- ‘करिअर ही एक उत्तम गोष्ट आहे, पण थंडीच्या रात्री तुम्ही त्याला कुशीत घेऊन झोपू शकत नाही.’ मात्र, आजची शोकांतिका अशी आहे की, करिअर खरोखरच तुमच्यासोबत बेडपर्यंत येऊ लागले आहे. तंत्रज्ञान, हायब्रिड-रिमोट वर्क आणि कष्टाळू दिसण्याच्या नादात कामाच्या वेळेनंतरही सक्रिय राहण्याच्या संस्कृतीमुळे वैयक्तिक आयुष्य आणि कामाची वेळ यातील सीमारेषा धूसर झाली आहे. परिणामी, ऑफिस बंद ... | work stress, after office emails, work life balance, mental health at work, off duty pressure, office messages stress",
+            "content": "मर्लिन मन्रोने एकदा म्हटले होते- ‘करिअर ही एक उत्तम गोष्ट आहे, पण थंडीच्या रात्री तुम्ही त्याला कुशीत घेऊन झोपू शकत नाही.’ मात्र, आजची शोकांतिका अशी आहे की, करिअर खरोखरच तुमच्यासोबत बेडपर्यंत येऊ लागले आहे. तंत्रज्ञान, हायब्रिड-रिमोट वर्क आणि कष्टाळू... [1523 chars]",
+            "url": "https://divyamarathi.bhaskar.com/international/news/work-life-balance-after-work-emails-messages-mental-stress-136882438.html",
+            "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/5483/2026/01/07/copy-of-db-temp-photo-resize-marathi_1767775608.jpg",
+            "publishedAt": "2026-01-07T08:46:52Z",
+            "lang": "mr",
+            "source": {
+                "id": "5c06452d4f25f7caa1a984a9fd5d8c13",
+                "name": "Divya Marathi",
+                "url": "https://divyamarathi.bhaskar.com",
+                "country": "in"
+            }
+        },
         {
             "id": "b81039bc465d8e8b262e3c1bc928cf18",
             "title": "सलमान, हृतिक, करण जोहर, अरिजित… डीपफेक तंत्रज्ञान कसा उडवत आहे सेलिब्रिटींच्या जीवनात हाहाकार?",
@@ -441,191 +473,8 @@
                 "url": "https://www.esakal.com",
                 "country": "in"
             }
-        },
-        {
-            "id": "cd4dab8f6d212dc097168954b18d0dc5",
-            "title": "Submarine : पाणबुड्यांची सुरक्षितता… ‘या’ तंत्रज्ञानामुळे पाण्यातील धोक्यांची कल्पना",
-            "description": "Cwprs Developed Rov Technology Enhancing Underwater Safety And Monitoring For Reservoirs Dams And Hydropower Infrastructure Projects Pune Print News Rds 00 - समुद्राच्या पाण्यामधील दूरचलित पाणबुड्यांच्या सुरक्षित वाहतुकीसाठी केंद्रीय जल आणि ऊर्जा संशोधन केंद्राकडून (सीडब्ल्यूपीआरएस) ‘रिमोटली ऑपरेटेड व्हेइकल (आरओव्ही) या आधुनिक तंत्रज्ञानाचा अवलंब सुरू केला आहे.. Latest Marathi News (मराठी बातम्या). Find Latest Pune news in Marathi at Loksatta.com",
-            "content": "‘सीडब्ल्यूपीआरएस’च्या खडकवासला येथील केंद्रात ‘आरओव्ही’ या दूरचलित पाणबुडीवर आधारित प्रदर्शनाचे आयोजन करण्यात आले होते. त्या वेळी डाॅ. प्रभातचंद्र बोलत होते. या वेळी अतिरिक्त संचालक डाॅ. एम. सेल्वा बालन, शास्त्रज्ञ डॉ. के. कुमार उपस्थित होते.\nडाॅ. प्... [1145 chars]",
-            "url": "https://www.loksatta.com/pune/cwprs-developed-rov-technology-enhancing-underwater-safety-and-monitoring-for-reservoirs-dams-and-hydropower-infrastructure-projects-pune-print-news-rds-00-5617295/",
-            "image": "https://images.loksattaimg.com/2026/01/Submarine-ROV-technology.jpg?quality=100",
-            "publishedAt": "2026-01-04T14:02:16Z",
-            "lang": "mr",
-            "source": {
-                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
-                "name": "Loksatta",
-                "url": "https://www.loksatta.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "f2fce2650da11c3b40b66b2257a641a8",
-            "title": "कलिंगड पिकाला तंत्रज्ञानाची जोड",
-            "description": "कलिंगड पिकाला तंत्रज्ञानाची जोड",
-            "content": "विक्रमगड, ता. ४ (बातमीदार) : विक्रमगड तालुक्यातील ग्रामीण व आदिवासी भागात पारंपरिक पिकांबरोबरच नगदी पिकांच्या शेतीकडे शेतकऱ्यांचा कल वाढताना दिसत आहे. विशेषतः उन्हाळी हंगामात चांगला बाजारभाव मिळणाऱ्या कलिंगड पिकाची लागवड आधुनिक तंत्रज्ञानाच्या साहाय्... [1087 chars]",
-            "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mum26i52093-txt-mumbai-today-20260104120337",
-            "image": "https://media.assettype.com/esakal%2F2026-01-04%2Fwg7kx3hw%2Fmumbai_fallback_image.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-01-04T12:03:37Z",
-            "lang": "mr",
-            "source": {
-                "id": "c63148ffff45b2b662b31f99c84e5239",
-                "name": "eSakal",
-                "url": "https://www.esakal.com",
-                "country": "in"
-            }
         }
     ],
-    "sports": [
-        {
-            "id": "9ba8d005805bfd01260a169946e744ed",
-            "title": "मुंबई विद्यापीठ तायक्वांदो स्पर्धेत 'गोगटे जोगळेकर महाविद्यालयाच्या महिला संघाने पटकावले उपविजेतेपद",
-            "description": "रत्नागिरी : मुंबई विद्यापीठ पुरुष व महिला तायक्वांदो स्पर्धेत शहरातील गोगटे-जोगळेकर महाविद्यालयाच्या पुरुष व महिला संघाने १ सुवर्णपदक, १ रौप्यपदक आणि २",
-            "content": "रत्नागिरी : मुंबई विद्यापीठ पुरुष व महिला तायक्वांदो स्पर्धेत शहरातील गोगटे-जोगळेकर महाविद्यालयाच्या पुरुष व महिला संघाने १ सुवर्णपदक, १ रौप्यपदक आणि २ कांस्यपदके प्राप्त केले. या स्पर्धेत गोगटे जोगळेकर महाविद्यालयाच्या महिला संघाने मुंबई विद्यापीठ म... [982 chars]",
-            "url": "https://ratnagirikhabardar.com/news/94821/",
-            "image": "https://ratnagirikhabardar.com/wp-content/uploads/2026/01/image-105.png",
-            "publishedAt": "2026-01-07T06:40:59Z",
-            "lang": "mr",
-            "source": {
-                "id": "3c4389c66deb6d94ad6b72eb4f8db4d7",
-                "name": "Ratnagiri Khabardar",
-                "url": "https://ratnagirikhabardar.com"
-            }
-        },
-        {
-            "id": "606d6b433443073877fc05c124bd13f7",
-            "title": "सेंट पॉल्स इन्स्टिट्यूशन्सतर्फे 11 रोजी “पर्यावरण",
-            "description": "बेळगाव लाईव्ह : पर्यावरण संवर्धन आणि शाश्वत विकासाबाबत जनजागृती निर्माण करण्याच्या उद्देशाने सेंट पॉल्स इन्स्टिट्यूशन्स, बेळगाव आणि सेंट पॉल्स",
-            "content": "बातम्या\nसेंट पॉल्स इन्स्टिट्यूशन्सतर्फे 11 रोजी “पर्यावरण -गो ग्रीन” मॅरेथॉन\nBy\nTeam BelgaumLive\n-\n175\nबेळगाव लाईव्ह : पर्यावरण संवर्धन आणि शाश्वत विकासाबाबत जनजागृती निर्माण करण्याच्या उद्देशाने सेंट पॉल्स इन्स्टिट्यूशन्स, बेळगाव आणि सेंट पॉल्स इन्स... [1506 chars]",
-            "url": "https://belgaumlive.com/2026/01/environment-go-green-merethon-st-pauls/",
-            "image": "https://belgaumlive.com/wp-content/uploads/2018/05/belgaum-276-150x148.jpg",
-            "publishedAt": "2026-01-07T06:05:45Z",
-            "lang": "mr",
-            "source": {
-                "id": "ed49c4d6b15bf9e17855f0cb1ccaf5b4",
-                "name": "BelgaumLive",
-                "url": "https://belgaumlive.com"
-            }
-        },
-        {
-            "id": "319befda856a12346c6ee6b28e91d193",
-            "title": "Yuzvendra Chahal-Dhanshree Verma पुन्हा एकत्र दिसणार, घटस्फोटाच्या 11 महिन्यानंतर रियुनियनचं कारण काय?",
-            "description": "Yuzvendra Chahal And Dhanshree Verma News: भारतीय क्रिकेटपटू युजवेंद्र चहल आणि धनश्री वर्मा यांचा घटस्फोट झाला हे सर्वांनाच माहित आहे पण घटस्फोटानंतर ते दोघेही आता पुन्हा एकत्र येणार असल्याची चर्चा सुरु आहे.",
-            "content": "मुंबई: युजवेंद्र चहल आणि धनश्री वर्मा यांचा मागील वर्षी घटस्फोट झाला. दोघेही घटस्फोटामुळे बरेच चर्चेत आले होते. धनश्री घटस्फोटानंतर अनेक चित्रपटात आणि रिएलिटी शोमध्ये दिसली. पण आता या दोघांबद्दल एक बातमी समोर येत आहे. Yuzvendra Chahal And Dhanshree V... [2103 chars]",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/yuzvendra-chahal-and-dhanashree-verma-likely-to-feature-together-after-divorce-on-the-50-show/articleshow/126386906.cms",
-            "image": "https://static.langimg.com/mt/thumb/126387695/yuzi-chahal-and-dhanshree-verma.jpg?imgsize=59218&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-01-07T05:40:43Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
-            }
-        },
-        {
-            "id": "5ab70a45a9f7585461a879e9640242d2",
-            "title": "तजामुल इस्लाम… किकबॉक्सिंगमध्ये भारताचा झेंडा उंचावणारी काश्मिर खोऱ्यातली किकबॉक्सर",
-            "description": "Tajamul Islam Kashmir Kickboxing World Champion Story Rub 99 - काश्मीर खोऱ्यातील तजामुल इस्लाम या किकबॉक्सरने प्रतिकूल परिस्थितीवर मात करत जागतिक किकबॉक्सिंगमध्ये भारताचे नाव उज्वल केले आहे. तिचा प्रवास संघर्ष, जिद्द आणि प्रेरणेचा अनोखा आदर्श ठरतो.. Latest Marathi News (मराठी बातम्या). Find Latest Women news in Marathi at Loksatta.com",
-            "content": "काश्मीर खोऱ्याचा उल्लेख झाली की डोळ्यासमोर संघर्ष, दगडफेक, कर्फ्यू असे अस्थिर चित्र उभे राहते. या वातावरणात तिथल्या लहान मुलांचं बालपण कसं असेल, त्यांच्यावर काय परिणाम होत असतील याची कल्पनासुद्धा करवत नाही. पण याच वातावरणात एखादं मूल केवळ खेळ, स्वप्न... [3477 chars]",
-            "url": "https://www.loksatta.com/women/tajamul-islam-kashmir-kickboxing-world-champion-story-rub-99-5622388/",
-            "image": "https://images.loksattaimg.com/2026/01/tajamul-islam.jpg?quality=100",
-            "publishedAt": "2026-01-07T05:35:51Z",
-            "lang": "mr",
-            "source": {
-                "id": "62d1010536af7ab30a2a024770aa0e02",
-                "name": "Loksatta",
-                "url": "https://www.loksatta.com"
-            }
-        },
-        {
-            "id": "688dd974294e839a66db439fd3a89976",
-            "title": "Sachin Tendulkar son Arjun Tendulkar Wedding Date to tie knot Saaniya Chandhok on 5th March; सचिन तेंडुलकर होणार सासरे! अर्जुन-सानियाच्या लग्नाचा मुहूर्त ठरला, ५ मार्च रोजी मुंबईत रंगणार विवाह सोहळा",
-            "description": "Arjun Tendulkar Wedding Date : अर्जुन आणि सानिया यांचा साखरपुडा ऑगस्ट २०२५ मध्ये झाला होता, त्या समारंभाला फक्त जवळचे मित्र आणि कुटुंबीय उपस्थित होते.",
-            "content": "मुंबई : मास्टर ब्लास्टर सचिन तेंडुलकर यांचा मुलगा आणि युवा क्रिकेटपटू Arjun Tendulkar याच्या लग्नाचा मुहूर्त अखेर समोर आला आहे. अर्जुन तेंडुलकर आणि त्याची प्रेयसी सानिया चंडोक ५ मार्च रोजी विवाहबंधनात अडकणार आहेत. सानिया उद्योजिका असून मुंबईतील व्याव... [2221 chars]",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/sachin-tendulkar-son-arjun-tendulkar-wedding-date-to-tie-knot-to-saaniya-chandhok-on-5th-march/articleshow/126387235.cms",
-            "image": "https://static.langimg.com/mt/thumb/126387378/arjun-tendulkar-saaniya-chandhok-maharashtra-times.jpg?imgsize=59290&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-01-07T05:19:24Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
-            }
-        },
-        {
-            "id": "5aed1f496a2601dfd521ecc4208c4c75",
-            "title": "T20 WC 2026साठी न्यूझीलंडचा संघ जाहीर; ५ खेळाडू अनफिट, २ जण स्पर्धेदरम्यान होणार बाहेर; नेमका कसा आहे संघ?",
-            "description": "New Zealand Announced Squad For T20 World Cup 2026 Mitchell Santner Captain Bdg 99 - New Zealand Squad for T20 WC: टी-२० विश्वचषक २०२६ साठी न्यूझीलंडने संघाची घोषणा केली आहे. फिरकीपटूंचा दबदबा असलेला हा संघ असून ५ खेळाडू मात्र पूर्णपणे फिट नाहीत.\n. Latest Marathi News (मराठी बातम्या). Find Latest Krida news in Marathi at Loksatta.com",
-            "content": "कर्णधार मिचेल सँटनरसह पाच खेळाडू दुखापतींमधून सावरत आहेत. जागतिक क्रमवारीत दुसऱ्या क्रमांकाचा टी-२० गोलंदाज जेकब डफीची त्याच्या पहिल्या टी-२० विश्वचषक संघात निवड झाली आहे. वेगवान गोलंदाज लॉकी फर्ग्युसन आणि मॅट हेन्री हे दोघेही लवकरच बाबा होणार आहेत, ... [1537 chars]",
-            "url": "https://www.loksatta.com/krida/new-zealand-announced-squad-for-t20-world-cup-2026-mitchell-santner-captain-bdg-99-5622232/",
-            "image": "https://images.loksattaimg.com/2026/01/New-Zealand-WC-Squad.avif?quality=100",
-            "publishedAt": "2026-01-07T04:35:08Z",
-            "lang": "mr",
-            "source": {
-                "id": "62d1010536af7ab30a2a024770aa0e02",
-                "name": "Loksatta",
-                "url": "https://www.loksatta.com"
-            }
-        },
-        {
-            "id": "56592a48950eac15f90b1e2d49b849d0",
-            "title": "ॲशेस मालिका : सिडनीच्या मैदानात स्टीव्ह स्मिथची बॅट तळपली",
-            "description": "'द वॉल' द्रविडचा विक्रम मोडीत काढून ३७ वे कसोटी शतक पूर्ण [...]",
-            "content": "'द वॉल' द्रविडचा विक्रम मोडीत काढून ३७ वे कसोटी शतक पूर्ण\nसिडनी : ऑस्ट्रेलियाचा स्टार फलंदाज स्टीव्ह स्मिथने सिडनी क्रिकेट ग्राऊंडवर आपल्या बॅटची जादू पुन्हा एकदा दाखवली आहे. इंग्लंडविरुद्धच्या पाचव्या ॲशेस कसोटीच्या तिसऱ्या दिवशी स्मिथने झंझावाती फल... [1546 chars]",
-            "url": "https://prahaar.in/2026/01/07/ashes-series-steve-smiths-bat-falls-on-the-sydney-ground/",
-            "image": "https://prahaar.in/rppl/wp-content/uploads/2026/01/Pallavi-2026-01-07T094138.456-640x450.jpg",
-            "publishedAt": "2026-01-07T04:11:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "3de73b670124dc029f7e7679f05b20d9",
-                "name": "Prahaar.in",
-                "url": "https://prahaar.in"
-            }
-        },
-        {
-            "id": "43edd6097db61befedf9eab9c3ddbc97",
-            "title": "हरमनप्रीतची झेप; दीप्तीचे अव्वल स्थान निसटले!",
-            "description": "आयसीसी टी-२० क्रमवारी जाहीर दुबई :[...]",
-            "content": "आयसीसी टी-२० क्रमवारी जाहीर\nदुबई : आंतरराष्ट्रीय क्रिकेट परिषदेने मंगळवारी जाहीर केलेल्या ताज्या महिला टी-२० क्रमवारीनुसार भारतीय संघाच्या क्रमवारीत काही महत्त्वपूर्ण बदल झाले आहेत. कर्णधार हरमनप्रीत कौरने फलंदाजीच्या क्रमवारीत दोन स्थानांनी प्रगती क... [1104 chars]",
-            "url": "https://prahaar.in/2026/01/07/harmanpreets-leap-deeptis-top-spot-slips-away/",
-            "image": "https://prahaar.in/rppl/wp-content/uploads/2026/01/Pallavi-2026-01-07T093228.291-640x450.jpg",
-            "publishedAt": "2026-01-07T04:02:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "3de73b670124dc029f7e7679f05b20d9",
-                "name": "Prahaar.in",
-                "url": "https://prahaar.in"
-            }
-        },
-        {
-            "id": "0071f1608e63802370444af64fe20805",
-            "title": "T20 World Cup 2026 Bangladesh Team: भारतात खेळा अन्यथा..., आयसीसीने बांगलादेशची मागणी फेटाळली, इशारा देत काय सांगितले?",
-            "description": "T20 World Cup 2026 Bangladesh Team: आगामी टी-20 विश्वचषकातील भारतातील आपले सर्व सामने श्रीलंकेत हलवावेत, अशी मागणी बांगलादेश क्रिकेट बोर्डाने आयसीसीकडे केली होती.",
-            "content": "T20 World Cup 2026 Bangladesh Team: आगामी टी-20 विश्वचषकातील (T20 World Cup 2026) भारतातील आपले सर्व सामने श्रीलंकेत हलवावेत, अशी मागणी बांगलादेश क्रिकेट बोर्डाने (BCB) आयसीसीकडे केली होती. मात्र बांगलादेशची ही मागणी आयसीसीने फेटाळून लावल्याची माहिती... [1711 chars]",
-            "url": "https://marathi.abplive.com/sports/cricket/icc-denied-bangladesh-request-to-shift-t20-world-cup-matches-jay-shah-taem-india-t20-world-cup-marathi-news-1407545",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/07/7c6fc694b4866f3e9c6a04ddbf46d4421767758262673987_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-01-07T03:57:50Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "a5398bce8bee425a4d65b983fe9ab9b1",
-            "title": "Vijay Hazare Trophy: शुभमन गिल, तेंडुलकरचा फ्लॉप शो! गोव्याचा सलग 3 रा पराभव; पंजाबची पाचव्या विजयाची नोंद",
-            "description": "Goa Vs Punjab: अपेक्षेनुसार पंजाबचा संघ खूपच बलाढ्य ठरल्यामुळे गोव्याला विजय हजारे करंडक लिस्ट ए (एकदिवसीय) क्रिकेट स्पर्धेत ओळीने तिसरा पराभव पत्करावा लागला.| Goa Latest News | Goa Marathi News",
-            "content": "पणजी: अपेक्षेनुसार पंजाबचा संघ खूपच बलाढ्य ठरल्यामुळे गोव्याला विजय हजारे करंडक लिस्ट ए (एकदिवसीय) क्रिकेट स्पर्धेत ओळीने तिसरा पराभव पत्करावा लागला. एलिट क गट सामना मंगळवारी जयपूर येथील के. एल. सैनी स्टेडियमवर झाला. दरम्‍यान, जयपूर येथे हिमाचल प्रदे... [1023 chars]",
-            "url": "https://dainikgomantak.esakal.com/goa-sports/vijay-hazare-trophy-punjab-won-cricket-match-against-goa-arjun-tendulkar-shubhman-gill-flop-smp90",
-            "image": "https://media.assettype.com/dainikgomantak%2F2026-01-07%2F9lhg9lx3%2FGoa-News-7.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-01-07T03:41:56Z",
-            "lang": "mr",
-            "source": {
-                "id": "404d04d9c4860f9ce8046987d1d948e4",
-                "name": "Dainik Gomantak",
-                "url": "https://dainikgomantak.esakal.com"
-            }
-        }
-    ],
+    "sports": [],
     "entertainment": []
 }

@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "3db431293119cf158604df5d7d8bd086",
+            "title": "Municipal Election Campaign | महापालिकेच्या रणधुमाळीत थॅनॉस, हल्क, स्पायडरमॅन मैदानात",
+            "description": "थॅनॉस, आयर्नमॅन, हल्क, कॅप्टन अमेरिका, स्पायडरमॅन यांसारख्या सुपरहिरो एआयच्या साहाय्याने स्थानिक राजकीय प्रचारात उतरले आहेत. मुंबई, पुणे, कोल्हापूरसह विविध महापालिकांसाठी स्थानिक भाषांमध्ये हे सुपरहिरोज प्रचार करतानाचे एआय जनरेटेड व्हिडीओ मोठ्या प्रमाणावर व्हायरल होत आहेत.",
+            "content": "आशिष शिंदे\nकोल्हापूर : ताई-माई-अक्का, विचार करा पक्का या पारंपरिक प्रचाराला फाटा देत यंदाच्या महापालिका निवडणूक प्रचारात कृत्रिम बुद्धिमत्तेने आपला वेगळा ठसा उमटविला आहे. एआयच्या मदतीने क्षणाक्षणाला विरोधकांवर आरोपांच्या फैरी झडू लागल्या असून, प्रचार... [2164 chars]",
+            "url": "https://pudhari.news/maharashtra/kolhapur/municipal-election-campaign-thanos-hulk-and-spiderman-enter-the-battle-ap84",
+            "image": "https://media.assettype.com/pudharinews%2F2026-01-08%2Ffuwiemll%2F7.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-01-08T23:30:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari",
+                "url": "https://pudhari.news"
+            }
+        },
+        {
             "id": "c7a22eeed752c49ab599e7e82fc04106",
             "title": "Leonardo da Vinci DNA | लिओनार्दो दा विंचींचा डीएनए शोधण्यात मोठे यश?",
             "description": "रिनेसाँ (प्रबोधन काळ) काळातील महान चित्रकार, ‘मोनालिसा’ या जगप्रसिध्द चित्राचा निर्माता आणि शास्त्रज्ञ लिओनार्दो दा विंची यांचा डीएनए एका चित्रातून प्रथमच मिळवण्यात यश आल्याचा दावा शास्त्रज्ञांनी केला आहे.",
@@ -133,21 +148,6 @@
                 "id": "f331a5ed3965fb59761dfcecfc7e7a34",
                 "name": "BBC",
                 "url": "https://www.bbc.com"
-            }
-        },
-        {
-            "id": "f93e67c5d96f3d9e72ab9de60476acf2",
-            "title": "Hardik Pandya: जे नव्हतं करायचं तेच केलं;हार्दिककडून Bcci च्या नियमाचं उल्लंघन! कारवाई होणार?",
-            "description": "Hardik Pandya : हार्दिक पंड्या याने गुरुवारी बडोद्यासाठी बॅटिंग आणि बॉलिंगने चमकदार कामगिरी केली. हार्दिकने या सामन्यात अर्धशतक झळकावलं. त्यानंतर या ऑलराउंडरने 10 ओव्हर बॉलिंग केली.",
-            "content": "टीम इंडिया विरुद्ध न्यूझीलंड यांच्यातील एकदिवसीय मालिकेला 11 जानेवारीपासून सुरुवात होणार आहे. दोन्ही संघांची ही 2026 वर्षातील पहिलीच मालिका असणार आहे. त्याआधी टीम इंडियातील बहुतांश खेळाडू विजय हजारे ट्रॉफी स्पर्धेत खेळत आहेत. भारताचा ऑलराउंडर हार्दिक... [1658 chars]",
-            "url": "https://www.tv9marathi.com/sports/cricket-news/vht-baroda-allrounder-hardik-pandya-delivered-10-overs-bowling-against-chandigarh-bcci-1577589.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/Hardik-Pandya-Team-India.jpg",
-            "publishedAt": "2026-01-08T15:13:46Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
             }
         }
     ],

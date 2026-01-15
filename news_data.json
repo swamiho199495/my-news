@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "258b0db9e5db8d4333c37a5a1716dc63",
+            "title": "Smart Toothbrush | आता ब्रश करतानाच कळणार आजार!",
+            "description": "तंत्रज्ञानाच्या जगात दररोज नवनवीन शोध लागत आहेत. नुकत्याच समोर आलेल्या माहितीनुसार, आता आपले रोजचे दात घासण्याचे काम केवळ स्वच्छतेपुरते मर्यादित न राहता आरोग्याची तपासणी करणारे साधन ठरणार आहे.",
+            "content": "लास वेगास : तंत्रज्ञानाच्या जगात दररोज नवनवीन शोध लागत आहेत. नुकत्याच समोर आलेल्या माहितीनुसार, आता आपले रोजचे दात घासण्याचे काम केवळ स्वच्छतेपुरते मर्यादित न राहता आरोग्याची तपासणी करणारे साधन ठरणार आहे. दुसरीकडे, मोबाईल चार्जिंगसाठी आता कोणत्याही व... [1331 chars]",
+            "url": "https://pudhari.news/vishwasanchar/detect-diseases-while-brushing-teeth-new-health-technology-ap84",
+            "image": "https://media.assettype.com/pudharinews%2F2026-01-14%2Fice5ma80%2Fbrush.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-01-14T22:10:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari News",
+                "url": "https://pudhari.news"
+            }
+        },
+        {
             "id": "035d518c7230d210c566f9eae41c96b5",
             "title": "Horoscope Today 15 January 2026: आज गुरूवारचा दिवस 6 राशींसाठी भाग्याचा! दत्तगुरूंच्या कृपेने आर्थिक चणचण संपेल, आजचे राशीभविष्य वाचा",
             "description": "Horoscope Today 15 January 2026: आज गुरूवारचा दिवस 12 राशींसाठी कसा असेल? कोणासाठी दिवस फलदायी ठरेल? आजचे राशीभविष्य जाणून घ्या...",
@@ -128,21 +143,6 @@
             "url": "https://www.loksatta.com/krida/shreyas-iyer-reveals-experience-of-spleen-injury-and-recovery-story-ind-vs-nz-2nd-odi-bdg-99-5639656/",
             "image": "https://images.loksattaimg.com/2026/01/Shreyas-Iyer-on-Injury.jpg?quality=100",
             "publishedAt": "2026-01-14T14:30:36Z",
-            "lang": "mr",
-            "source": {
-                "id": "62d1010536af7ab30a2a024770aa0e02",
-                "name": "Loksatta",
-                "url": "https://www.loksatta.com"
-            }
-        },
-        {
-            "id": "4a7d7089eb84e8c42999ae4d13914315",
-            "title": "राज्यात पुन्हा थंडी कडाका ? जाणून घ्या, ईशान्य मोसमी वाऱ्याचा परिणाम काय",
-            "description": "Temperature Drop Expected In Vidarbha North Maharashtra After Cloudy Days Mumbai Print News Amy 95 - गत आठवड्यात राज्यभरात असलेला थंडीचा कडाका चालू आठवड्यात कमी झाला होता. बहुतांश भागात ढगाळ वातावरण निर्माण झाल्यामुळे कमाल - किमान तापमानात वाढ झाली होती.. Latest Marathi News (मराठी बातम्या). Find Latest Mumbai news in Marathi at Loksatta.com",
-            "content": "गत पाच दिवसांत पश्चिम महाराष्ट्रातील पुणे, अहिल्यानगर, सातारा, सांगली, कोल्हापूर, सोलापूर. मराठवाड्यातील छत्रपती संभाजीनगर, परभणी आदी आठ जिल्ह्यांत पहाटेच्या किमान तापमानात सरासरीपेक्षा तीन ते पाच अंश सेल्सिअसने तर मुंबईसह कोकणात दोन ते तीन अंश सेल्स... [1426 chars]",
-            "url": "https://www.loksatta.com/mumbai/temperature-drop-expected-in-vidarbha-north-maharashtra-after-cloudy-days-mumbai-print-news-amy-95-5639695/",
-            "image": "https://images.loksattaimg.com/2026/01/winter_215f8e.jpg?quality=100",
-            "publishedAt": "2026-01-14T14:11:39Z",
             "lang": "mr",
             "source": {
                 "id": "62d1010536af7ab30a2a024770aa0e02",
@@ -475,6 +475,157 @@
             }
         }
     ],
-    "sports": [],
+    "sports": [
+        {
+            "id": "2277f402815d6140f84a97005b4b13fc",
+            "title": "Bangladesh Cricket : बांगलादेश क्रिकेटमध्ये भूकंप, बोर्डाविरोधात खेळाडूंचं बंड, थेट मॅच बहिष्काराचा इशारा!",
+            "description": "बांगलादेश क्रिकेटमध्ये पुन्हा एकदा मोठ्या संकटाने डोकं वर काढलं आहे. बांगलादेशच्या राष्ट्रीय संघातील क्रिकेटपटूंनी सर्व प्रकारच्या क्रिकेटवर अनिश्चित काळासाठी बहिष्कार टाकण्याचा इशारा दिला आहे.",
+            "content": "Published by :\nLast Updated:Jan 14, 2026 11:57 PM IST\nबांगलादेश क्रिकेटमध्ये पुन्हा एकदा मोठ्या संकटाने डोकं वर काढलं आहे. बांगलादेशच्या राष्ट्रीय संघातील क्रिकेटपटूंनी सर्व प्रकारच्या क्रिकेटवर अनिश्चित काळासाठी बहिष्कार टाकण्याचा इशारा दिला आहे.\nढा... [2281 chars]",
+            "url": "https://news18marathi.com/sport/bangladesh-cricket-players-warn-of-strike-demands-resignation-of-bcb-director-1591010.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/01/Bangladesh-T20-World-Cup-4-2026-01-aa92a8ad15eff8b3bfa17506b905d139-16x9.jpg",
+            "publishedAt": "2026-01-14T18:27:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "1245f8512b953057cd8c217dda932e68",
+            "title": "U19 World Cup 2026 : टीम इंडिया पहिल्या विजयासाठी सज्ज, यूएसएचं आव्हान, सामना किती वाजता?",
+            "description": "United States of America U19 vs India U19 : अंडर 19 टीम इंडियाने नुकतंच वैभव सूर्यवंशी याच्या नेतृत्वात दक्षिण आफ्रिकेचा एकतर्फी फरकाने धुव्वा उडवला. त्यानंतर आता टीम इंडिया आयुष म्हात्रे याच्या नेतृत्वात वर्ल्ड कप मोहिमेसाठी सज्ज झाली आहे. भारतासमोर पहिल्या सामन्यात यूएसएचं आव्हान आहे.",
+            "content": "आयसीसी वूमन्स वनडे वर्ल्ड कपनंतर आणि मेन्स टी 20i वर्ल्ड कप 2026 स्पर्धेआधी आता अंडर 19 वर्ल्ड कप स्पर्धेचा थरार रंगणार आहे. अंडर 19 वनडे वर्ल्ड कप 2026 स्पर्धेला 15 जानेवारीपासून सुरुवात होत आहे. या स्पर्धेत एकूण 16 संघ भिडणार आहेत. या स्पर्धेतील पह... [636 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/u19-icc-world-cup-2026-ind-vs-usa-india-against-united-states-of-america-match-live-and-digital-straming-1582309.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/U19-Team-India-1.jpg",
+            "publishedAt": "2026-01-14T18:14:21Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "5bdbd1a3ddd2395766527fe9f8bf5b55",
+            "title": "MIW vs UPW : गुजरातनंतर आता युपीचा नंबर, मुंबई सलग तिसऱ्या विजयासाठी सज्ज, सामना किती वाजता?",
+            "description": "Mumbai Indians Women vs UP Warriorz Women Match Preview : मुंबई इंडियन्स आणि युपी वॉरियर्स या दोन्ही संघांचा हा चौथ्या मोसमातील चौथा सामना असणार आहे. यूपीसमोर या सामन्यात विजयाचं खातं उघडण्याचं आव्हान असणार आहे.",
+            "content": "वूमन्स प्रीमियर लीग स्पर्धेतील चौथ्या मोसमातील आठव्या सामन्यात गतविजेता मुंबई इंडियन्स विरुद्ध यूपी वॉरियर्स आमेनसामने असणार आहेत. दोन्ही संघांचा हा या मोसमातील एकूण चौथा सामना असणार आहे. मुंबईने मोसमात पराभवाने सुरुवात झाल्यानंतर जोरदार कमबॅक केलं. ... [1533 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/wpl-2026-miw-vs-upw-mumbai-indians-are-set-for-3rd-consective-match-against-up-warriorz-know-time-and-preview-1582296.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/Mumbai-Indians-Women-Wpl-2026.jpg",
+            "publishedAt": "2026-01-14T17:57:50Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "1227797c989b4caccb928803b3d6b44e",
+            "title": "Virat Kohli : सिक्युरिटी तोडून Live सामन्यात विराटजवळ पोहोचला, फॅनला पाहून कोहलीने जे केलं...",
+            "description": "टीम इंडियाचा खेळाडू विराट कोहलीचे जगभरात चाहते आहेत. विराटची एक झलक पाहण्यासाठी चाहते उत्सुक असतात.",
+            "content": "Published by :\nLast Updated:Jan 14, 2026 11:23 PM IST\nटीम इंडियाचा खेळाडू विराट कोहलीचे जगभरात चाहते आहेत. विराटची एक झलक पाहण्यासाठी चाहते उत्सुक असतात.\nराजकोट : टीम इंडियाचा खेळाडू विराट कोहलीचे जगभरात चाहते आहेत. विराटची एक झलक पाहण्यासाठी चाहते उ... [1826 chars]",
+            "url": "https://news18marathi.com/sport/fan-breached-security-to-hug-virat-kohli-during-india-vs-new-zealand-2nd-odi-in-rajkot-1590825.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/01/virat-fan-2026-01-25c825d4a480618706d3457c81feeec5-16x9.jpg",
+            "publishedAt": "2026-01-14T17:53:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "5632c2ee8b9aaaa0ab32cbea89ad8679",
+            "title": "T20I World Cup 2026 : टी 20I वर्ल्ड कप स्पर्धेत श्रेयसची निवड, आयसीसीची घोषणा",
+            "description": "Icc T20i World Cup 2026 Canada Squad : भारतात होणाऱ्या 10 व्या आयसीसी टी 20i वर्ल्ड कप स्पर्धेसाठी कॅनडा क्रिकेट संघाची घोषणा करण्यात आली आहे. या संघात बहुतांश मुळ भारतीय खेळाडूआहेत.",
+            "content": "आयसीसी टी 20I वर्ल्ड कप 2026 स्पर्धेसाठी क्रिकेट चाहत्यांमध्ये उत्साह पाहायला मिळत आहे. अनेक वर्षांनंतर भारताला आयसीसी टी 20I वर्ल्ड कप स्पर्धेच्या यजमानपदाच मान मिळाला आहे. तसेच शेजारी श्रीलंका सहयजमान आहे. या स्पर्धेत एकूण 20 संघांमध्ये एका ट्रॉफीस... [1939 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/canada-cricket-board-announced-squad-for-upcoming-icc-t20i-world-cup-2026-dilpreet-bajwa-captain-see-schedule-and-all-details-marathi-news-1582285.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/Icc-T20i-World-Cup-2026.jpg",
+            "publishedAt": "2026-01-14T17:18:53Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "1647054fb091cfca01f27b56f2f88e82",
+            "title": "रोहित-श्रेयस आणि जयस्वाल सेंट्रल करारातून बाद! एमसीएने सांगितलं सर्वकाही…",
+            "description": "MCA Central Contracts: मुंबई क्रिकेट असोसिएशनने एक मोठी घोषणा केली आहे. बीसीसीसआयप्रमाणे मुंबई क्रिकेट असोसिएशन खेळाडूंसोबत सेंट्रल करार करणार आहे. यात काही स्टार खेळाडूंचा समावेश होणार नाही. त्याला कारणही तसंच आहे.",
+            "content": "MCA Central Contracts: मुंबई क्रिकेट असोसिएशनने मुंबई क्रिकेटला बळ देण्यासाठी मोठा निर्णय घेतला. एपेक्स काउंसिलच्या बैठकीत काही महत्त्वाचे निर्णय घेतले गेला. यात काही महत्त्वाच्या मुद्द्यांवर चर्चा केली गेली. तसेच काही निर्णयांवर शिक्कामोर्तब लावला ग... [1539 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/senior-players-playing-for-mumbai-will-get-central-contracts-from-mca-like-bcci-1582279.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/Mumbai_Cricket_Team.jpg",
+            "publishedAt": "2026-01-14T17:01:56Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "2fa59802e5d09e425b24dd541563d9d0",
+            "title": "अंडर 19 वर्ल्डकप स्पर्धेत या पाच खेळाडूंच्या कामगिरीवर असेल लक्ष, जापानी गोलंदाजाची रंगली चर्चा",
+            "description": "U19 World Cup 2026: अंडर 19 वर्ल्डकप स्पर्धा 15 जानेवारीपासून सुरू होणार आहे. या स्पर्धेसाठी एकूण 16 संघ सज्ज झाले आहे. या 16 संघात चांगल्या खेळाडूंचा भरणा आहे. पण वैभव सूर्यवंशीसह पाच खेळाडूंवर नजर असणार आहे.",
+            "content": "U19 World Cup 2026: अंडर 19 वर्ल्डकप स्पर्धेला 15 जानेवारीपासून सुरूवात होणार आहे. या स्पर्धेत कोणता खेळाडू चमकदार कामगिरी करतो याकडे लक्ष असणार आहे. कारण सर्वच नवखे चेहरे आहेत. त्यापैकी कोण कसं खेळतं याचा अंदाज नाही. वैभव सूर्यवंशी आणि समीर मिन्हासब... [1599 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/the-focus-will-be-on-the-performance-of-these-five-players-in-the-under-19-world-cup-2026-1582260.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/Under_19_Players.jpg",
+            "publishedAt": "2026-01-14T16:15:44Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "0cd0db38dcd864a2d954e5d8963cfaab",
+            "title": "कॅच नाही, मॅच सोडली! प्रसिद्ध कृष्णाची घोडचूक, डॅरेल मिचेलला जीवनदान",
+            "description": "भारत आणि न्यूझीलंड यांच्यातील दुसऱ्या वनडे सामन्यात एक चूक महागात पडली. खरं तर मालिका जिंकण्यासाठी महत्त्वाचा होता. पण प्रसिद्ध कृष्णाची चूक महागात पडली. कसं काय ते समजून ग्या",
+            "content": "वनडे मालिकेतील दुसऱ्या सामन्यात नाणेफेकीचा कौल हा न्यूझीलंडच्या बाजूने लागला. न्यूझीलंडने प्रथम गोलंदाजी करण्याचा निर्णय घेतला. भारताने 50 षटकात 7 गडी गमवून 284 धावा केल्या आणि विजयासाठी 285 धावांचं आव्हान दिलं. खरं तर या मैदानावर या धावा पुष्कळ मानल... [1438 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/ind-vs-nz-2nd-odi-prasidh-krishna-dropped-an-easy-catch-to-daryl-mitchell-off-kuldeep-yadav-bowling-1582248.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/Prasidh_Krishna.jpg",
+            "publishedAt": "2026-01-14T15:56:53Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "78f20ec38e786104abb7466164aa13f5",
+            "title": "MCA Central Contracts : क्रिकेट विश्वात खळबळ! रोहित, अय्यर अन् जैस्वाल सेंट्रल कॉन्ट्रॅक्टमधून OUT… मुंबई क्रिकेटचा मोठा निर्णय",
+            "description": "MCA Central Contracts for Mumbai Players : भारतीय क्रिकेटची पंढरी मानल्या जाणाऱ्या मुंबई क्रिकेटने आपल्या खेळाडूंच्या हितासाठी एक मोठा निर्णय घेतला आहे.",
+            "content": "MCA Central Contracts For Mumbai Players : भारतीय क्रिकेटची पंढरी मानल्या जाणाऱ्या मुंबई क्रिकेटने (MCA) आपल्या खेळाडूंच्या हितासाठी एक मोठा निर्णय घेतला आहे. मुंबई क्रिकेट असोसिएशनने आपल्या वरिष्ठ खेळाडूंसाठी 'सेंट्रल कॉन्ट्रॅक्ट' जाहीर केले असून, य... [2157 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/mca-introduces-central-contracts-for-players-in-unprecedented-move-name-tournament-after-dilip-vengsarkar-marathi-news-1408513",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/14/f6b2dcac63ffbd68d9a26908c241c0b517684055850891091_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-01-14T15:46:51Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "33be5fcaf4a6b8824324b9ed7cd2eaff",
+            "title": "Indian Open Badminton : पी. व्ही. सिंधूला पराभवाचा धक्का; श्रीकांतची विजयी सलामी",
+            "description": "भारतीय बॅडमिंटनला इंडिया ओपन २०२६ मध्ये सुरुवातीच्या काळातच धक्का बसला जेव्हा दोन वेळा ऑलिंपिक पदक विजेती पी. व्ही. सिंधूने पहिल्या फेरीत खालच्या क्रमांकाच्या",
+            "content": "भारतीय बॅडमिंटनला इंडिया ओपन २०२६ मध्ये सुरुवातीच्या काळातच धक्का बसला जेव्हा दोन वेळा ऑलिंपिक पदक विजेती पी. व्ही. सिंधूने पहिल्या फेरीत खालच्या क्रमांकाच्या व्हिएतनामी बॅडमिंटनपटू गुयेन थुई लिन्हकडून पराभूत झाली. त्याच स्पर्धेत, माजी जागतिक क्रमांक... [2066 chars]",
+            "url": "https://www.marathi.hindusthanpost.com/sports/indian-open-badminton-p-v-sindhu-suffers-defeat-kidambi-srikanth-makes-winning-start/",
+            "image": "https://www.marathi.hindusthanpost.com/wp-content/uploads/2026/01/New-Project-2026-01-14T203927.804.webp",
+            "publishedAt": "2026-01-14T15:45:05Z",
+            "lang": "mr",
+            "source": {
+                "id": "5ec844051c6c548aabc077d793463ce7",
+                "name": "HindusthanPost",
+                "url": "https://www.marathi.hindusthanpost.com"
+            }
+        }
+    ],
     "entertainment": []
 }

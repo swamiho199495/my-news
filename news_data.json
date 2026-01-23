@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "7309f53a67e260d23c66209a7ea356c6",
+            "title": "IND vs NZ 2nd T20: भारताला दुसऱ्या टी २० सामन्यापूर्वी मोठा धक्का, मॅचविनर खेळाडू संघाबाहेर, सूर्याची चिंता वाढली..",
+            "description": "दुसरा सामना सुरु होण्याापूर्वीच भारतीय संघाला आता वाईट बातमी मिळाली आहे. कारण भाररताच्या मॅचविनर खेळाडूला दुखापत झाली असून तो आता दुसऱ्या टी २० सामन्यात खेळणार नसल्याची माहिती समोर आली आहे.",
+            "content": "रायपूर : भारताला दुसऱ्या टी २० सामन्यापूर्वी आता एक मोठा धक्का बसला आहे. कारण दुसरा सामना सुरु होण्याापूर्वीच भारतीय संघाला आता वाईट बातमी मिळाली आहे. कारण भाररताच्या मॅचविनर खेळाडूला दुखापत झाली असून तो आता दुसऱ्या टी २० सामन्यात खेळणार नसल्याची माह... [2431 chars]",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/suryakumar-yadav-anxiety-increases-big-blow-to-india-before-ind-vs-nz-2nd-t20-in-raipur/articleshow/127174395.cms",
+            "image": "https://static.langimg.com/mt/thumb/127179566/ind-vs-nz.jpg?imgsize=35560&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-01-22T17:22:34Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "maharashtratimes.com",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
             "id": "ff3f4edff74063cebdf2d838bf4ceaeb",
             "title": "Badlapur : बदलापूर पुन्हा हादरले, 4 वर्षांच्या चिमुकलीचं शाळेच्या व्हॅन चालकाकडून मारहाण करत लैंगिक शोषण, जमाव संतप्त",
             "description": "Badlapur Rape Case : या प्रकरणी पोलिसांनी तातडीने गुन्हा दाखल केला असून आरोपी व्हॅन चालकाला ताब्यात घेतलं आहे. बदलापूरमध्ये झालेल्या या घटनेमुळे लोकांमधून संताप व्यक्त केला जात आहे.",
@@ -128,21 +143,6 @@
             "url": "https://marathi.abplive.com/news/akola/akola-municipality-election-congress-shivsena-meet-prakash-ambedkar-seeks-support-mayor-marathi-news-1409604",
             "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/22/e6b794fdff3211cf81ee476c343b244d176908418980293_original.png?impolicy=abp_cdn&imwidth=1200",
             "publishedAt": "2026-01-22T12:16:55Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "marathi.abplive.com",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "9a24a5eca652bc1d9e4ff6e14a2ed62a",
-            "title": "Mahad : मुख्यमंत्री इतके असहाय्य आहेत की त्यांना काहीही करता येत नाही; महाड राड्यावर उच्च न्यायालयाची नाराजी",
-            "description": "Mahad Rada : महाड राड्याप्रकरणी राज्याचे मंत्री भरत गोगावले यांचे पुत्र विकास गोगावले, पुतण्या महेश गोगावले फरार असून अद्याप त्यांना पकडण्यात आलं नाही. त्यावरुन न्यायालयाने नाराजी व्यक्त केली.",
-            "content": "रायगड : महाड नगरपरिषदेच्या निवडणुकीदरम्यान झालेल्या राड्याप्रकरणी मंत्री भरत गोगावले यांच्या मुलासह इतर आरोपींना अटक करण्यात सरकारला आलेल्या अपयशावर मुंबई उच्च न्यायालयाने तीव्र नाराजी व्यक्त केली आहे. मुख्यमंत्री इतके असहाय्य आहेत की त्यांना याप्रकर... [2696 chars]",
-            "url": "https://marathi.abplive.com/news/raigad/mumbai-high-court-on-mahad-rada-cm-devendra-fadnavis-ststement-vikas-bharat-gogawale-raigad-marathi-news-1409601",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/22/31c2115b06700f1c639b0e6b5ac19068176908186948993_original.png?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-01-22T11:38:11Z",
             "lang": "mr",
             "source": {
                 "id": "d0ecbd318b81c0114aad430372084c1a",
@@ -475,6 +475,157 @@
             }
         }
     ],
-    "sports": [],
+    "sports": [
+        {
+            "id": "7309f53a67e260d23c66209a7ea356c6",
+            "title": "IND vs NZ 2nd T20: भारताला दुसऱ्या टी २० सामन्यापूर्वी मोठा धक्का, मॅचविनर खेळाडू संघाबाहेर, सूर्याची चिंता वाढली..",
+            "description": "दुसरा सामना सुरु होण्याापूर्वीच भारतीय संघाला आता वाईट बातमी मिळाली आहे. कारण भाररताच्या मॅचविनर खेळाडूला दुखापत झाली असून तो आता दुसऱ्या टी २० सामन्यात खेळणार नसल्याची माहिती समोर आली आहे.",
+            "content": "रायपूर : भारताला दुसऱ्या टी २० सामन्यापूर्वी आता एक मोठा धक्का बसला आहे. कारण दुसरा सामना सुरु होण्याापूर्वीच भारतीय संघाला आता वाईट बातमी मिळाली आहे. कारण भाररताच्या मॅचविनर खेळाडूला दुखापत झाली असून तो आता दुसऱ्या टी २० सामन्यात खेळणार नसल्याची माह... [2431 chars]",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/suryakumar-yadav-anxiety-increases-big-blow-to-india-before-ind-vs-nz-2nd-t20-in-raipur/articleshow/127174395.cms",
+            "image": "https://static.langimg.com/mt/thumb/127179566/ind-vs-nz.jpg?imgsize=35560&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-01-22T17:22:34Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "maharashtratimes.com",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "2949297a9b8ce6ac17606c932e162b77",
+            "title": "T20 वर्ल्ड कपसाठी संघात दोन मोठे बदल, 'या' खेळाडूंची एंट्री",
+            "description": "South Africa Squad T20 World Cup 2026 : टी 20 वर्ल्ड कप 2026 ला 7 फेब्रुवारी पासून सुरुवात होणार आहे. भारत आणि श्रीलंका या देशांमध्ये ही स्पर्धा खेळवण्यात येणार असून यात एकूण 20 संघ सहभागी होणार आहेत.",
+            "content": "South Africa Squad T20 World Cup 2026 : आयसीसी टी 20 वर्ल्ड कप 2026 ला (T20 World Cup 2026) आता अवघे काही दिवस शिल्लक आहेत. त्यापूर्वी दक्षिण आफ्रिकेच्या (South Africa) संघाला मोठा धक्का बसला आहे. संघाचा स्टार फलंदाज टोनी डी जोरजी आणि ऑलराऊंडर डोनोवन... [1612 chars]",
+            "url": "https://zeenews.india.com/marathi/sports/two-changes-in-south-africa-squad-t20-world-cup-2026-ryan-rickelton-and-tristan-stubbs-comes-in/978499",
+            "image": "https://marathi.cdn.zeenews.com/marathi/sites/default/files/2026/01/22/942502-t-20-world-cup-2026-south-africa-squad.jpg",
+            "publishedAt": "2026-01-22T15:36:07Z",
+            "lang": "mr",
+            "source": {
+                "id": "06cf65850d8465a5feda17184a020898",
+                "name": "Zee News",
+                "url": "https://zeenews.india.com"
+            }
+        },
+        {
+            "id": "c3fc2d833e1d9ede492c26b2ebaeb696",
+            "title": "Cricket : दुखापतीमुळे टी 20i सीरिजसह वर्ल्ड कपमधूनही दोघांचा पत्ता कट, तिसऱ्यावर टांगती तलवार",
+            "description": "Icc T20i World Cup 2026 : आयसीसी टी 20i वर्ल्ड कपआधी दुखापतीमुळे स्पर्धेतून खेळाडूंची बाहेर होण्याची मालिका सुरु झाली आहे. दुखापतीने एकाच संघातील 2 खेळाडूंचा गेम केलाय. तर तिसऱ्या खेळाडूवर स्पर्धेतून बाहेर होण्याची टांगती तलवार आहे.",
+            "content": "आयसीसी टी 20i वर्ल्ड कप 2026 स्पर्धेच्या पार्श्वभूमीवर सहभागी संघांनी सरावाला जोरात सुरुवात केली आहे. या स्पर्धेआधी 20 पैकी बहुतांश संघ हे आपली शेवटची मालिका खेळून सरावाला अंतिम स्वरुप देत आहे. गतविजेता टीम इंडिया मायदेशात न्यूझीलंड विरुद्ध 5 सामन्या... [1626 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/tony-de-zorzi-and-donovan-ferreira-ruled-out-series-against-west-indies-also-t20i-world-cup-2026-ryan-rickelton-and-tristan-stubbs-included-1588963.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/Hardik-Pandya-IND-vs-SA.jpg",
+            "publishedAt": "2026-01-22T15:23:22Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "tv9marathi.com",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "8b0386072dfe4edf5b2a9ab869e31cb5",
+            "title": "T20 World Cup 2026 : टी 20 वर्ल्ड कपच्या फायनलमध्ये कोणते दोन संघ पोहोचणार? मायकल क्लार्कनं भारताचं नाव घेतलं, पाकिस्तान बद्दल म्हणाला...",
+            "description": "T20 World Cup 2026 : टी 20 वर्ल्ड कपच्या फायनल संदर्भात ऑस्ट्रेलियाचा माजी क्रिकेटपटू मायकल क्लार्कनं मोठं वक्तव्य केलं आहे.",
+            "content": "Michael Clarke Gave Statement On ICC T20 World Cup 2026 नवी दिल्ली : आयसीसी टी 20 वर्ल्ड कपची सुरुवात 7 फेब्रुवारीपासून होणार आहे. भारत आणि श्रीलंका यांच्याकडून टी 20 वर्ल्ड कपचं आयोजन केलं जात आहे. ऑस्ट्रेलियाचा माजी कॅप्टन मायकल क्लार्कनं मोठं वक्त... [1435 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/michael-clarke-predicts-team-india-and-australia-will-reach-t20-world-cup-final-2026-and-comment-on-pakistan-1409611",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/22/78f452eb77ecf4267a481fe0501098bf1769088616886989_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-01-22T13:31:55Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "marathi.abplive.com",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "78bb1f6e13fa776d01fa4ead496ea125",
+            "title": "मोठी बातमी, भारतात टी 20 वर्ल्ड कप खेळणार नाही, बांगलादेश सरकारचा मोठा निर्णय, वर्ल्ड कपवर बहिष्कार",
+            "description": "T20 World Cup 2026 : बांगलादेश क्रिकेट बोर्डानं भारतात टी 20 वर्ल्ड कप न खेळण्याचा निर्णय घेतला नसून बांगलादेश सरकारनं घेतल्याचं म्हटलं आहे.",
+            "content": "ढाका : बांगलादेश सरकारनं भारतात टी 20 वर्ल्ड कप खेळण्यास नकार दिला आहे. आयसीसीनं बांगलादेशला काल इशारा देत भारतात टी 20 वर्ल्ड कप खेळावा लागेल असं सांगितलं होतं. बांगलादेश सरकारच्या निर्णयानुसार बांगलादेश क्रिकेट बोर्डानं यापूर्वी त्यांचे सामने सुरक्... [2252 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/bangladesh-government-decided-to-not-play-t20-world-cup-2026-after-warning-of-icc-1409595",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/22/c365fabce9f18e32ccc95ca147619b5d1769079986497989_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-01-22T11:06:48Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "marathi.abplive.com",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "204959e07c470a77ebcf6957948d2ed8",
+            "title": "IND vs NZ 1st T20I : गौतम गंभीर फक्त एक चाल खेळले, सगळा गेम फिरवला, टीम इंडियाला सापडला मॅचविनर",
+            "description": "IND vs NZ 1st T20I : टीम इंडियाच्या पराभवासाठी नेहमीच हेड कोच गौतम गंभीर यांना जबाबदार धरलं जातं. वास्तवात खरतर असं नाहीय. कारण मैदानावर 11 खेळाडू खेळत असतात. काल न्यूझीलंड विरुद्ध टीम इंडियाने पहिल्या टी 20 सामन्यात दमदार विजय मिळवला. त्याचं श्रेय सुद्धा गंभीर यांनाचं जातं.",
+            "content": "IND vs NZ 1st T20I : भारतीय टीमचे हेड कोच गौतम गंभीर यांच्या रणनितीबद्दल बरच बोललं जातं. खासकरुन टेस्ट क्रिकेटमधील त्यांच्या निर्णयांवर प्रश्नचिन्ह निर्माण केलं जातं. पण वनडे आणि टी 20 चा विषय येतो, तेव्हा त्यांची प्रत्येक चाल अचूक ठरते. जे पहिल्या ट... [1860 chars]",
+            "url": "https://www.tv9marathi.com/sports/ind-vs-nz-1st-t20i-gautam-gambhir-clever-move-include-rinku-singh-in-playing-11-turned-the-game-secured-victory-for-team-india-1588418.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/Gautam-Gambhir-14.jpg",
+            "publishedAt": "2026-01-22T04:49:27Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "21c2f9cc918a98d956fb459b8cc4ffb9",
+            "title": "Rohit Sharma: रोहित शर्माच्या मनातील ते दु:ख ओठांवर; T20 निवृत्तीचा निर्णय मागे घेणार? सर्वात मोठी अपडेट काय?",
+            "description": "T20 World Cup 2026: क्रिकेट जगातातून एक मोठी अपडेट समोर येत आहे. T20 निवृत्तीवरून रोहित शर्मा याने एक मोठे वक्तव्य केले आहे. त्याने मनातील भावना व्यक्त केल्या आहेत. त्याच्या मनातील सल ओठांवर आली आहे. काय म्हणाला रोहित?",
+            "content": "Rohit Sharma on T20 World Cup 2026: टी20 विश्वचषक 2024 च्या अंतिम सामन्यात टीम इंडियाने दक्षिण आफ्रिकेला धूळ चारली. त्यानंतर रोहित शर्मा याने या फॉर्म्यटमध्ये निवृत्तीची घोषणा केली. त्यानंतर लागलीच विराट कोहली आणि रवींद्र जडेजा यांनीही निवृत्तीची घोष... [1248 chars]",
+            "url": "https://www.tv9marathi.com/sports/rohit-sharma-big-statements-the-sorrow-in-rohit-sharma-heart-is-on-his-lips-will-he-reverse-his-decision-to-retire-from-t20-what-is-the-biggest-update-t20-world-cup-2026-1588415.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/Rohit-Sharma-on-T20-World-Cup-2026.jpg",
+            "publishedAt": "2026-01-22T04:08:10Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "16ffd79993a60ef6860f85db332e660a",
+            "title": "Gautam Gambhir : विराट कोहली, रोहित शर्मा सोबतच्या वादाच्या मुद्यावर अखेर गौतम गंभीर यांनी सोडलं मौन, इशाऱ्यांमध्ये बरच काही गेले बोलून",
+            "description": "Gautam Gambhir : गौतम गंभीर यांनी शशी थरुर यांना उत्तर देताना एक्सवर एक पोस्ट केली आहे. त्यावरुन आता बऱ्याच उलट सुलट चर्चा सुरु झाल्या आहे. सध्या टीम इंडियाची न्यूझीलंड विरुद्ध टी20 मालिका सुरु आहे. सध्या भारतीय क्रिकेटमध्ये जे काही चुकीचं होतं, त्यासाठी गौतम गंभीर यांना जबाबदार धरण्यात येतं.",
+            "content": "मागच्या अनेक महिन्यांपासून भारतीय क्रिकेटमध्ये गौतम गंभीर यांचं चित्र खलनायकाच्या रुपात रंगवलं जात आहे. रोहित शर्मा आणि विराट कोहलीची कसोटी क्रिकेटमधून निवृत्ती, दोघांना देशांतर्गत क्रिकेट खेळणं बंधनकारक करणं एकूणच भारतीय क्रिकेटमध्ये जे काही चुकीचं ... [1634 chars]",
+            "url": "https://www.tv9marathi.com/sports/gautam-gambhir-while-answering-shashi-tharoor-breaks-silence-amid-rift-rumours-with-virat-kohli-rohit-sharma-1588411.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/Gautam-Gambhir-13.jpg",
+            "publishedAt": "2026-01-22T04:04:14Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "140bfdb71deca6a965f0368925554912",
+            "title": "Ind vs Nz 1st T20 Turning Point : सामना फिरवला अन् रक्तबंबाळ झाला, न्यूझीलंडचा पराभव तिथेच ठरला; पहिल्या टी-20 मधील टर्निंग पॉइंट कोणता?",
+            "description": "Axar Patel dismissed Glenn Phillips Turning Point : भारताने न्यूझीलंडविरुद्धच्या 5 सामन्यांच्या टी-20 मालिकेची सुरुवात शानदार विजयाने केली आहे.",
+            "content": "India vs New Zealand 1st T20 Turning Point : भारताने न्यूझीलंडविरुद्धच्या 5 सामन्यांच्या टी-20 मालिकेची सुरुवात शानदार विजयाने केली आहे. सलामीवीर अभिषेक शर्माचे झंझावाती 84 धावा आणि रिंकू सिंगच्या फटकेबाजीच्या जोरावर भारताने पाहुण्या संघासमोर विजयासा... [2054 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/axar-patel-dismissed-glenn-phillips-for-78-runs-turning-point-india-vs-new-zealand-1st-t20-marathi-news-1409520",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/22/c168054e0f53f317c2582d0af3fe493517690545801761091_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-01-22T04:03:15Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "marathi.abplive.com",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "4b71e32c3e9962cb3f33f16181d930fa",
+            "title": "IND vs NZ 1st T20 : नागपूरमध्ये अभिषेक शर्माचा राडा, सामना संपवल्यावर सूर्या म्हणाला, तो मॅचमध्येच नाहीतर हॉटेल आणि बसमध्येही....",
+            "description": "भारत आणि न्यूझीलंडमधील टी-२० मालिकेला सुरूवात झाली आहे. पहिला सामना नागपूरमध्य पार पडला, या सामन्यात भारताच्या शिलेदारांनी पाहुण्या संघाचा ४८ धावांनी पराभव केला. भारताने प्रथम फलंदाजी करताना २० ओव्हरमध्ये २३८-७ धावा केल्या होत्या. या धावांचा पाठलाग करताना न्यूझीलंडचा संघ १९० धावाच करू शकला. सामनावीर ठरलेल्या अभिषेक शर्माने ३५ चेंडत ८४ धावांची तुफानी खेळी केली. त्याच्या या खेळीमुळे विजय मिळवणं सहजपणे शक्य झालं. सामना संपल्यावर बोलताना अभिषेक शर्माबाबत मोठे विधान केले आहे.",
+            "content": "नागपूर : भारत आणि न्यूझीलंडमधील टी-२० मालिकेला सुरूवात झाली आहे. पहिला सामना नागपूरमध्य पार पडला, या सामन्यात भारताच्या शिलेदारांनी पाहुण्या संघाचा ४८ धावांनी पराभव केला. भारताने प्रथम फलंदाजी करताना २० ओव्हरमध्ये २३८-७ धावा केल्या होत्या. या धावांचा... [2437 chars]",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-nz-t20-series-team-india-captain-suryakumar-yadav-big-statement-on-abhishek-sharma-after-match/articleshow/127090039.cms",
+            "image": "https://static.langimg.com/mt/thumb/127091623/suryakumar-yadav-abhishek-sharma.jpg?imgsize=394630&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-01-22T03:16:36Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "maharashtratimes.com",
+                "url": "https://maharashtratimes.com"
+            }
+        }
+    ],
     "entertainment": []
 }

@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "3d8d368999fa304b20773c8fdf80e68f",
+            "title": "'लग्नाची तयारी सुरू असतानाच बेडरूममध्ये कांड, टीम इंडियाच्या पोरींनी पलाशला धुतलं', दाव्याने खळबळ!",
+            "description": "स्मृती मानधनासोबतचं लग्न मोडल्याच्या 2 महिन्यांनंतर पलाश मुच्छल याच्यावर खळबळजनक आरोप करण्यात आले आहेत. सांगलीमध्ये नेमकं काय घडलं? ज्यामुळे पलाश-स्मृतीचं लग्न मोडलं? याबाबत स्मृतीच्या मित्राने गौप्यस्फोट केले आहेत.",
+            "content": "1/ 5\nविद्यान माने हा स्मृतीचा मित्र तसंच पलाश मुच्छलचा माजी बिझनेस पार्टनर आहे. लग्नाच्या वेळी पलाश मुच्छलला एका महिलेसोबत बेडवर रंगेहात पकडलं गेलं होतं. आपण स्वत: तिथे उपस्थित होतो, असा दावा विद्यान माने याने हिंदुस्तान टाईम्सला दिलेल्या मुलाखतीमध्य... [597 chars]",
+            "url": "https://news18marathi.com/photogallery/sport/palash-mucchal-caught-red-handed-beaten-by-indian-women-team-shocking-claims-by-vidyan-mane-1600757.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/01/palash-smriti-2026-01-05a251e8fc96a730af851a955068a33c-16x9.jpg",
+            "publishedAt": "2026-01-23T18:26:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "news18marathi.com",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
             "id": "1eed3b34337ec7b0054029bd4ffdcbdb",
             "title": "Ladki Bahin Yojana : आदिती तटकरेंची मुख्यमंत्री माझी लाडकी बहीण योजनेच्या लाभार्थी महिलांसाठी मोठी घोषणा, एका कॉलवर प्रश्न सुटणार",
             "description": "Ladki Bahin Yojana : आदिती तटकरेंची मुख्यमंत्री माझी लाडकी बहीण योजनेच्या लाभार्थी महिलांसाठी हेल्पलाईन क्रमांक सुरु करत असल्याची घोषणा केली आहे.",
@@ -128,21 +143,6 @@
             "url": "https://www.tv9marathi.com/maharashtra/bmc-maharashtra-live-updates-news-in-marathi-mumbai-new-mayor-after-municipal-corporation-election-2026-results-of-pune-nashik-thane-kdmc-sc-st-obc-female-reservation-post-shivsena-bjp-congress-1589101.html",
             "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/BIG-BREAKING-2.jpg",
             "publishedAt": "2026-01-23T13:37:42Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "tv9marathi.com",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "c8a60d1e39f528baa326bf7d85fb7f89",
-            "title": "धुरंधर चित्रपटाचा रेकॉर्ड मोडणारा 2026 चा ब्लॉकबस्टर, थिएटरबाहेर प्रचंड गर्दी, एकूण कमाई थक्क करणारी",
-            "description": "'धुरंधर' चा रेकॉर्ड मोडणारा 2026 चा सर्वात मोठा ब्लॉकबस्टर चित्रपट. थिएटरबाहेर होतेय प्रेक्षकांची प्रचंड गर्दी. एकूण कमाई थक्क करणारी.",
-            "content": "Krantijyoti Vidyalay Marathi Madhyam : गेल्या काही दिवसांपासून सोशल मीडियावर मोठ्या प्रमाणात ‘धुरंधर’ चित्रपटाने धुमाकूळ घातला आहे. या चित्रपटाने अनेक मोठ-मोठ्या ब्लॉकबस्टर चित्रपटांचा रेकॉर्ड मोडला आहे. अशातच आता एका मराठी चित्रपटाने ‘धुरंधर’ चा रेक... [1948 chars]",
-            "url": "https://www.tv9marathi.com/entertainment/the-marathi-medium-film-krantijyoti-vidyalaya-earned-20-crore-in-3-weeks-1589575.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/Krantijyoti-Vidyalaya-1.jpg",
-            "publishedAt": "2026-01-23T13:23:14Z",
             "lang": "mr",
             "source": {
                 "id": "86b106434a8aa7ab0755463f15cc13f7",
@@ -475,6 +475,157 @@
             }
         }
     ],
-    "sports": [],
+    "sports": [
+        {
+            "id": "b100fa54fdf8cdca9117ef975efde5b8",
+            "title": "ट्वेन्टी-२० विश्वचषक क्रिकेट स्पर्धा: बांगलादेशचे प्रयत्न निष्फळ? ‘आयसीसी’विरोधातील अपील अपयशी; स्कॉटलंडला संधी अपेक्षित",
+            "description": "Icc Rejects Bangladesh Appeal T20 World Cup Schedule Amy 95 - आगामी ट्वेन्टी-२० विश्वचषक स्पर्धेतील बांगलादेशचे सामने भारताबाहेर हलविण्यास नकार देताना आंतरराष्ट्रीय क्रिकेट परिषदेने (आयसीसी) स्पर्धा पूर्वनियोजित कार्यक्रमानुसारच होणार असल्याचे जाहीर केले होते.. Latest Marathi News (मराठी बातम्या). Find Latest Krida news in Marathi at Loksatta.com",
+            "content": "आगामी ट्वेन्टी-२० विश्वचषक स्पर्धेतील बांगलादेशचे सामने भारताबाहेर हलविण्यास नकार देताना आंतरराष्ट्रीय क्रिकेट परिषदेने (आयसीसी) स्पर्धा पूर्वनियोजित कार्यक्रमानुसारच होणार असल्याचे जाहीर केले होते. ‘आयसीसी’च्या या निर्णयाविरोधात बांगलादेश क्रिकेट मं... [2256 chars]",
+            "url": "https://www.loksatta.com/krida/icc-rejects-bangladesh-appeal-t20-world-cup-schedule-amy-95-5665728/",
+            "image": "https://images.loksattaimg.com/2026/01/icc_8c360c.jpg?quality=100",
+            "publishedAt": "2026-01-23T17:53:08Z",
+            "lang": "mr",
+            "source": {
+                "id": "62d1010536af7ab30a2a024770aa0e02",
+                "name": "loksatta.com",
+                "url": "https://www.loksatta.com"
+            }
+        },
+        {
+            "id": "24e59423bd9f6f52383f7cc2dbe0f998",
+            "title": "Ind vs Nz 2nd T20 : ईशान किशनने ठोकले ‘रेकॉर्डब्रेक’ अर्धशतक, वर्ल्डकपपूर्वी सूर्या तळपला! टीम इंडियाचा 7 गडी राखून विजय",
+            "description": "भारत आणि न्यूझीलंड यांच्यात सुरू असलेल्या पाच सामन्यांच्या टी-20 मालिकेत टीम इंडियाने सलग दुसऱ्या सामन्यात दणदणीत विजय मिळवला आहे.",
+            "content": "India Beat New Zealand By 7 Wickets : भारत आणि न्यूझीलंड यांच्यात सुरू असलेल्या पाच सामन्यांच्या टी-20 मालिकेत टीम इंडियाने सलग दुसऱ्या सामन्यात दणदणीत विजय मिळवला आहे. रायपूरमधील शहीद वीर नारायण सिंग आंतरराष्ट्रीय स्टेडियमवर कर्णधार सूर्यकुमार यादव ... [2360 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/india-beat-new-zealand-by-7-wickets-in-raipur-2nd-t20i-ishan-kishan-suryakumar-yadav-half-century-marathi-news-1409775",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/23/a5ad6f2b88226210d3e6ee889dffd0d217691887333661091_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-01-23T17:19:09Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "marathi.abplive.com",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "1a50c51e597f4aec0e7ef549b9024653",
+            "title": "IND vs NZ: कॅप्टन असावा तर असा! ईशान किशन बाद झाल्यानंतर सूर्यादादाच्या कृतीने जिंकली मनं, पाहा नेमकं काय घडलं?",
+            "description": "Suryakumar Yadav Hugs Ishan Kishan On Ground After Getting Out Moment Winning Hearts Video Ind Vs Nz Bdg 99 - Ishan Kishan Suryakumar Yadav: ईशान किशनने सूर्यकुमार यादवच्या साथीने वादळी फटकेबाजी करत संघाचा डाव सावरला. पण ईशान किशनने बाद झाल्यानंतर सूर्यकुमार यादवने केलेल्या कृतीने सर्वांची मनं जिंकली आहेत.\n. Latest Marathi News (मराठी बातम्या). Find Latest Krida news in Marathi at Loksatta.com",
+            "content": "भारत-न्यूझीलंड मालिकेतील दुसरा सामना इशान किशनसाठी खास ठरला. न्यूझीलंडने प्रथम फलंदाजी करत २०८ धावा केल्या आणि प्रत्युत्तरात इशान किशनने भारताकडून धमाकेदार खेळी करत संघाला मजबूत स्थितीत आणलं. त्याने फक्त ३२ चेंडूत ११ चौकार आणि चार षटकारांसह ७६ धावा क... [1153 chars]",
+            "url": "https://www.loksatta.com/krida/suryakumar-yadav-hugs-ishan-kishan-on-ground-after-getting-out-moment-winning-hearts-video-ind-vs-nz-bdg-99-5665881/",
+            "image": "https://images.loksattaimg.com/2026/01/Suryakumar-Yadav-Ishan-Kishan.jpg?quality=100",
+            "publishedAt": "2026-01-23T17:16:36Z",
+            "lang": "mr",
+            "source": {
+                "id": "62d1010536af7ab30a2a024770aa0e02",
+                "name": "loksatta.com",
+                "url": "https://www.loksatta.com"
+            }
+        },
+        {
+            "id": "0fed41fbac9e3faaf9ba27f591948eb1",
+            "title": "नेस्लेनं माफी मागत त्यांची फॉर्म्युला दुधाची उत्पादनं का परत मागवली? बाळाच्या आरोग्यासाठी कोणतं दूध चांगलं?",
+            "description": "नेस्ले कंपनीनं म्हटलं आहे की त्यांच्या एसएमए ब्रँडच्या काही विशिष्ट बॅचच्या इन्फंट फॉर्म्युला (बाळांसाठी) आणि फॉलो-ऑन फॉर्म्युला उत्पादनं बाळांना खाऊ घालणं सुरक्षित नाही. या बॅचेसची विक्री जगभरात झाली होती.",
+            "content": "Author, शुभ राणा\nRole, बीबीसी हिंदीसाठी\n2 तासांपूर्वी\nअलीकडेच नेस्ले या कंपनीनं जगभरातील त्यांची काही बेबी फॉर्म्युला (बाळासाठीचं दूध) उत्पादनं परत मागवली आहेत. यामध्ये एक संभाव्य टॉक्सिन (विषारी घटक) असल्याची शंका व्यक्त करण्यात आली. या घटकामुळे अन्... [7539 chars]",
+            "url": "https://www.bbc.com/marathi/articles/cnvgg0qpdqlo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_marathi/a382/live/0cd431f0-f83a-11f0-b385-5f48925de19a.jpg",
+            "publishedAt": "2026-01-23T15:43:43Z",
+            "lang": "mr",
+            "source": {
+                "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+                "name": "BBC",
+                "url": "https://www.bbc.com"
+            }
+        },
+        {
+            "id": "86339a43c5c862abbc4219aa484da76b",
+            "title": "Smriti Mandhana : काय त्या अदा, काय ती स्टाईल, स्मृतीने मानधनाने काळ्या साडीत कहर केला, पाहा PHOTO",
+            "description": "स्मृती मानधना तर या इवेंटमध्ये आकर्षणाचा केंद्रबिंदु होती. कारण काळ्या साडीमध्ये स्मृती मानधनाने कहर केला होता.",
+            "content": "2/ 7\nस्मृती मानधनाच्या टीमने सुरूवातीचे सलग पाच सामने जिंकून क्वालिफाय केले होते. दरम्यान लीग सूरू असताना आरसीबीचा एक इवेंट पार पडला आहे. या इवेंटचे काही फोटो समोर आले आहे.\n3/ 7\nया इवेंटमध्ये आरसीबीच्या महिला खेळाडूंनी राडा केला आहे. या इवेंटमध्ये आर... [257 chars]",
+            "url": "https://news18marathi.com/photogallery/sport/smriti-mandhana-looks-stylish-in-black-saree-red-gold-and-bold-carpet-event-rcb-wpl-2026-ws-a-1600532.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/01/smriti-mandhana-rcb-event-8-2026-01-ccf63b1591f9a596557bdd363a78cbef-16x9.jpg",
+            "publishedAt": "2026-01-23T13:56:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "news18marathi.com",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "8bf883dea0457a167858b1b81dc4449f",
+            "title": "T20 World Cup 2026 : टी 20 वर्ल्ड कपवर बहिष्कार बांगलादेशला महागात पडणार, 240 कोटींवर पाणी सोडावं लागणार",
+            "description": "T20 World Cup 2026: भारतात टी 20 वर्ल्ड कप न खेळण्याचा निर्णय बांगलादेश क्रिकेट बोर्डाला महागात पडणार आहे. यामुळं बांगलादेशचं मोठं आर्थिक नुकसान होणार आहे.",
+            "content": "नवी दिल्ली: बांगलादेश क्रिकेट बोर्डानं त्यांचा संघ आयसीसी टी 20 वर्ल्ड कपसाठी भारतात न पाठवण्याचा निर्णय घेतला आहे. हा निर्णय बांगलादेश सरकारचा असून बांगलादेश क्रिकेट बोर्डाचा नसल्याचं देखील त्यांनी सांगितलं आहे. बांगलादेशनं टी 20 वर्ल्ड कपचे सामने भ... [1502 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/t20-world-cup-2026-banglasesh-may-loss-240-crore-rupees-for-not-play-in-india-marathi-news-1409758",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/23/d84774d615be9cc951cbb7ef3bc5a8161769174409303989_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-01-23T13:20:39Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "marathi.abplive.com",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "db8949bc0c490af4d042a328a17094b6",
+            "title": "दुसऱ्या सामन्यासाठी भारतीय संघात मोठा बदल, सूर्याने कोणत्या खेळाडूला दिली संधी, पाहा सर्व खेळाडूंची यादी..",
+            "description": "सूर्यकुमार यादवने प्रथम गोलंदाजी करण्याचा निर्णय घेतला. त्यानंतर सूर्याने या सामन्यासाठीचा संघ जाहीर केला. या सामन्यासाठी भारताने आपल्या संघात दोन मोठे बदल केले आहेत.",
+            "content": "रायपूर : भारताने टॉस जिंकला आणि त्यानंतर सूर्यकुमार यादवने प्रथम गोलंदाजी करण्याचा निर्णय घेतला. त्यानंतर सूर्याने या सामन्यासाठीचा संघ जाहीर केला. या सामन्यासाठी भारताने आपल्या संघात दोन मोठे बदल केले आहेत.\nसूर्याने टॉसनंतर सांगितले की, \" टॉस हा काह... [2365 chars]",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/big-change-in-indian-team-for-ind-vs-nz-2nd-t20-suryakumar-yadav-make-decigion/articleshow/127282391.cms",
+            "image": "https://static.langimg.com/mt/thumb/127284077/ind-vs-nz.jpg?imgsize=89046&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-01-23T13:09:15Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "maharashtratimes.com",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "5479bed671d5e1fb4c92de2a6454e5c9",
+            "title": "T20 World Cup 2026: बांगलादेश टी-२० विश्वचषकात सहभागी न झाल्यास भारताचे किती नुकसान होईल?",
+            "description": "Bangladesh Withdraws from T20 World Cup 2026; Refuses to Play in India Citing Security Concerns - T20 World Cup 2026 Updates: बांगलादेश क्रिकेट बोर्डाने सुरक्षेच्या कारणास्तव आगामी टी-२० विश्वचषक २०२६ खेळण्यासाठी भारतात येण्यास स्पष्ट नकार दिला. मात्र, यामुळे भारताचे नुकसान होण्याची शक्यता आहे. Find Latest cricket articles and live match coverage on Lokmat.com",
+            "content": "बांगलादेश क्रिकेट बोर्डाने आगामी टी-२० विश्वचषक २०२६ बाबत अत्यंत कठोर भूमिका घेतली. सुरक्षेच्या कारणास्तव आपला संघ भारतात पाठवणार नसल्याचे बांगलादेशने स्पष्ट केले असून, यामुळे क्रिकेट विश्वात मोठी खळबळ उडाली. या निर्णयामुळे बांगलादेशला कोट्यवधींचा फट... [1027 chars]",
+            "url": "https://www.lokmat.com/cricket/news/bangladesh-withdraws-from-t20-world-cup-2026-refuses-to-play-in-india-citing-security-concerns-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/t20-world-cup-2026_2026011630072.png",
+            "publishedAt": "2026-01-23T11:50:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "ff9762c8150746827821a08d529386fe",
+                "name": "lokmat.com",
+                "url": "https://www.lokmat.com"
+            }
+        },
+        {
+            "id": "a7a8123fb6f63a67f9e874d3bffcad4a",
+            "title": "U19 World Cup: फक्त 58 धावांवर खेळ आटोपला, श्रीलंकेचे 45 चेंडूत 5 विकेट काढले",
+            "description": "अंडर 19 वनडे वर्ल्डकप स्पर्धेत श्रीलंका आणि ऑस्ट्रेलिया हे संघ आमनेसामने आले होते. हा सामना ऑस्ट्रेलियाने सहज जिंकला. कारण मिळालेलं टार्गेट काहीच नव्हतं. त्याला कारण ठरला ऑस्ट्रेलियाचा गोलंदाज...",
+            "content": "अंडर 19 वनडे वर्ल्डकप स्पर्धेच्या 23व्या सामन्यात ऑस्ट्रेलिया आणि श्रीलंका हे संघ आमनेसामने आले होते. या सामन्यात श्रीलंकेची वाट लागली. नाणेफेकीचा कौल ऑस्ट्रेलियाच्या बाजूने लागला आणि प्रथम गोलंदाजी स्वीकारली. हा निर्णय सर्वच बाजूने योग्य ठरला. कारण ... [1586 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/u19-world-cup-2026-australia-beat-sri-lanka-by-9-wickets-1589489.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/01/U19_AUS_SL.jpg",
+            "publishedAt": "2026-01-23T11:22:44Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "tv9marathi.com",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "d544d3c913768b59ddbda70b80bf075b",
+            "title": "T20 World Cup 2026 : विश्वचषकाचं वेळापत्रक बदलणार?, बंद दाराआड खलबली, ICC चा गेमचेंजर प्लॅन, घोषणेकडे साऱ्या जगाचं लक्ष",
+            "description": "BCB vs ICC T20 World Cup 2026 Row : टी-20 विश्वचषकाच्या तयारीला सध्या प्रचंड वेग आला आहे. आयसीसीकडून याबाबत लवकरच अधिकृत घोषणा होण्याची शक्यता आहे.",
+            "content": "BCB vs ICC T20 World Cup 2026 Row : टी-20 विश्वचषकाच्या तयारीला सध्या प्रचंड वेग आला आहे. मात्र या दरम्यान बांगलादेशने विनाकारण काही दिवस वाया घालवले आणि अखेर ही टीम आता विश्वचषकातून बाहेर पडण्याच्या मार्गावर आहे. आयसीसीकडून याबाबत लवकरच अधिकृत घोषणा... [2190 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/bcb-vs-icc-t20-world-cup-2026-row-reschedule-matches-marathi-news-1409740",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/01/23/6ccde93d2d7041c8f2e1b4e8dbcf082817691666043271091_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-01-23T11:10:52Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "marathi.abplive.com",
+                "url": "https://marathi.abplive.com"
+            }
+        }
+    ],
     "entertainment": []
 }

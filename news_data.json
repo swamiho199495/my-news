@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "6dc32032ef88710c03dff06e8d9e3f03",
+            "title": "Weather Alert : पुढील 24 तास महत्त्वाचे, महाराष्ट्रात कोसळणार पाऊस, या जिल्ह्यांना अलर्ट",
+            "description": "ढगाळ वातावरण, धुक्याची उपस्थिती आणि तापमानातील चढ-उतार यामुळे राज्यात हवामानाचा लहरीपणा वाढला असून, प्रजासत्ताक दिनाच्या पार्श्वभूमीवर हवामान कसं राहणार, याकडे सर्वांचं लक्ष लागलं आहे.",
+            "content": "1/ 5\nहिवाळा संपत चालल्याचे स्पष्ट संकेत आता महाराष्ट्राच्या हवामानातून मिळू लागले आहेत. सकाळी हलकासा गारवा जाणवत असला, तरी दुपारच्या वेळेत वाढतं ऊन आणि उष्णता नागरिकांना जाणवू लागली आहे. ढगाळ वातावरण, धुक्याची उपस्थिती आणि तापमानातील चढ-उतार यामुळे र... [1430 chars]",
+            "url": "https://news18marathi.com/photogallery/mumbai/maharashtra-weather-updates-imd-has-predicted-the-possibility-of-rain-in-the-state-on-monday-l18w-local18-1602131.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/01/weather-update-1-2026-01-916b829cf11775a0146fec1484cc2403-16x9.jpg",
+            "publishedAt": "2026-01-26T00:59:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "news18marathi.com",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
             "id": "793ce48d2d2d60937aa35857069ce51e",
             "title": "IND vs NZ 3rd T20I : 4,4,4,4,4,6,6,6,6 ! अभिषेक शर्माचे १४ चेंडूंत अर्धशतक; मोडला हार्दिक पांड्याचा विक्रम...",
             "description": "Abhishek Sharma 14 ball fifty vs New Zealand तिसऱ्या ट्वेंटी-२० सामन्यात अभिषेक शर्माने अक्षरशः वादळ निर्माण केले. 4,4,4,4,4,6,6,6,6 अशा फटक्यांच्या मालिकेसह अभिषेकने केवळ १४ चेंडूंमध्ये अर्धशतक पूर्ण केले.",
@@ -133,21 +148,6 @@
                 "id": "d0ecbd318b81c0114aad430372084c1a",
                 "name": "marathi.abplive.com",
                 "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "b7cb619eaebff676f0ca03a34d1d5c62",
-            "title": "'अडीच वर्ष महापौर पद नाहीतर..'., ठाकरे गटाच्या अटीने खळबळ, 'मातोश्री'वर हालचालींना वेग, महापौरपदाचं आज ठरणार?",
-            "description": "स्पष्ट बहुमत न दिल्याने सत्तास्थापनेचा सस्पेन्स आता टोकाला पोहोचला आहे.",
-            "content": "Reported by :\nWritten by :\nLast Updated:Jan 25, 2026 1:55 PM IST\nChandrapur Mayor Election: चंद्रपूर महानगरपालिकेच्या निकालांनी कोणत्याही एका पक्षाला स्पष्ट बहुमत न दिल्याने सत्तास्थापनेचा सस्पेन्स आता टोकाला पोहोचला आहे.\nमुंबई: चंद्रपूर महानगरपालिके... [1971 chars]",
-            "url": "https://news18marathi.com/maharashtra/chandrapur-municipal-corporation-mayor-election-thackeray-vanchit-alliance-twist-1601820.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/01/Chandrapur-mayor-election-congress-shivsena-ubt-1-2026-01-6718fe983ae459b4c1e6e126202536c9-16x9.jpg",
-            "publishedAt": "2026-01-25T08:25:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "news18marathi.com",
-                "url": "https://news18marathi.com"
             }
         }
     ],

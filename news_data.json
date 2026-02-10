@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "32fec6dc5240230e7a6e3de894746d52",
+            "title": "Nandurbar Bribe : 8 लाखांची लाच घेताना PWD उपअभियंता रंगेहात अटक; ठेकेदाराचे बिल पास करण्यासाठी मागितले पैसे",
+            "description": "Nandurbar PWD Bribe Case : धुळे लाचलुचपत विभागाने (Dhule ACB Action) नितीन इंगळे याला विद्युत ठेकेदाराकडून लाच स्वीकारताना रंगेहात अटक केली.",
+            "content": "धुळे : विद्युत ठेकेदाराकडून बिलाच्या मोबदल्यात 8.50 लाख रुपयांची लाच मागून तडजोडीअंती 8 लाख रुपये स्वीकारने उपअभियंत्याला चांगलंच महागात पडलं. नंदुरबार सार्वजनिक बांधकाम विभाग (PWD) विद्युत उपविभागाचा उपअभियंता नितीन इंगळे याला धुळे लाचलुचपत प्रतिबंध... [1825 chars]",
+            "url": "https://marathi.abplive.com/news/dhule/nandurbar-pwd-bribe-case-8-lakh-nitin-ingale-acb-trap-dhule-karwai-marathi-1412109",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/09/3654a42598d31ce38be10f7ceddec0b1177065989479193_original.png?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-02-09T17:59:43Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
             "id": "adcd984517a842e961e4a2bca4c39fc3",
             "title": "Prajakta Mali : 'मागच्या जन्मीची कर्म असतात अन्...' प्रेमाबद्दल काय म्हणाली प्राजक्ता माळी?",
             "description": "Prajakta Mali On Love : प्राजक्ता माळीने एका मुलाखतीमध्ये तिचं प्रेमाबद्दल काय मत आहे, हे सांगितलं आहे.",
@@ -133,21 +148,6 @@
                 "id": "b8e291c9466e6780091c3b439f38d8a7",
                 "name": "navarashtra.com",
                 "url": "https://www.navarashtra.com"
-            }
-        },
-        {
-            "id": "42764cb3f83497afe625d1cb821d7a78",
-            "title": "ZP Eelction results: झेडपी निवडणुकीत अजित दादांच्या राष्ट्रवादीचा मोठा विजय, पुण्यातही सर्वाधिक जागा; सुनिल तटकरेंची पहिली प्रतिक्रिया",
-            "description": "ZP Eelction results आत्तापर्यंतच्या आकडेवारीनुसार राष्ट्रवादीने जिल्हा परिषदेच्या 172 जागा जिंकल्या असून पुणे जिल्ह्यात जवळपास 44 जागांवर विजय मिळवला आहे.",
-            "content": "मुंबई : राज्यातील 12 जिल्हा परिषद (ZP election) आणि 125 पंचायत समितीच्या निवडणुकांमध्ये पुन्हा एकदा भाजपचं कमळ खुललं आहे. भाजपने जिल्हा परिषद आणि पंचायत समितीत सर्वाधिक जागा जिंकत विजयी घोडदौड कायम ठेवली आहे. मात्र, कायमच ग्रामीण महाराष्ट्रातील त्यात... [2147 chars]",
-            "url": "https://marathi.abplive.com/news/politics/zp-eelction-results-ajit-pawar-ncp-wins-big-in-zp-elections-most-seats-in-pune-jilha-parishad-sunil-tatkare-first-reaction-1412091",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/09/49b1949ef886c69f380ebc6cd9902a5b17706448391301002_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-02-09T13:49:49Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
             }
         }
     ],

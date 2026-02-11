@@ -475,6 +475,308 @@
             }
         }
     ],
-    "sports": [],
-    "entertainment": []
+    "sports": [
+        {
+            "id": "67b246397791ee115156a337fbe679d0",
+            "title": "PAK vs USA: मॅच पाकिस्तानने जिंकली पण नुकसान भारताचं झालं, पाक विरुद्ध अमेरिका सामन्यानंतर काय घडलं?",
+            "description": "PAK vs USA T20 World Cup 2026: पाकिस्तान आणि अमेरिका यांच्यात आज टी-20 विश्वचषकतील सामना रंगला. पाकिस्तानने हा सामना जिंकला पण पाकिस्तानने सामना जिंकताच भारताला मोठं नुकसान झालं आहे.",
+            "content": "कोलंबो: टी-20 विश्वचषकातील Pakistan vs Usa यांच्यात आज सामना रंगला. श्रीलंकेतील आर प्रेमादास स्टेडियममध्ये हा सामना रंगला. या सामन्यातील नाणेफेक अमेरिकेने जिंकले होते आणि प्रथम गोलंदाजी करण्याचा निर्णय घेतला. प्रथम फलंदाजी करताना पाकिस्तानने 190 धावा... [2536 chars]",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/t20-world-cup-2026-pakistan-vs-usa-match-pak-won-match-by-32-run-against-usa-team/articleshow/128168603.cms",
+            "image": "https://static.langimg.com/mt/thumb/128169191/pakistan-won-match-by-32-run-against-usa.jpg?imgsize=101426&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-02-10T17:21:08Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "2db3642fc3e649130470e1ff25c75a7d",
+            "title": "T20 WC 2026: पाकिस्तानने अमेरिकेला पराभूत करताच भारताला फटका, दुसऱ्या सामन्यापूर्वी…",
+            "description": "ICC Men’s T20 World Cup 2026 Match Points Table: टी20 वर्ल्डकप 2026 स्पर्धेच्या 12व्या सामन्यात पाकिस्तानने अमेरिकेला 32 धावांनी पराभूत केलं. यासह पाकिस्तानने भारताला गुणतालिकेत मागे टाकलं आहे. त्यामुळे नामिबियाविरुद्धच्या सामन्यापूर्वी टीम इंडियाच्या चाहत्यांची धाकधूक वाढली आहे.",
+            "content": "T20 World Cup 2026 Points Table: टी20 वर्ल्डकप 2026 स्पर्धेतील प्रत्येक सामना आता गुणतालिकेवर प्रभाव टाकणारा आहे. त्यामुळे जय पराजयामुळे गुणतालिकेत उलथापालथ होणार हे निश्चित आहे. साखळी फेरीचे सामने तिसऱ्या टप्प्यात आले आहेत. त्यामुळे आपल्या गटातील गु... [1587 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/icc-mens-t20-world-cup-2026-points-table-updated-after-match-between-pakistan-vs-united-states-of-america-in-marathi-1603251.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/02/IND_Vs_PAK_WC.jpg",
+            "publishedAt": "2026-02-10T17:18:30Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "c18b39af6e4089a71a782f8ee6410c9e",
+            "title": "IND Vs NAM: नामिबियाविरुद्ध टीम इंडियात 3 बदल! दोन खेळाडूंची चाचणी, तर एकाची जागा फिक्स होणार",
+            "description": "टी20 वर्ल्डकप स्पर्धेतील भारताचा दुसरा सामना दुबळ्या नामिबियासोबत होणार आहे. पहिल्या सामन्यात अमेरिकेने विजयासाठी चांगलंच झुंजवलं. त्यामुळे आता ताकही फुंकून प्यावं लागणार आहे. असं असताना टीम इंडियात तीन बदल केले जाणार असं दिसत आहे.",
+            "content": "टी20 वर्ल्डकप स्पर्धेपूर्वी आणि आता टीम इंडियात काही बदल झाले आहे. काही खेळाडूंचं नशिब फुटकं, तर काही जणांना नशिबाची साथ मिळाली आहे. हर्षित राणा स्पर्धेतून आऊट झाला आणि मोहम्मद सिराजला जागा मिळाली. तर संजू सॅमसन फॉर्मात नसल्याने इशान किशनला पसंती मिळ... [1786 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/t20-world-cup-2026-ind-vs-nam-3-changes-likely-in-team-india-against-namibia-1603173.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/02/Team_India-2.jpg",
+            "publishedAt": "2026-02-10T14:39:31Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "8b9643cbaa0af1840dace6785cea6c87",
+            "title": "'भारतीय खेळाडूंची बॅट...', स्पेशल वस्तूवरून सनसनाटी, T20 वर्ल्ड कपमध्ये नवा ड्रामा!",
+            "description": "टी-20 वर्ल्ड कप सुरू असताना भारतीय खेळाडूंच्या बॅटवर सनसनाटी आरोप करण्यात आले आहेत.",
+            "content": "Published by :\nLast Updated:Feb 10, 2026 7:54 PM IST\nटी-20 वर्ल्ड कप सुरू असताना भारतीय खेळाडूंच्या बॅटवर सनसनाटी आरोप करण्यात आले आहेत.\nमुंबई : 2024 चा टी-20 वर्ल्ड कप जिंकल्यापासून टीम इंडियाचा एकाही टी-20 आंतरराष्ट्रीय सीरिजमध्ये पराभव झालेला नाही... [1741 chars]",
+            "url": "https://news18marathi.com/sport/t20-world-cup-new-controversy-indian-players-bat-suspicious-accuses-bhanuka-rajapakasa-1615204.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/02/team-india-batting-2026-02-fba45b97d389a289176e042d1996e0a7-16x9.jpg",
+            "publishedAt": "2026-02-10T14:24:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "840c6ed67252aff3c96d776e193548ea",
+            "title": "T20 World Cup 2026 NZ vs UAE: यूएईला धूळ चारत न्यूझीलंडचा एकतर्फी विजय",
+            "description": "चेन्नई: शनिवार ७ फेब्रुवारी २०२६ पासून आयसीसी चा टी२० विश्वचषक सुरू झाला[...]",
+            "content": "चेन्नई: शनिवार ७ फेब्रुवारी २०२६ पासून आयसीसी चा टी२० विश्वचषक सुरू झाला आहे. आज म्हणजेच मंगळवार १० फेब्रुवारी रोजी या स्पर्धेतील अकरावा सामना खेळला गेला. चेन्नईच्या चेपॉक स्टेडियमवर न्यूझीलंड विरुद्ध यूएई असा सामना रंगला. या सामन्यात युएईला धूळ चारत... [1744 chars]",
+            "url": "https://prahaar.in/2026/02/10/t20-world-cup-2026-nz-vs-uae-new-zealand-won-by-10-wickets/",
+            "image": "https://prahaar.in/rppl/wp-content/uploads/2026/02/New-Zealand-640x450.jpg",
+            "publishedAt": "2026-02-10T13:57:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "3de73b670124dc029f7e7679f05b20d9",
+                "name": "Prahaar.in",
+                "url": "https://prahaar.in"
+            }
+        },
+        {
+            "id": "feda1e81f36141d2a548916540ad96c7",
+            "title": "T20i World Cup 2026 : दुखापतीला आणखी 1 विकेट, मॅचविनर खेळाडू वर्ल्ड कप स्पर्धेतून आऊट",
+            "description": "Icc T20i World Cup 2026 Injury : आयसीसी टी 20i वर्ल्ड कप 2026 स्पर्धेत साखळी फेरीचा थरार सुरु आहे. अशात एका खेळाडूला दुखापतीमुळे बाहेर व्हावं लागलं आहे. कोण आहे तो दुर्देवी खेळाडू? जाणून घ्या.",
+            "content": "आयसीसी टी 20i वर्ल्ड कप 2026 स्पर्धेला मोठ्या उत्साहात सुरुवात झाली. यजमान टीम इंडिया आणि श्रीलंका या दोन्ही संघांनी विजयी सुरुवात केलीय. तसेच इतर प्रमुख संघांनीही विजयी सलामी दिली. पाकिस्ताननेही आयसीसी टी 20i वर्ल्ड कप स्पर्धेत भूमिका बदलत 15 फेब्रु... [1944 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/sri-lanka-allrounder-wanindu-hasaranga-ruled-out-in-icc-t20i-world-cup-2026-due-to-hamstring-injury-1603141.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/02/Arshdeep-Singh-and-Wanindu-Hasaranga.jpg",
+            "publishedAt": "2026-02-10T13:24:25Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "bbdc64d70619dda1a64fdf5b0a1c18a9",
+            "title": "भारतीय खेळाडू खास बॅट वापरतात म्हणूनच इतकं स्फोटक खेळतात अन्यथा... World Cup सुरु असताना टीम इंडियावर खळबळजनक आरोप",
+            "description": "Team India Players: टी-20 विश्वचषकाची स्पर्धा सध्या सुरु आहे. भारतीय संघाची टी-20 क्रिकेटमधील कामगिरी ही खरोखच उल्लेखनीय आहे पण आता त्याच कामगिरीवर आता संशय घेतला जात आहे.",
+            "content": "मुंबई: भारतीय फलंदाजांनी अलिकडेच टी-20 क्रिकेटमध्ये जबरदस्त पॉवर-हिटिंग दाखवली आहे. अभिषेक शर्मा, इशान किशन, सूर्यकुमार यादव, हार्दिक पंड्या आणि शिवम दुबे यांसारखे खेळाडू सातत्याने मोठे फटके मारतात, ज्यामुळे त्यांची फलंदाजी वेगळी दिसते. टीम इंडियाच्य... [2417 chars]",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/sri-lanka-batter-bhauka-rajapakasa-accused-indian-cricketer-of-using-special-bat/articleshow/128159494.cms",
+            "image": "https://static.langimg.com/mt/thumb/128160154/sri-lankan-bhanuka-rajapaksa-accused-team-india.jpg?imgsize=123904&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-02-10T12:59:31Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "de5cd201c7e0c97d19e906f7fe94c385",
+            "title": "NAM vs NED, T20 World Cup 2026 : नेदरलँड्सने नामिबियाला 7 विकेट्सने चारली धूळ! बास डी लीडेची स्फोटक खेळी",
+            "description": "टी-२० विश्वचषक २०२६ मध्ये आज मंगळवारी १० व्या सामन्यात नेदरलँड्स संघाने अष्टपैलू बास डी लीडेच्या शानदार कामगिरीमुळे नामिबियाला सात विकेट्सने पराभूत केले.",
+            "content": "टी-२० विश्वचषक २०२६ मध्ये आज मंगळवारी १० व्या सामन्यात नेदरलँड्स संघाने अष्टपैलू बास डी लीडेच्या शानदार कामगिरीमुळे नामिबियाला सात विकेट्सने पराभूत केले.\nनेदरलँड्सने नामिबियाला 7 विकेट्सने चारली धूळ(फोटो-सोशल मीडिया)\nNAM vs NED, T20 World Cup 2026 : ... [2324 chars]",
+            "url": "https://www.navarashtra.com/sports/nam-vs-ned-t20-world-cup-2026-netherlands-beat-namibia-by-7-wickets-1139654.html",
+            "image": "https://d2lkn59rua3ry2.cloudfront.net/wp-content/uploads/2026/02/Sarfaraz-Ahmed-is-using-a-mobile-phone-65.jpg",
+            "publishedAt": "2026-02-10T12:47:11Z",
+            "lang": "mr",
+            "source": {
+                "id": "b8e291c9466e6780091c3b439f38d8a7",
+                "name": "navarashtra.com",
+                "url": "https://www.navarashtra.com"
+            }
+        },
+        {
+            "id": "4f3163824a4cfbb4d6970aa4a8856eb3",
+            "title": "T20 World Cup 2026 स्पर्धेत न्यूझीलंडचा युएईवर विक्रमी विजय, एलन आणि सेफर्टचं शतक!",
+            "description": "टी20 वर्ल्डकप स्पर्धेच्या 11व्या सामन्यात न्यूझीलंड आणि युएई हे संघ आमनेसामने आले होते. या सामन्यात न्यूझीलंडने युएईचा 10 विकेटने धुव्वा उडवला. या विजयासह काही विक्रम आपल्या नावावर केले आहे.",
+            "content": "टी20 वर्ल्डकप स्पर्धेत न्यूझीलंड आणि युएई यांच्यात आमनासामना झाला. या सामन्यात नाणेफेकीचा कौल युएईच्या बाजूने लागला. पण सामन्यावर पकड न्यूजीलंडने मिळवली. युएईने प्रथम फलंदाजी करताना 20 षटकात 6 गडी गमवून 173 धावा केल्या. तसेच विजयासाठी 174 धावांचं आव्... [2149 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/new-zealand-record-win-over-uae-in-t20-world-cup-2026-1603110.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/02/NZ_Tim_Seifert.jpg",
+            "publishedAt": "2026-02-10T12:42:46Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "ef748d9904e12106a1e090563295894c",
+            "title": "Vaibhav Sooryavanshi: वर्ल्ड कप जिंकल्यानंतर वैभवला मिळाली मोठी ऑफर, क्रिकेटनंतर आता दिसणार...",
+            "description": "Vaibhav Sooryavanshi News: वैभव सूर्यवंशीने आपल्या धडाकेबाज बॅटिंगने क्रिकेटविश्वाच खळबळ माजवली आहे. वैभवच्या जोरदार परफॉमन्समुळे आता त्याला वेगवेगळ्या ऑफर येऊ लागल्या आहेत. आता वैभवला नेमकी कोणती ऑफर आली आहे ते पाहा...",
+            "content": "मुंबई: यंदाचा अंडर 19 विश्वचषक भारताने जिंकला. विश्वचषकाचा फायनल सामना हा इंग्लंड आणि भारतामध्ये रंगला. भारतचाने हा सामना चक्क 100 धावांनी जिंकला. फायनल सामन्यात Vaibhav Sooryavanshi बॅटने पराक्रमच केला. वैभवने एकट्याने 175 धावांच्या डोंगर उभारला. वै... [2326 chars]",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/complan-signed-vaibahv-sooryavanshi-as-its-new-brand-ambassador/articleshow/128156541.cms",
+            "image": "https://static.langimg.com/mt/thumb/128158374/vaibhav-sooryvanshi-new-brand-ambassador.jpg?imgsize=60476&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-02-10T12:14:44Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        }
+    ],
+    "entertainment": [
+        {
+            "id": "9ef22db9765f476df5ad0dc982139eb7",
+            "title": "'या' राशींचा भाग्योदय, करिअरमध्ये होणार प्रगती, वाचा राशीभविष्य",
+            "description": "आज कोणत्या राशीचं दैनंदिन जीवन राहील चांगलं, जोडीदाराची कोणाला मिळेल साथ, आजचं राशीभविष्य (Horoscope) कसं असेल, जाणून घ्या 'ईटीव्ही भारत'वरील राशीभविष्यात.",
+            "content": "राशीभविष्य ( File Photo )\nBy ETV Bharat Marathi Team\n3 Min Read\nमेष (ARIES) : चंद्र आज आपल्या अष्टम भावात असेल. आज सांसारिक बाबींपासून दूर राहण्याचे विचार मनात येतील. या विचारांमुळं एखाद्या गूढ किंवा रहस्यमय विषयाचा छंद लागेल. एखाद्या विषयात प्राविण्... [3835 chars]",
+            "url": "https://www.etvbharat.com/mr/spiritual/today-horoscope-rashi-bhavishya-for-11-february-2026-in-marathi-mhs26021003164",
+            "image": "https://imgs.etvbharat.com/etvbharat/prod-images/11-02-2026/1200-675-26009028-thumbnail-16x9-rashi.jpg",
+            "publishedAt": "2026-02-10T18:31:41Z",
+            "lang": "mr",
+            "source": {
+                "id": "40d72510524f64da9f4441a411005b58",
+                "name": "ETV Bharat",
+                "url": "https://www.etvbharat.com"
+            }
+        },
+        {
+            "id": "d165d50269698ec7a0cbc39e90905766",
+            "title": "5 वर्षात 3339 टक्के रिटर्न, कंपनीच्या तिमाही नफ्यातही जबरदस्त वाढ, गुंतवणूकदारांचे शेअरवर लक्ष",
+            "description": "Share Market News - एका कंपनीच्या तिमाही नफ्यात 3000 हून अधिक टक्क्यांची वाढ झाली आहे. 5 वर्षात या शेअरने गुंतवणूकदारांना 3339 टक्क्यांचा रिटर्न दिला आहे.",
+            "content": "स्मॉलकॅप कंपनी Servotech Renewable Power System च्या शेअर्सनी गेल्या पाच वर्षात गुंतवणूकदारांना मालामाल केले आहे. या कालावधीत गुंतवणूकदारांना 3339 टक्क्यांचा जबरदस्त रिटर्न दिला आहे. चालू आर्थिक वर्षाच्या तिसऱ्या तिमाहीत कंपनीच्या नफ्यात तिमाही आधारा... [2210 chars]",
+            "url": "https://maharashtratimes.com/business/share-bazaar/servotech-renewable-power-system-share-3339-percent-return-investors-eye-on-profit-growth/articleshow/128167965.cms",
+            "image": "https://static.langimg.com/mt/thumb/128168791/share-market.jpg?imgsize=43216&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-02-10T17:04:59Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "6d7e23562fd184aee4c708a3bd347914",
+            "title": "ना ऐश्वर्या राय, ना रश्मिका मंदान्ना; बॉलिवूड डेब्यू करताच झाली रातोरात स्टार",
+            "description": "ही प्रसिद्ध बॉलिवूड अभिनेत्री चित्रपटाला मिळालेल्या सक्सेसमुळे रातोरात स्टार बनली, तिच्या वयापेक्षा दुप्पट असलेल्या अभिनेत्यासोबत रोमान्स करत प्रेक्षकांच्या नजरेत आली. चित्रपटाने हजारो कोटींच्या क्लबमध्ये कमाई केल्यामुळे अभिनेत्रीची लोकप्रियता गगनाला भिडलीये. आता, अभिनेत्री आयएमडीबीच्या 'पॉप्युलर इंडियन सेलिब्रिटी लिस्ट' मध्ये पहिल्या क्रमांकावर असल्याचं पाहायला मिळतंय. तिने लोकप्रियतेत ऐश्वर्या राय बच्चन, आलिया भट्ट आणि रश्मिका मंदान्ना सारख्या दिग्गज अभिनेत्रींनाही मागे टाकले आहे.",
+            "content": "1/ 7\nही प्रसिद्ध बॉलिवूड अभिनेत्री चित्रपटाला मिळालेल्या सक्सेसमुळे रातोरात स्टार बनली, तिच्या वयापेक्षा दुप्पट असलेल्या अभिनेत्यासोबत रोमान्स करत प्रेक्षकांच्या नजरेत आली. चित्रपटाने हजारो कोटींच्या क्लबमध्ये कमाई केल्यामुळे अभिनेत्रीची लोकप्रियता ग... [1618 chars]",
+            "url": "https://news18marathi.com/photogallery/entertainment/neither-alia-bhatt-not-rashmika-mandanna-not-aishwarya-rai-bachchan-dhurandhar-aame-actress-sara-arjun-has-become-the-most-popular-indian-actress-in-bollywood-1615307.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/02/Sara-Arjun-Photos-2026-02-00482e571b88fabce29f9c04645a7af8-16x9.jpg",
+            "publishedAt": "2026-02-10T16:30:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "e6fe830a2da54149f673d6c26e200a8c",
+            "title": "Bigg Boss Marathi 6 Sagar Karande Flirts With Rakhi Sawant; सागर कारंडे करतोय राखीसोबत फ्लर्ट, अभिनेत्रीला म्हणाला, 'मी तुला प्रपोज करणार'",
+            "description": "बिग बॉसच्या घरात सागर कारंडे राखी सावंतसोबत फ्लर्ट करताना दिसत असून त्याने मस्करीत अभिनेत्रीला मी तुला १४ फेब्रुवारीला प्रपोज करणार असं म्हटलं आहे",
+            "content": "मुंबई - ' बिग बॉस मराठी ६ 'च्या आजच्या भागात बिग बॉस विशालला गेम पालटण्याची संधी देतात. विशालकडे आधीच पॉवर की असल्यामुळे बिग बॉस त्याला, एका स्पर्धकाची पॉवर की काढून घ्यायला सांगतात. विशाल, तन्वीची पॉवर की घेतो. त्यामुळे तन्वी आकांडतांडव करते. सागर आ... [2577 chars]",
+            "url": "https://maharashtratimes.com/entertainment/bigg-boss-marathi/bigg-boss-marathi-6-update-10-february-episode-30-sagar-karande-flirts-with-rakhi-sawant/articleshow/128166059.cms",
+            "image": "https://static.langimg.com/mt/thumb/128167054/bigg-boss-marathi-6-sagar-karande-flirts-with-rakhi-sawant.jpg?imgsize=66936&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-02-10T16:11:41Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "4338c9fb6672faa74b38fcfc2f8f9e80",
+            "title": "वयाच्या ५व्या वर्षी राष्ट्रीय पुरस्कार मिळवणारा हा मराठी सुपरस्टार माहितीये?",
+            "description": "भारतीय चित्रपटसृष्टीतील राष्ट्रीय चित्रपट पुरस्कार (national film awards) हा सर्वोच्च सन्मान मानला जातो. देशाच्या राष्ट्रपतींच्या हस्ते मिळणारा हा पुरस्कार प्रत्येक कलाकाराच्या आयुष्यातील मोठा टप्पा असतो. अनेक बॉलिवूड सुपरस्टार्सनी दशकानुदशके काम करूनही हा मान मिळवू शकले नाहीत. मात्र एका मराठमोळ्या अभिनेत्याने अवघ्या पाचव्या वर्षीच हा पुरस्कार जिंकून इतिहास घडवला होता. तर त्यानंतर त्या अभिनेत्याने अनेक सुपहीट चित्रपटसुद्धा दिले होते.",
+            "content": "Total Views |\nमुंबई : भारतीय चित्रपटसृष्टीतील राष्ट्रीय चित्रपट पुरस्कार (National Film Awards) हा सर्वोच्च सन्मान मानला जातो. देशाच्या राष्ट्रपतींच्या हस्ते मिळणारा हा पुरस्कार प्रत्येक कलाकाराच्या आयुष्यातील मोठा टप्पा असतो. अनेक बॉलिवूड सुपरस्टार्... [1887 chars]",
+            "url": "https://www.mahamtb.com/Encyc/2026/2/10/do-you-know-this-marathi-superstar-who-won-a-national-award-at-the-age-of-5.html",
+            "image": "https://www.mahamtb.com/Encyc/2026/2/10/untitled-design-11-1770724146_H@@IGHT_350_W@@IDTH_696.jpg",
+            "publishedAt": "2026-02-10T16:05:23Z",
+            "lang": "mr",
+            "source": {
+                "id": "5d6a9204995806af9e83b10da11a825a",
+                "name": "MahaMTB",
+                "url": "https://www.mahamtb.com"
+            }
+        },
+        {
+            "id": "7247ea525fd43b00a81ceb1414b1c70d",
+            "title": "‘सुपर डुपर’मधून उलगडणार कौटुंबिक नात्यांची गोष्ट",
+            "description": "मराठी प्रेक्षकांना कौटुंबिक विषयांवरील चित्रपट नेहमीच खास आकर्षित करतात. कुटुंबातील नातेसंबंध, सुख-दुःख, भावना आणि आपुलकी यामध्ये स्वतःचं प्रतिबिंब पाहणारा मोठा प्रेक्षकवर्ग आपल्याकडे आहे. अशाच सर्व वयोगटातील आणि विविध पार्श्वभूमीतील प्रेक्षकांना आपलासा वाटेल असा ‘सुपर डुपर’ हा नवा मराठी चित्रपट लवकरच प्रेक्षकांच्या भेटीला येत आहे.",
+            "content": "Total Views |\nमुंबई: मराठी प्रेक्षकांना कौटुंबिक विषयांवरील चित्रपट नेहमीच खास आकर्षित करतात. कुटुंबातील नातेसंबंध, सुख-दुःख, भावना आणि आपुलकी यामध्ये स्वतःचं प्रतिबिंब पाहणारा मोठा प्रेक्षकवर्ग आपल्याकडे आहे. अशाच सर्व वयोगटातील आणि विविध पार्श्वभूम... [1983 chars]",
+            "url": "https://www.mahamtb.com/Encyc/2026/2/10/super-duper-will-reveal-the-story-of-family-relationships.html",
+            "image": "https://www.mahamtb.com/Encyc/2026/2/10/untitled-design-12-1770728488_H@@IGHT_350_W@@IDTH_696.jpg",
+            "publishedAt": "2026-02-10T16:05:23Z",
+            "lang": "mr",
+            "source": {
+                "id": "5d6a9204995806af9e83b10da11a825a",
+                "name": "MahaMTB",
+                "url": "https://www.mahamtb.com"
+            }
+        },
+        {
+            "id": "c6d15021014c25812ed0455a08d1b6a6",
+            "title": "Pankaj Tripathi: \"... म्हणून अभिनय करायचा नाही\", 'मिर्झापूर' फेम पंकज त्रिपाठीला इंडस्ट्रीतून घ्यायचाय ब्रेक?",
+            "description": "गेल्या अनेक वर्षांपासून बॉलिवूड इंडस्ट्रीला सुपरहिट चित्रपट आणि वेबसीरीज दिल्यानंतर आता पंकज त्रिपाठी यांनी अभिनयाबद्दल महत्त्वाचा निर्णय घेतला आहे. याबद्दल अभिनेत्याने स्पष्ट प्रतिक्रिया दिली आहे.",
+            "content": "Published by :\nLast Updated:Feb 10, 2026 9:16 PM IST\nगेल्या अनेक वर्षांपासून बॉलिवूड इंडस्ट्रीला सुपरहिट चित्रपट आणि वेबसीरीज दिल्यानंतर आता पंकज त्रिपाठी यांनी अभिनयाबद्दल महत्त्वाचा निर्णय घेतला आहे. याबद्दल अभिनेत्याने स्पष्ट प्रतिक्रिया दिली आहे.... [3086 chars]",
+            "url": "https://news18marathi.com/entertainment/mirzpur-fame-actor-pankaj-tripathi-reaction-on-break-from-acting-bollywood-see-latest-news-1615281.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/02/mirzpur-fame-actor-pankaj-tripathi-reaction-on-break-from-acting-bollywood-2026-02-05b871cc40c34bdb1d4051bc627660b9-16x9.jpg",
+            "publishedAt": "2026-02-10T15:46:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "adee679c16d59a1df82008a7d1b4bf85",
+            "title": "रातोरात मिळाली प्रसिद्धी, ११ दिवसांत ४७ चित्रपट केले साइन; एका आजारानं बदललं आयुष्य, लग्न-पार्टीमध्ये गाऊन करतोय उदरनिर्वाह",
+            "description": "Bollywood Actor : बॉलिवूडच्या या अभिनेत्याला रातोरात प्रसिद्धी मिळाली. पण नंतर त्यानं फ्लॉप सिनेमे केले. आता काय करतोय हा अभिनेता? जाणून घ्या.",
+            "content": "हिंदी चित्रपटसृष्टीत अनेक स्टार आले आणि गेले ज्यांनी रातोरात यश मिळवलं. आज आपण अशाच अभिनेत्याबद्दल जाणून घेणार आहोत.\nहा अभिनेता म्हणजे राहुल रॉय. राहुलचा 'आशिकी' हा चित्रपट १९९० च्या दशकातील ब्लॉकबस्टर होता. इतके सुपरहिट चित्रपट देऊनही, राहुल रॉय अजू... [853 chars]",
+            "url": "https://maharashtratimes.com/photogallery/entertainment/rahul-roy-became-star-overnight-did-flop-movies-know-struggle-and-unknown-facts-about-him/photoshow/128165757.cms",
+            "image": "https://static.langimg.com/mt/thumb/128165757/rahul-roy-became-star-overnight-did-flop-movies-know-struggle-and-unknown-facts-about-him-.jpg?imgsize=48270&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-02-10T15:37:30Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "43f5361c8f9c7b794fffa8d3553ef073",
+            "title": "Rakhi Sawant: 'त्यांनी जया यांना सोडून रेखासोबत....' अमिताभ बच्चन यांच्याबद्दल नकोते बरळली राखी सावंत",
+            "description": "Rakhi Sawant On Amitabh Bachchan: राखी सावंतने नुकत्याच एका मुलाखतीमध्ये अमिताभ बच्चन, जया बच्चन आणि रेखा यांच्याबद्दल नकोते वक्तव्य केलं आहे. हे वक्तव्य सोशल मीडियावर मोठ्या प्रमाणात व्हायरल होत आहे.",
+            "content": "Rakhi Sawant On Amitabh Bachchan: टीव्हीची \"ड्रामा क्वीन\" राखी सावंत पुन्हा एकदा तिच्या विधानांमुळे चर्चेचा विषय बनली आहे. राखी तिच्या वैयक्तिक वादांमुळे नेहमीच चर्चेत असते, पण यावेळी तिने बॉलिवूडमधील सर्वात प्रतिष्ठित कुटुंबावर निशाणा साधला आहे. अलि... [1374 chars]",
+            "url": "https://saamtv.esakal.com/entertainment/rakhi-sawant-on-amitabh-bachchan-affair-with-rekha-says-he-left-jaya-and-went-with-rekha-their-pair-look-good-svk01",
+            "image": "https://media.assettype.com/saamtv%2F2026-02-10%2Fvz33xcfr%2FRakhi-Sawant-On-Amitabh-Bachchan?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-02-10T14:57:49Z",
+            "lang": "mr",
+            "source": {
+                "id": "36c482d58a61229d6b752791e526b574",
+                "name": "Saam Tv",
+                "url": "https://saamtv.esakal.com"
+            }
+        },
+        {
+            "id": "8a0b655756d237cbb509cc6ccd0dc70f",
+            "title": "ओटीटीवरील फेमस मराठमोळी स्टार, अभिनेत्रीला पडली पिंक ट्रम्पेड झाडाची भुरळ; Video",
+            "description": "Shriya Pilgaonkar Reel: सध्या सोशल मीडियावर ओटीटी स्टार्सची चांगलीच चर्चा सुरू आहे. अशातच सध्या एका ओटीटी अभिनेत्रीच्या व्हिडिओने चाहत्यांवर भुरळ घातली आहे. त्या अभिनेत्रीचा व्हिडिओ इन्स्टाग्रामवर व्हायरल होतोय.",
+            "content": "Published by :\nLast Updated:Feb 10, 2026 8:46 PM IST\nसध्या सोशल मीडियावर ओटीटी स्टार्सची चांगलीच चर्चा सुरू आहे. अशातच सध्या एका ओटीटी अभिनेत्रीच्या व्हिडिओने चाहत्यांवर भुरळ घातली आहे. त्या अभिनेत्रीचा व्हिडिओ इन्स्टाग्रामवर व्हायरल होतोय.\nमुंबई: सध... [2219 chars]",
+            "url": "https://news18marathi.com/entertainment/famous-bollywood-ott-actress-shriya-pilgaonkar-viral-on-vikhroli-pink-trumped-trees-reels-at-social-media-see-video-1615255.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/02/Shriya-Pilgaonkar-Pink-Trumped-Tree-Reel-Video-2026-02-9b26298b753a24c8b8f0d15a894b4923-16x9.jpg",
+            "publishedAt": "2026-02-10T14:56:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        }
+    ]
 }

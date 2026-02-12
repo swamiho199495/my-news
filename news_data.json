@@ -153,6 +153,22 @@
     ],
     "market": [
         {
+            "id": "22db933cf078c25a8dfdbc8d77c4756a",
+            "title": "सोनं 18% नं घसरलं; आणखी मोठी घसरण होणार? काय सांगतात एक्सपर्ट?",
+            "description": "सोनं 18% नं घसरलं; आणखी मोठी घसरण होणार? काय सांगतात एक्सपर्ट? - जानेवारी २०२६ मध्ये गोल्ड ETF मधील गुंतवणूक दुपटीने वाढून २४,०३९ कोटींवर पोहोचली. यावरून किरकोळ गुंतवणूकदारांचा वाढता विश्वास दिसून येतो. . Find Latest Business Articles at Lokmat.com",
+            "content": "गेल्या काही सत्रांत सोन्याच्या दरात मोठे चढ-उतार बघायला मिळत आहेत. नफावसुली अर्थात प्रॉफिट बुकिंगमुळे 'MCX गोल्ड, एप्रिल कॉन्ट्रॅक्ट' त्याच्या उच्चांकावरून सुमारे १८% खाली आले आहे. या घसरणीमुळे गुंतवणूकदारांमध्ये चिंतेचे वातावरण आहे. मात्र, दीर्घकाळा... [993 chars]",
+            "url": "https://www.lokmat.com/business/news/gold-fell-18-percent-will-it-fall-even-further-what-do-experts-say-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/gold-silver-price-121sd_2026021642781.jpg",
+            "publishedAt": "2026-02-11T20:54:19Z",
+            "lang": "mr",
+            "source": {
+                "id": "1db34a6190be0a479b28f37a9ae9d47e",
+                "name": "Lokmat",
+                "url": "https://www.lokmat.com",
+                "country": "in"
+            }
+        },
+        {
             "id": "4069165a2d4ccde700ba7fc9b1c95e65",
             "title": "महाराष्ट्राच्या मागास जिल्ह्यांचे मार्केटिंग करण्याची गरज; दावोस परिषदेत गुंतवणुकीचे नवे संधी",
             "description": "Maharashtra investment MoU Davos summit : दावोस आर्थिक परिषदेत महाराष्ट्रासाठी विक्रमी ३० लाख कोटी रुपयांचे गुंतवणूक सामंजस्य करार झाले. सर्व विभागांमध्ये गुंतवणूक व मोठ्या प्रमाणात रोजगारनिर्मिती होण्याची शक्यता असून मागास जिल्ह्यांच्या विकासासाठी विशेष प्रयत्नांची गरज आहे.\nDavos summit MoU strengthens Maharashtra industrial investment, global business partnerships, employment opportunities, and sustainable economic development.",
@@ -293,22 +309,6 @@
                 "id": "a1865c05a235b8ca6564b10cf28f9ca3",
                 "name": "Loksatta",
                 "url": "https://www.loksatta.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "ef896b567cb2953ed87f8bedc053ca2c",
-            "title": "सोन्या-चांदीच्या दरात मोठी अस्थिरता; 'रिच डॅड पुअर डॅड'चे लेखक रॉबर्ट कियोसाकी यांनी सांगितली गुंतवणुकीची खास रणनीती",
-            "description": "सोन्या-चांदीच्या दरात मोठी अस्थिरता; 'रिच डॅड पुअर डॅड'चे लेखक रॉबर्ट कियोसाकी यांनी सांगितली गुंतवणुकीची खास रणनीती - Gold Silver Investment Robert Kiyosaki : सध्या सोन्या-चांदीच्या किमतीत अस्थिरता पाहायला मिळत आहे. यामुळे गुंतवणूकदारांमध्ये खरेदी करावी की वाट पाहावी, असा संभ्रम गुंतवणूकदारांत निर्माण झालाय. . Find Latest Business Articles at Lokmat.com",
-            "content": "Gold Silver Investment Robert Kiyosaki : सध्या सोन्या-चांदीच्या किमतीत अस्थिरता पाहायला मिळत आहे. यामुळे गुंतवणूकदारांमध्ये खरेदी करावी की वाट पाहावी, असा संभ्रम गुंतवणूकदारांत निर्माण झालाय. भारतीय बाजारपेठेपेक्षा जागतिक बाजारपेठेत ही घसरण अधिक तीव्... [1783 chars]",
-            "url": "https://www.lokmat.com/business/savings-investments/high-volatility-in-gold-and-silver-prices-robert-kiyosaki-author-of-rich-dad-poor-dad-shares-special-investment-strategy-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/robert-kiyosaki-gold-silver-1_2026021640466.jpeg",
-            "publishedAt": "2026-02-09T06:17:41Z",
-            "lang": "mr",
-            "source": {
-                "id": "1db34a6190be0a479b28f37a9ae9d47e",
-                "name": "Lokmat",
-                "url": "https://www.lokmat.com",
                 "country": "in"
             }
         }
@@ -475,157 +475,6 @@
             }
         }
     ],
-    "sports": [
-        {
-            "id": "9e72b729fda2cf9fdc99054eca16d512",
-            "title": "Sunil Gavaskar: फुशारक्या मारणाऱ्या पाकिस्तानला गावस्करांनी दाखवला आरसा, IND vs PAK मॅचपूर्वी माज उतरवला",
-            "description": "Sunil Gavaskar On PCB: 2026 च्या टी-20 विश्वचषकात भारताविरुद्ध खेळण्यास नकार दिल्यानंतर पाकिस्तानने यू-टर्न घेतला आहे. आता यानंतर माजी दिग्गज क्रिकेटपटू सुनील गावस्करांनी यावर पाकिस्तानवर जोरदार टीका केली आहे.",
-            "content": "मुंबई: च्या टी-20 विश्वचषकातील भारत विरुद्ध पाकिस्तान सामन्याबाबत पाकिस्तान क्रिकेट बोर्डाने मोठा बदल केला आहे. सुरुवातीला, 1 फेब्रुवारी रोजी, पीसीबीने 15 फेब्रुवारी रोजी कोलंबोमध्ये होणारा INDIA vs PAKISTAN Match खेळण्यास स्पष्ट नकार दिला. सुमारे 10... [2587 chars]",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/sunil-gavaskar-blasted-pakistan-over-u-turn-from-boycott-of-india-match-in-t20-world-cup-2026/articleshow/128218740.cms",
-            "image": "https://static.langimg.com/mt/thumb/128220640/sunil-gavasakar-on-pakistan.jpg?imgsize=68254&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-02-11T18:18:22Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
-            }
-        },
-        {
-            "id": "05391a40700e9a8c754bf5e20289a8a0",
-            "title": "T20 World Cup 2026 Points Table: वेस्ट इंडिजने इंग्लंडचा सुपर 8 फेरीचा मार्ग केला कठीण, गुणतालिकेत असे पडले फासे",
-            "description": "ICC Men’s T20 World Cup 2026 Match Points Table: दहा वर्षानंतर वेस्ट इंडिजने इंग्लंडला टी20 वर्ल्डकप स्पर्धेत पराभूत केलं. वेस्ट इंडिजने 30 धावांनी मात केली. यामुळे गट क मधील गुणतालिके मोठा उलटफेर झाला आहे. या पराभवामुळे इंग्लंडला आता पुढचे दोन्ही सामने जिंकणं भाग आहे.",
-            "content": "टी20 वर्ल्डकप 2026 स्पर्धेतील 15व्या सामन्यात वेस्ट इंडिज आणि इंग्लंड आमनेसामने आले होते. हा सामना क गटातील गुणतालिकेच्या दृष्टीने खूपच महत्त्वाचा आहे. आधीच इंग्लंडचा संघ नेट रनरेटच्या बाबतीत अडचणीत होता. त्यामुळे हा सामना जिंकून अव्वल स्थान गाठण्याच... [1411 chars]",
-            "url": "https://www.tv9marathi.com/sports/cricket-news/icc-mens-t20-world-cup-2026-points-table-updated-after-match-between-england-vs-west-indies-in-marathi-1603907.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/02/England_Cricket_Team.jpg",
-            "publishedAt": "2026-02-11T17:24:46Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "63aa18846dc45c3e845fe1415d0b2052",
-            "title": "T20 WC: अभिषेक शर्मा आजारातून बरा होत नाही तोच आणखी एक धक्का!",
-            "description": "टीम इंडियाला टी20 वर्ल्डकप 2026 स्पर्धेत नजर लागली, असं म्हंटलं तर वावगं ठरणार नाही. टीम इंडिया एका पाठोपाठ एक धक्के बसत आहे. एका धक्क्यातून सावरत नाही तोच दुसरं संकट सज्ज असतं. आता पुन्हा एकदा क्रीडाप्रेमींची धाकधूक वाढली आहे.",
-            "content": "टी20 वर्ल्डकप 2026 स्पर्धेच्या जेतेपदासाठी टीम इंडिया प्रबळ दावेदार आहे. मागच्या दोन वर्षातील कामगिरी आणि भारतात स्पर्धा असल्याने टीम इंडियाला जेतेपदाची सर्वाधिक संधी आहे. टीम इंडियाने या स्पर्धेची सुरुवातही विजयाने केली आहे. मात्र टीम इंडियाचं टेन्श... [1851 chars]",
-            "url": "https://www.tv9marathi.com/sports/cricket-news/ishan-kishan-injured-his-leg-while-practicing-ahead-of-the-match-against-namibia-t20-wc-2026-1603843.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/02/Team_India_Practice-1.jpg",
-            "publishedAt": "2026-02-11T14:53:01Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "979ace9cd859abf9fa228cfac2bbf020",
-            "title": "SA vs AFG Super Over: टी 20 वर्ल्ड कपमध्ये पहिल्यांदा दोन सुपर ओव्हर, रोमांचक लढतीत दक्षिण आफ्रिकेचा विजय, अफगाणिस्तानची कडवी झुंज",
-            "description": "SA vs AFG Super Over: टी20 वर्ल्ड कप इतिहासात पहिल्यांदा एखाद्या मॅचचा निकाल दुसऱ्या सुपरओव्हरमध्ये लागला आहे. टी 20 वर्ल्ड कपमधील ही मॅच रोमांचक ठरली.",
-            "content": "SA vs AFG Super Over अहबमदाबाद: दक्षिण आफ्रिका आणि अफगाणिस्तान यांच्यातील टी 20 वर्ल्ड कपमधील सामन्याचा निकाल दुसऱ्या सुपर ओव्हरमध्ये लागला आहे. दक्षिण आफ्रिकेनं अफगाणिस्तानला दुसऱ्या सुपर ओव्हरमध्ये 4 धावांनी पराभूत केलं. प्रथम फलंदाजी करताना दक्षिण... [2319 chars]",
-            "url": "https://marathi.abplive.com/sports/world-cup/sa-vs-afg-super-over-t20-world-cup-south-africa-afghanistan-match-results-in-super-over-check-what-happened-in-last-over-1412322",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/11/027cb7ba1919af37b45c3ebfc0684c891770805743712989_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-02-11T10:31:56Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "af5a643fb588dc94ac00793442f1d0d4",
-            "title": "संजू सॅमसनला पुन्हा संधी, दिल्लीत रंगणाऱ्या टी-२० विश्वचषक सामन्यासाठी भारतीय संघ सज्ज",
-            "description": "T20 World Cup 2026 : संजू सॅमसनला पुन्हा संधी, दिल्लीत रंगणाऱ्या टी-२० विश्वचषक सामन्यासाठी भारतीय संघ सज्ज",
-            "content": "संजू सॅमसनचे नशीब आता पुन्हा पालटणार असे चिन्हे दिसत आहेत. भारतीय संघाच्या अंतिम अकरामध्ये (Playing XI) त्याला आणखी एक संधी मिळण्याची दाट शक्यता आहे. भारतीय संघ विश्वचषकातील आपल्या पुढील आव्हानासाठी सज्ज होत असला तरी, सध्या संघ काही अडचणींचा सामना कर... [1786 chars]",
-            "url": "https://pudhari.news/sports/t20-world-cup-2026-sanju-samson-earns-another-chance-as-team-india-gears-up-for-delhi-match-rg84",
-            "image": "https://media.assettype.com/pudharinews%2F2026-02-11%2Ferx0w1qt%2Fsanju-samson-1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-02-11T10:08:05Z",
-            "lang": "mr",
-            "source": {
-                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
-                "name": "Pudhari News",
-                "url": "https://pudhari.news"
-            }
-        },
-        {
-            "id": "2626477e766a958768cdf1fc646e9ba1",
-            "title": "IND vs PAK : पाकिस्तानचा नवीन बॉलर उस्मान तारीक टीम इंडियासाठी का धोकादायक? आधीच दिला इशारा",
-            "description": "IND vs PAK : T20 वर्ल्ड कप 2026 सुरु झाला आहे. भारताचा सामना 15 फेब्रुवारीला पाकिस्तान विरुद्ध होणार आहे. या मॅचमध्ये पाकिस्तानचा नवीन बॉलरउस्मान तारिकचा सामना करणं टीम इंडियासाठी चॅलेंजिंग असेल. असं का? जाणून घ्या.",
-            "content": "Usman Tariq : पाकिस्तानचा एक नवीन बॉलर चर्चेत आहे. आंतरराष्ट्रीय स्तरावर तो अजून 5 सामनेही खेळलेला नाही. पण तरीही त्याची चर्चा आहे. परफॉर्मन्सपेक्षा बॉलिंग Action मुळे त्याची जास्त चर्चा आहे. पाकिस्तानच्या या नव्या गोलंदाजाचं नाव आहे उस्मान तारीक. हा... [1981 chars]",
-            "url": "https://www.tv9marathi.com/sports/why-pakistan-spinner-usman-tariq-threat-for-india-in-t20-world-cup-2026-ind-vs-pak-match-1603395.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/02/IND-vs-PAK-15.jpg",
-            "publishedAt": "2026-02-11T05:51:52Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "568f773d150991297f686eec73e7397a",
-            "title": "IND vs PAK : पाकिस्तानच्या यू-टर्ननंतर शाहिद आफ्रिदी पिसाळला; भारताला चार गुजराती चालवतात....काय म्हणाला?",
-            "description": "टी-२० वर्ल्ड कपमध्ये भारत आणि पाकिस्तान हा हायव्होल्टेज सामना होणार की नाही याची उत्सुकता सर्वांना लागली होती. पाकिस्तानने भारतासोबत सामना खेळण्यासाठी नकार कळवला होता. मात्र आयसीसीने बैठक घेतल्यावर आता पाकिस्तान खेळण्यासाठी तयार झाले आहे. १५ तारखेला भारत आणि पाकिस्तान सामना होणार असल्याचं आता निश्चित झालं आहे. मात्र पाकिस्तानच्या या यु-टर्नवर बोलताना पाकिस्तानचा माजी कर्णधार शाहिद आफ्रिदीने गरळ ओकली आहे.",
-            "content": "मुंबई : टी-२० वर्ल्ड कपमध्ये भारत आणि पाकिस्तान हा हायव्होल्टेज सामना होणार की नाही याची उत्सुकता सर्वांना लागली होती. पाकिस्तानने भारतासोबत सामना खेळण्यासाठी नकार कळवला होता. मात्र आयसीसीने बैठक घेतल्यावर आता पाकिस्तान खेळण्यासाठी तयार झाले आहे. १५ ... [2129 chars]",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/t20-world-cup-2026-pakistan-former-player-shahid-afridi-big-statement-on-ind-vs-pak-match/articleshow/128189618.cms",
-            "image": "https://static.langimg.com/mt/thumb/128190105/shahid-afridi.jpg?imgsize=103976&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-02-11T05:32:58Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
-            }
-        },
-        {
-            "id": "33faade35cc0f0bc607558ca237f3452",
-            "title": "Saaniya Chandhok: सचिन तेंडुलकरची होणारी सून सानिया चंढोक कोण आहे?",
-            "description": "सचिन तेंडुलकरने मंगळवारी पंतप्रधान नरेंद्र मोदींना त्यांचा मुलगा अर्जुन तेंडुलकरच्या लग्नाचे आमंत्रण दिले. जाणून घ्या कोण आहे अर्जुनची होणारी पत्नी सानिया चंढोक? Sachin Tendulkar son Arjun Tendulkar wife Saaniya Chandhok biography education-business-net-worth mk96",
-            "content": "करिअर आणि स्वतःचा व्यवसाय\nप्राण्यांविषयी असलेल्या ओढीमुळे सानियाने २०२२ मध्ये 'मिस्टर पॉज पेट स्पा अँड स्टोअर एलएलपी'ची सुरुवात केली. ही मुंबईतील एक लक्झरी पेट ग्रूमिंग आणि केअर ब्रँड आहे. ती या कंपनीची 'डेझिग्नेटेड पार्टनर' आणि संचालक असून, पाळीव प्... [899 chars]",
-            "url": "https://pudhari.news/sports/sachin-tendulkar-son-arjun-tendulkar-wife-saaniya-chandhok-biography-education-business-net-worth-mk96",
-            "image": "https://media.assettype.com/pudharinews%2F2026-02-11%2Ft3fwznal%2FCopy-of-pudhari-photo-29.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-02-11T03:28:38Z",
-            "lang": "mr",
-            "source": {
-                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
-                "name": "Pudhari",
-                "url": "https://pudhari.news"
-            }
-        },
-        {
-            "id": "2825be887baa2ad066fe53323eb84e4d",
-            "title": "Abhishek Sharma: टीम इंडिया अडचणीत, अभिषेक शर्माची तब्येत बिघडली, रुग्णालयात उपचार सुरू, काय झालं?",
-            "description": "20 World Cup Blow: India Opener Abhishek Sharma Hospitalized; Doubtful for Indo-Pak Clash - Abhishek Sharma Hospitalized: १५ फेब्रुवारीला होणाऱ्या पाकिस्तानविरुद्धच्या महामुकाबल्यापूर्वी टीम इंडियाच्या चिंतेत भर घालणारी माहिती समोर आली. सलामीवीर अभिषेक शर्माची तब्येत बिघडल्याने त्याला रुग्णालयात दाखल करण्यात आले आहे. Find Latest cricket articles and live match coverage on Lokmat.com",
-            "content": "T20 World Cup 2026: टी-२० विश्वचषकाच्या रणधुमाळीपूर्वी भारतीय क्रिकेट चाहत्यांसाठी एक चिंताजनक बातमी समोर आली. भारताचा स्फोटक सलामीवीर अभिषेक शर्माची प्रकृती अचानक बिघडल्याने त्याला १० फेब्रुवारीच्या रात्री रुग्णालयात दाखल करण्यात आले. त्याला पोटदुखी... [1543 chars]",
-            "url": "https://www.lokmat.com/cricket/news/20-world-cup-blow-india-opener-abhishek-sharma-hospitalized-doubtful-for-indo-pak-clash-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/abhishek-sharma-hospitalized_2026021641976.png",
-            "publishedAt": "2026-02-11T03:25:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "ff9762c8150746827821a08d529386fe",
-                "name": "Lokmat.com",
-                "url": "https://www.lokmat.com"
-            }
-        },
-        {
-            "id": "dd391567883fb206d20ccf07878f7483",
-            "title": "T20 World Cup 2026 : वर्ल्ड कपमधील दुसऱ्या सामन्याआधी टीम इंडियाला मोठा झटका, स्टार खेळाडू हॉस्पिटलमध्ये दाखल",
-            "description": "T20 World Cup 2026 : USA विरुद्ध वर्ल्ड कपमधील पहिला सामना जिंकून टीम इंडियाने चांगली सुरुवात केली आहे. पण दुसऱ्या मॅच आधी टीम इंडियाला मोठा धक्का बसला आहे. टीमच्या स्टार खेळाडूला रुग्णालयात दाखल करावं लागलं आहे. उद्या टीम इंडिया वर्ल्ड कपमधील दुसरी मॅच खेळणार आहे.",
-            "content": "T20 वर्ल्ड कप 2026 ला सुरुवात झाल्यापासून टीम इंडियाला धक्क्यांवर धक्के बसतायत. आधी ऑलराऊंडर हर्षित राणा दुखापतीमुळे आऊट झाला. आता टीम उद्या 12 फेब्रुवारीला नामीबिया विरुद्ध दुसरा टी 20 सामना खेळणार आहे. त्याआधी टीम इंडियासाठी वाईट बातमी आहे. भारतीय ... [2112 chars]",
-            "url": "https://www.tv9marathi.com/sports/bad-news-for-team-india-ahead-of-t20-world-cup-2026-ind-vs-nam-match-abhishek-sharma-hospitalised-india-namibia-1603315.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/02/Team-India-71.jpg",
-            "publishedAt": "2026-02-11T01:59:41Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        }
-    ],
+    "sports": [],
     "entertainment": []
 }

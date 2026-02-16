@@ -477,6 +477,21 @@
     ],
     "sports": [
         {
+            "id": "7bd58e9ecf0da56290615bd2725a9863",
+            "title": "Ind vs Pak : भारताचा पाकिस्तानवर 61 धावांनी मोठा विजय, सुपर 8 साठी क्वालिफाय; ईशान किशन विजयाचा शिल्पकार",
+            "description": "ईशान किशनच्या 40 चेंडूत तडाखेबाज 77 धावांच्या जोरावर भारतानं पाकिस्तानसमोर विजयासाठी 176 धावांचं आव्हान ठेवलं होतं. पण पाकिस्तानचा संपूर्ण संघ 114 धावांवर गारद झाला.",
+            "content": "टी 20 वर्ल्ड कप : भारताचा पाकिस्तानवर 61 धावांनी मोठा विजय, सुपर 8 साठी क्वालिफाय; ईशान किशन विजयाचा शिल्पकार\n15 फेब्रुवारी 2026, 12:58 IST\nअपडेटेड 2 तासांपूर्वी\nवाचन वेळ: 5 मिनिटे\nपुरुषांच्या ट्वेन्टी20 विश्वचषकाच्या साखळी फेरीत भारतानं पाकिस्तानचा ... [6190 chars]",
+            "url": "https://www.bbc.com/marathi/articles/c77er8e3dlko",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_marathi/823c/live/98055250-0a90-11f1-b7e1-afb6d0884c18.jpg",
+            "publishedAt": "2026-02-15T19:05:01Z",
+            "lang": "mr",
+            "source": {
+                "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+                "name": "BBC",
+                "url": "https://www.bbc.com"
+            }
+        },
+        {
             "id": "81c78f0a60404e8e8fc91bc8220d8892",
             "title": "Ind vs Pak : कोलंबो ठरला इतिहासाचा साक्षीदार! ईशान किशनचं वादळ, पाकिस्तान हादरला, भारताचा सर्वात मोठा स्कोर",
             "description": "India vs Pakistan T20 World Cup 2026 : श्रीलंकेतील कोलंबो येथील आर. प्रेमदासा स्टेडियमवर टी-20 विश्वचषक 2026 च्या सामन्यात भारत आणि पाकिस्तान आमनेसामने आले.",
@@ -609,21 +624,6 @@
                 "id": "d0ecbd318b81c0114aad430372084c1a",
                 "name": "ABP Majha",
                 "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "5e1514a802feffc7a8a51bddb1c7a01a",
-            "title": "Pakistan Playing XI : सगळे उस्मान तारिक करत राहिले, पण बुमराहचा दुश्मन ठरणार डोकेदुखी! कशी असेल पाकिस्तानची प्लेइंग इलेव्हन?",
-            "description": "Pakistan Playing XI Against India : साहिबजादा फरहान याने जसप्रीत बुमराहला सिक्स मारून आपली ताकद दाखवली होती. त्यामुळे तो टीम इंडियासाठी डोकेदुखी ठरू शकतो.",
-            "content": "Published by :\nLast Updated:Feb 15, 2026 11:24 AM IST\nPakistan Playing XI Against India : साहिबजादा फरहान याने जसप्रीत बुमराहला सिक्स मारून आपली ताकद दाखवली होती. त्यामुळे तो टीम इंडियासाठी डोकेदुखी ठरू शकतो.\nPakistan vs India, T20 WC : टी-20 वर्ल्ड ... [1859 chars]",
-            "url": "https://news18marathi.com/sport/pakistan-playing-xi-against-india-not-usman-tariq-sahibzada-farhan-will-become-threaten-in-t20-world-cup-2026-1618957.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/02/Pakistan-Playing-XI-Against-India-Not-Usman-Tariq-2026-02-8f9113d693afb7dcb44873fb4230c769-16x9.jpg",
-            "publishedAt": "2026-02-15T05:54:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
             }
         }
     ],

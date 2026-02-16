@@ -475,6 +475,157 @@
             }
         }
     ],
-    "sports": [],
+    "sports": [
+        {
+            "id": "7bd58e9ecf0da56290615bd2725a9863",
+            "title": "Ind vs Pak : भारताचा पाकिस्तानवर 61 धावांनी मोठा विजय, सुपर 8 साठी क्वालिफाय; ईशान किशन विजयाचा शिल्पकार",
+            "description": "ईशान किशनच्या 40 चेंडूत तडाखेबाज 77 धावांच्या जोरावर भारतानं पाकिस्तानसमोर विजयासाठी 176 धावांचं आव्हान ठेवलं होतं. पण पाकिस्तानचा संपूर्ण संघ 114 धावांवर गारद झाला.",
+            "content": "टी 20 वर्ल्ड कप : भारताचा पाकिस्तानवर 61 धावांनी मोठा विजय, सुपर 8 साठी क्वालिफाय; ईशान किशन विजयाचा शिल्पकार\n15 फेब्रुवारी 2026, 12:58 IST\nअपडेटेड 2 तासांपूर्वी\nवाचन वेळ: 5 मिनिटे\nपुरुषांच्या ट्वेन्टी20 विश्वचषकाच्या साखळी फेरीत भारतानं पाकिस्तानचा ... [6190 chars]",
+            "url": "https://www.bbc.com/marathi/articles/c77er8e3dlko",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_marathi/823c/live/98055250-0a90-11f1-b7e1-afb6d0884c18.jpg",
+            "publishedAt": "2026-02-15T19:05:01Z",
+            "lang": "mr",
+            "source": {
+                "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+                "name": "BBC",
+                "url": "https://www.bbc.com"
+            }
+        },
+        {
+            "id": "81c78f0a60404e8e8fc91bc8220d8892",
+            "title": "Ind vs Pak : कोलंबो ठरला इतिहासाचा साक्षीदार! ईशान किशनचं वादळ, पाकिस्तान हादरला, भारताचा सर्वात मोठा स्कोर",
+            "description": "India vs Pakistan T20 World Cup 2026 : श्रीलंकेतील कोलंबो येथील आर. प्रेमदासा स्टेडियमवर टी-20 विश्वचषक 2026 च्या सामन्यात भारत आणि पाकिस्तान आमनेसामने आले.",
+            "content": "India vs Pakistan T20 World Cup 2026 : श्रीलंकेतील कोलंबो येथील आर. प्रेमदासा स्टेडियमवर टी-20 विश्वचषक 2026 च्या 27 व्या सामन्यात भारत आणि पाकिस्तान आमनेसामने आले. प्रथम फलंदाजी करताना टीम इंडियाने 20 षटकांत 7 बाद 175 धावा केल्या. भारत विरुद्ध पाकिस... [1254 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/india-set-176-run-target-vs-pakistan-t20-world-cup-ishan-kishan-saim-ayub-ind-vs-pak-biggest-total-marathi-news-1412876",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/15/343222483eceb947702002dc0243001f17711691999261091_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-02-15T15:33:02Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "352adc2350b1803f8f06133138bd55a4",
+            "title": "IND vs PAK : अभिषेक शर्मा बाद होताच रोहित शर्माची अशी होती प्रतिक्रिया, फोटो व्हायरल",
+            "description": "टी20 वर्ल्डकप 2026 स्पर्धेत भारत आणि पाकिस्तान यांच्यात सामना होत आहे. या सामन्यात अभिषेक शर्माने निराशा केली. चार चेंडूंचा सामना केला आणि शून्यावर बाद झाला. अभिषेक शर्मा बाद होताच रोहित शर्माची प्रतिक्रिया व्हायरल झाली आहे.",
+            "content": "टी20 वर्ल्डकप स्पर्धेच्या हायव्होल्टेज सामन्यात भारत पाकिस्तान हे संघ आमनेसामने आले आहेत. नाणेफेकीचा कौल गमावल्याने भारताच्या वाटेला प्रथम फलंदाजी आली. भारताने या सामन्यात 20 षटकांचा सामना केला आणि 7 विकेट गमवून 175 धावा केल्या. तसेच पाकिस्तानसमोर वि... [1488 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/t20-wc-2026-ind-vs-pak-match-abhishek-sharma-out-on-zero-rohit-nurvous-reaction-photo-goes-viral-1606689.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/02/Abhishek_Sharma_Rohit.jpg",
+            "publishedAt": "2026-02-15T15:18:02Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "a410e1ec8cd07075e80b68fa93be843e",
+            "title": "Ishan Kishan Ind vs Pak : वादळी खेळणाऱ्या ईशान किशनला 'ती' चूक नडली, शतक हुकलं अन् पाकिस्तानला हायसं वाटलं, पाहा Video",
+            "description": "Ishan Kishan Ind vs Pak T20 World Cup : क्रिकेटच्या मैदानात जेव्हा ईशान किशन नावाचं वादळ घोंगावायला लागतं, तेव्हा समोरचा गोलंदाज कोण आहे यानं काहीच फरक पडत नाही.",
+            "content": "Ishan Kishan Ind vs Pak T20 World Cup 2026 : क्रिकेटच्या मैदानात जेव्हा ईशान किशन नावाचं वादळ घोंगावायला लागतं, तेव्हा समोरचा गोलंदाज कोण आहे यानं काहीच फरक पडत नाही. पाकिस्तान विरुद्ध आजच्या सामन्यातही हेच पाहायला मिळालं. पण, दुर्दैवानं हे वादळ जितक... [1351 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/ind-vs-pak-ishan-kishan-77-runs-in-40-balls-pakistan-saim-ayub-ball-ishan-kishan-mistake-t20-world-cup-marathi-news-1412873",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/15/50a7ed6458a35e8a1d9df53a1f0afad617711664617541091_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-02-15T14:41:11Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "530dcfb346e6703f611bb7038c7f28aa",
+            "title": "IND vs PAK Abhishek Sharma : टी-20 वर्ल्डकपमध्ये शून्याचा फेरा! पाकिस्तानविरुद्धही अभिषेक शर्माची पाटी कोरीच, रोहित शर्माची रिॲक्शन व्हायरल",
+            "description": "Abhishek Sharma Flop vs Pakistan : अभिषेक पाकिस्तानविरुद्ध आपले खातेही उघडू शकला नाही आणि शून्य धावांवर बाद झाला.",
+            "content": "Abhishek Sharma Two ducks in T20 World Cup 2026 : कोलंबोतील आर. प्रेमदासा स्टेडियमवर भारत आणि पाकिस्तान यांच्यातील टी-20 विश्वचषक 2026 चा महासंग्राम रंगात आला आहे. पाकिस्तानने नाणेफेक जिंकून भारताला प्रथम फलंदाजीसाठी आमंत्रण दिले आणि सुरुवातीलाच सामन... [1668 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/abhishek-sharma-flop-against-pakistan-salman-ali-agha-takes-wicket-two-ducks-in-two-t20-world-cup-marathi-news-1412870",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/15/b95c538818b267060a69a32fc5ec16da17711644786201091_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-02-15T14:08:58Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "b6e6f5f6390b505e4b85860f45e60b91",
+            "title": "IND vs PAK : सूर्यकुमार यादव नाणेफेकीनंतर आपल्या भूमिकेवर ठाम, आयसीसी स्पर्धेतही पाकिस्तानला दणका",
+            "description": "टी20 वर्ल्डकप स्पर्धेतील 27 व्या सामन्यात भारत आणि पाकिस्तान हे संघ आमनेसामने आले आहेत. या सामन्यात नाणेफेकीनंतर काय होतं? याकडे क्रीडाप्रेमींचं लक्ष लागून होतं. सूर्यकुमार यादव हँडशेक करणार की नाही वगैरे.. या सामन्यातही सूर्यकुमारने आपली भूमिका बदलली नाही. तसेच हँडशेक झालंच नाही.",
+            "content": "टी20 वर्ल्डकप 2026 स्पर्धेतील हायव्होल्टेज सामन्याला सुरुवात झाली आहे. भारत पाकिस्तान संघ अखेर भिडणार आहेत. या सामन्यातील विजेत्या संघाला सुपर 8 फेरीचं तिकीट मिळणार आहे. त्यामुळे हा सामना खूपच महत्त्वाचा आहे. नाणेफेकीचा कौल झाला आणि पाकिस्तानने प्रथम... [1493 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/t20-wc-2026-ind-vs-pak-suryakumar-yadav-refused-to-shake-hands-with-the-pakistani-captain-1606525.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/02/Suryakumar_Yadav_Pak.jpg",
+            "publishedAt": "2026-02-15T13:06:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "69e05a6c6fba4624a921772af5dec835",
+            "title": "IND W vs AUS W 1st T20I : ऑस्ट्रेलियाचा माज उतरवला! भारताने घरात घुसून उडवला धुरळा; 21 धावांनी ऐतिहासिक विजय",
+            "description": "India vs Australia 1st T20I : हरमनप्रीत कौर हिच्या नेतृत्वाखाली भारतीय महिला क्रिकेट संघाने ऑस्ट्रेलियाविरुद्धच्या तीन सामन्यांच्या टी-20 मालिकेत विजयी सुरुवात केली.",
+            "content": "India Women vs Australia Women 1st T20I : हरमनप्रीत कौर हिच्या नेतृत्वाखाली भारतीय महिला क्रिकेट संघाने ऑस्ट्रेलियाविरुद्धच्या तीन सामन्यांच्या टी-20 मालिकेत विजयी सुरुवात केली. रविवारी सिडनी क्रिकेट मैदान येथे झालेल्या पहिल्या टी-20 सामन्यात भारताने... [1837 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/india-women-beat-australia-women-21-run-dls-after-rain-ends-match-arundhati-reddy-marathi-news-1412863",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/15/87190399c32b25d3d3fb09f4d7c9000517711601766541091_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-02-15T12:58:19Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "115d2e70c98b7f8570b37874d7a2f3c8",
+            "title": "IND VS AUS : 134 धावांचं टार्गेट असताना फक्त 50 धावा करून जिंकला भारत, ऑस्ट्रेलियाचा पराभव नेमका कसा झाला?",
+            "description": "IND VS AUS T20 Womens : टीम इंडिया सध्या ऑस्ट्रेलीया दौऱ्यावर असून येथे ते तीन सामन्यांची टी20 सीरीज खेळवली जात आहे. यातील पहिला सामना रविवार 15 फेब्रुवारी रोजी झाला यात भारताचा 21 धावांनी विजय झाला.",
+            "content": "IND VS AUS T20 Womens : भारताचा महिला क्रिकेट संघ सध्या ऑस्ट्रेलीया (Australia) दौऱ्यावर असून येथे ते तीन सामन्यांची टी20 सीरीज खेळवली जात आहे. सिडनी क्रिकेट ग्राऊंडवर खेळवण्यात आलेल्या सामन्यात टी20 सामन्यात टीम इंडियाने (Team India) विजय मिळवलाय. ट... [1950 chars]",
+            "url": "https://zeenews.india.com/marathi/sports/t20-world-cup-2026-ind-vs-aus-womens-team-india-won-match-by-21-runs-againts-australia-dls-method/984413",
+            "image": "https://marathi.cdn.zeenews.com/marathi/sites/default/files/2026/02/15/947713-ind-vs-aus-t20-womens.jpg",
+            "publishedAt": "2026-02-15T12:37:08Z",
+            "lang": "mr",
+            "source": {
+                "id": "06cf65850d8465a5feda17184a020898",
+                "name": "Zee News",
+                "url": "https://zeenews.india.com"
+            }
+        },
+        {
+            "id": "d04f145ad15e75a0dfef4cda819eb545",
+            "title": "Ind vs Pak Live Update : पाकिस्तान संघाने जिंकली नाणेफेक, सूर्याचा मोठा निर्णय; टीम इंडियाच्या प्लेइंग-11 मध्ये 2 धक्कादायक बदल",
+            "description": "Ind vs Pak Live Score Update T20 World Cup 2026 : टी-20 विश्वचषकमध्ये भारत आणि पाकिस्तान यांच्यातील बहुप्रतिक्षित सामना रविवार 15 फेब्रुवारी रोजी कोलंबो येथील आर. प्रेमदासा स्टेडियम येथे रंगणार आहे.",
+            "content": "India vs Pakistan Live Update T20 World Cup 2026 In Marathi : आयसीसी पुरुष टी-20 विश्वचषकमध्ये भारत आणि पाकिस्तान यांच्यातील बहुप्रतिक्षित सामना रविवार, 15 फेब्रुवारी रोजी कोलंबो येथील आर. प्रेमदासा स्टेडियम येथे रंगणार आहे. स्पर्धेची दमदार सुरुवात क... [1363 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/ind-vs-pak-live-score-t20-world-cup-2026-suryakumar-yadav-salman-agha-colombo-weather-15-february-india-vs-pakistan-scorecard-update-marathi-news-1412808",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/15/24def9332f7d9c0fcb260e8b9b5d9d6e17711392039121091_original.jpeg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-02-15T12:26:41Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "c86dec1ded79d191fe56823479cf752c",
+            "title": "India A vs Pakistan A Live Score Updates : भारताचा दणदणीत विजय, महिला ब्रिगेडने पाकिस्तानला 8 विकेट्सने लोळवलं",
+            "description": "India vs Pakistan, ACC Womens Asia Cup Rising Stars 2026 Score And Highlights and In Marathi: वूमन्स आशिया कप रायजिंग स्टार्स 2026 स्पर्धेतील सहाव्या सामन्यात भारत ए संघाने कट्टर आणि पारंपरिक प्रतिस्पर्धी असलेल्या पाकिस्तानला पराभूत केलं आहे. भारतीय महिला संघाने पाकिस्तानवर 8 विकेट्सने मात केली.",
+            "content": "IND A vs PAK A, Live Score Updates : भारताचा दणदणीत विजय, पाकिस्तानला लोळवलं\nइंडिया ए टीमने राधा यादव हीच्या नेतृत्वात पाकिस्तान ए संघाचा एकतर्फी फरकाने धुव्वा उडवला आहे. भारताने यासह आशिया कप वुमन्स रायजिंग स्टार्स 2026 स्पर्धेतील आपल्या दुसऱ्या साम... [4275 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/india-a-vs-pakistan-a-acc-womens-asia-cup-rising-stars-2026-live-cricket-score-ind-vs-pakistan-todays-match-highlights-latest-news-in-marathi-1606224.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/02/Radha-Yadav-India-A-v-Pakistan-A-Asia-Cup-2026.jpg",
+            "publishedAt": "2026-02-15T11:31:03Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        }
+    ],
     "entertainment": []
 }

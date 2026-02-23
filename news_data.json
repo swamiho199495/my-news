@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "4aec5a58d2cb34da22f660b2f8357ee6",
+            "title": "Amitabh Bachchan: \"एक 'पण' येतो आणि माझा दिवस...\", 40 वर्षात पहिल्यांदाच घडलं असं काही... चाहत्यांच्या काळजाचा ठोका चुकला",
+            "description": "Amitabh Bachchan: गेल्या 40 वर्षांत पहिल्यांदाच एक गोष्ट घडली आहे, ज्यामुळे अमिताभ बच्चन यांच्या चाहत्यांना मोठा धक्का बसला आहे.",
+            "content": "2/ 11\nमुंबईतील जुहू परिसरात दर रविवारी एक वेगळंच दृश्य पाहायला मिळतं. ऊन असो वा पाऊस, हजारो डोळे एकाच दिशेला लागलेले असतात, तो म्हणजे अमिताभ बच्चन यांचा 'जलसा' बंगला. गेल्या 40 वर्षांहून अधिक काळ शहेनशहा आपल्या चाहत्यांना अभिवादन करण्यासाठी घराबाहेर ... [1230 chars]",
+            "url": "https://news18marathi.com/photogallery/entertainment/amitabh-bachchan-something-like-this-happened-for-the-first-time-in-40-years-fans-hearts-skipped-a-beat-1625496.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/01/Amitabh-Bachchan-8-2026-01-fa1d52878104d06dd21eb461bed54c39-16x9.jpg",
+            "publishedAt": "2026-02-23T00:46:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
             "id": "8fabade4b132881ac4301ceb604115b7",
             "title": "Taapsee Pannu: \"जर मला कंगना भेटली तर...\", 'सस्ती कॉपी' प्रकरणावर तापसी पन्नू जरा स्पष्टच बोलली",
             "description": "प्रसिद्ध बॉलिवूड अभिनेत्री कंगना रणौत आणि तापसी पन्नूमधला वाद आता पुन्हा एकदा चर्चेत आला आहे. गेल्या अनेक वर्षांपासूनचा असलेला वाद आता पुन्हा एकदा चर्चेत आला आहे.",
@@ -133,21 +148,6 @@
                 "id": "06cf65850d8465a5feda17184a020898",
                 "name": "Zee News",
                 "url": "https://zeenews.india.com"
-            }
-        },
-        {
-            "id": "5de59b161f53e4b83e0c21022d5b5349",
-            "title": "IDFC फर्स्ट बँकेत 590 कोटी रुपयांचा मोठा घोटाळा, कर्मचाऱ्यांनीच निधीचा केला अपहार, बँकिंग क्षेत्रात खळबळ",
-            "description": "IDFC Bank News : चंदीगडमधील आयडीएफसी फर्स्ट बँकेच्या एका प्रमुख शाखेत कोट्यवधी रुपयांचा मोठा घोटाळा उघडकीस आला आहे.",
-            "content": "IDFC Bank News : चंदीगडमधील आयडीएफसी फर्स्ट बँकेच्या एका प्रमुख शाखेत कोट्यवधी रुपयांचा मोठा घोटाळा उघडकीस आला आहे. बँकेने अधिकृतपणे कबूल केले आहे की या शाखेत 590 कोटी रुपयांचा मोठा घोटाळा झाला आहे. सर्वात धक्कादायक बाब म्हणजे हा संपूर्ण आर्थिक घोटाळ... [1920 chars]",
-            "url": "https://marathi.abplive.com/business/idfc-first-bank-big-scam-of-rs-590-crore-underfunding-of-employees-chaos-in-banking-sector-1413750",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/22/1638c505fe5fa6c37b2a57197e53ab481771764197745339_original.JPG?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-02-22T12:43:32Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
             }
         }
     ],

@@ -475,6 +475,157 @@
             }
         }
     ],
-    "sports": [],
+    "sports": [
+        {
+            "id": "ba4108071cf58ca96697b780979ad0a0",
+            "title": "T20 World Cup : झिम्बाब्वेच्या पराभवाने बिघडलं सेमी फायनलचं गणित, टीम इंडियाला 24 तासात दुसरा धक्का!",
+            "description": "टी-20 वर्ल्ड कपच्या सुपर-8 मध्ये वेस्ट इंडिजने झिम्बाब्वेचा दारूण पराभव केला आहे, पण या पराभवाचा धक्का टीम इंडियाला बसला आहे. वेस्ट इंडिजच्या विजयामुळे टीम इंडियाचं सेमी फायनलचं समीकरण आणखी कठीण झालं आहे.",
+            "content": "2/ 7\nवेस्ट इंडिजने दिलेल्या 255 रनच्या आव्हानाचा पाठलाग करताना झिम्बाब्वेचा 147 रनवर ऑलआऊट झाल्यामुळे त्यांचा 107 रननी पराभव झाला आहे. झिम्बाब्वेचा हा पराभव मात्र टीम इंडियासाठी आणखी अडचणीचा ठरणार आहे.\n3/ 7\nझिम्बाब्वेविरुद्ध 107 रननी विजय मिळवल्यामुळ... [780 chars]",
+            "url": "https://news18marathi.com/photogallery/sport/t20-world-cup-west-indies-beat-zimbabwe-problem-for-team-india-in-semi-final-race-1626378.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/02/ind-zim-2026-02-a3eec33451715afffba933265f5292db-16x9.jpg",
+            "publishedAt": "2026-02-23T17:45:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "e48cb54c6a3102d5b63ae58d5c1b1dc5",
+            "title": "Abhishek Sharma: टीम इंडियाने लपवले मोठे सत्य; अभिषेक शर्मा तीन वेळा शून्यावर बाद होण्याचे कारण समोर",
+            "description": "भारतीय संघासमोर सध्या एक मोठी चिंता आहे आणि ती म्हणजे अभिषेक शर्माचा फॉर्म. पण आता अभिषेकबाबत एक मोठी बातमी समोर आली आहे.",
+            "content": "अहमदाबाद: सध्या टी-20 विश्वचषक सुरु आहे. भारतीय संघाने विश्वचषकातील लीग स्टेजचे सगळे सामने जिंकले. पण सुपर आठमधील पहिल्याच सामन्यात भारताची हालत खराब झाली. भारतीय संघासमोर एक मोठी चिंता आहे आणि ती म्हणजे Abhishek Sharma . अभिषेक शर्मा तीन सामन्यात शू... [2240 chars]",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/t20-world-cup-2026-team-india-hide-abhishek-sharma-serious-injury/articleshow/128723574.cms",
+            "image": "https://static.langimg.com/mt/thumb/128724330/abhishek-sharma-injury.jpg?imgsize=47282&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-02-23T17:33:56Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "98e50feda8298139aad2ee4b11c99a30",
+            "title": "T20 World Cup 2026 : वेस्ट इंडिजचा झिम्बाब्वेवर दणदणीत विजय, सुपर 8 च्या गुणतालिकेत बदल, टीम इंडियाच्या अडचणी वाढल्या",
+            "description": "T20 World Cup 2026: वेस्ट इंडिजनं झिम्बाब्वेवर मोठा विजय मिळवला आहे. यामुळं सुपर मध्ये ग्रुप 1 च्या गुणतालिकेत बदल झाला आहे.",
+            "content": "मुंबई : टी 20 वर्ल्ड कपमधील सुपर 8 चे सामने सध्या सुरु आहेत. ग्रुप 1 मध्ये आज वेस्ट इंडिज आणि झिम्बाब्वे यांच्यात लढत होती. झिम्बाब्वेनं प्रथम टॉस जिंकून गोलंदाजी करण्याचा निर्णय घेतला तो त्यांना महागात पडला. वेस्ट इंडिजनं प्रथम फलंदाजी करताना 20 ओव्... [1858 chars]",
+            "url": "https://marathi.abplive.com/sports/world-cup/t20-world-cup-2026-west-indies-beat-zimbabwe-by-107-runs-marathi-news-1413890",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/23/1e0ea07dd9032997f45c160f5d86251c1771867580745989_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-02-23T17:28:48Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "b8388286043d42a791f2ef088d8e9996",
+            "title": "T20 WC 2026 Semi Final : वेस्ट इंडिजच्या विजयाने भारताचं टेन्शन वाढलं, आता सर्वस्व दक्षिण अफ्रिकेवर अवलंबून",
+            "description": "टी20 वर्ल्डकप स्पर्धेतील सुपर 8 फेरीतील तिसरा सामना वेस्ट इंडिज आणि झिम्बाब्वे यांच्यात पार पडला. या सामन्यात वेस्ट इंडिजने झिम्बाब्वेचा धावांनी पराभव केला आणि गुणतालिकेत मोठी उलथापालथ केली आहे.",
+            "content": "टी20 वर्ल्डकप 2026 स्पर्धेच्या सुपर 8 फेरीत वेस्ट इंडिजचा संघ दक्षिण अफ्रिकेपेक्षा वरचढ ठरला आहे. त्यामुळे टीम इंडियाचं टेन्शन वाढलं आहे. कारण आता उपांत्य फेरीचं गणित आणखी किचकट झालं आहे. त्यामुळे भारताला आता सर्वस्वी दक्षिण अफ्रिकेवर अवलंबून राहावं ... [2147 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/t20-wc-2026-super-8-west-indies-victory-increases-indias-tension-now-everything-depends-on-south-africa-1612738.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/02/T20_WI_SA_IND_ZIM.jpg",
+            "publishedAt": "2026-02-23T17:16:40Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "422d25bf923905715eb330ad0055f8c9",
+            "title": "T20 World Cup 2026: पाकिस्तानचा गेम ओव्हर! आयसीसीचा एक निर्णय पडणार इंग्लंडच्या पथ्यावर",
+            "description": "टी20 वर्ल्डकप स्पर्धेतील सुपर 8 फेरीचे सामने सुरू आहे. आता पहिल्या टप्प्यातील सामने संपले असून दुसऱ्या टप्पा सुरू होणार आहे. त्यामुळे पाकिस्तानची धाकधूक वाढली आहे. कारण पहिला सामना ड्रॉ झाला आणि दुसऱ्या सामन्यापूर्वी आयसीसीचा निर्णय डोकेदुखी ठरणार आहे.",
+            "content": "टी20 वर्ल्डकप 2026 स्पर्धेतील सुपर 8 फेरीतील गट 2 मध्ये इंग्लंडची कामगिरी जबरदस्त राहिली आहे. पहिल्या सामन्यात श्रीलंकेचा दारूण पराभव केला. त्यानंतर आता पाकिस्तानचं आव्हान असणार आहे. खरं तर हा सामना पाकिस्तानसाठी शेवटचा सामना ठरू शकतो. कारण या सामन्य... [1636 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/t20-world-cup-2026-pakistan-vs-england-pallekele-pitch-help-for-fast-bowler-says-pakistani-media-1612574.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/02/Pakistan_Cricket_Team-5.jpg",
+            "publishedAt": "2026-02-23T12:37:43Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "f2b0796078b73aa83b28af404d52153c",
+            "title": "बेडरूमच्या भिंतीवरील 'त्या' खुणेने लैंगिक शोषण करणाऱ्या गुन्हेगाराला कसं पकडलं?",
+            "description": "एकीकडे तिला वाचवण्यासाठी पोलीस अटोकाट प्रयत्न करत होते, तर दुसरीकडे गुन्हेगाराकडून पुरावे पद्धतशीरपणे नष्ट करण्यात येत होते.",
+            "content": "Author, सॅम पिरँटी\nRole, बीबीसी आय इन्वेस्टिगेशन्स\n22 फेब्रुवारी 2026\nवाचन वेळ: 8 मिनिटे\n(इशारा: या लेखामध्ये लैंगिक शोषणाबद्दलचे काही अस्वस्थ करणारे तपशील आहेत.)\n40 हजार घरांचं एक अथांग जाळं आणि त्यामध्ये कुठेतरी कैद करून ठेवण्यात आलेली एक चिमुरडी.\n... [9405 chars]",
+            "url": "https://www.bbc.com/marathi/articles/c89kgvl7lg3o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_marathi/fcef/live/8a995c80-0fc0-11f1-9120-a910fc22c6ac.jpg",
+            "publishedAt": "2026-02-23T09:35:31Z",
+            "lang": "mr",
+            "source": {
+                "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+                "name": "BBC",
+                "url": "https://www.bbc.com"
+            }
+        },
+        {
+            "id": "fab1fcd550c9572efbf16d08918a4d10",
+            "title": "Rahul Dravid T20 World Cup 2026 : झिम्बाब्वे फायनलमध्ये, तर टीम इंडिया...; राहुल द्रविड यांची मोठी भाकीत! क्रिकेटमध्ये होणार उलटफेर?",
+            "description": "Rahul Dravid Prediction For T20 World Cup 2026 Final : राहुल द्रविड यांनी टी-20 वर्ल्ड कप 2026 संदर्भात मोठं विधान केलं आहे.",
+            "content": "Rahul Dravid Prediction For T20 World Cup 2026 Final : राहुल द्रविड यांनी टी-20 वर्ल्ड कप 2026 संदर्भात मोठं विधान केलं आहे. टी-20 वर्ल्ड कप 2024 मध्ये टीम इंडियाला विजेतेपद मिळवून देणारे माजी मुख्य प्रशिक्षक द्रविड यांना वाटतं की, भारतासोबत अंतिम सा... [1456 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/rahul-dravid-reveals-dream-zimbabwe-final-for-t20-world-cup-2026-vs-india-cricket-news-marathi-1413844",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/23/adbd4dbb63600640b36b6d6a8ff4bf3a17718400012461091_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-02-23T08:34:38Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "d6d2eb366c8f51f12d9170f4d2be9948",
+            "title": "T20 World Cup 2026 : हरल्यानंतर अभिषेक शर्माबद्दल खळबळजनक खुलासा, टीम इंडियाने इतकी मोठी गोष्ट लपवली",
+            "description": "T20 World Cup 2026 : अभिषेक शर्मा सध्या आऊट ऑफ फॉर्म आहे. चालू वर्ल्ड कपमध्ये धावांसाठी त्याचा संघर्ष सुरु आहे. तीनवेळा तो शुन्यावर आऊट झाला. एका सामन्यात पोटदुखीमुळे त्याला रुग्णालयात दाखल करावं लागलं होतं. आता त्याच्याबद्दल एक धक्कादायक खुलासा झालाय.",
+            "content": "Abhishek Sharma T20 World Cup 2026 : टी20 वर्ल्ड कप 2026 सुरु असताना टीम इंडियाचा ओपनर अभिषेक शर्माबद्दल धक्कादायक खुलासा झाला आहे. टुर्नामेंट सुरु होण्याआधी अभिषेक शर्माला गंभीर दुखापत झाली होती. पण टीम मॅनेजमेंटने या बद्दल लपवून ठेवलं. पहिल्या सामन... [1571 chars]",
+            "url": "https://www.tv9marathi.com/sports/abhishek-sharma-got-cut-on-hand-during-the-team-photoshoot-before-t20-world-cup-2026-ind-vs-sa-1612318.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/02/abhishek-sharma-5.jpg",
+            "publishedAt": "2026-02-23T08:29:09Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "caa63c5fc8d727a37a533a3de9551894",
+            "title": "IND vs SA Super-8 : टीम इंडियाच्या पराभवानंतर हफीजपासून ते शोएब अख्तरपर्यंत सगळ्यांनी चोळलं जखमेवर मीठ, पाकिस्तानी खेळाडू काय म्हणालं?",
+            "description": "Pakistani Cricketers Spew Venom Over Team India Defeat : सुपर-८ फेरीत दक्षिण आफ्रिकेकडून झालेल्या लाजिरवाण्या पराभवानंतर टीम इंडियावर टीकेची झोड उठली आहे.",
+            "content": "Pakistani Cricketers Spew Venom Over Team India Defeat : सुपर-८ फेरीत दक्षिण आफ्रिकेकडून झालेल्या लाजिरवाण्या पराभवानंतर टीम इंडियावर टीकेची झोड उठली आहे. विशेष म्हणजे पाकिस्तानातील माजी क्रिकेटपटूंनीही टीव्ही शोमध्ये बसून भारतीय संघावर जोरदार टीका क... [1749 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/team-india-defeat-against-south-africa-pakistan-cricketers-saqlain-mushtaq-to-shoaib-akhtar-who-said-what-marathi-news-1413836",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/23/786c2ed2b22fc71013365bfd1a57e6d117718323775271091_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-02-23T07:40:59Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "533095e947beb9a364d940ac8e27aedb",
+            "title": "India Playing 11 vs Zimbabwe : पराभवानंतर खळबळ! द. आफ्रिकेच्या धक्क्यानंतर टीम मॅनेजमेंट अ‍ॅक्शन मोडमध्ये; पुढच्या सामन्यात प्लेइंग-11 मधून 4 खेळाडू OUT?",
+            "description": "India Playing 11 vs Zimbabwe Super 8 : दक्षिण आफ्रिकेकडून झालेल्या 76 धावांच्या दारुण पराभवानंतर भारतीय संघाच्या तयारीवर मोठे प्रश्नचिन्ह उभे राहिले आहे.",
+            "content": "India vs Zimbabwe Super 8 ICC T20 World Cup 2026 : आयसीसी टी-20 विश्वचषक 2026 च्या सुपर-8 फेरीत दक्षिण आफ्रिकेकडून झालेल्या 76 धावांच्या दारुण पराभवानंतर भारतीय संघाच्या तयारीवर मोठे प्रश्नचिन्ह उभे राहिले आहे. नरेंद्र मोदी स्टेडियम येथे खेळल्या गेले... [1978 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/india-playing-11-vs-zimbabwe-super-8-t20-world-cup-2026-4-players-likely-dropped-after-defeat-south-africa-marathi-news-1413827",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/23/a10ca6a1dc5d32ac01c19c912859cab117718297533171091_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-02-23T06:57:49Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        }
+    ],
     "entertainment": []
 }

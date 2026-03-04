@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "1dddbb0d527cbd2d5de5b8f0aeb8fb05",
+            "title": "Kolhapur Accident : दोन दुचाकींची समोरासमोर धडक; दोघे ठार, दोघे गंभीर",
+            "description": "कागल तालुक्यातील बामणी येथे दोन दुचाकींची समोरासमोर भीषण धडक होऊन झालेल्या भीषण अपघातात दोघांचा जागीच मृत्यू झाला.",
+            "content": "सिद्धनेर्ली : कागल तालुक्यातील बामणी येथे दोन दुचाकींची समोरासमोर भीषण धडक होऊन झालेल्या भीषण अपघातात दोघांचा जागीच मृत्यू झाला, तर दोघेजण गंभीर जखमी झाले. अविनाश झेंडे (रा. साळशी, ता. शाहूवाडी) आणि अविनाश भीमराव पाटील (वय ३२, रा.कोगील, ता. करवीर) अश... [962 chars]",
+            "url": "https://pudhari.news/maharashtra/kolhapur/kolhapur-head-on-collision-two-bikes-two-killed-two-injured-dc95",
+            "image": "https://media.assettype.com/pudharinews%2F2026-03-03%2Fmrqmu40q%2FCopy-of-%E0%A4%A4%E0%A4%82%E0%A4%9F%E0%A4%BE%E0%A4%AE%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4-%E0%A4%97%E0%A4%BE%E0%A4%B5-2026-03-03T234433.838.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-03-03T18:17:35Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari News",
+                "url": "https://pudhari.news"
+            }
+        },
+        {
             "id": "c2296186adcfd64f0341c18e21d10699",
             "title": "पीरियड्स दरम्यान अभिनेत्री शूट केलेलं 'धुरंधर'चं गाण, खुलासा करुन झाली ट्रोल; 'मला लाज वाटत नाही'",
             "description": "Dhurandhar Song:बिग बॉस फेम आयशा खानचे आदित्य धरच्या ब्लॉकबस्टर चित्रपट 'धुरंधर'मधील 'शरारत' हे डान्स गाणे देशभरात लोकप्रिय झाले. या गाण्यात आयशा टीव्ही एक्ट्रेस क्रिस्टल डिसूजासोबत दिसली. शाश्वत सचदेवने कंपोज केलेल्या या गाण्याने सर्वांना नाचायला भाग पाडले. नुकत्याच एका मुलाखतीत आयशाने सांगितले की, या गाण्याच्या शूटिंगदरम्यान तिला पीरियड्स होते. ही सामान्य गोष्ट असली तरी या खुलाशानंतर सोशल मीडियावर तिची चर्चा सुरू झाली. यावर आयशाने स्पष्टीकरण दिलंय.",
@@ -121,33 +136,18 @@
             }
         },
         {
-            "id": "c60136bd35c514eaff2f6d21ddb85cfd",
-            "title": "'आमच्या संघात वसीम अक्रम, शोएब अख्तर असते तरी आम्ही हारलो असतो', पाकिस्तानी खेळाडू संतापला",
-            "description": "Rashid Latif blames Salman Ali Agha and the coaching staff for T20WC Exit: श्रीलंकेविरोधातील सामना जिंकल्यानंतरही पाकिस्तान संघ टी-20 वर्ल्डकपमधून बाहेर पडला आहे. यानंतर त्यांच्या देशातून मोठ्या प्रमाणात टीका होत आहे.",
-            "content": "Rashid Latif blames Salman Ali Agha and the coaching staff for T20WC Exit: पाकिस्तान क्रिकेट संधआचा माजी यष्टीरक्षक-फलंदाज रशीद लतीफने टी-20 वर्ल्डकपमधील अपयशासाठी कर्णधार सलमान अली आगा आणि कोचिंग स्टाफला जबाबदार धरलं आहे. शनिवारी झालेल्या सामन्यात प... [2321 chars]",
-            "url": "https://zeenews.india.com/marathi/sports/t20-world-cup-former-wicketkeeper-batter-rashid-latif-says-would-have-lost-even-with-wasim-akram/989576",
-            "image": "https://marathi.cdn.zeenews.com/marathi/sites/default/files/2026/03/03/952252-pakistan.jpg",
-            "publishedAt": "2026-03-03T11:40:31Z",
+            "id": "725aa6887a5ecb471fecf002cd194691",
+            "title": "T20 WC: खराब कामगिरीनंतर पाकिस्तानची पहिली विकेट पडली, कर्णधार-प्रशिक्षकाबाबत लवकरच निर्णय",
+            "description": "T20 World Cup Pakistan failure: टी20 वर्ल्डकप 2026 स्पर्धेपूर्वी नाटकं करणाऱ्या पाकिस्तान संघाची पुरती वाट लागली आहे. या स्पर्धेत सर्व काही मनासारखं मिळूनही स्पर्धेतून गाशा गुंडाळावा लागला आहे. त्यामुळे पाकिस्तान क्रिकेट बोर्डाचा संताप झाला आहे.",
+            "content": "टी20 वर्ल्डकप 2026 स्पर्धेपूर्वी पाकिस्तान संघाबाबत बरीच चर्चा रंगली होती. ऑस्ट्रेलियाला 3-0 ने मात दिल्याने छाती बेडकीसारखी फुगली होती. त्यानंतर टी20 वर्ल्डकप स्पर्धेत सुरूवातीचे दोन सामने जिंकल्याने पार हवेत गेले होते. पण साखळी फेरीतील तिसर्‍या भार... [1581 chars]",
+            "url": "https://www.tv9marathi.com/sports/cricket-news/aleem-dar-a-key-member-of-the-pakistan-cricket-teams-selection-committee-has-resigned-reports-say-1618478.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/03/Pakistan_Cricket-1.jpg",
+            "publishedAt": "2026-03-03T12:02:50Z",
             "lang": "mr",
             "source": {
-                "id": "06cf65850d8465a5feda17184a020898",
-                "name": "Zee News",
-                "url": "https://zeenews.india.com"
-            }
-        },
-        {
-            "id": "7368fa18352c6975d95a463eaf7af3ce",
-            "title": "Kitchen Hacks : 'या' ट्रिकने तपासा किती शिल्लक आहे गॅस; सिलेंडर संपल्यावर ऐनवेळी होणारी धावाधाव टळेल!",
-            "description": "how to check gas in cylinder : एका महिन्यातच संपेल किंवा 2 महिन्यात संपेल असे ठरलेले नसते. म्हणून आपल्याला गॅस किती शिल्लक आहे हे तपासता येणं सोयीचं असतं. आज आम्ही तुम्हाला यासाठीच एक भन्नाट ट्रिक सांगत आहोत.",
-            "content": "Published by :\nLast Updated:Mar 03, 2026 4:23 PM IST\nhow to check gas in cylinder : एका महिन्यातच संपेल किंवा 2 महिन्यात संपेल असे ठरलेले नसते. म्हणून आपल्याला गॅस किती शिल्लक आहे हे तपासता येणं सोयीचं असतं. आज आम्ही तुम्हाला यासाठीच एक भन्नाट ट्रिक ... [1992 chars]",
-            "url": "https://news18marathi.com/lifestyle/how-to-check-gas-in-cylinder-simple-tips-to-check-how-much-gas-is-remaining-in-cylinder-1633475.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/03/Untitled-design-2026-03-03T161904.465-2026-03-6186260cc8776879e78d8b09bc0758db-1200x675.jpg",
-            "publishedAt": "2026-03-03T10:53:03Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
             }
         }
     ],

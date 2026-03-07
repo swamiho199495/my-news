@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "eff9f91768b13fc4760ad0666524161d",
+            "title": "नाशिकमध्ये सव्वा कोटींची लाच मागणारे राज्य जीएसटी उपायुक्त, सहाय्यक आयुक्त जाळ्यात",
+            "description": "Nashik Gst Deputy Commissioner And Assistant Commissioner Arrested For One Crore Bribe Rub 99 - जीएसटी तपास लवकर पूर्ण करण्यासाठी १.२५ कोटींची लाच मागणाऱ्या दोन वरिष्ठ अधिकाऱ्यांसह एका खाजगी इसमाला नाशिकमध्ये अटक करण्यात आली आहे. २० लाखांचा पहिला हप्ता स्वीकारताना 'एसीबी'ने ही कारवाई केली.. Latest Marathi News (मराठी बातम्या). Find Latest Nashik news in Marathi at Loksatta.com",
+            "content": "वस्तू व सेवा कर कार्यालयातील राज्य कर उपायुक्त सोमनाथ दत्तू पागे (४७, दीप दर्शन, आदर्शनगर, चाणक्य पूरी रोड, दिंडोरी रोड, म्हसरूळ, नाशिक), सहायक राज्यकर आयुक्त मच्छिंद्र विठ्ठल दोंदे (५५, समर्थ ब्लॉसम अपार्टमेंट, चेरी गार्डन लेन, गंगापूर पोलीस ठाण्याच... [1706 chars]",
+            "url": "https://www.loksatta.com/nashik/nashik-gst-deputy-commissioner-and-assistant-commissioner-arrested-for-one-crore-bribe-rub-99-5756178/",
+            "image": "https://images.loksattaimg.com/2026/03/nashik-gst.jpg",
+            "publishedAt": "2026-03-06T20:47:53Z",
+            "lang": "mr",
+            "source": {
+                "id": "62d1010536af7ab30a2a024770aa0e02",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com"
+            }
+        },
+        {
             "id": "beb2f1a21bb56745d474979d67ff682c",
             "title": "Horoscope Today 7 March 2026: आज शनिवारचा दिवस 7 राशींसाठी भाग्याचा! शनिदेवांच्या कृपेने लवकरच साडेसातीतून मुक्तता, आजचे राशीभविष्य वाचा...",
             "description": "Horoscope Today 7 March 2026: आज शनिवारचा दिवस 12 राशींसाठी कसा असेल? कोणासाठी दिवस फलदायी ठरेल? आजचे राशीभविष्य जाणून घ्या...",
@@ -128,21 +143,6 @@
             "url": "https://www.esakal.com/kokan/todays-latest-marathi-news-kop26d81059-txt-ratnagiri-20260306125449",
             "image": "https://media.assettype.com/esakal%2F2026-03-06%2Fe4vb0yze%2Fratnagiri_default_banner_1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
             "publishedAt": "2026-03-06T12:54:49Z",
-            "lang": "mr",
-            "source": {
-                "id": "9b7ea871fc552e5338bb7d66d4ff9a55",
-                "name": "Esakal",
-                "url": "https://www.esakal.com"
-            }
-        },
-        {
-            "id": "d3db72fdec3ae20f77a682bee4c1a747",
-            "title": "ज्येष्ठ दिग्दर्शक रमेश साळगावकर यांचे निधन",
-            "description": "ज्येष्ठ दिग्दर्शक रमेश साळगावकर यांचे निधन",
-            "content": "मुंबई, ता. ६ : मराठी चित्रपटसृष्टीतील ज्येष्ठ दिग्दर्शक रमेश साळगावकर यांचे दीर्घ आजाराने शुक्रवारी सकाळी दादर येथील त्यांच्या राहत्या घरी निधन झाले. ते ८० वर्षांचे होते. त्यांच्या निधनाने मराठी चित्रपटसृष्टीत शोककळा पसरली आहे. त्यांच्या पार्थिवावर आ... [868 chars]",
-            "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mum26i61290-txt-mumbai-20260306122100",
-            "image": "https://media.assettype.com/esakal%2F2026-03-06%2Fg5123m5l%2Fmumbai_fallback_image.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-03-06T12:21:00Z",
             "lang": "mr",
             "source": {
                 "id": "9b7ea871fc552e5338bb7d66d4ff9a55",
@@ -475,157 +475,6 @@
             }
         }
     ],
-    "sports": [
-        {
-            "id": "000def6640fd5a24b5f247bae7102758",
-            "title": "T20 World Cup : भारत-न्यूझीलंड फायनल रद्द झाली तर... कोण होणार चॅम्पियन? ICC ने क्लिअर केला नियम!",
-            "description": "भारत आणि न्यूझीलंड यांच्यात टी-20 वर्ल्ड कपची फायनल होणार आहे. रविवार 8 मार्चला अहमदाबादच्या नरेंद्र मोदी स्टेडियमवर हा महामुकाबला रंगणार आहे.",
-            "content": "Published by :\nLast Updated:Mar 06, 2026 11:58 PM IST\nभारत आणि न्यूझीलंड यांच्यात टी-20 वर्ल्ड कपची फायनल होणार आहे. रविवार 8 मार्चला अहमदाबादच्या नरेंद्र मोदी स्टेडियमवर हा महामुकाबला रंगणार आहे.\nअहमदाबाद : भारत आणि न्यूझीलंड यांच्यात टी-20 वर्ल्ड क... [2045 chars]",
-            "url": "https://news18marathi.com/sport/t20-world-cup-final-ind-vs-nz-who-will-be-winner-if-match-got-cancelled-know-icc-rules-1636715.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/01/New-Zealand-T20-World-Cup-1-2026-01-8b48f979870b733e42be31ce6c996a4d-16x9.jpg",
-            "publishedAt": "2026-03-06T18:28:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "6ef18e2ca54f6e9a0bf1a696e33bdf56",
-            "title": "IND vs NZ, T20 WC Final Live Streaming : इंडिया-न्यूझीलंड महामुकाबल्याची वेळ बदलली? नरेंद्र मोदी स्टेडियममध्ये सामना किती वाजता?",
-            "description": "When and where watch India in Marathi vs New Zealand In Marathi WC Final 2026 Match Score in Marathi: रविवारी 8 मार्चला आयसीसी टी 20i वर्ल्ड कप स्पर्धेच्या 10 व्या पर्वातील अंतिम फेरीत टीम इंडिया न्यूझीलंड विरुद्ध भिडणार आहे. या सामन्याची वेळ जाणून घेऊयात.",
-            "content": "क्रिकेट चाहत्यांना जवळपास 1 महिन्याच्या प्रतिक्षेनंतर आणि 54 सामन्यांच्या थरारानंतर अखेर आयसीसी टी 20i वर्ल्ड कप 2026 स्पर्धेतील अंतिम फेरीसाठी 2 संघ निश्चित झाले आहेत. न्यूझीलंड आणि यजमान भारताने अंतिम फेरीत प्रवेश केला आहे. टीम इंडियाने गुरुवारी इं... [1584 chars]",
-            "url": "https://www.tv9marathi.com/sports/cricket-news/india-vs-new-zealand-final-live-streaming-when-and-where-to-watch-ind-vs-nz-t20-world-cup-2026-today-cricket-match-in-marathi-1621036.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/03/India-vs-New-Zealand-Final-2026.jpg",
-            "publishedAt": "2026-03-06T17:43:58Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "f51a46ffebb5b08b00c16bb320203379",
-            "title": "T20 World Cup : आपल्याच खेळाडूला ठरवलं सेमी फायनलचा व्हिलन! पराभवाच्या 24 तासानंतर बेथलची खदखद बाहेर",
-            "description": "टी-20 वर्ल्ड कपच्या थरारक सेमी फायनलमध्ये भारताविरुद्धच्या सामन्यात इंग्लंडचा 7 रननी विजय झाला. मुंबईने दिलेल्या 254 रनच्या आव्हानाचा पाठलाग करताना इंग्लंडला 20 ओव्हरमध्ये 246/7 पर्यंत मजल मारता आली.",
-            "content": "Published by :\nLast Updated:Mar 06, 2026 10:55 PM IST\nटी-20 वर्ल्ड कपच्या थरारक सेमी फायनलमध्ये भारताविरुद्धच्या सामन्यात इंग्लंडचा 7 रननी विजय झाला. मुंबईने दिलेल्या 254 रनच्या आव्हानाचा पाठलाग करताना इंग्लंडला 20 ओव्हरमध्ये 246/7 पर्यंत मजल मारता आ... [2179 chars]",
-            "url": "https://news18marathi.com/sport/t20-world-cup-semi-final-ind-vs-eng-jacob-bethell-react-on-turning-point-of-the-match-1636699.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/03/jacob-bethell-2026-03-19c8482ac072435c2d7ae9336f9d50de-1200x675.jpg",
-            "publishedAt": "2026-03-06T17:25:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "049884660f096e849f184498d1485c2c",
-            "title": "Arjun Tendulkar : अर्जुनला लग्नाच्या दुसऱ्याच दिवशी मोठा धक्का, क्रिकेटरसोबत काय झालं?",
-            "description": "Arjun Tendulkar and Saaniya Chandok Marriage :अर्जुन तेडुंलकर आणि सानिया चांढोक यांच्या आयुष्यातील नव्या इनिंगला 5 मार्चपासून सुरुवात झाली. अर्जुन लग्नाच्या काही तासांनी मैदानात उतरेल आणि क्रिकेट खेळेल असं अपवाद वगळता कुणालाही वाटलं नसेल. अर्जुन क्रिकेटप्रती समर्पण दाखवत मैदानात उतरला. मात्र त्याला मोठा झटका लागला.",
-            "content": "कोणत्याही क्षेत्रात यशस्वी व्हायचं असेल तर ध्येय, सातत्य आणि चिकाटी महत्त्वाची असते. सहजासहजी काहीही मिळत नाही. यशस्वी होण्यासाठी अथक प्रयत्न, सातत्यपूर्ण मेहनत आणि अनेक गोष्टींचा त्याग करावा लागतो. हीच बाब क्रिकेटपटूंनाही लागू होते. चांगली वाईट कशीह... [2097 chars]",
-            "url": "https://www.tv9marathi.com/sports/cricket-news/dy-patil-t20i-tournament-arjun-tendulkar-team-lost-in-semi-final-against-mumbai-customs-after-his-marriage-with-sania-chandhok-1620989.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/03/Arjun-Tendulkar-and-Saaniya-Chandok-Marriage.jpg",
-            "publishedAt": "2026-03-06T16:34:49Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "efd11187a066c04f46884c996eaa32bc",
-            "title": "T20 World Cup Semifinals : सॅमसनची तुफानी खेळी; इंग्लंडवर ७ धावांनी मात करत भारताची टी-२० विश्वचषकाच - Marathi News",
-            "description": "(t20 world cup semifinals) मुंबईतील ऐतिहासिक वानखेडे स्टेडियम येथे गुरुवारी खेळल्या गेलेल्या टी-२० विश्वचषकाच्या उपांत्य सामन्यात भारताने इंग्लंडवर ७ धावांनी रोमांचक विजय मिळवत चौथ्यांदा अंतिम फेरीत प्रवेश केला. फलंदाजीत संजू सॅमसनच्या दमदार खेळीबरोबरच अक्षर पटेल आणि शिवम दुबे यांच्या महत्त्वपूर्ण योगदानामुळे भारताने सामन्यावर वर्चस्व राखले. हा सामना पाहण्यासाठी माजी भारतीय कर्णधार महेंद्रसिंग धोनी आणि रोहित शर्मा देखील स्टेडियममध्ये उपस्थित होते.(t20 world cup semifinals)",
-            "content": "Total Views |\nमुंबई : (T20 World Cup Semifinals) मुंबईतील ऐतिहासिक वानखेडे स्टेडियम येथे गुरुवारी खेळल्या गेलेल्या टी-२० विश्वचषकाच्या उपांत्य सामन्यात भारताने इंग्लंडवर ७ धावांनी रोमांचक विजय मिळवत चौथ्यांदा अंतिम फेरीत प्रवेश केला. फलंदाजीत संजू सॅ... [4222 chars]",
-            "url": "https://www.mahamtb.com/Encyc/2026/3/6/samsons-blistering-innings-india-beats-england-by-7-runs-to-enter-t20-world-cup-final-t20-world-cup-semifinal.html",
-            "image": "https://www.mahamtb.com/Encyc/2026/3/6/MUMBAI-TARUN-BHARAT---2026-03-06T163231.729_202603061651183279_H@@IGHT_350_W@@IDTH_696.jpg",
-            "publishedAt": "2026-03-06T15:58:15Z",
-            "lang": "mr",
-            "source": {
-                "id": "5d6a9204995806af9e83b10da11a825a",
-                "name": "MahaMTB",
-                "url": "https://www.mahamtb.com"
-            }
-        },
-        {
-            "id": "4f9567db855acd7d7cacc792fc9b2327",
-            "title": "T20 World Cup : वानखेडेवर सूर्याची घोडचूक, वर्ल्ड कप हातातून गेलाच होता, कुणाच्याच लक्षात आलं नाही!",
-            "description": "टी-20 वर्ल्ड कपच्या सेमी फायनलमध्ये टीम इंडियाने इंग्लंडवर 7 रननी रोमांचक विजय मिळवला. भारताने दिलेल्या 254 रनच्या आव्हानाचा पाठलाग करताना इंग्लडने शेवटच्या ओव्हरपर्यंत झुंज दिली.",
-            "content": "Published by :\nLast Updated:Mar 06, 2026 8:43 PM IST\nटी-20 वर्ल्ड कपच्या सेमी फायनलमध्ये टीम इंडियाने इंग्लंडवर 7 रननी रोमांचक विजय मिळवला. भारताने दिलेल्या 254 रनच्या आव्हानाचा पाठलाग करताना इंग्लडने शेवटच्या ओव्हरपर्यंत झुंज दिली.\nमुंबई : टी-20 वर्... [2223 chars]",
-            "url": "https://news18marathi.com/sport/t20-world-cup-semi-final-ind-vs-eng-suryakumar-yadav-makes-huge-mistake-at-wankhede-stadium-1636562.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/02/Suryakumar-Action-on-Sanju-Wicketkeeping-2026-02-04ab47bdc64d9e623c692447a62394aa-1200x675.jpg",
-            "publishedAt": "2026-03-06T15:09:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "861890b8eea08f3c4dcb0be006a1f675",
-            "title": "T20 World Cup : फायनलपूर्वी कपिल देव यांचा अभिषेक शर्माला खास सल्ला, टीम इंडियालाही दिला गुरूमंत्र",
-            "description": "IND vs NZ : अहमदाबादमध्ये होणाऱ्या फायनलमध्ये टीम इंडियाचा सामना न्यूझीलंड सोबत होणार आहे. या सामन्यापूर्वी माजी कर्णधार कपिल देव यांनी अभिषेक शर्मा आणि टीम इंडियाला मोलाचा सल्ला दिला आहे.",
-            "content": "भारतीय क्रिकेट संघाने सेमीफायनलमध्ये इंग्लंडचा पराभव करत अंतिम फेरीत प्रवेश केला आहे. अहमदाबादमध्ये होणाऱ्या फायनलमध्ये टीम इंडियाचा सामना न्यूझीलंड सोबत होणार आहे. या सामन्यापूर्वी भारतीय संघासाठी चिंतेची बाब म्हणजे सलामीवीर अभिषेक शर्माने लौकिकेला ... [1450 chars]",
-            "url": "https://www.tv9marathi.com/sports/cricket-news/kapil-dev-give-suggestion-to-abhishek-sharma-and-team-india-before-ind-vs-nz-t20-world-cup-final-1620911.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/03/Kapil-Dev-And-Abhi-Sharma-.jpg",
-            "publishedAt": "2026-03-06T14:37:15Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "55b18a4602f5d308e475103e9bec62e4",
-            "title": "Ind vs Nz T20 World Cup 2026 Final Ticket : भारत-न्यूझीलंड महामुकाबला! नरेंद्र मोदी स्टेडियमचं 3,000 ते 75,000 तिकीट दर, ऑनलाइन बुकिंग कशी करायची?, A टू Z माहिती",
-            "description": "T20 World Cup 2026 Final Ticket Update : आयसीसी टी-20 विश्वचषक 2026 आता अंतिम टप्प्यात पोहोचला आहे.",
-            "content": "T20 World Cup 2026 Final Ticket Update : आयसीसी टी-20 विश्वचषक 2026 आता अंतिम टप्प्यात पोहोचला आहे. उपांत्य फेरीत इंग्लंडचा पराभव करत भारताने सलग दुसऱ्यांदा अंतिम फेरीत प्रवेश केला आहे. आता विजेतेपदाच्या लढतीत टीम इंडियाचा सामना न्यूझीलंडशी होणार आहे... [1809 chars]",
-            "url": "https://marathi.abplive.com/sports/cricket/ind-vs-nz-t20-world-cup-2026-final-tickets-price-how-to-book-and-ahmedabad-stadium-entry-guide-marathi-news-1415300",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/06/f96e462f70747e5cc794282ebabb8d7017727943645541378_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-03-06T10:54:27Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "b7716369d7842a0e777f525bb4b35736",
-            "title": "संजू सॅमसन : देशाला गरज असेल तर 9 व्या क्रमांकावरही फलंदाजी करेल म्हणाऱ्या 'चेट्टा'ची गोष्ट",
-            "description": "संजू सॅमसनची संपूर्ण कारकीर्द, क्रिकेटसाठीचा संघर्ष आणि करिअरमधील चढउतार नक्कीच अनेकांसाठी प्रेरणादायी ठरणार आहे. त्यांच्या याच प्रवासाबाबत जाणून घेऊयात.",
-            "content": "Author, नितीन सुलताने\nRole, बीबीसी मराठी प्रतिनिधी\n6 मार्च 2026, 13:50 IST\nअपडेटेड 5 तासांपूर्वी\nवाचन वेळ: 7 मिनिटे\nअपेक्षांचं प्रचंड ओझं असलेल्या खांद्यावरचं डोकं जर शांत असेल, तर कितीही वर्षं वाट पाहावी लागली तरी त्या एका संधीचं सोनं करण्याची क्षमत... [10167 chars]",
-            "url": "https://www.bbc.com/marathi/articles/ckg1r2rn32xo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_marathi/1035/live/6eece180-191d-11f1-9120-a910fc22c6ac.jpg",
-            "publishedAt": "2026-03-06T08:30:13Z",
-            "lang": "mr",
-            "source": {
-                "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-                "name": "BBC",
-                "url": "https://www.bbc.com"
-            }
-        },
-        {
-            "id": "4c93e2307ee90b7ab3500e01d24815aa",
-            "title": "‘भिक मागून ताज मिळत नाही’, मोहम्मद आमिर बघत होता भारताच्या पराभवाची स्वप्न, नवज्योत सिंग सिद्धूंनी दाखवली लायकी",
-            "description": "भारताने इंग्लंडचा पराभव करत टी-२० वर्ल्ड कपच्या फायनलमध्ये प्रवेश केला.",
-            "content": "भारतानं इंग्लंडचा पराभव करून टी-२० क्रिकेट वर्ल्ड कपच्या फायनलमध्ये धडक मारली आहे. या मॅचमध्ये भारतानं तब्बल २५३ धावांचं आव्हान उभं केलं होतं. पण इंग्लंडनं देखील जोरदार फलंदाजी करत २४६ धावांपर्यंत मजल मारली. शेवटच्या ओव्हर्समध्ये जसप्रीत बुमराहनं भेद... [2743 chars]",
-            "url": "https://maharashtratimes.com/viral/viral-news/navjot-singh-sidhu-roasts-mohammad-amir-after-indias-win-over-england-video-viral/articleshow/129142267.cms",
-            "image": "https://static.langimg.com/mt/thumb/129142267/navjot-singh-sidhu-roasts-mohammad-amir-after-indias-win-over-england-video-viral-.jpg?imgsize=2404130&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-03-06T08:12:13Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
-            }
-        }
-    ],
+    "sports": [],
     "entertainment": []
 }

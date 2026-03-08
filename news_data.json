@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "3d20c17fe0fceef03b6a9d1c2ee10bbe",
+            "title": "भारतीय सिनेमांतील स्त्री दृष्टी",
+            "description": "Indian Female Directors: मणीपुरी चित्रपट 'बुन्ग'ला बाफ्टा पुरस्कार मिळाल्याने भारतीय महिला दिग्दर्शिकांच्या कामगिरीची चर्चा. वाचा सविस्तर विश्लेषण.",
+            "content": "नुकत्याच झालेल्या बाफ्टा पुरस्कारांमध्ये मणिपुरी सिनेमा ‘बुन्ग’ला ‘बेस्ट चिल्ड्रेन अँड फॅमिली फिल्म’ हा पुरस्कार मिळाला. यानिमित्ताने भारतीय सिनेसृष्टीला आंतरराष्ट्रीय स्तरावर मिळालेल्या या सन्मानाचे कौतुक झालेच; पण या चित्रपटाच्या दिग्दर्शिका लक्ष्म... [6065 chars]",
+            "url": "https://www.loksatta.com/manoranjan/female-directors-indian-cinema-bafta-boong-payal-kapadia-kiran-rao-marathi-analysis-ssb-93-5757954/",
+            "image": "https://images.loksattaimg.com/2026/03/boong.png",
+            "publishedAt": "2026-03-07T19:30:43Z",
+            "lang": "mr",
+            "source": {
+                "id": "62d1010536af7ab30a2a024770aa0e02",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com"
+            }
+        },
+        {
             "id": "2d5007e3909f3a01aa5e67ef7e4c3387",
             "title": "T20 World Cup : फायनलमध्ये टीम इंडियाचं 'ब्रम्हास्त्र' फेल ठरणार?, सूर्या-गंभीरची धाकधूक वाढली,नेमकं काय घडलं?",
             "description": "दरम्यान या वर्ल्ड कपमध्ये टीम इंडियाच 'ब्रम्हास्त्र' खूप चाललं आहे. या'ब्रम्हास्त्र'मुळेच टीम इंडियाला इंग्लंडला हरवून फायनलमध्ये पोहोचलो होतो.",
@@ -133,21 +148,6 @@
                 "id": "86b106434a8aa7ab0755463f15cc13f7",
                 "name": "TV9 Marathi",
                 "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "1536249995f0f246b3bdb99596a903a8",
-            "title": "Women's Day Special : बेधडक, निर्भय आणि नारीशक्तीची नवी ओळख करून देणाऱ्या तापसी पन्नूच्या भूमिका",
-            "description": "Women's Day : बॉलिवूड अभिनेत्री तापसी पन्नूनं तिच्या अनेक सिनेमांमध्ये अन्यायाच्या विरुद्ध आवाज उठवणाऱ्या स्त्रियांच्या भूमिका साकारल्या आहेत. ८ मार्च रोजी वूमन्स डे असून तापसीच्या या भूमिकांबद्दल जाणून घेऊया.",
-            "content": "मुंबई - आंतरराष्ट्रीय महिला दिनाच्या निमित्ताने आपण अशा एका अभिनेत्रीबद्दल जाणून घेऊया जिनं आपल्या भूमिकांमधून स्त्रियांची नवी ओळख निर्माण केली आहे. ही अभिनेत्री म्हणजे तापसी पन्नू . तापसी पन्नूनं अनेक सिनेमांमध्ये अन्यायाविरुद्ध आवाज उठवणाऱ्या स्त्र... [2911 chars]",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/womens-day-special-taapsee-pannu-played-role-of-fearless-female-in-her-movies/articleshow/129213796.cms",
-            "image": "https://static.langimg.com/mt/thumb/129214825/womens-day-special-taapsee-pannu-movies.jpg?imgsize=56448&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-03-07T12:42:15Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
             }
         }
     ],

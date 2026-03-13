@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "4b1828acaade6bc1c8c4cb36ed77d8c1",
+            "title": "Sangli News : चाणक्य चौकातील अतिक्रमणावर हातोडा",
+            "description": "कुपवाड : कुपवाड-विजयनगर रस्त्यावरील चाणक्य चौकातील अतिक्रमणे केलेली 36 खोकी, हातगाडे, स्टॉल महापालिका अतिक्रमण निर्मूलन पथकाने हटविले असल्याची माहिती अतिक्रमण विभागाचे प्रमुख नागार्जुन मद्रासी यांनी दिली.",
+            "content": "कुपवाड शहर प्रभाग समिती तीन नगररचना विभागाचे प्रमुख शहाबाज शेख यांनी कुपवाड ते विजयनगर रस्त्यावरील चाणक्य चौकातील सर्वच अतिक्रमण केलेल्या खोकीधारकांना नोटिसा बजावल्या होत्या. आपण केलेले अतिक्रमण तातडीने काढून घ्यावे अन्यथा महापालिका अतिक्रमण निर्मूलन... [415 chars]",
+            "url": "https://pudhari.news/maharashtra/sangali/sangli-municipal-corporation-anti-encroachment-drive-chanakya-chowk-demolition-action-dc95",
+            "image": "https://media.assettype.com/pudharinews%2F2026-03-12%2Fw46bnehh%2F12san40.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-03-13T00:58:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari News",
+                "url": "https://pudhari.news"
+            }
+        },
+        {
             "id": "87b9ab4ef3cd025a4eadaff5978f1553",
             "title": "Rape Case: लग्नाच्या आमिषाने विवाहितेवर बलात्कार",
             "description": "Rape Case: विवाहित महिलेची घटस्फोटाची केस सुरू असल्याचे माहिती झाल्यानंतर तिला लग्न करतो, असे आमिष दाखवून तिच्यावर घरात, कॅफेमध्ये, कास रोडवरील हॉटेल, पाचगणी येथील व्हिलामध्ये बलात्कार केला",
@@ -133,21 +148,6 @@
                 "id": "d0ecbd318b81c0114aad430372084c1a",
                 "name": "ABP Majha",
                 "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "1046ab7c10f90f223ea48eb85a841183",
-            "title": "Nashik Crime | देवळा येथे पोलिस असल्याचे भासवून 11 लाखांच्या खंडणीसाठी व्यापाऱ्याचे अपहरण, मारहाणीत व्यापाऱ्याचा मृत्‍यू",
-            "description": "पोलीस उपमहानिरीक्षक विशेष पथकाचे अधिकारी असल्याची बतावणी करून आलेल्या तीन जणांनी पीक अप वाहन अडवून चालक व त्या सोबत असलेल्या जब्बार चांदभाई तांबोळी (५५) यांचे अपहरण करून २५ लाख रुपयांची खंडणीची मागणी केली .",
-            "content": "देवळा ; पोलीस उपमहानिरीक्षक विशेष पथकाचे अधिकारी असल्याची बतावणी करून आलेल्या तीन जणांनी पीक अप वाहन अडवून चालक व त्या सोबत असलेल्या जब्बार चांदभाई तांबोळी (५५) यांचे अपहरण करून २५ लाख रुपयांची खंडणीची मागणी केली .\nआरोपींनी केलेल्या मारहाणीत तांबोळी ... [1319 chars]",
-            "url": "https://pudhari.news/maharashtra/north-maharashtra/nashik/nashik-crime-devla-merchant-kidnapped-murder-extortion-fake-police-ng81",
-            "image": "https://media.assettype.com/pudharinews%2F2026-03-12%2F9xbz9ea8%2Fpudhari-photo-57.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-03-12T14:11:33Z",
-            "lang": "mr",
-            "source": {
-                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
-                "name": "Pudhari",
-                "url": "https://pudhari.news"
             }
         }
     ],

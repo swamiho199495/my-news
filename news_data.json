@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "a2aa5ff283de28fea6dcf37fa6ac8109",
+            "title": "Solapur news: अवैध वाळू साठ्यासह दोन टीप्पर, जेबीसी जप्त",
+            "description": "Solapur news: देगाव येथे अवैध वाळू वाहतूक करणाऱ्या वाहनांवर कारवाई",
+            "content": "पंढरपूर : देगाव (ता. पंढरपूर) येथे देगाव ते बाभूळगाव जाणाऱ्या रोडवर यादव यांच्या वीट भट्टीजवळ करण्यात आलेल्या अवैध वाळूचा साठ्यावर उपविभागीय पोलीस अधिकारी पथकाने कारवाई केली आहे. या कारवाईत दोन टीप्पर, एक जेसीबी व 8 ब्रास अवैध वाळू साठा दि. 14 रोजी ज... [685 chars]",
+            "url": "https://pudhari.news/maharashtra/solapur/illegal-sand-stock-two-tippers-jcb-seized-sk95",
+            "image": "https://media.assettype.com/pudharinews%2F2026-03-15%2Fqex81e09%2F15-Pan-24.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-03-15T23:39:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari News",
+                "url": "https://pudhari.news"
+            }
+        },
+        {
             "id": "49af47b81f19a0b0e075ac19ca69ad0e",
             "title": "तारकेश्वर गडाचे महंत आदिनाथ शास्त्री यांचा आत्महत्येचा प्रयत्न; स्वतःवर केले सपासप वार!",
             "description": "Tarakeshwar Fort Mahant Adinath Maharaj Shastri News. पाथर्डी- बीडच्या हद्दीवर असलेल्या तारकेश्वर गडाचे महंत आदिनाथ शास्त्री यांनी आज सायंकाळी स्वतःवरच वार केले. त्यामुळे त्यांना रक्तस्राव मोठ्या प्रमाणावर झाला. जखमी अवस्थेत अहिल्यानगर येथील खासगी रुग्णालयात त्यांना दाखल करण्यात आले. | Ahilyanagar Marathi News (मराठी बातम्या). Find Breaking Headlines, Current and Latest Ahilyanagar news in Marathi at Lokmat.com",
@@ -133,21 +148,6 @@
                 "id": "36c482d58a61229d6b752791e526b574",
                 "name": "Saam Tv",
                 "url": "https://saamtv.esakal.com"
-            }
-        },
-        {
-            "id": "9790c3d2ffb9791e5614bcfbc1f60b2e",
-            "title": "Vaibhav Suryavanshi : द्रविडने मिटींगला बोलावलं, वैभवने गेमप्लान सांगताच ड्रेसिंग रूममध्ये सगळे पोट धरून हासले,पाहा VIDEO",
-            "description": "टीम इंडियाच्या 14 वर्षीय वैभव सूर्यवंशीने सांगितलेल्या किस्सा प्रचंड चर्चेत आला आहे.या संदर्भातला व्हिडिओ देखील व्हायरल झाला आहे.",
-            "content": "Published by :\nLast Updated:Mar 15, 2026 9:26 PM IST\nटीम इंडियाच्या 14 वर्षीय वैभव सूर्यवंशीने सांगितलेल्या किस्सा प्रचंड चर्चेत आला आहे.या संदर्भातला व्हिडिओ देखील व्हायरल झाला आहे.\nVaibhav Suryavanshi on Naman Award 2026 : बीसीसीआयचा नमन ॲवॉर्ड 202... [1827 chars]",
-            "url": "https://news18marathi.com/sport/rahul-dravid-sanju-samson-call-meeting-vaibhav-sooryavanshi-share-game-plan-after-that-every-one-started-laughing-naman-award-2026-1644041.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/03/vaibhav-sooryavanshi-sanju-samson-2026-03-c271bffb64255db6d67270a926421f13-1200x675.jpg",
-            "publishedAt": "2026-03-15T15:56:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
             }
         }
     ],

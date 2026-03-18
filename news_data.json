@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "0febf04090d9366c348202de8bf3edda",
+            "title": "पोलिसांनी लोणावळ्यातील 500 व्हिलांची घेतली झडती, 'त्या' आलिशान घराचा दरवाजा उघडताच हादरले, चौघांचं कांड पाहून पुण्यात खळबळ",
+            "description": "पर्यटनासाठी प्रसिद्ध असलेल्या लोणावळ्यातील व्हिला आणि गेस्ट हाऊसचा वापर आता सायबर गुन्ह्यांसाठी होत असल्याचा धक्कादायक प्रकार समोर आला आहे.",
+            "content": "Published by :\nLast Updated:Mar 18, 2026 6:45 AM IST\nपर्यटनासाठी प्रसिद्ध असलेल्या लोणावळ्यातील व्हिला आणि गेस्ट हाऊसचा वापर आता सायबर गुन्ह्यांसाठी होत असल्याचा धक्कादायक प्रकार समोर आला आहे.\nलोणावळा : राज्यात सायबर फसवणुकीच्या घटना प्रचंड वाढल्या आ... [1622 chars]",
+            "url": "https://news18marathi.com/pune/lonavala-villa-cyber-crime-gang-busted-pimpri-chinchwad-police-arrest-local18-1645854.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/03/pune-2026-03-18T064451.812-2026-03-2c03790cf629b028d754ef18d439f5f0-1200x675.jpg",
+            "publishedAt": "2026-03-18T01:15:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
             "id": "f9e0538f227f7a106e9dda72e80a2dff",
             "title": "US Israel Iran war: इराण हल्ल्यात अमेरिकेचे 200 सैनिक जखमी",
             "description": "US Israel Iran war: अमेरिका-इस्रायलने इराणविरुद्ध सुरू केलेल्या युद्धात आतापर्यंत किमान 200 अमेरिकी सैनिक जखमी झाले आहेत, अशी माहिती अमेरिकन लष्कराने दिली",
@@ -133,21 +148,6 @@
                 "id": "bfd324c66556f858b94a8093cae1427c",
                 "name": "News18 Marathi",
                 "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "96cb01a91b14f87f2f78d24bae59f32e",
-            "title": "Maharashtra Weather Update: राज्यात वादळी वाऱ्यासह पावसाची शक्यता, हवामान विभागाकडून येलो अलर्ट",
-            "description": "Maharashtra Weather Alert: भारतीय हवामान विभागाने राज्यात मेघगर्जना आणि सोसाट्याच्या वाऱ्यांची शक्यता असल्याने यलो अलर्ट जारी केला आहे. सांगली आणि मिरजच्या काही भागांमध्ये अवकाळी पाऊस आणि गारपिटीने आधीच हजेरी लावली आहे.",
-            "content": "राज्यात पावसाला पोषक हवामान तयार झाले आहे. त्यामुळे राज्यातील उष्णतेची लाट काहीशी ओसरली आहे. उकाडा तापदायक ठरत आहे. अनेक शहरांमध्ये कमाल तापमान ३५ ते ४० अंश सेल्सिअसच्या दरम्यान नोंदवले गेले आहे. मंगळवारी नोंदवण्यात आलेल्या अंदाजानुसार, विदर्भ आणि मर... [1023 chars]",
-            "url": "https://saamtv.esakal.com/maharashtra/maharashtra-weather-alert-unseasonal-rain-and-thunderstorms-likely-imd-issues-yellow-alert-bbj88",
-            "image": "https://media.assettype.com/saamtv%2F2026-03-17%2F1u0k8qk4%2Fnew-size-thumbnail-2026-03-17T214705.802.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-03-17T16:20:35Z",
-            "lang": "mr",
-            "source": {
-                "id": "36c482d58a61229d6b752791e526b574",
-                "name": "Saam Tv",
-                "url": "https://saamtv.esakal.com"
             }
         }
     ],

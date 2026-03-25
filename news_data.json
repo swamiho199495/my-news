@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "86a1fbda1d3fa261ab3aef2ee46f463a",
+            "title": "Guess Who: जे कोणालाच जमलं नाही, ते 66 वर्षीय अभिनेत्याने करून दाखवलं! दिल्या सलग चार 1000 कोटींच्या फिल्म",
+            "description": "Actor who gave most 1000cr films: एक अभिनेता असा आहे, ज्याने मनोरंजन विश्वात तब्बल ५५ वर्षे पूर्ण करूनही त्याची क्रेझ काही केल्या कमी होत नाही आहे. या व्यक्तीचं नाव घेतल्याशिवाय बॉलिवूडचा इतिहास पूर्ण होऊच शकत नाही.",
+            "content": "1/ 9\nभारतीय सिनेसृष्टीत अनेक सुपरस्टार येऊन गेले, ज्यांनी इंडस्ट्रीला अनेक उत्तमोत्तम सिनेमे दिले आहेत. मात्र, एका काळानंतर त्यांची जादू कमी होते. पण एक अभिनेता असा आहे, ज्याने मनोरंजन विश्वात तब्बल ५५ वर्षे पूर्ण करूनही त्याची क्रेझ काही केल्या कमी ... [1265 chars]",
+            "url": "https://news18marathi.com/photogallery/entertainment/guess-who-the-only-indian-actor-sajay-dutt-dhurandhar-who-delivered-four-consecutive-films-grossing-1000-crore-each-1651217.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/03/dhurandhar-2-sanjay-dutt-2026-03-1e0c380a72761e9afc5b63854a6d71a7-1200x675.jpg",
+            "publishedAt": "2026-03-24T21:11:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
             "id": "c5bb795c2a92015327fd30883b07bc38",
             "title": "IND vs SA: टीममध्ये निवड, मात्र प्लेइंग ईलेव्हनमध्ये संधीची प्रतिक्षा कायम, 7 वर्षांनंतर प्लेइंग ईलेव्हनमध्ये कमबॅक होणार?",
             "description": "India vs South Africa Womens T20i Series 2026 : टीम इंडिया विरुद्ध दक्षिण आफ्रिका यांच्यात एकूण 5 टी 20i मालिका खेळवण्यात येणार आहे.हरमनप्रीत कौर भारताचं नेतृत्व करणार आहे.",
@@ -133,21 +148,6 @@
                 "id": "86afe444484a22a46a5f6295debcbf1a",
                 "name": "Maharashtra Times",
                 "url": "https://maharashtratimes.com"
-            }
-        },
-        {
-            "id": "7dee1d24ab9834088d1b591cdb081837",
-            "title": "Weather Alert: महाराष्ट्रावर अस्मानी संकट कायम, बुधवारी वादळी वाऱ्यासह पाऊस कोसळणार, 4 जिल्ह्यांना अलर्ट",
-            "description": "25 मार्च रोजी कोकणात उष्णतेची लाट कायम असेल. पश्चिम महाराष्ट्र आणि मराठवाड्यातील जिल्ह्यांना अवकाळी पावसाचा यलो अलर्ट देण्यात आला आहे.",
-            "content": "1/ 7\nमहाराष्ट्रावर ऐन उन्हाळात अस्मानी संकट आलं आहे. तर काही ठिकाणी उष्णतेची लाट पाहायला मिळत आहे. 25 मार्च रोजी कोकणात उष्णतेची लाट कायम असेल. पश्चिम महाराष्ट्र आणि मराठवाड्यातील जिल्ह्यांना अवकाळी पावसाचा यलो अलर्ट देण्यात आला आहे. 25 मार्च रोजी हव... [702 chars]",
-            "url": "https://news18marathi.com/photogallery/pune/maharashtra-weather-updates-imd-has-issued-a-yellow-alert-for-rain-for-four-districts-in-the-state-l18w-local18-1651069.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/03/weather-1-2-2026-03-66d20b9f2bd6a3c5d1c5eb709cc28fd0-1200x675.jpg",
-            "publishedAt": "2026-03-24T14:52:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
             }
         }
     ],
@@ -627,5 +627,156 @@
             }
         }
     ],
-    "entertainment": []
+    "entertainment": [
+        {
+            "id": "86a1fbda1d3fa261ab3aef2ee46f463a",
+            "title": "Guess Who: जे कोणालाच जमलं नाही, ते 66 वर्षीय अभिनेत्याने करून दाखवलं! दिल्या सलग चार 1000 कोटींच्या फिल्म",
+            "description": "Actor who gave most 1000cr films: एक अभिनेता असा आहे, ज्याने मनोरंजन विश्वात तब्बल ५५ वर्षे पूर्ण करूनही त्याची क्रेझ काही केल्या कमी होत नाही आहे. या व्यक्तीचं नाव घेतल्याशिवाय बॉलिवूडचा इतिहास पूर्ण होऊच शकत नाही.",
+            "content": "1/ 9\nभारतीय सिनेसृष्टीत अनेक सुपरस्टार येऊन गेले, ज्यांनी इंडस्ट्रीला अनेक उत्तमोत्तम सिनेमे दिले आहेत. मात्र, एका काळानंतर त्यांची जादू कमी होते. पण एक अभिनेता असा आहे, ज्याने मनोरंजन विश्वात तब्बल ५५ वर्षे पूर्ण करूनही त्याची क्रेझ काही केल्या कमी ... [1265 chars]",
+            "url": "https://news18marathi.com/photogallery/entertainment/guess-who-the-only-indian-actor-sajay-dutt-dhurandhar-who-delivered-four-consecutive-films-grossing-1000-crore-each-1651217.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/03/dhurandhar-2-sanjay-dutt-2026-03-1e0c380a72761e9afc5b63854a6d71a7-1200x675.jpg",
+            "publishedAt": "2026-03-24T21:11:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "70c2998c0ff7438cc67dd0d65df2ddbf",
+            "title": "अभिनेत्रीच्या कारला भीषण अपघात, जागीच मृत्यू; शूटिंगवरून घरी परतताना गाडी डिव्हायडरवर आदळली; मनोरंजन विश्वावर शोककळा",
+            "description": "Actress Harshil Kalia Car Accident: प्रसिद्ध अभिनेत्री आणि मॉडेल हर्षिल कालिया हिचा जयपूरमध्ये भीषण कार अपघातात मृत्यू झाला. काम आटोपून घरी परतताना तिची कार डिव्हायडरवर आदळली आणि तिचा जागीच मृत्यू झाल.",
+            "content": "Published by :\nLast Updated:Mar 24, 2026 11:27 PM IST\nActress Harshil Kalia Car Accident: प्रसिद्ध अभिनेत्री आणि मॉडेल हर्षिल कालिया हिचा जयपूरमध्ये भीषण कार अपघातात मृत्यू झाला. काम आटोपून घरी परतताना तिची कार डिव्हायडरवर आदळली आणि तिचा जागीच मृत्यू... [1681 chars]",
+            "url": "https://news18marathi.com/entertainment/popular-actress-and-model-harshil-kalia-passed-away-in-tragic-car-accident-in-jaipur-after-losing-control-of-her-vehicle-1651204.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/03/Harshil-Kalia-Car-Accident-2026-03-a9c71189999707b4edc2675d790e7136-1200x675.jpg",
+            "publishedAt": "2026-03-24T17:57:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "a2746ce1424117bc32bacf665a250db2",
+            "title": "Inspiring Story: दिव्यांग कलावंत राशीच्या स्वप्नांना मिळणार भरारी; शिक्षणाचे स्वीकारले पालकत्व!",
+            "description": "Inspiring Story Rashi Patil : भुसावळच्या दिव्यांग कलाकार राशी पाटील यांचा प्रेरणादायी प्रवास जाणून घेऊ. कला, संगीत आणि अभिनयातील प्रतिभेमुळे त्यांना शिक्षणासाठी समाजसेवक आणि स्वयंसेवी संस्थांकडून पाठिंबा मिळाला आहे.",
+            "content": "जळगाव जिल्ह्यातील भुसावळ येथील दिव्यांग असूनही आपल्या दुर्दम्य इच्छाशक्तीच्या जोरावर कला ,संगीत, अभिनय ,चित्रकला ,या क्षेत्रात सर्वांना अचंबित करणारी करणारी. राशी पाटील हिचे पालकत्व स्वीकारून शिक्षणाची जबाबदारी समन्वयक प्रा उत्तम सुरवाडे यांनी \" मुके... [913 chars]",
+            "url": "https://saamtv.esakal.com/maharashtra/inspiring-story-disabled-artist-bhusawal-rashi-patil-gets-educational-support-ngo-steps-in-to-support-education-of-divyang-artist-bbj88",
+            "image": "https://media.assettype.com/saamtv%2F2026-03-24%2Falz2wueb%2Fnew-size-thumbnail-2026-03-24T224957.838.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-03-24T17:26:42Z",
+            "lang": "mr",
+            "source": {
+                "id": "36c482d58a61229d6b752791e526b574",
+                "name": "Saam Tv",
+                "url": "https://saamtv.esakal.com"
+            }
+        },
+        {
+            "id": "5f57c9830ee07bfb8295f509f66830ac",
+            "title": "Beed News : केजमध्ये मटका बुक्यांवर छापे; २४ हजाराचा मुद्देमाल जप्त",
+            "description": "केज : केज पोलिसांसह स्थानिक गुन्हे शाखेच्या पथकाने शहरातील तीन मटका बुक्यांवर छापे मारून २४ हजार २१० रुपयांचा मुद्देमाल जप्त केला. याप्रकरणी पाच जणांविरुद्ध गुन्हा दाखल झाला आहे.",
+            "content": "केज : केज पोलिसांसह स्थानिक गुन्हे शाखेच्या पथकाने शहरातील तीन मटका बुक्यांवर छापे मारून २४ हजार २१० रुपयांचा मुद्देमाल जप्त केला. याप्रकरणी पाच जणांविरुद्ध गुन्हा दाखल झाला आहे.\nकेज पोलिस ठाण्याचे फौजदार लक्ष्मण कीर्तने, फौजदार बाळासाहेब रोडे, जमादा... [984 chars]",
+            "url": "https://pudhari.news/maharashtra/marathwada/beed/police-raid-illegal-matka-dens-in-kej-beed-seize-rs-24-thousand-cash-dc95",
+            "image": "https://media.assettype.com/pudharinews%2F2025-09-01%2F9faxk8e1%2FAI-EMAGES-2025-09-01T142646.751.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-03-24T16:17:24Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari News",
+                "url": "https://pudhari.news"
+            }
+        },
+        {
+            "id": "0d01e17cfdb1e4180e4faeb14a4006b1",
+            "title": "Beed Accident : भरधाव कारची बसला धडक; चालक जखमी",
+            "description": "गेवराई : भरधाव कारची बसला धडक बसून झालेल्या अपघातात कारचालक जखमी झाल्याची घटना समोर आली आहे.",
+            "content": "गेवराई : भरधाव कारची बसला धडक बसून झालेल्या अपघातात कारचालक जखमी झाल्याची घटना समोर आली आहे. ही घटना मंगळवारी (दि. २४) सकाळीच्या सुमारास धुळे–महामार्गावरील गेवराई बायपासजवळ कॅप्टन पंपासमोर घडली. याप्रकरणी कारचालकावर निष्काळजीपणाने वाहन चालविल्याप्रकर... [472 chars]",
+            "url": "https://pudhari.news/maharashtra/marathwada/beed/beed-speeding-car-collides-with-bus-driver-injured-dc95",
+            "image": "https://media.assettype.com/pudharinews%2F2026-03-24%2F6sdkys9u%2Fdownload.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-03-24T15:53:55Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari News",
+                "url": "https://pudhari.news"
+            }
+        },
+        {
+            "id": "ef6a5577f6ac94481c330ff65da4c920",
+            "title": "किशोर कुमार यांनी गायलंय Dhurandhar 2 मधील 'ते' गाणं, Youtube वर तब्बल 148 मिलिअन व्ह्यूज, तुम्ही ऐकलंय का?",
+            "description": "Dhurandhar 2 Collection: धुरंधर २ मध्ये प्रेक्षकांना एक सरप्राइज मिळालं आहे. सर्व गाण्यांमधील एका गाण्याने प्रेक्षकांना वेड लावलं आहे.",
+            "content": "1/ 8\nरणवीर सिंह-आदित्य धर यांच्या 'धुरंधर २' ने बॉक्स ऑफिसवर अक्षरशः धुमाकूळ घातला आहे. ८०० कोटींचा टप्पा पार करून या फिल्मने अवघ्या पाच दिवसातच नवा रेकॉर्ड तयार केला आहे. या फिल्मच्या पहिल्या भागाने प्रेक्षकांना वेड लावलं होतं. मात्र आता दुसऱ्या भाग... [1676 chars]",
+            "url": "https://news18marathi.com/photogallery/entertainment/have-you-heard-that-song-from-dhurandhar-2-sung-by-kishore-kumar-which-has-148-million-views-on-youtube-1651137.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/03/dhurandhar-2-kishor-kumar-song-2026-03-6ca467f6bc12135871fb1bc26cb46978-1200x675.jpg",
+            "publishedAt": "2026-03-24T15:52:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "040afc112537d54fdfc395d0179b5d04",
+            "title": "Ranveer Singh: धुरंधर रणवीर सिंग 'त्या' प्रकरणामुळे पुरता अडकला, मंदिर अन् कोर्टाची पायरी चढावीच लागणार, नेमकं प्रकरण काय?",
+            "description": "Ranveer Singh: रणवीर सिंग बिनशर्त माफी मागेल आणि एका प्रतिज्ञापत्रावर स्वाक्षरी करेल. 'कांतारा २' दिग्दर्शक आणि ऋषभ शेट्टीची खिल्ली उडवल्याप्रकरणी त्याच्याविरुद्ध एफआयआर (FIR) दाखल करण्यात आला होता. या प्रकरणाची पुढील सुनावणी १० एप्रिल रोजी होईल.",
+            "content": "Ranveer Singh: ‘धुरंधर २’ चित्रपटाच्या यशाचा जल्लोष सुरू असतानाच अभिनेता रणवीर सिंग नव्या वादात अडकला आहे. मंगळवार, २४ मार्च रोजी कर्नाटक उच्च न्यायालय येथे झालेल्या सुनावणीदरम्यान रणवीरने ‘कांतारा’ चित्रपटातील एका सीनची विचित्र पद्धतीने नक्कल केल्या... [1260 chars]",
+            "url": "https://saamtv.esakal.com/entertainment/ranveer-singh-kantara-mimicry-controversy-actor-will-file-affidavit-offering-unconditional-apology-and-visit-chamundeshwari-devi-temple-svk01",
+            "image": "https://media.assettype.com/saamtv%2F2025-11-30%2Fff8qhswl%2FRanveer-Singh?rect=0%2C0%2C1366%2C717&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-03-24T15:04:04Z",
+            "lang": "mr",
+            "source": {
+                "id": "36c482d58a61229d6b752791e526b574",
+                "name": "Saam Tv",
+                "url": "https://saamtv.esakal.com"
+            }
+        },
+        {
+            "id": "d2658398f8e7a759032b6b647645aaf5",
+            "title": "Dhurandhar 2: धुरंधर2 चा 'तो' सीन अन् आर माधवनला शीख समाजाची माफी मागावी लागली, Video पोस्ट करत म्हणाला...",
+            "description": "हा वाद टोकाला जाऊ नये म्हणून अभिनेता आर माधवनला सोशल मीडियावर व्हिडिओ शेअर करत शीख समुदायाची माफी मागावी लागली आहे.",
+            "content": "Dhurandhar 2: सध्या सगळ्यांच्या ओठी एकाच सिनेमाचं नाव आहे, ते म्हणजे धुरंधर 2. सध्या या चित्रपटाच्या कथेपासून ते कलाकारापर्यंत प्रत्येक गोष्ट प्रचंड चर्चेत आहे. केवळ धुरंधरने नाही तर या सिनेमाच्या सिक्वल नाही बॉक्स ऑफिसवर सगळे रेकॉर्ड ब्रेक करण्यास स... [2452 chars]",
+            "url": "https://marathi.abplive.com/entertainment/dhurandhar-2-r-madhavan-apologises-to-sikh-community-over-a-scene-shares-video-clarification-1417523",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/24/fd01f10e99e86412798c874690497f1a17743633376751063_original.png?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-03-24T14:42:44Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "50b82362ce58c2a564ccb1d7b33350ca",
+            "title": "Prajakta Mali : प्राजक्ता माळी नव्या प्रोजेक्टमधून येणार प्रेक्षकांच्या भेटीला, तेलुगू दिग्दर्शकासोबत फोटो शेअर करत म्हणाली, 'काहीतरी शिजतंय'",
+            "description": "प्राजक्ता माळीनं पोस्ट शेअर करत चाहत्यांना आनंदाची बातमी दिली आहे.",
+            "content": "प्राजक्ता माळी ही मराठी कलाविश्वातील सुप्रसिद्ध अभिनेत्री असून तिनं अनेक मालिका आणि सिनेमांमध्ये काम केलं आहे.\nप्राजक्ता 'महाराष्ट्राची हास्यजत्रा' या कार्यक्रमाचं सूत्रसंचालनही करते. प्राजक्ता अभिनेत्री तर आहेच पण त्याचबरोबर ती निर्मातीही आहे.\nइतकंच... [336 chars]",
+            "url": "https://maharashtratimes.com/photogallery/entertainment/prajakta-mali-new-project-with-telugu-director-panna-royal-actress-shares-post-about-it/photoshow/129779668.cms",
+            "image": "https://static.langimg.com/mt/thumb/129779668/prajakta-mali-new-project-with-telugu-director-panna-royal-actress-shares-post-about-it.jpg?imgsize=67622&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-03-24T14:36:03Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "47c97515b14f03d90e4873e66fcf0781",
+            "title": "रॅपर बादशाह दुसऱ्यांदा विवाहबंधनात; अभिनेत्री ईशा रिखीसोबत गुपचूप बांधली लग्नगाठ, सोशल मीडियावर Photo व्हायरल",
+            "description": "सिंगर बादशाह आणि अभिनेत्री ईशा रिखीच्या लग्नाचे फोटो सोशल मीडियावर व्हायरल झाले असून साध्या आणि पारंपरिक सोहळ्याची खास झलक चाहत्यांना पाहायला मिळत आहे.",
+            "content": "बॉलिवूड आणि म्युझिक इंडस्ट्रीतील लोकप्रिय सिंगर-रॅपर बादशाह याने पंजाबी अभिनेत्री व मॉडेल ईशा रिखीसोबत लग्न केले आहे. सोशल मीडियावर व्हायरल होत असलेल्या व्हिडीओ आणि फोटोंमुळे या चर्चांना उधाण आले आहे. त्यांच्या लग्नसोहळ्याची साधी आणि पारंपरिक झलक चाह... [862 chars]",
+            "url": "https://marathi.freepressjournal.in/entertainment/badshah-isha-rikhi-wedding-photos-private-ceremony-celebrity-marriage",
+            "image": "https://media.assettype.com/freepressjournal-marathi%2F2026-03-24%2Fk3lcxt2y%2Ffinal-badshah.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-03-24T13:49:36Z",
+            "lang": "mr",
+            "source": {
+                "id": "8b969fce273ef3868d92efb5732de29b",
+                "name": "Free Press Journal",
+                "url": "https://marathi.freepressjournal.in"
+            }
+        }
+    ]
 }

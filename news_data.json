@@ -1,43 +1,13 @@
 {
     "general": [
         {
-            "id": "42a29efa4b3109de6b8baf40db45e98b",
-            "title": "Weather Alert : विजांचा कडकडाट अन् वादळी वारे, महाराष्ट्रावर अस्मानी संकट, 15 जिल्ह्यांना यलो अलर्ट",
-            "description": "30 मार्च रोजी विजांचा कडकडाट आणि वादळी पावसाची शक्यता हवामान खात्याने वर्तवली आहे. त्यामुळे शेतकऱ्यांनी काढणीला आलेल्या पिकांची काळजी घ्यावी.",
-            "content": "1/ 7\nमहाराष्ट्रावर मार्चअखेर मोठे अस्मानी संकट घोंघावत आहे. 30 मार्च रोजी विजांचा कडकडाट आणि वादळी पावसाची शक्यता हवामान खात्याने वर्तवली आहे. त्यामुळे शेतकऱ्यांनी काढणीला आलेल्या पिकांची काळजी घ्यावी.\n3/ 7\nकोकण विभागातील मुंबई, ठाणे, रायगड, रत्नागिर... [1178 chars]",
-            "url": "https://news18marathi.com/photogallery/pune/maharashtra-weather-updates-imd-has-issued-a-yellow-alert-for-unseasonal-rain-for-22-districts-in-the-state-l18w-local18-1654893.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/01/weather-update-2026-01-dbd7446ceadcffde1f7e0f4169428da0-16x9.jpg",
-            "publishedAt": "2026-03-30T01:18:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "c44529e078eb2d990445d7b50e0bc738",
-            "title": "IPL 2026 CSK VS RR: MS धोनी, डेवाल्ड ब्रेविस OUT...; राजस्थानविरुद्ध अशी असेल चेन्नईची Playing XI",
-            "description": "IPL 2026 CSK VS RR: आयपीएल 2026 च्या हंगामात आज चेन्नई सुपर किंग्स आणि राजस्थान रॉयल्स यांच्यात तिसरा सामना रंगणार आहे.",
-            "content": "IPL 2026 CSK VS RR: आयपीएल 2026 च्या हंगामात (IPL 2026) आज चेन्नई सुपर किंग्स (CSK) आणि राजस्थान रॉयल्स (RR) यांच्यात तिसरा सामना रंगणार आहे. गुवाहाटी मैदानावर चेन्नई आणि राजस्थान यांच्यात सायंकाळी 7.30 वाजता सामना खेळण्यात येईल. (CSK VS RR) आजच्या य... [1627 chars]",
-            "url": "https://marathi.abplive.com/sports/cricket/ipl-2026-csk-vs-rr-chennai-super-kings-playing-11-against-rajsthan-royals-ms-dhoni-sanju-samson-ravindra-jadeja-1418197",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/30/02642fea17cb259a97d029b1ce035f651774833308569987_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-03-30T01:15:20Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "marathi.abplive.com",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "23a978554f82c6a2a8a1ff348a716e0a",
-            "title": "वयाच्या 40 व्या वर्षी Sonam Kapoor दुसऱ्यांदा झाली आई, चिमुकला वायू झाला दादा",
-            "description": "अभिनेत्री सोनम कपूर हिने नुकतीच तिच्या इन्स्टाग्रामवर गुड न्यूज शेअर केली आहे. ती दुसऱ्यांदा आई झाली आहे.",
-            "content": "आपल्या फॅशनसोबतच रांझणा आणि सावरिया यांसारख्या चित्रपटांसाठी ओळखली जाणारी अभिनेत्री सोनम कपूर गेली काही वर्ष सिनेसृष्टीपासून दूर आहे. पण सोशल मीडियावर मात्र प्रचंड सक्रिय असते. सोनम इन्स्टाग्रामवर आपल्या आयुष्यातील खास क्षण सतत आपल्या चाहत्यांशी शेअर... [4250 chars]",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sonam-kapoor-blessed-with-baby-boy-again-good-news-shared-by-instagram-post/articleshow/129889505.cms",
-            "image": "https://static.langimg.com/mt/thumb/129889523/sonam-kapoor.jpg?imgsize=51902&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-03-30T01:13:52Z",
+            "id": "efcc475410b122a733f014fd1a9c5c38",
+            "title": "Zayed Khan on Religion : आईवर हिंदू पद्धतीने अंत्यसंस्कार करण्यावर पहिल्यांदाच बोलला झायेद खान, ट्रोल्सला दिलं उत्तर",
+            "description": "बॉलिवूड अभिनेता झायेद खान यानं आईच्या अंत्यसंस्काराबद्दल झालेल्या चर्चेवर भाष्य केलंय. तसंच टीका करणाऱ्यांना त्यानं उत्तरही दिलं आहे.",
+            "content": "मुंबई: अभिनेता झायेद खानची आई आणि दिग्गज अभिनेते संजय खान यांच्या पत्नी जरीन खान यांचं काही महिन्यांपूर्वी निधन झालं. ७ नोव्हेंबर २०२५ रोजी मुंबईत वयाच्या ८१ व्या वर्षी राहत्या घरी त्यांनी अखेरचा श्वास घेतला. जरीन यांच्या निधनानंतर जुहू इथं त्यांच्या... [4158 chars]",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/zayed-khan-breaks-silence-on-mother-zarine-khans-hindu-last-rites-funeral-rituals/articleshow/129893281.cms",
+            "image": "https://static.langimg.com/mt/thumb/129893559/zayed-khan-on-mother-zarine-khan-last-rites.jpg?imgsize=2428068&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-03-30T06:48:49Z",
             "lang": "mr",
             "source": {
                 "id": "86afe444484a22a46a5f6295debcbf1a",
@@ -46,88 +16,43 @@
             }
         },
         {
-            "id": "976bee6ca330a34fc236578f6b535e36",
-            "title": "Sonam Kapoor Welcome Baby Boy: सुपरस्टारची लेक, 40व्या वर्षी दुसऱ्यांदा आई झाली 'ही' अभिनेत्री; गोंडस मुलाला दिला जन्म",
-            "description": "Sonam Kapoor Welcome Baby Boy: अभिनेत्रीनं स्वतः आपल्या इन्स्टाग्राम अकाउंटवरुन चाहत्यांसोबत गूड न्यूज शेअर केली. सोनमनं शेअर केलेल्या पोस्टवर चाहत्यांकडून लाईक्स आणि कमेंट्सचा वर्षाव होत आहे.",
-            "content": "Sonam Kapoor Welcome Baby Boy: बॉलिवूड (Bollywood News) अभिनेत्री सोनम कपूर (Actress Sonam Kapoor) दुसऱ्यांदा आई झाली आहे. 29 मार्च 2026 रोजी नव्वदच्या दशकातले सुपरस्टार अनिल कपूर (Actor Anil Kapoor) यांची लेक अभिनेत्री सोनम कपूरनं आपल्या दुसऱ्या बाळ... [1729 chars]",
-            "url": "https://marathi.abplive.com/entertainment/sonam-kapoor-welcome-baby-boy-with-husband-anand-ahuja-second-time-become-mother-anil-kapoor-daughter-1418195",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/30/44582ba65520cf3d875ce26995872d61177483319676988_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-03-30T01:13:49Z",
+            "id": "3d09ea97c970d56a112a3622d7a83fc8",
+            "title": "KKR vs MI : हार्दिकचा 'नो लूक टॉस' अन् वाद पेटला! अजिंक्य रहाणेला कळायच्या आत झाला गेम? Video चर्चेत",
+            "description": "IPL 2026 MI vs KKR Toss controversy : आयपीएलच्या दुसऱ्याच सामन्यात टॉस न दाखवल्याने मोठा वाद निर्माण झाला आहे. पांड्याने पुन्हा टॉस लांब फेकला.",
+            "content": "Published by :\nLast Updated:Mar 30, 2026 12:16 PM IST\nIPL 2026 MI vs KKR Toss controversy : आयपीएलच्या दुसऱ्याच सामन्यात टॉस न दाखवल्याने मोठा वाद निर्माण झाला आहे. पांड्याने पुन्हा टॉस लांब फेकला.\nMumbai Indians vs Kolkata Knight Riders : नमस्कार मु... [1694 chars]",
+            "url": "https://news18marathi.com/sport/ipl-2026-mi-vs-kkr-toss-controversy-ajinkya-rahane-surprised-as-hardik-pandya-no-look-toss-at-wankhede-1655100.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/03/IPL-2026-MI-vs-KKR-Toss-controversy-2026-03-076584deba2f34b9bcf55d3118e03c14-1200x675.jpg",
+            "publishedAt": "2026-03-30T06:46:00Z",
             "lang": "mr",
             "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
             }
         },
         {
-            "id": "02b135175acdd1121f353f911f8395de",
-            "title": "शनिवारी आखाती प्रदेशात कोणत्या घटना घडल्या ज्यामुळे जगाची चिंता वाढली?",
-            "description": "इराणविरुद्ध अमेरिका-इस्रायल युद्ध सुरू झाल्यानंतर 1 महिन्यानं शनिवारी (28 मार्च) यात एक नवी आघाडी उघडली आहे.",
-            "content": "Author, बीबीसी न्यूज मुंडो\n29 मार्च 2026\nवाचन वेळ: 5 मिनिटे\nइराणविरुद्ध अमेरिका-इस्रायल युद्ध सुरू झाल्यानंतर 1 महिन्यानं शनिवारी (28 मार्च) यात एक नवी आघाडी उघडली आहे.\nशनिवारी (28 मार्च) येमेनमधून इस्रायलवर क्षेपणास्त्रांचा मारा करण्यात आला. 28 फेब्... [5294 chars]",
-            "url": "https://www.bbc.com/marathi/articles/c145j3ddz7jo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_marathi/57d4/live/d3025300-2b7c-11f1-a79a-77e93010d956.jpg",
-            "publishedAt": "2026-03-29T19:07:01Z",
+            "id": "5f587fefd076a81602ff8b3f9cd96412",
+            "title": "Akshaye Khanna : 'रहमान डकैत' ते 'थेट शुक्राचार्य', अक्षय खन्नाच्या लूकची सोशल मीडियावर चर्चा",
+            "description": "मुंबई : धुरंधर २ सिनेमानं जगभरात धूमाकूळ घातली आहे. धुरंधर २ सिनेमा[...]",
+            "content": "मुंबई : धुरंधर २ सिनेमानं जगभरात धूमाकूळ घातली आहे. धुरंधर २ सिनेमा प्रदर्शित झाल्यापासून सर्वत्र रणवीर सिंह आणि राकेश बेदी यांची जोरदार चर्चा होत आहे. मात्र, याआधी धुरंधर रिलीज झाल्यानंतर रहमान डकैत अर्थात अक्षय (Akshaye Khanna) खन्नाची चर्चा जोरदार... [2068 chars]",
+            "url": "https://prahaar.in/2026/03/30/akshaye-khanna-from-rahman-the-bandit-to-shukracharya-himself-akshaye-khannas-look-sparks-a-buzz-on-social-media/",
+            "image": "https://prahaar.in/rppl/wp-content/uploads/2026/03/akshaykhannanewsrole-640x450.jpg",
+            "publishedAt": "2026-03-30T06:13:00Z",
             "lang": "mr",
             "source": {
-                "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-                "name": "BBC",
-                "url": "https://www.bbc.com"
+                "id": "3de73b670124dc029f7e7679f05b20d9",
+                "name": "Prahaar.in",
+                "url": "https://prahaar.in"
             }
         },
         {
-            "id": "0e87521c55107c25a0463022e6834f72",
-            "title": "Houthi Rebels : कोण आहेत हुथी बंडखोर? इराण-इस्रायल युद्धात उतरले तर चित्र पालटण्याची क्षमता, ट्रम्प यांची डोकेदुखी वाढणार",
-            "description": "Houthi Rebels In Iran Israel War : येमेनमधील हुथी बंडखोर कोण आहेत, त्यांचा इराणशी काय संबंध आहे आणि ते अचानक युद्धात का सक्रिय झाले याबाबत सविस्तर माहिती.",
-            "content": "नवी दिल्ली : पश्चिम आशियामध्ये सुरू असलेल्या युद्धात आता येमेनमधील हुथी बंडखोरांचाही (Houthi Rebels) सहभाग वाढताना दिसत आहे. इस्रायलवर क्षेपणास्त्र आणि ड्रोन हल्ले केल्यामुळे या संघटनेचं नाव पुन्हा एकदा चर्चेत आलं आहे. त्यामुळे हुथी बंडखोर नेमके कोण ... [1931 chars]",
-            "url": "https://marathi.abplive.com/news/world/who-are-houthis-houthi-rebels-yemen-iran-israel-us-war-marathi-explained-1418189",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/29/227bc8424e753cac89f6ac1593a2c8d0177480712928993_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-03-29T17:59:02Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "marathi.abplive.com",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "e1987aff7491b50381050ece378168c5",
-            "title": "IPL 2026 MI vs KKR : रोहित-रिकल्टनची वादळी फिफ्टी, पहिल्याच सामन्यात मुंबईचा रोमहर्षक विजय, केकेआरचा पराभव",
-            "description": "मुंबई इंडियन्सचे सलामीचे धडाकेबाज फलंदाज रोहित शर्मा आणि रियान रिकल्टनने मैदानात धावांचा पाऊस पाडला आणि केकेआरविरोधात दणदणीत विजय मिळवला.",
-            "content": "मुंबई:\nIPL 2026 MI vs KKR : इंडियन प्रीमिअर लीग म्हणजे आयपीएल 2026 ची धमाकेदार सुरुवात काल बंगळुरुतील चिन्नास्वामी स्टेडिअमवर झाली. आरसीबीने सनरायझर्स विरोधात झालेल्या पहिल्याच सामन्यात विजय मिळवला. त्यानंतर आज वानखेडे स्टेडियममध्ये आयपीएलचा दुसरा सा... [1009 chars]",
-            "url": "https://marathi.ndtv.com/cricket/mumbai-indians-wins-against-kolkata-knight-riders-in-ipl-2026-second-match-at-wankhede-mi-vs-kkr-ipl-2026-match-update-11283373",
-            "image": "https://c.ndtvimg.com/2026-03/kp6ovobg_mi-vs-kkr-ipl-2026-match-update_625x300_29_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2026-03-29T17:38:28Z",
-            "lang": "mr",
-            "source": {
-                "id": "ec488dea8dd7e47f68689e73bce51589",
-                "name": "NDTV Marathi",
-                "url": "https://marathi.ndtv.com"
-            }
-        },
-        {
-            "id": "9abbb74c6fa59e56b95594e81f9eb4f5",
-            "title": "Dewald Brevis News : CSK च्या गोटात खळबळ; MS धोनीनंतर चेन्नईचा आता हुकमी एक्काही संघातून OUT; कोच स्टीफन फ्लेमिंगने सांगून टाकलं, नेमकं काय घडलं?",
-            "description": "Dewald Brevis ruled out RR vs CSK IPL 2026 : आयपीएल 2026 मध्ये चेन्नई सुपर किंग्स आपला मोहीम सोमवार 30 मार्च रोजी राजस्थान रॉयल्सविरुद्धच्या सामन्याने सुरू करणार आहे.",
-            "content": "Dewald Brevis ruled out RR vs CSK IPL 2026 : आयपीएल 2026 मध्ये चेन्नई सुपर किंग्स (Chennai Super Kings) आपला मोहीम सोमवार 30 मार्च रोजी राजस्थान रॉयल्स (Rajasthan Royals) विरुद्धच्या सामन्याने सुरू करणार आहे. मात्र या सामन्याच्या अवघ्या 24 तास आधी सं... [1972 chars]",
-            "url": "https://marathi.abplive.com/sports/cricket/dewald-brevis-ruled-out-due-to-injury-confirmed-head-coach-stephen-fleming-rr-vs-csk-ipl-2026-marathi-news-1418184",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/29/cc07c6c513b35a66979064cb3d3544e717748034297841378_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-03-29T16:57:28Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "544688e3332358cc5ce8101e7970562f",
-            "title": "Maharashtra Kesari Women : कोल्हापूरची अमृता पुजारी डबल महाराष्ट्र केसरी, वेदिका सासणेला दाखवले अस्मान",
-            "description": "Maharashtra Kesari Women : कोल्हापूरची अमृता पुजारी डबल महाराष्ट्र केसरी, वेदिका सासणेला दाखवले अस्मान",
-            "content": "सुरुवातीपासून अमृताने आक्रमक चाल खेळत वेदिकाला कब्जात ठेवले. पहिल्या दीड मिनिटात 2 गुण मिळवत आघाडी घेतली. त्यानंतर पुन्हा तीन गुण मिळवून पहिल्या सत्रात 5-0 अशी आघाडी घेतली. दुसऱ्या सत्रात वेदिकाने आक्रमक चाल खेळली परंतु अमृताने संयम दाखवत पुन्हा 2 गु... [1555 chars]",
-            "url": "https://pudhari.news/maharashtra/solapur/maharashtra-kesari-women-amruta-pujari-wins-double-title-defeats-vedika-sasan-rg84",
-            "image": "https://media.assettype.com/pudharinews%2F2026-03-29%2Fezcrjugs%2FMaharashtra-Kesari-Women-Amruta-Pujari-Wins-Double-Title-.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-03-29T16:31:28Z",
+            "id": "275ec52f6e1d83f11faf16b9ef0955f6",
+            "title": "Rupali Chakankar SIT Summons | रूपाली चाकणकरांना 'एसआयटी'चे समन्स! भोंदू खरात प्रकरणात थेट पुण्यात धडकले नाशिक पोलिसांचे पथक",
+            "description": "Rupali Chakankar SIT Summons |'शिवनिका'च्या सर्व आजी-माजी सदस्यांची चौकशी होणार",
+            "content": "दरम्यान, तपासात सहकार्य करत नसल्याची गंभीर दखल घेऊन खरातच्या पोलिस कोठडीत नाशिक सत्र न्यायालयाने एक एप्रिलपर्यंत वाढ करण्याचे आदेश दिले आहेत. चाकणकर या खरातच्या शिवनिका संस्थानच्या विश्वस्त होत्या. या अनुषंगाने त्यांची चौकशी केली जाणार आहे.\nसोबतच शिव... [1446 chars]",
+            "url": "https://pudhari.news/maharashtra/north-maharashtra/nashik/sit-summons-rupali-chakankar-ashok-kharat-case-shivnika-sansthan-investigation-sd22",
+            "image": "https://media.assettype.com/pudharinews%2F2025-07-26%2F2mopikj6%2FPune-News-2025-07-26T123457.802.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-03-30T05:45:31Z",
             "lang": "mr",
             "source": {
                 "id": "ece2c054afd67d7d9de71c5ac9770bd6",
@@ -136,18 +61,93 @@
             }
         },
         {
-            "id": "c6e1ab0bf697893f210222b18c5e9177",
-            "title": "मोहित कंबोज यांच्या लेकीच्या बर्थडे पार्टीला आदित्य ठाकरेंची उपस्थिती, 8 सेकंदाच्या 'त्या' Video ने राजकारण तापलं",
-            "description": "शिवसेना (ठाकरे गट) नेते आमदार आदित्य ठाकरे यांनी लावलेली हजेरी सध्या संपूर्ण राज्याच्या राजकीय वर्तुळात चर्चेचा आणि आश्चर्याचा विषय ठरली आहे.",
-            "content": "Published by :\nReported by :\nLast Updated:Mar 29, 2026 10:09 PM IST\nशिवसेना (ठाकरे गट) नेते आमदार आदित्य ठाकरे यांनी लावलेली हजेरी सध्या संपूर्ण राज्याच्या राजकीय वर्तुळात चर्चेचा आणि आश्चर्याचा विषय ठरली आहे.\nमुंबई: महाराष्ट्राच्या राजकारणात एकमेकां... [2416 chars]",
-            "url": "https://news18marathi.com/maharashtra/mohit-kamboj-daughter-birthday-party-video-aaditya-thackeray-video-viral-1654824.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/03/Mohit-Kamboj-2026-03-138b05f5f11ce44546f15d5b59052f60-1200x675.jpg",
-            "publishedAt": "2026-03-29T16:01:00Z",
+            "id": "61bf34020d00fd8c4aab4ca31351b026",
+            "title": "Ashok Kharat Case: मोठी बातमी : नीलम गोऱ्हेही अशोक खरातच्या भक्त, नाशिकच्या 5 स्टार हॉटेलमध्ये भेट, तृप्ती देसाईंच्या दाव्याने खळबळ",
+            "description": "Ashok Kharat Case: सामाजिक कार्यकर्त्या तृप्ती देसाई यांनी नीलम गोऱ्हे यांच्यावर खळबळजनक आरोप केले आहेत. भोंदूबाबा अशोक खरातला नीलम गोऱ्हे भेटल्याचा दावा त्यांनी केला आहे.",
+            "content": "Ashok Kharat Case: नाशिकच्या स्वयंघोषित 'कॅप्टन' अशोक खरात याच्या काळ्या कारनाम्यांनी संपूर्ण महाराष्ट्र हादरला असतानाच, आता या प्रकरणात सामाजिक कार्यकर्त्या तृप्ती देसाई यांनी नीलम गोऱ्हे यांच्यावर गंभीर आरोप केले आहेत. नीलम गोऱ्हे या गेल्या 5 ते 6 ... [1590 chars]",
+            "url": "https://marathi.abplive.com/news/politics/ashok-kharat-case-trupti-desai-allegations-neelam-gorhe-met-ashok-kharat-at-express-inn-hotel-nashik-crime-marathi-news-1418234",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/30/ebf2d0302643c9827afe80abdd6df7331774847043834923_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-03-30T05:04:39Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "marathi.abplive.com",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "d6c2a61cfbb0764dacceebfb33ea73a6",
+            "title": "IPL 2026 : तब्बल 18 वर्षानंतर धोनी पर्वाचा 'द एन्ड', स्वत: CSK ने केली घोषणा, पोस्ट चर्चेत!",
+            "description": "MS Dhoni Era Ends in IPL 2026 : गेली 18 वर्ष चेन्नई सुपर किंग्जसाठी आपलं सर्वस्व अर्पण करणाऱ्या महेंद्रसिंग धोनीने आता थांबायचा निर्णय घेतला आहे. चेन्नई सुपर किंग्जच्या सोशल मीडियावर एक पोस्ट शेअर करण्यात आली आहे.",
+            "content": "1/ 7\nआयपीएलच्या 19 व्या हंगामाला आता सुरूवात झाली आहे. चेन्नई सुपर किंग्ज आणि राजस्थान रॉयल्स यांच्यात तिसरा सामना खेळला जाईल. अशातच आता चेन्नई सुपर किंग्जला मोठा धक्का बसला आहे.\n2/ 7\nकॅप्टन ऋतुराज गायकवाडच्या रुपात चेन्नईला नवा महोरक्या मिळाला. तर स... [865 chars]",
+            "url": "https://news18marathi.com/photogallery/sport/ms-dhoni-era-ends-in-ipl-2026-chennai-super-kings-announced-throw-post-before-match-against-rr-1655023.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/03/MS-Dhoni-Era-Ends-in-IPL-2026-2026-03-637d19d5d35584cbd59bc94469dfe2f4-1200x675.jpg",
+            "publishedAt": "2026-03-30T05:02:00Z",
             "lang": "mr",
             "source": {
                 "id": "bfd324c66556f858b94a8093cae1427c",
                 "name": "News18 Marathi",
                 "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "6879546533e3e6498a2336da369e6a14",
+            "title": "Devendra Fadnavis On Rupali Chakankar Ashok Kharat Case: अशोक खरात प्रकरणात रुपाली चाकणकरांना समन्स; देवेंद्र फडणवीसांना विचारताच एका वाक्यात विषय संपवून टाकला!",
+            "description": "Devendra Fadnavis On Rupali Chakankar Ashok Kharat Case: रुपाली चाकणकर यांच्यासह शिवनिका संस्थानच्या आजी-माजी ट्रस्टींना समन्स बजावण्यात आलं असून आज चौकशीची शक्यता वर्तवली जात आहे.",
+            "content": "Devendra Fadnavis On Rupali Chakankar Ashok Kharat Case: भोंदूबाबा अशोक खरात (Ashok Kharat) याच्यासोबतची ओळख रूपाली चाकणकर (Rupali Chakankar) यांना चांगलीच भोवली आहे. सर्वात आधी महिला आयोगाच्या अध्यक्षपदाचा राजीनामा आणि मग पक्षाच्या महिला प्रदेशाध्यक... [2085 chars]",
+            "url": "https://marathi.abplive.com/crime/devendra-fadnavis-on-rupali-chakankar-summons-ashok-kharat-case-nashik-bhondubaba-crime-marathi-news-1418232",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/30/db06c4ea025495f1f31dede70147a0401774846182443987_original.jpeg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-03-30T04:49:49Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "53709ce318a0677bfc0016fb587f6fe4",
+            "title": "KKR vs MI : रिंकुकडे कॅप्टन्सी आली अन् मुंबईने मॅच फिरवली, 10 व्या ओव्हरच्या दुसऱ्याच बॉलवर घोडचूक!",
+            "description": "kolkata knight riders vs mumbai indians match : पहिल्या ओव्हरमध्ये 16 रन्स खाल्यानंतर कार्तिक त्यागीवर पुन्हा रिंकूने विश्वास दाखवला. रिंकूने त्याला 10 वी ओव्हर सोपवली. तोपर्यंत मुंबई इंडियन्सने 9 ओव्हरमध्ये 110 धावा केल्या होत्या.",
+            "content": "Published by :\nLast Updated:Mar 30, 2026 10:00 AM IST\nkolkata knight riders vs mumbai indians match : पहिल्या ओव्हरमध्ये 16 रन्स खाल्यानंतर कार्तिक त्यागीवर पुन्हा रिंकूने विश्वास दाखवला. रिंकूने त्याला 10 वी ओव्हर सोपवली. तोपर्यंत मुंबई इंडियन्सने 9... [2200 chars]",
+            "url": "https://news18marathi.com/sport/kkr-vs-mi-rinku-singh-angry-on-vaibhav-arora-over-drop-catch-in-2nd-ball-of-10th-over-in-ipl-2026-1654959.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/03/Rinku-Singh-Angry-On-Vaibhav-arora-over-drop-catch-2026-03-58ffe6e0995f098b3b6c394c6f1b1716-1200x675.jpg",
+            "publishedAt": "2026-03-30T04:30:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "news18marathi.com",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "cdb9586444075f17da38076de42fb38a",
+            "title": "Weekly Horoscope: तूळ, वृश्चिक, धनु, मकर, कुंभ, मीन राशींचं नशीब पालटलं! आजपासून नवा आठवडा, ग्रहांचे शुभ संकेत, फक्त 2 राशींनी सावध राहा, साप्ताहिक राशीभविष्य",
+            "description": "Weekly Horoscope 30 March To 5 April 2026 : आजपासून सुरू झालेला नवीन आठवडा तूळ ते मीन अशा सर्व 6 राशींसाठी कसा जाणार आहे? साप्ताहिक राशीभविष्य जाणून घेऊयात.",
+            "content": "Weekly Horoscope 30 March To 5 April 2026: मार्चचा शेवट आणि एप्रिलची सुरूवात... आजपासून नवीन आठवडा सुरू झाला आहे. वैदिक ज्योतिषशास्त्रानुसार, 30 मार्च ते 5 एप्रिल 2026 हा आठवडा फार खास असणार आहे. ज्योतिषींच्या मते, या आठवड्यात अनेक राशींना नशिबाची सा... [1665 chars]",
+            "url": "https://marathi.abplive.com/astro/weekly-horoscope-30-march-to-5-april-2026-libra-scorpio-saggitarius-capricorn-aquarius-pisces-saptahik-rashi-bhavishya-new-week-starts-from-today-astrological-prediction-in-marathi-1418222",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/30/3a8dd77c27531413507cd2b9537e403d1774843978105381_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-03-30T04:13:15Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "dcc7cbc892f19789f04fdc1b59486266",
+            "title": "Satara News: सातारा ZP निवडणुकीचा राडा भोवला! SP तुषार दोशी सक्तीच्या रजेवर; गृह विभागाचे आदेश",
+            "description": "सातारा पोलीस अधीक्षक तुषार दोषी यांना या प्रकरणाची चौकशी होईपर्यंत सक्तीच्या रजेवर जाण्याचे आदेश गृह विभागाने दिले आहेत.",
+            "content": "राहुल तपासे, सातारा:\nSatara SP Tushar Doshi News: सातारा जिल्हा परिषद अध्यक्ष निवडीवेळी हायहोल्टेज ड्रामा पाहायला मिळाला. भाजप विरुद्ध शिवसेना, राष्ट्रवादी असा नाट्यमय संघर्ष पाहायला मिळाला ज्यामध्ये भाजपने बाजी मारत अध्यक्षपद मिळवले. यावेळी जिल्ह्या... [1608 chars]",
+            "url": "https://marathi.ndtv.com/maharashtra/satara-zp-election-clash-police-sp-tushar-doshi-on-compulsory-leave-vaishali-kadukar-take-charge-11284196",
+            "image": "https://c.ndtvimg.com/2026-03/np7qfvvg_satara-zp-rada-_625x300_30_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2026-03-30T03:21:40Z",
+            "lang": "mr",
+            "source": {
+                "id": "ec488dea8dd7e47f68689e73bce51589",
+                "name": "NDTV Marathi",
+                "url": "https://marathi.ndtv.com"
             }
         }
     ],
@@ -477,6 +477,96 @@
     ],
     "sports": [
         {
+            "id": "3d09ea97c970d56a112a3622d7a83fc8",
+            "title": "KKR vs MI : हार्दिकचा 'नो लूक टॉस' अन् वाद पेटला! अजिंक्य रहाणेला कळायच्या आत झाला गेम? Video चर्चेत",
+            "description": "IPL 2026 MI vs KKR Toss controversy : आयपीएलच्या दुसऱ्याच सामन्यात टॉस न दाखवल्याने मोठा वाद निर्माण झाला आहे. पांड्याने पुन्हा टॉस लांब फेकला.",
+            "content": "Published by :\nLast Updated:Mar 30, 2026 12:16 PM IST\nIPL 2026 MI vs KKR Toss controversy : आयपीएलच्या दुसऱ्याच सामन्यात टॉस न दाखवल्याने मोठा वाद निर्माण झाला आहे. पांड्याने पुन्हा टॉस लांब फेकला.\nMumbai Indians vs Kolkata Knight Riders : नमस्कार मु... [1694 chars]",
+            "url": "https://news18marathi.com/sport/ipl-2026-mi-vs-kkr-toss-controversy-ajinkya-rahane-surprised-as-hardik-pandya-no-look-toss-at-wankhede-1655100.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/03/IPL-2026-MI-vs-KKR-Toss-controversy-2026-03-076584deba2f34b9bcf55d3118e03c14-1200x675.jpg",
+            "publishedAt": "2026-03-30T06:46:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "d2ad7f9e1beee5774df354fc3ff400b9",
+            "title": "Cameron Green: तब्बल 25.20 कोटी मोजून केकेआरनं धुरंदर संघात आणला, पण बॉलिंगची संधी दिलीच नाही! कॅप्टन अजिंक्य रहाणेच्या उत्तरानं सुद्धा डोकं खाजवायची वेळ आली...",
+            "description": "रहाणेने 40 चेंडूंमध्ये 67 धावांची शानदार खेळी केली आणि आपल्या फॉर्मवर हलक्याफुलक्या अंदाजात टिप्पणी केली, मी अजून तरुण आहे तो नक्कीच एक विनोद होता, पण त्याचा आत्मविश्वास स्पष्टपणे दिसत होता.",
+            "content": "Cameron Green: आयपीएल 2026 च्या आपल्या पहिल्याच सामन्यात कोलकाता नाईट रायडर्सच्या (केकेआर) पराभवानंतर, कर्णधार अजिंक्य रहाणेच्या चेहऱ्यावर केवळ निराशाच नव्हे, तर अनेक अनुत्तरित प्रश्नही दिसत होते. 220 धावांचा डोंगर उभा करूनही, संघ 6 गडी राखून सामना ह... [1818 chars]",
+            "url": "https://marathi.abplive.com/sports/why-was-not-cameron-green-given-the-opportunity-to-bowl-an-over-kkr-captain-ajinkya-rahane-response-raised-eyebrows-1418242",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/30/607f30d0bec035035d690814b4afc8971774852080889736_original.png?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-03-30T06:28:37Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "d6c2a61cfbb0764dacceebfb33ea73a6",
+            "title": "IPL 2026 : तब्बल 18 वर्षानंतर धोनी पर्वाचा 'द एन्ड', स्वत: CSK ने केली घोषणा, पोस्ट चर्चेत!",
+            "description": "MS Dhoni Era Ends in IPL 2026 : गेली 18 वर्ष चेन्नई सुपर किंग्जसाठी आपलं सर्वस्व अर्पण करणाऱ्या महेंद्रसिंग धोनीने आता थांबायचा निर्णय घेतला आहे. चेन्नई सुपर किंग्जच्या सोशल मीडियावर एक पोस्ट शेअर करण्यात आली आहे.",
+            "content": "1/ 7\nआयपीएलच्या 19 व्या हंगामाला आता सुरूवात झाली आहे. चेन्नई सुपर किंग्ज आणि राजस्थान रॉयल्स यांच्यात तिसरा सामना खेळला जाईल. अशातच आता चेन्नई सुपर किंग्जला मोठा धक्का बसला आहे.\n2/ 7\nकॅप्टन ऋतुराज गायकवाडच्या रुपात चेन्नईला नवा महोरक्या मिळाला. तर स... [865 chars]",
+            "url": "https://news18marathi.com/photogallery/sport/ms-dhoni-era-ends-in-ipl-2026-chennai-super-kings-announced-throw-post-before-match-against-rr-1655023.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/03/MS-Dhoni-Era-Ends-in-IPL-2026-2026-03-637d19d5d35584cbd59bc94469dfe2f4-1200x675.jpg",
+            "publishedAt": "2026-03-30T05:02:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "53709ce318a0677bfc0016fb587f6fe4",
+            "title": "KKR vs MI : रिंकुकडे कॅप्टन्सी आली अन् मुंबईने मॅच फिरवली, 10 व्या ओव्हरच्या दुसऱ्याच बॉलवर घोडचूक!",
+            "description": "kolkata knight riders vs mumbai indians match : पहिल्या ओव्हरमध्ये 16 रन्स खाल्यानंतर कार्तिक त्यागीवर पुन्हा रिंकूने विश्वास दाखवला. रिंकूने त्याला 10 वी ओव्हर सोपवली. तोपर्यंत मुंबई इंडियन्सने 9 ओव्हरमध्ये 110 धावा केल्या होत्या.",
+            "content": "Published by :\nLast Updated:Mar 30, 2026 10:00 AM IST\nkolkata knight riders vs mumbai indians match : पहिल्या ओव्हरमध्ये 16 रन्स खाल्यानंतर कार्तिक त्यागीवर पुन्हा रिंकूने विश्वास दाखवला. रिंकूने त्याला 10 वी ओव्हर सोपवली. तोपर्यंत मुंबई इंडियन्सने 9... [2200 chars]",
+            "url": "https://news18marathi.com/sport/kkr-vs-mi-rinku-singh-angry-on-vaibhav-arora-over-drop-catch-in-2nd-ball-of-10th-over-in-ipl-2026-1654959.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/03/Rinku-Singh-Angry-On-Vaibhav-arora-over-drop-catch-2026-03-58ffe6e0995f098b3b6c394c6f1b1716-1200x675.jpg",
+            "publishedAt": "2026-03-30T04:30:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "37b0c82ca44c9d1ec5aa2d803d99adc0",
+            "title": "PSL 2026 : 'मला कळालंच नाही, मी फक्त...', बॉल टेम्परिंगवर शाहीन शाह आफ्रिदी धडधडीत खोटं बोलला, 'अंपायरने आम्हाला...'",
+            "description": "PSL 2026: मॅचनंतरच्या प्रेझेंटेशनमध्ये लाहोर कलंदर्सचा कॅप्टन शाहीन शाह आफ्रिदी याने पाकिस्तानचे दिग्गज क्रिकेटपटू आणि समालोचक रमीझ राजा यांच्या प्रश्नाची उत्तरं देण्याचा प्रयत्न केला.",
+            "content": "Published by :\nLast Updated:Mar 30, 2026 11:26 AM IST\nShaheen Shah Afridi On Ball Tempering : मॅचनंतरच्या प्रेझेंटेशनमध्ये लाहोर कलंदर्सचा कॅप्टन शाहीन शाह आफ्रिदी याने पाकिस्तानचे दिग्गज क्रिकेटपटू आणि समालोचक रमीझ राजा यांच्या प्रश्नाची उत्तरं देण्... [2347 chars]",
+            "url": "https://news18marathi.com/sport/psl-2026-shaheen-shah-afridi-on-ball-tempering-controversy-chat-with-ramiz-raja-1654947.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/03/PSL-2026-Shaheen-Shah-Afridi-On-Ball-Tempering-2026-03-a64bfd520a6c961c920ac2e5839395a7-1200x675.jpg",
+            "publishedAt": "2026-03-30T03:16:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "21bb25110c6d4800354e10f97f0f0d87",
+            "title": "MI vs KKR : 25 कोटींच्या कॅमरून ग्रीनला बॉलिंग का दिली नाही? कॅप्टन अजिंक्यने एका वाक्यात विषय संपवला! कुणावर फोडलं खापर?",
+            "description": "Ajinkya Rahane on Cameron Green Bowling : केकेआर टीममधील महत्त्वाचा ऑलराउंडर कॅमेरून ग्रीन सध्या बॉलिंग का करत नाही? या प्रश्नावर अजिंक्य रहाणेने थेट उत्तर देणं टाळलं.",
+            "content": "Published by :\nLast Updated:Mar 30, 2026 7:26 AM IST\nAjinkya Rahane on Cameron Green Bowling : केकेआर टीममधील महत्त्वाचा ऑलराउंडर कॅमेरून ग्रीन सध्या बॉलिंग का करत नाही? या प्रश्नावर अजिंक्य रहाणेने थेट उत्तर देणं टाळलं.\nMI vs KKR, Ajinkya Rahane : म... [1998 chars]",
+            "url": "https://news18marathi.com/sport/ajinkya-rahane-ask-on-why-cameron-green-didnt-bowl-in-mi-vs-kkr-blame-of-loss-on-this-players-1654916.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/03/Ajinkya-Rahane-on-Cameron-Green-Bowling-2026-03-e859773d67264ebff4c43c34671536f7-1200x675.jpg",
+            "publishedAt": "2026-03-30T01:56:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
             "id": "c44529e078eb2d990445d7b50e0bc738",
             "title": "IPL 2026 CSK VS RR: MS धोनी, डेवाल्ड ब्रेविस OUT...; राजस्थानविरुद्ध अशी असेल चेन्नईची Playing XI",
             "description": "IPL 2026 CSK VS RR: आयपीएल 2026 च्या हंगामात आज चेन्नई सुपर किंग्स आणि राजस्थान रॉयल्स यांच्यात तिसरा सामना रंगणार आहे.",
@@ -535,248 +625,7 @@
                 "name": "Pudhari News",
                 "url": "https://pudhari.news"
             }
-        },
-        {
-            "id": "79659b4495fe67680c892c0ae07f2dd2",
-            "title": "Maharashtra Kesari : कोल्हापूरची अमृता पुजारी ठरली महाराष्ट्र केसरी, वेदीका ससाणेला आस्मान दाखवलं, VIDEO",
-            "description": "चौथ्या महिला महाराष्ट्रात केसरी कुस्ती स्पर्धेच्या फायनल सामन्यात कोल्हापूरच्या अमृता पुजारीने बाजी मारली आहे. तिने कोल्हापूर शहरच्या वेदीका ससाणेचा 7-0 असा पराभव करत\nमहाराष्ट्र केसरी ठरली आहे.",
-            "content": "Published by :\nLast Updated:Mar 29, 2026 10:21 PM IST\nचौथ्या महिला महाराष्ट्रात केसरी कुस्ती स्पर्धेच्या फायनल सामन्यात कोल्हापूरच्या अमृता पुजारीने बाजी मारली आहे. तिने कोल्हापूर शहरच्या वेदीका ससाणेचा 7-0 असा पराभव करत महाराष्ट्र केसरी ठरली आहे.\nMa... [1814 chars]",
-            "url": "https://news18marathi.com/sport/amruta-pujari-won-maharashtra-kesari-2026-defeat-vedika-sasane-solapur-1654837.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/03/Vedika-Sasane-vs-Amruta-Pujari-Final-2026-03-db4b1cfbe861900a35f939b5924c658c-1200x675.jpg",
-            "publishedAt": "2026-03-29T15:56:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "7dfc71ad34b6a3d6fb720fd4a8c70b93",
-            "title": "MI vs KKR Live Score Updates, IPL 2026: शार्दूलकडून सलग दुसरी शिकार, केकेआरला दुसरा झटका, कॅमरुन ग्रीन आऊट,",
-            "description": "Mumbai Indians vs Kolkata Knight Riders Indian Premier League Live Score:आयपीएलच्या 19 व्या मोसमातील दुसऱ्या सामन्यात मुंबई इंडियन्स विरुद्ध कोलकाता नाईट रायडर्स आमनेसामने आहेत. दोन्ही संघांचा विजयी सुरुवात करण्याचा प्रयत्न असणार आहे. त्यामुळे चाहत्यांना या सामन्यात चुरस पाहायला मिळणार आहे.",
-            "content": "MI vs KKR IPL 2026 Live Score : कॅप्टन अजिंक्य रहाणे याचं अर्धशतक\nकॅप्टन अजिंक्य रहाणे याने आयपीएल 2026 मधील केकेआरच्या पहिल्याच सामन्यात अर्धशतक झळकावलं आहे. अजिंक्यने अवघ्या 27 बॉलमध्ये अर्धशतक पूर्ण करण्याची कामगिरी केली आहे.\nMI vs KKR IPL 2026 Li... [3716 chars]",
-            "url": "https://www.tv9marathi.com/sports/cricket-news/mi-vs-kkr-ipl-2026-live-score-updates-match-scorecard-online-at-wankhede-stadium-mumbai-in-marathi-1636791.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/03/Mumbai-Indians-vs-Kolkata-Knight-Riders-Live-Ipl-2026.jpg",
-            "publishedAt": "2026-03-29T14:48:36Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "f2cea55a46236e15fda7a7c9da94e0b5",
-            "title": "MI vs KKR : रोहित शर्मा का नाही Impact subs, फिटनेस नाही हे आहे मोठे सिक्रेट",
-            "description": "आयपीएलच्या पहिल्याच सामन्यात मुंबई इंडियन्सने रोहित शर्माला इम्पॅक्ट सब न बनवता त्याच्या जागी सूर्यकुमार यादवला बनवलं आहे.",
-            "content": "Published by :\nLast Updated:Mar 29, 2026 7:38 PM IST\nआयपीएलच्या पहिल्याच सामन्यात मुंबई इंडियन्सने रोहित शर्माला इम्पॅक्ट सब न बनवता त्याच्या जागी सूर्यकुमार यादवला बनवलं आहे.\nMI vs KKR, IPL 2026 : आयपीएलमध्ये आज मुंबईच्या वानखेडेच्या मैदानावर मुंबई ... [2241 chars]",
-            "url": "https://news18marathi.com/sport/mi-vs-rcb-why-rohit-sharma-not-impact-sub-know-the-reason-mumbai-indians-vs-royal-challengers-banglore-ipl-2026-ws-a-1654726.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/03/ipl-2026-2026-03-bb6563549f79cab67a9442f6bc73f66a-1200x675.jpg",
-            "publishedAt": "2026-03-29T14:02:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "ccaedd5244138f579d986fca9f08f473",
-            "title": "‘विराट कोहली संपला..’ आरसीबीच्या विजयानंतर मोहम्मद कैफची पोस्ट व्हायरल, काय म्हणाला ते जाणून घ्या",
-            "description": "विराट कोहली एक वर्षानंतर टी20 क्रिकेट खेळण्यासाठी मैदानात उतरला. आयपीएलच्या पहिल्याच सामन्यात त्याने जबरदस्त खेळी केली. धावांचा पाठलाग करताना त्याने केलेली फलंदाजी खरंच कौतुकास्पद आहे. असं असताना मोहम्मद कैफची एक पोस्ट व्हायरल होत आहे.",
-            "content": "आयपीएल 2026 स्पर्धेला मोठ्या दिमाखात सुरूवात झाली आहे. पहिल्याच सामन्यात आरसीबीने सनरायझर्स हैदराबादचा धुव्वा उडवला. पहिल्या सामन्यात 6 विकेट आणि 26 चेंडू राखून पराभवाची धूळ चारली. या सामन्यात सनराझर्स हैदराबादने 202 धावांचं लक्ष्य ठेवलं होतं. पण या ... [1477 chars]",
-            "url": "https://www.tv9marathi.com/sports/cricket-news/mohammad-kaif-social-media-post-goes-viral-after-virat-kohli-knock-in-the-first-match-of-ipl-2026-1636756.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/03/Mohammad_Kaif_Virat.jpg",
-            "publishedAt": "2026-03-29T11:24:01Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "ac4a6581c6ac516cfe3320c6bec1e553",
-            "title": "IPL 2026 : मुंबई इंडियन्सला मोठा झटका, वर्ल्ड कप खेळलेले तीन खेळाडू पहिल्याच मॅचमधून बाहेर?",
-            "description": "इंडियन्सला मोठा झटका बसला आहे. कारण टी20 वर्ल्ड कपमध्ये खेळलेले मुंबईचे तीन खेळाडू पहिल्याच सामन्यातून बाहेर जाण्याची शक्यता आहे. त्यामुळे मुंबईला मोठा धक्का बसला आहे.",
-            "content": "1/ 8\nआयपीएलमध्ये आज मुंबई इंडियन्स आणि कोलकत्ता नाईट रायडर्स हे दोन्ही संघ मुंबईच्या वानखेडेच्या मैदानावर भिडणार आहेत. या सामन्याला आता काही तास उरले आहेत.\n2/ 8\nमुंबई इंडियन्सचा हा आयपीएलच्या हंगामातला आणि होमग्राऊंडवरचा पहिलाच सामना आहे. त्यामुळे मु... [1147 chars]",
-            "url": "https://news18marathi.com/photogallery/sport/mumbai-indians-big-blow-before-first-match-against-kolkatta-knight-riders-three-player-likely-ruled-out-wankhede-stadium-match-1654668.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/03/3-2026-03-28e3f3096d43e6daf7276595e06e3517-1200x675.jpg",
-            "publishedAt": "2026-03-29T11:11:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "7ae477573c219f0c334768ab26312c23",
-            "title": "MI vs KKR: वानखेडे स्टेडियममध्ये भिडणार मुंबई इंडियन्स केकेआरचा संघ; जाणून घ्या प्लेइंग इलेव्हन आणि पिच रिपोर्ट",
-            "description": "IPL 2026 MI Vs KKR : आयपीएल २०२६ मध्ये वानखेडे स्टेडियमवर मुंबई इंडियन्सचा सामना कोलकाता नाइट रायडर्सशी होणार आहे. संभाव्य प्लेइंग इलेव्हन, खेळपट्टीचा अहवाल आणि सामन्याचा अंदाज जाणून घ्या.",
-            "content": "आयपीएलच्या १९ व्या हंगामातील पहिला सामना अत्यंत रोमांचक झाला. शनिवारी झालेल्या बंगळूरू आणि हैदराबाद यांच्यातील सामन्यात आरसीबीनं दिमाखात विजय मिळवला. आयपीएल २०२६ चा दुसरा सामना आता मुंबई इंडियन्स आणि कोलकाता नाईट रायडर्स यांच्यात खेळला जाणार आहे. मुं... [1140 chars]",
-            "url": "https://saamtv.esakal.com/sports/mi-vs-kkr-ipl-2026-lash-at-wankhede-as-mumbai-indians-face-kolkata-knight-riders-heck-playing-xi-and-pitch-report-bbj88",
-            "image": "https://media.assettype.com/saamtv%2F2026-03-29%2F5y69r4dl%2Fnew-size-thumbnail-2026-03-29T155050.088.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-03-29T10:30:29Z",
-            "lang": "mr",
-            "source": {
-                "id": "36c482d58a61229d6b752791e526b574",
-                "name": "Saam Tv",
-                "url": "https://saamtv.esakal.com"
-            }
         }
     ],
-    "entertainment": [
-        {
-            "id": "ef70486d147ce9c2fec59354fc561cdb",
-            "title": "Horoscope Today 30 March 2026 : आज सोमवारच्या दिवशी 'या' 7 राशींची कठीण परीक्षा; दिवसाच्या शेवटी मिळणार मोठा धक्का, वाचा आजचे राशीभविष्य",
-            "description": "Horoscope Today 30 March 2026 : ग्रहांच्या संक्रमणाच्या दृष्टीने देखील आजचा दिवस खास असणार आहे. त्यामुळे आजचा दिवस 12 राशींसाठी नेमका कसा असणार आहे हे जाणून घेऊयात.",
-            "content": "Horoscope Today 30 March 2026 : वैदिक ज्योतिष शास्त्रानुसार, आज 30 मार्च 2026 चा दिवस आहे. त्यानुसार आजचा वार सोमवार आहे. आजचा दिवस हा महादेवाला (Lord Shiva) समर्पित आहे. तसेच, आजच्या दिवशी भक्त भगवान शंकराची पूजा करतात. तसेच, ग्रहांच्या संक्रमणाच्या... [3576 chars]",
-            "url": "https://marathi.abplive.com/astro/horoscope-today-30-march-2026-monday-marathi-rashi-zodiac-signs-marathi-astrology-1418193",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/30/6e9ed349e334b76bbca9e72f1d9506c51774814370335358_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-03-30T01:30:54Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "23a978554f82c6a2a8a1ff348a716e0a",
-            "title": "वयाच्या 40 व्या वर्षी Sonam Kapoor दुसऱ्यांदा झाली आई, चिमुकला वायू झाला दादा",
-            "description": "अभिनेत्री सोनम कपूर हिने नुकतीच तिच्या इन्स्टाग्रामवर गुड न्यूज शेअर केली आहे. ती दुसऱ्यांदा आई झाली आहे.",
-            "content": "आपल्या फॅशनसोबतच रांझणा आणि सावरिया यांसारख्या चित्रपटांसाठी ओळखली जाणारी अभिनेत्री सोनम कपूर गेली काही वर्ष सिनेसृष्टीपासून दूर आहे. पण सोशल मीडियावर मात्र प्रचंड सक्रिय असते. सोनम इन्स्टाग्रामवर आपल्या आयुष्यातील खास क्षण सतत आपल्या चाहत्यांशी शेअर... [4250 chars]",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sonam-kapoor-blessed-with-baby-boy-again-good-news-shared-by-instagram-post/articleshow/129889505.cms",
-            "image": "https://static.langimg.com/mt/thumb/129889523/sonam-kapoor.jpg?imgsize=51902&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-03-30T01:13:52Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
-            }
-        },
-        {
-            "id": "976bee6ca330a34fc236578f6b535e36",
-            "title": "Sonam Kapoor Welcome Baby Boy: सुपरस्टारची लेक, 40व्या वर्षी दुसऱ्यांदा आई झाली 'ही' अभिनेत्री; गोंडस मुलाला दिला जन्म",
-            "description": "Sonam Kapoor Welcome Baby Boy: अभिनेत्रीनं स्वतः आपल्या इन्स्टाग्राम अकाउंटवरुन चाहत्यांसोबत गूड न्यूज शेअर केली. सोनमनं शेअर केलेल्या पोस्टवर चाहत्यांकडून लाईक्स आणि कमेंट्सचा वर्षाव होत आहे.",
-            "content": "Sonam Kapoor Welcome Baby Boy: बॉलिवूड (Bollywood News) अभिनेत्री सोनम कपूर (Actress Sonam Kapoor) दुसऱ्यांदा आई झाली आहे. 29 मार्च 2026 रोजी नव्वदच्या दशकातले सुपरस्टार अनिल कपूर (Actor Anil Kapoor) यांची लेक अभिनेत्री सोनम कपूरनं आपल्या दुसऱ्या बाळ... [1729 chars]",
-            "url": "https://marathi.abplive.com/entertainment/sonam-kapoor-welcome-baby-boy-with-husband-anand-ahuja-second-time-become-mother-anil-kapoor-daughter-1418195",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/30/44582ba65520cf3d875ce26995872d61177483319676988_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-03-30T01:13:49Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "3aeee0ff5b2152644726b2d40d4116b2",
-            "title": "गावातलं रहस्य अन् टेकडीवर सापडली हादरवून टाकणारी गोष्ट; सस्पेन्सचा बाप आहे 'ही' 10 एपिसोडची सीरिज, OTT वर नंबर 1",
-            "description": "Best Suspense Thriller of 2026: १० एपिसोडची एक अशी वेबसीरिज रिलीज झाली आहे, ज्याने प्रेक्षकांना जवळपास ४०० मिनिटं खिळवून ठेवलं आहे. या सीरिजचा एक-एक सीन तुमच्या अंगावर शहारे आणेल.",
-            "content": "1/ 8\nसध्या ओटीटीवर चांगल्या वेब सीरिज आणि फिल्मचा जणू काही पूर आला आहे. अशातच १० एपिसोडची एक अशी वेबसीरिज रिलीज झाली आहे, ज्याने प्रेक्षकांना जवळपास ४०० मिनिटं खिळवून ठेवलं आहे. या सीरिजचा एक-एक सीन तुमच्या अंगावर शहारे आणेल.\n3/ 8\nएका छोट्याशा गावातल... [1030 chars]",
-            "url": "https://news18marathi.com/photogallery/entertainment/ultimate-suspense-thriller-ranked-no-1-on-ott-vijay-sethupathi-this-10-episode-kaattaan-series-1654789.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/03/kaattaan-vijay-sethupathi-series-1-2026-03-f8fc542ffad02cf407918041aa1bfe10-1200x675.jpg",
-            "publishedAt": "2026-03-29T16:30:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "7299e4b40839524a2ff16a71f38689df",
-            "title": "शूटिंगवेळी समुद्रात बुडून प्रसिद्ध अभिनेत्याचं निधन, मनोरंजन विश्वावर शोककळा",
-            "description": "Actor Rahul Arunoday Banerjee dies after drowning in sea while shooting, entertainment world in mourning. Rahul Arunoday Banerjee News: बंगालमधील प्रसिद्ध अभिनेता राहुल अरुणोदय बॅनर्जी याचं आकस्मिक निधन झालं आहे. तो ४३ वर्षांचा होता. शूटिंगदरम्यान, झालेल्या दुर्घटनेत राहुल अरुणोदय बॅनर्जी याचं निधन झाल्याच सांगण्यात येत आहे. त्याच्या निधनामुळे मनोरंजन विश्वावर शोककळा पसरली आहे.  - Latest Marathi News (मराठी बातम्या). Find Breaking Headlines, Current and Latest filmy news in Marathi at Lokmat.com",
-            "content": "बंगालमधील प्रसिद्ध अभिनेता राहुल अरुणोदय बॅनर्जी याचं आकस्मिक निधन झालं आहे. तो ४३ वर्षांचा होता. शूटिंगदरम्यान, झालेल्या दुर्घटनेत राहुल अरुणोदय बॅनर्जी याचं निधन झाल्याच सांगण्यात येत आहे. त्याच्या निधनामुळे मनोरंजन विश्वावर शोककळा पसरली आहे.\nमिळाल... [570 chars]",
-            "url": "https://www.lokmat.com/filmy/television/actor-rahul-arunoday-banerjee-dies-after-drowning-in-sea-while-shooting-entertainment-world-in-mourning-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/rahul-arunodaya-banarjee-2_2026031673447.jpg",
-            "publishedAt": "2026-03-29T15:51:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "ff9762c8150746827821a08d529386fe",
-                "name": "Lokmat.com",
-                "url": "https://www.lokmat.com"
-            }
-        },
-        {
-            "id": "7ded993e55c3de7daa25f413b5c94e2e",
-            "title": "Rahul Arunoday Banerjee Death; लोकप्रिय अभिनेता राहुल बॅनर्जीचा शूटिंगदरम्यान समुद्रात बुडून मृत्यू; वयाच्या 42व्या वर्षी घेतला जगाचा निरोप",
-            "description": "Rahul Arunoday Banerjee : लोकप्रिय अभिनेता राहुल बॅनर्जीचा शूटिंगदरम्यान समुद्रात बुडून मृत्यू झाला असून कलाविश्वावर शोककळा पसरली आहे.",
-            "content": "मुंबई - बंगाली अभिनेता राहुल अरुणोदय बॅनर्जी चं निधन झालं असून मिळालेल्या माहितीनुसार, शूटिंगदरम्यान झालेल्या अपघातात अभिनेत्याचा मृत्यू झाला. अभिनेता राहुल अरुणोदय बॅनर्जी ओडिशातील तलसारी बीचवर शूटिंग करत होता. शूटिंगसाठी अभिनेता समुद्रात उतरला आणि ... [4304 chars]",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/bengali-actor-rahul-arunoday-banerjee-dies-drowning-in-sea-during-shooting-in-talsari-digha/articleshow/129882660.cms",
-            "image": "https://static.langimg.com/mt/thumb/129882951/rahul-arunoday-banerjee-death.jpg?imgsize=51530&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-03-29T15:26:17Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
-            }
-        },
-        {
-            "id": "d186ac6aaf1b8f0009cd8c864aa40e5e",
-            "title": "लाईव्ह कॉन्सर्टदरम्यान फॅननं केलं असं काही, प्रसिद्ध गायक संतापला, स्टेजवरून थुंकला, म्हणाला...",
-            "description": "Arpit Bala Spits At Fans: A fan did something like this during a live concert, the famous singer got angry, spat on stage, said.... Arpit Bala Spits At Fans: लाईव्ह शो आणि कॉन्सर्टदरम्यान गायक, कलाकारांसोबत उत्साही फॅन्सकडून गैरप्रकार होणं आपल्यासाठी नवं नाही. अशा घटना घडल्यानंतर त्याचे व्हिडीओ व्हायरल होत असतात. प्रसिद्ध गायक अर्पित बालासोबत हल्लीच अशी घटना घडली आहे. - Latest Marathi News (मराठी बातम्या). Find Breaking Headlines, Current and Latest filmy news in Marathi at Lokmat.com",
-            "content": "लाईव्ह शो आणि कॉन्सर्टदरम्यान गायक, कलाकारांसोबत उत्साही फॅन्सकडून गैरप्रकार होणं आपल्यासाठी नवं नाही. अशा घटना घडल्यानंतर त्याचे व्हिडीओ व्हायरल होत असतात. प्रसिद्ध गायक अर्पित बालासोबत हल्लीच अशी घटना घडली आहे. तसेच या घटनेचा व्हिडीओ आता व्हायरल हो... [434 chars]",
-            "url": "https://www.lokmat.com/filmy/bollywood/arpit-bala-spits-at-fans-a-fan-did-something-like-this-during-a-live-concert-the-famous-singer-got-angry-spat-on-stage-said-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/arpit-bala-split-1_2026031673443.jpg",
-            "publishedAt": "2026-03-29T15:16:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "ff9762c8150746827821a08d529386fe",
-                "name": "lokmat.com",
-                "url": "https://www.lokmat.com"
-            }
-        },
-        {
-            "id": "7373188e7f03ad7676d7b1cbb8d3dbc6",
-            "title": "कॅप्टन अशोक खरात याच्या एका स्टेटमेटमुळे तपासात धक्कादायक ट्विस्ट! ऑफिस बॉय नीरज जाधवबाबत खळबळजनक दावा",
-            "description": "कॅप्टन अशोक खरात याने ऑफिस बॉय नीरज जाधव याच्याबाबत खळबळजनक दावा केला आहे. यामुळे तपासात धक्कादायक ट्विस्ट आला आहे.",
-            "content": "Captain Ashok Kharat Case : कथीत भोंदूबाबा कॅप्टन अशोक खरात याच्या एका स्टेटमेटमुळे तपासात धक्कादायक ट्विस्ट आला आहे. अशोक खरात आणि नीरज जाधव यांची समोरासमोर चौकशी करण्यात आली असून, यावेळी खरात याने नीरज जाधव याच्याबाबत खळबळ जनक दावा केला आहे. या तपा... [1374 chars]",
-            "url": "https://zeenews.india.com/marathi/maharashtra/captain-ashok-kharat-has-made-a-sensational-claim-about-office-boy-neeraj-jadhav-shocking-twist-in-the-investigation/996527",
-            "image": "https://marathi.cdn.zeenews.com/marathi/sites/default/files/2026/03/29/958152-shok-kharat.jpg",
-            "publishedAt": "2026-03-29T14:22:12Z",
-            "lang": "mr",
-            "source": {
-                "id": "06cf65850d8465a5feda17184a020898",
-                "name": "Zee News",
-                "url": "https://zeenews.india.com"
-            }
-        },
-        {
-            "id": "6ae80d26c0ca7dfe3723701783b24274",
-            "title": "मोहम्मद सिराज 'या' अभिनेत्रीच्या प्रेमात? मुंबईत झाले स्पॉट, काय करत होते? VIDEO VIRAL",
-            "description": "Mohammad Siraj Dating Life: विराट-अनुष्का ते केएल राहुल-अथियापर्यंत अनेक जोड्यांनी चाहत्यांना वेड लावलंय. यातच आता आणखी एका जोडीच्या नावाने सर्वत्र धुमाकूळ घातला आहे.",
-            "content": "Published by :\nLast Updated:Mar 29, 2026 7:56 PM IST\nMohammad Siraj Dating Life: विराट-अनुष्का ते केएल राहुल-अथियापर्यंत अनेक जोड्यांनी चाहत्यांना वेड लावलंय. यातच आता आणखी एका जोडीच्या नावाने सर्वत्र धुमाकूळ घातला आहे.\nमुंबई: सध्या सगळीकडेच अगदी क्र... [2691 chars]",
-            "url": "https://news18marathi.com/entertainment/ipl-2026-cricket-mohammed-siraj-bigg-boss-13-fame-actress-mahira-sharma-spotted-in-mumbai-video-goes-viral-1654770.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/03/mohammad-siraj-with-mahira-sharma-2026-03-d71b329578072d0deb3c5b3762ac7ff0-1200x675.jpg",
-            "publishedAt": "2026-03-29T13:51:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "news18marathi.com",
-                "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "5502b2aa2b6b7731cdbae821fcb325c9",
-            "title": "Mohammed Siraj Affair Rumours With Mahira Sharma; मोहम्मद सिराज आणि माहिरा शर्माचा कॅफेतील Video व्हायरल, क्रिकेटपटूच्या अफेअरच्या चर्चांना उधाण",
-            "description": "Mohammed Siraj Mahira Sharma Video : भारतीय क्रिकेटपटू मोहम्मद सिराज आणि माहिरा शर्मा मुंबईतील एका कॅफेमध्ये एकत्र दिसले असून त्यांच्या अफेअरच्या चर्चांना उधाण आलं आहे.",
-            "content": "मुंबई - क्रिकेट आणि बॉलिवूडचं एक अतूट नातं असून अनेक क्रिकेटपटूंनी अभिनेत्रींसोबत लग्न केलंय. अनुष्का शर्मा आणि विराट कोहली हे जोडपं यापैकीच एक आहेत. अशातच आता, आणखी एका भारतीय क्रिकेटपटू आणि टीव्ही अभिनेत्रीच्या अफेअरच्या चर्चा सुरू झाल्या आहेत. ही ... [3863 chars]",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/mohammed-siraj-affair-rumours-with-actress-mahira-sharma-video-viral/articleshow/129880990.cms",
-            "image": "https://static.langimg.com/mt/thumb/129881349/mohammed-siraj-affair-rumours-with-mahira-sharma.jpg?imgsize=61584&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-03-29T13:24:40Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
-            }
-        }
-    ]
+    "entertainment": []
 }

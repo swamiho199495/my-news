@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "70f0e9e2b5d05f5d37f65b49d8754a2d",
+            "title": "Assam Election : आसामचे मुख्यमंत्री हिमंता बिस्वा सरमा यांच्या पत्नीकडे तीन देशांचा पासपोर्ट, काँग्रेसचा मोठा आरोप",
+            "description": "Congress Vs BJP Assam : आसाम विधानसभा निवडणुकीच्या पार्श्वभूमीवर भाजप आणि काँग्रेसमध्ये जोरदार संघर्ष सुरू असून हिमंता बिस्वा सरमा यांच्या पत्नीच्या नागरिकत्वावरून मोठा वाद निर्माण झाला आहे.",
+            "content": "गुवाहाटी : आसाममध्ये 9 एप्रिल रोजी एकाच टप्प्यात मतदान होणार आहे. निवडणुकीची तारीख जसजशी जवळ येत आहे, तसतसं राजकीय वातावरण तापू लागलं आहे. प्रमुख लढत भाजप आणि काँग्रेसमध्येच आहे. सत्तेची हॅटट्रिक साधण्यासाठी भाजप सज्ज झाला आहे, तर दशकानंतर आसाममध्ये ... [2277 chars]",
+            "url": "https://marathi.abplive.com/news/politics/assam-election-himanta-biswa-sarma-vs-congress-pawan-khera-allegations-riniki-bhuyan-sharma-passport-row-1419099",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/16/c1d8de60a2870e2e622d1b7d2c6535241771236267404628_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-04-05T18:13:51Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
             "id": "d5cb1386c8dbe46f928fb18f22e8bd26",
             "title": "Bhigwan : भिगवण प्रकरणात पुन्हा ट्विस्ट, जहीर शेखने आपलं अपहरण केलं, मुलीची पोलिसात तक्रार दाखल",
             "description": "Bhigwan Kidnapping Case : या आधी तरुणासोबत स्वतःच्या मर्जीने गेल्याचं मुलीने म्हटलं होतं. त्यानंतर मुलीने या प्रकरणात जबाब बदलला आणि आपलं अपहरण झाल्याचं सांगितलं.",
@@ -133,21 +148,6 @@
                 "id": "d0ecbd318b81c0114aad430372084c1a",
                 "name": "ABP Majha",
                 "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "21fea61f66958f06c2b0906057afffe6",
-            "title": "Baramati by Election 2026: सुनेत्रा पवारांविरोधात आकाश मोरेंना उतरवले रिंगणात, काँग्रेसने केली घोषणा",
-            "description": "Baramati by Election 2026: Congress fields Akash More against Sunetra Pawar, announces candidacy. बारामती विधानसभा मतदारसंघात पोटनिवडणूक होत असून, ही निवडणूक लढवणार असल्याचे काँग्रेसने आधीच जाहीर केले होते. काँग्रेसकडून आता आकाश मोरे यांच्या उमेदवारीचीही घोषणा करण्यात आली आहे.  | Pune Marathi News (मराठी बातम्या). Find Breaking Headlines, Current and Latest Pune news in Marathi at Lokmat.com",
-            "content": "Baramati By Polls: अजित पवार यांच्या अपघाती मृत्युमुळे रिक्त झालेल्या बारामती विधानसभा मतदारसंघात निवडणूक होत आहे. उपमुख्यमंत्री सुनेत्रा पवार या निवडणूक लढवत असून, महायुतीतील भाजपा, शिंदेसेना आणि महाविकास आघाडीतील राष्ट्रवादी काँग्रेस (शरद पवार) पक्... [1729 chars]",
-            "url": "https://www.lokmat.com/pune/baramati-by-election-2026-congress-fields-akash-more-against-sunetra-pawar-announces-candidacy-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/sunetra-pawar-vs-akash-more_2026041677930.jpeg",
-            "publishedAt": "2026-04-05T14:50:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "ff9762c8150746827821a08d529386fe",
-                "name": "Lokmat.com",
-                "url": "https://www.lokmat.com"
             }
         }
     ],
@@ -315,6 +315,22 @@
     ],
     "it_tech": [
         {
+            "id": "6244f6f2b074e17d7e2c12d72140d26f",
+            "title": "अग्रलेख : संधी हेच संकट",
+            "description": "ओरॅकलसह अनेक बड्या कंपन्यांकडून एआयमुळे मोठी कर्मचारी कपात. Indian IT sector facing AI crisis. वाचा सविस्तर विश्लेषण.",
+            "content": "आपल्याकडे ‘संकट म्हणजे संधी’ वगैरे पोपटपंची करणार्‍यांची अजिबात कमतरता नाही. उलट अशांचेच पीक अधिक. हे असे सल्ला देणारे आणि ‘खचून जाऊ नका’, ‘स्वत:वर विश्वास ठेवा’ आदी निरर्थक मार्गदर्शन करणारे तथाकथित ‘सेल्फ हेल्प गुरू’ दोघेही तितकेच निरुपयोगी. जेव्हा... [5655 chars]",
+            "url": "https://www.loksatta.com/sampadkiya/editorial/loksatta-editorial-oracle-ai-layoffs-indian-it-sector-job-crisis-zws-70-5816744/",
+            "image": "https://images.loksattaimg.com/2026/04/artificial-intelligence-layoffs-it-sector-crisis-india.jpg",
+            "publishedAt": "2026-04-05T19:10:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com",
+                "country": "in"
+            }
+        },
+        {
             "id": "5ef5698d43356543b605a88d1f3fe083",
             "title": "ओरॅकलमधील नोकर कपात कोणत्या विभागात? आयटी क्षेत्रातील 'ही' पदे धोक्यात; महत्त्वाची माहिती समोर!",
             "description": "Oracle Layoffs 2026: ओरॅकलने तंत्रज्ञान आणि व्यवस्थापन विभागातील ३०,००० कर्मचाऱ्यांना कामावरून काढले. भारतातील १२ हजार नोकऱ्यांवर परिणाम. वाचा सविस्तर कारणे.",
@@ -450,22 +466,6 @@
             "url": "https://www.loksatta.com/business/news/oracle-india-layoffs-12000-employees-fired-it-sector-job-cuts-cloud-ai-shift-print-eco-news-amy-95-5809405/",
             "image": "https://images.loksattaimg.com/2026/04/oracle_187349.jpg",
             "publishedAt": "2026-04-01T15:55:21Z",
-            "lang": "mr",
-            "source": {
-                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
-                "name": "Loksatta",
-                "url": "https://www.loksatta.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "192156e39b0397971e42c995e619fb8e",
-            "title": "Oracle Layoffs 30,000 employees AI strategy news: ओरॅकलने अचानक ३० हजार कर्मचाऱ्यांना कामावरून काढले; भारताला मोठा फटका, काय आहे नेमकं कारण?",
-            "description": "Oracle Layoffs 30000 Employees Ai Data Center News Rak 94 - ओरॅकल कंपनीने जागतिक स्तरावर ३०,००० कर्मचाऱ्यांची कपात करण्याचा निर्णय घेतल्याने खळबळ उडाली आहे. यात भारतातील १२,००० कर्मचाऱ्यांचा समावेश असल्याची शक्यता आहे.. Latest Marathi News (मराठी बातम्या). Find Latest Business news in Marathi at Loksatta.com",
-            "content": "ओरॅकल कर्मचारी कपात का केली?\nओरॅकलकडून कृत्रिम बुद्धिमत्तेसंबंधी पायाभूत सुविधांचा वेगाने विकास केला जात आहे, हे कर्मचारी कपातीच्या प्रमुख कारणांपैकी एक आहे. कंपनीने येत्या ५ वर्षात एआय डेटा सेंटर्स उभारण्यासाठी १५६ अब्ज डॉलर्सचा करार केला आहे, हे डे... [2383 chars]",
-            "url": "https://www.loksatta.com/business/oracle-layoffs-30000-employees-ai-data-center-news-rak-94-5808976/",
-            "image": "https://images.loksattaimg.com/2026/04/latest-marathi-news-2026-04-01T174204.203.jpg",
-            "publishedAt": "2026-04-01T12:14:01Z",
             "lang": "mr",
             "source": {
                 "id": "a1865c05a235b8ca6564b10cf28f9ca3",
@@ -764,18 +764,18 @@
             }
         },
         {
-            "id": "d1f27336eefe977f7ad1f9b282f61580",
-            "title": "तुम्ही तिथपर्यंत जा...! अशोक खरात प्रकरणात 'मराठमोळी' अभिनेत्रीही अडकली वादात; महिलांना दिला होता सल्ला",
-            "description": "Actress on Ashok Kharat Case : अशोक खरात प्रकरणात काही दिवसांपूर्वी बॉलिवूडमध्ये काम केलेल्या या मराठी अभिनेत्रीने आपलं मत मांडलं. तेव्हा ती असं काही बोलून गेली की आता तिला ट्रोल केलं जात आहे.",
-            "content": "1/ 7\nभोंदूबाबा अशोक खरात प्रकरण सध्या चर्चेत आहे. या प्रकरणात आता बॉलिवूडमध्ये काम केलेली मराठी कुटुंबातील अभिनेत्रीही वादात अडकली आहे. जिने खरात प्रकरणात महिलांना सल्ला दिला होता.\n2/ 7\nही अभिनेत्री आहे ममता कुलकर्णी. एका मुलाखतीत ममता म्हणाली, \"आपण ... [924 chars]",
-            "url": "https://news18marathi.com/photogallery/entertainment/mamta-kulkarni-trolled-after-reaction-on-bhondubaba-ashok-kharat-case-advise-to-women-1660002.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/04/Mamta-kulkarni-ashok-kharat-2026-04-6f8d9d646468d058e7c644f07c1b8dbe-1200x675.jpg",
-            "publishedAt": "2026-04-05T09:49:00Z",
+            "id": "3dc266af9ba8d1537718f2f12109d4d1",
+            "title": "Abhishek bachchan : अखेर ऐश्वर्यासोबतच्या नात्याबाबत अभिषेकनं सोडलं मौन",
+            "description": "मुंबई : बॉलिवूडमधील प्रसिद्ध जोडी ऐश्वर्या राय (Aishwarya Rai ) आणि अभिषेक बच्चन (Abhishek[...]",
+            "content": "मुंबई : बॉलिवूडमधील प्रसिद्ध जोडी ऐश्वर्या राय (Aishwarya Rai ) आणि अभिषेक बच्चन (Abhishek bachchan ) अनेक कारणांमुळे सतत चर्चेत असतात. अलीकडेच त्यांच्या घटस्फोटाच्या चर्चाही जोरदार रंगल्या होत्या. त्यावेळी अभिषेकने या केवळ अफवा असल्याचं म्हटलं होतं.... [1810 chars]",
+            "url": "https://prahaar.in/2026/04/05/abhishek-bachchan-finally-abhishek-breaks-his-silence-about-his-relationship-with-aishwarya/",
+            "image": "https://prahaar.in/rppl/wp-content/uploads/2026/04/Aishwaryaandabhishek-640x450.jpg",
+            "publishedAt": "2026-04-05T09:53:00Z",
             "lang": "mr",
             "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
+                "id": "3de73b670124dc029f7e7679f05b20d9",
+                "name": "Prahaar.in",
+                "url": "https://prahaar.in"
             }
         }
     ]

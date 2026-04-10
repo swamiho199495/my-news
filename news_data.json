@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "b11c6624d07b39a6997e3c49c0bc36e4",
+            "title": "पुणे हादरलं! पोटच्या लेकाला बाथरूममध्ये नेलं; अन् आईने ओलांडली क्रूरतेची सीमा, ते दृश्य पाहून पोलीसही शॉक",
+            "description": "आरोपी बसरीन आणि तिचा प्रियकर राम यांच्या प्रेमसंबंधांत लहानगा आवेज अडथळा ठरत होता. याच कारणावरून या दोघांनी अमानुष कट रचला.",
+            "content": "Published by :\nLast Updated:Apr 10, 2026 6:52 AM IST\nआरोपी बसरीन आणि तिचा प्रियकर राम यांच्या प्रेमसंबंधांत लहानगा आवेज अडथळा ठरत होता. याच कारणावरून या दोघांनी अमानुष कट रचला.\nपुणे : आई ही आपल्या मुलांसाठी अगदी काहीही करायला आणि सगळ्या जगाशी भिडायला... [1762 chars]",
+            "url": "https://news18marathi.com/pune/mother-and-lover-kill-six-year-old-son-in-chakan-pune-shocking-news-local18-1663583.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/04/pune-2026-04-10T065022.196-2026-04-417be2706302eb015dd60c67b43ede64-1200x675.jpg",
+            "publishedAt": "2026-04-10T01:22:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
             "id": "2c0b59c04d1cc6d436b7be1132a1cc9c",
             "title": "Ayesha Takia Birthday: अजय देवगनची ऑनस्क्रीन ‘सून’ अन् सलमानची ‘वॉन्टेड गर्ल’ आहे तरी कुठे? सर्जरीनंतर बदललेला लूक, आता काय करते?",
             "description": "सोशल मीडियावर मात्र ती चांगलीच अ‍ॅक्टिव्ह असून, तिचे फोटो आणि व्हिडिओ चाहत्यांमध्ये चर्चेचा विषय ठरतात.",
@@ -128,21 +143,6 @@
             "url": "https://news18marathi.com/videsh/tensions-between-israel-and-iran-remain-high-despite-the-ceasefire-with-both-sides-trading-warnings-1663470.html",
             "image": "https://images.news18.com/news18marathi/uploads/2026/04/Iran-US-Truce-Deal-2026-04-1a253b32027e42badbfe61a3dff37a22-1200x675.jpg",
             "publishedAt": "2026-04-09T15:35:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "416cf7def98c6f9609cee3694bdd2fa9",
-            "title": "T20च्या इतिहासात पहिल्यांदाच अस घडलं; W,W,W,W,W,W,W,W,W, 21 वर्षाच्या बॉलरने अख्खा संघ पाठवला तंबूत",
-            "description": "एका खेळाडूने एक दोन नव्हे तर 9 विकेट काढुन अख्खा संघ तंबूत पाठवला आहे. विशेष म्हणजे 21 वर्षांच्या खेळाडूने ही कामगिरी करून दाखवली आहे. त्यामुळे टी20 इंटरनेशनलमध्ये एक नवीन रेकॉर्ड झाला आहे.",
-            "content": "Published by :\nLast Updated:Apr 09, 2026 8:23 PM IST\nएका खेळाडूने एक दोन नव्हे तर 9 विकेट काढुन अख्खा संघ तंबूत पाठवला आहे. विशेष म्हणजे 21 वर्षांच्या खेळाडूने ही कामगिरी करून दाखवली आहे. त्यामुळे टी20 इंटरनेशनलमध्ये एक नवीन रेकॉर्ड झाला आहे.\nBrazil ... [2062 chars]",
-            "url": "https://news18marathi.com/sport/brazil-pacer-laura-cardose-becomes-fist-player-to-take-nine-wicket-record-t20-cricket-ws-a-1663446.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/04/laura-2026-04-144b81fae3ac5f68761698cc10199b8b-1200x675.jpg",
-            "publishedAt": "2026-04-09T14:53:00Z",
             "lang": "mr",
             "source": {
                 "id": "bfd324c66556f858b94a8093cae1427c",
@@ -475,158 +475,7 @@
             }
         }
     ],
-    "sports": [
-        {
-            "id": "97523024419f980246dc4b6c8270efc5",
-            "title": "KKR vs LSG : 21 वर्षाच्या पोरानं मॅच फिरवली, रहाणेच्या हातून विजय खेचला, शाहरूखच्या मुव्हीपेक्षाही खतरनाक क्लायमेक्स",
-            "description": "कोलकत्ता नाईट रायडर्सने प्रथम फलंदाजी करताना 4 विकेट गमावून 181 धावा केल्या होत्या. या लक्ष्याचा पाठलाग करताना लखनऊ सूपर जाएटसने हा सामना 3 विकेट राखून जिंकला आहे.",
-            "content": "1/ 7\nआयपीएलमध्ये आज लखनऊ सूपर जाएटसने कोलकत्ता नाईट रायडर्सचा 3 विकेट राखून पराभव केला आहे. या विजयाचा शिल्पकार हा मुकुल चौधरी ठरला आहे.\n3/ 7\nकोलकत्ताने दिलेल्या 181 धावांच्या लक्ष्याचा पाठलाग करताना लखनऊ सूपर जाएटसची सूरुवात खूपच खराब झाली होती. कार... [593 chars]",
-            "url": "https://news18marathi.com/photogallery/sport/lsg-defeat-kkr-mukul-choudhary-turn-the-match-eden-garden-kokatta-knight-riders-vs-lucknow-super-gaints-1663516.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/04/mukul-chaudhary-3-2026-04-07a29f2b81b459eab36845274cdbdb0e-1200x675.jpg",
-            "publishedAt": "2026-04-09T18:06:41Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "153f5082221800e816a676fd05a9565b",
-            "title": "KKR vs LSG : मुकूल चौधरीच्या वादळात केकेआरचा बालेकिल्ला ढासळला, लखनौच्या हातातून गेलेली मॅच जिंकवली, केकेआरचा तिसरा पराभव",
-            "description": "KKR vs LSG : कोलकाता नाइट रायडर्स आणि लखनौ सुपर जायंटस यांच्यात आयपीएलच्या 19 व्या पर्वातील 15 वी मॅच पार पडली. या मॅचमध्ये मुकूल चौधरीनं 27 बॉलमध्ये 54 धावा करत लखनौला विजय मिळवून दिला.",
-            "content": "KKR vs LSG कोलकाता : आयपीएलच्या 15 व्या मॅचमध्ये लखनौ सुपर जायंटसचा कॅप्टन रिषभ पंत यानं टॉस जिंकून प्रथम गोलंदाजी करण्याचा निर्णय घेतला होता. केकेआरनं प्रथम फलंदाजी करताना 4 बाद 181 धावा केल्या.लखनौ सुपर जायंटसच्या मुकूल चौधरीच्या वादळी फलंदाजीमुळं ... [1888 chars]",
-            "url": "https://marathi.abplive.com/sports/ipl/ipl-2026-kkr-vs-lsg-mukul-choudhary-54-runs-helps-win-lucknow-super-giants-against-kolkata-knight-riders-marathi-news-1419627",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/09/e01a4669a94a911bf3b36fe4f57f1c2f1775757737712989_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-04-09T18:03:38Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "186ae615d8efc50c2dc0acca4169a8ca",
-            "title": "Vaibhav Sooryavanshi : बुमराह-बोल्ट विरुद्ध पास, वयाची अटही पूर्ण, वैभव सूर्यवंशी टीम इंडियासाठी खेळणार, कोच मनीष झा यांना विश्वास",
-            "description": "Manish Ojha On Vaibhav Sooryavanshi Team India Debut : वैभव नियमानुसार आंतरराष्ट्रीय क्रिकेट खेळण्यासाठी पात्र झाला आहे. मात्र त्याला संधी केव्हा आणि कुणाविरुद्ध मिळणार? याबाबत त्याचे कोच मनिष ओझा काय म्हणाले? जाणून घ्या.",
-            "content": "सर्वात कमी वयात (13 वर्ष) आयपीएल कॉन्ट्रॅक्ट मिळवणारा युवा फलंदाज वैभव सूर्यवंशी याची गेल्या वर्षापासून क्रिकेट विश्वात फक्त चर्चाच नाही तर दबदबा आणि तडाखाही पाहायला मिळतोय. वयाच्या अवघ्या 13 व्या वर्षी आयपीएलचं कॉन्ट्रॅक्ट मिळवणाऱ्या वैभवने 18 व्या ... [547 chars]",
-            "url": "https://www.tv9marathi.com/sports/cricket-news/vaibhav-sooryavanshi-will-play-against-ireland-and-zimbabwe-he-may-replace-to-abhishek-sharma-know-what-says-coach-manish-ojha-mi-vs-rr-ipl-2026-1644558.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/04/Vaibhav-Sooryavanshi-and-Coach-Manish-Ojha.jpg",
-            "publishedAt": "2026-04-09T15:48:59Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "416cf7def98c6f9609cee3694bdd2fa9",
-            "title": "T20च्या इतिहासात पहिल्यांदाच अस घडलं; W,W,W,W,W,W,W,W,W, 21 वर्षाच्या बॉलरने अख्खा संघ पाठवला तंबूत",
-            "description": "एका खेळाडूने एक दोन नव्हे तर 9 विकेट काढुन अख्खा संघ तंबूत पाठवला आहे. विशेष म्हणजे 21 वर्षांच्या खेळाडूने ही कामगिरी करून दाखवली आहे. त्यामुळे टी20 इंटरनेशनलमध्ये एक नवीन रेकॉर्ड झाला आहे.",
-            "content": "Published by :\nLast Updated:Apr 09, 2026 8:23 PM IST\nएका खेळाडूने एक दोन नव्हे तर 9 विकेट काढुन अख्खा संघ तंबूत पाठवला आहे. विशेष म्हणजे 21 वर्षांच्या खेळाडूने ही कामगिरी करून दाखवली आहे. त्यामुळे टी20 इंटरनेशनलमध्ये एक नवीन रेकॉर्ड झाला आहे.\nBrazil ... [2062 chars]",
-            "url": "https://news18marathi.com/sport/brazil-pacer-laura-cardose-becomes-fist-player-to-take-nine-wicket-record-t20-cricket-ws-a-1663446.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/04/laura-2026-04-144b81fae3ac5f68761698cc10199b8b-1200x675.jpg",
-            "publishedAt": "2026-04-09T14:53:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "7200a30d8a3a079e272fd3ff9c6cf5d7",
-            "title": "GT vs DC: आयपीएल स्पर्धेत गुजरातचा अवघ्या एका धावेने विजय, विक्रमासह असा जुळून आला योग",
-            "description": "आयपीएल 2026 स्पर्धेतील 14वा सामना रोमहर्षक झाला. या सामन्यात गुजरात टायटन्सने दिल्ली कॅपिटल्सवर अवघ्या एका धावेने विजय मिळवला. या सामन्यात काही विक्रम नोंदवले गेले. तर काही योगायोगही जुळून आले. चला जाणून घेऊयात सविस्तर",
-            "content": "आयपीएल 2026 स्पर्धेच्या 14 व्या सामन्यात गुजरात टायटन्सने 20 षटकात 4 गडी गमवून 210 धावा केल्या. तसेच विजयासाठी 211 धावांचं आव्हान दिलं. दिल्ली कॅपिटल्सने 20 षटकात 8 गडी गमवून 209 धावा केल्या आणि अवघ्या एका धावेने पराभव झाला. (Photo: IPL/BCCI)\nदिल्ली ... [1015 chars]",
-            "url": "https://www.tv9marathi.com/photo-gallery/sports-photos/ipl-2026-gt-vs-dc-gujarat-titans-win-by-just-one-run-know-other-coincidence-1644419.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/04/IPL_DC_GT_Match-2-1.jpg",
-            "publishedAt": "2026-04-09T11:27:59Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "abf71a7f7d5acaea645b909fe913db9c",
-            "title": "IPL 2026 स्पर्धेत असं घडणार! वैभव सूर्यवंशी आयपीएलमध्ये ऑल टाइम रेकॉर्ड मोडणार",
-            "description": "Vaibhav Sooryavanshi: आयपीएल 2026 स्पर्धेत वैभव सूर्यवंशीने आपल्या फलंदाजीने सर्वांचं लक्ष वेधून घेतलं आहे. इतकंच काय तर जसप्रीतबुमराहला दोन षटकार मारून आपला हेतूही स्पष्ट केला आहे. असं असताना या स्पर्धेत एक ऑल टाइम रेकॉर्ड सेट करणार असल्याचा दावा केला जात आहे.",
-            "content": "आयपीएल 2026 स्पर्धेत वैभव सूर्यवंशी ऑल टाइम रेकॉर्ड सेट करणार असल्याचा दावा केला जात आहे. असं आम्ही नाही तर वैभव सूर्यवंशीचे प्रशिक्षक सांगत आहे. वैभव सूर्यवंशीचे प्रशिक्षक मनीष ओझा यांनी टीव्ही 9 शी बोलताना असा दावा केला आहे. त्यामुळे या विक्रमाबाबत... [927 chars]",
-            "url": "https://www.tv9marathi.com/photo-gallery/sports-photos/coach-manish-ojha-claims-that-vaibhav-sooryavanshi-can-score-200-runs-in-ipl-2026-1644354.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/04/Vaibhav_Sooryavanshi-3-1.jpg",
-            "publishedAt": "2026-04-09T10:34:05Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "1e1bd0d1133610db331e4235db6bebf9",
-            "title": "Vaibhav Suryavanshi: जसप्रीत बुमराहच्या चेंडूवर दोन खतरनाक षटकार! मग काय केला विचार? वैभव सूर्यवंशीच्या उत्तराने सर्वच गारेगार",
-            "description": "Vaibhav Suryavanshi Stunning Answer: या आयपीएलमध्ये अनेक विक्रमांची, षटकार, चौकारांची, गोलंदाजी, फलंदाजी आणि क्षेत्ररक्षणाची चर्चा होत आहे. पण सर्वाधिक चर्चा सुरू आहे ती वैभव सूर्यवंशीने जसप्रीत बुमराह याच्या चेंडूवर चोपलेल्या षटकाराची. त्याने बुमराहला दोन षटकार हाणले, तेव्हा त्याच्या मनात कोणता विचार आला?",
-            "content": "Vaibhav Suryavanshi on Jasprit Bumrah: भारतीय गोलंदाज जसप्रीत बुमराह याची गोलंदाजी अनेक दिग्गज खेळाडू अत्यंत सावधगिरीने खेळतात. त्याचा चेंडू कधी चकवा देऊन त्रिफळा उडवेल याचा काही नेम नसतो. तर अनेक खेळाडू त्याच्या चेंडूवर करायला नको ती चूक हमखास करतात... [1124 chars]",
-            "url": "https://www.tv9marathi.com/sports/cricket-news/two-dangerous-sixes-off-jasprit-bumrah-ball-so-what-did-you-think-vaibhav-suryavanshi-answer-left-everyone-stunned-1644335.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/04/Vaibhav-Suryavanshi-on-Jasprit-Bumrah.jpg",
-            "publishedAt": "2026-04-09T09:57:10Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "2e4cd8cb4656d5a7ee2629865216735b",
-            "title": "IPL मध्ये आज KKR vs LSG मॅच; कोलकाता घरच्या मैदानावर विजय मिळवत आपलं खातं उघडणार?",
-            "description": "आयपीएलच्या 19व्या हंगामातील 15वा सामना आज कोलकाता नाईट रायडर्स आणि लखनऊ सुपर जायंट्स यांच्यात खेळला जाईल.",
-            "content": "कोलकाता KKR vs LSG Match Today : आयपीएलच्या 19व्या हंगामातील 15वा सामना गुरुवार, 9 एप्रिल 2026 रोजी कोलकाता येथील प्रसिद्ध ईडन गार्डन्स क्रिकेट स्टेडियमवर कोलकाता नाईट रायडर्स आणि लखनऊ सुपर जायंट्स यांच्यात खेळला जाईल. कोलकाता संघाचं कर्णधारपद पुन्हा... [2505 chars]",
-            "url": "https://www.etvbharat.com/mr/sports/ipl-2026-kolkata-knight-riders-face-lucknow-super-giants-for-1st-time-in-season-what-is-pitch-condition-head-to-head-record-maharashtra-news-mhs26040901805",
-            "image": "https://imgs.etvbharat.com/etvbharat/prod-images/09-04-2026/1200-675-26433311-thumbnail-16x9-kkrvslsg.gif",
-            "publishedAt": "2026-04-09T05:11:28Z",
-            "lang": "mr",
-            "source": {
-                "id": "40d72510524f64da9f4441a411005b58",
-                "name": "ETV Bharat",
-                "url": "https://www.etvbharat.com"
-            }
-        },
-        {
-            "id": "a6c5731c9094f32d67c235d5ef3f4150",
-            "title": "David Miller GT vs DC IPL 2026: गुजरातने सामना 1 रनने जिंकला, पण सगळे दिल्लीच्या डेव्हिड मिलरकडे धावले; दोन्ही संघाच्या खेळाडूंनी काय केले?",
-            "description": "David Miller GT vs DC IPL 2026: एका धावेने सामना गमावल्यानंतर आणि स्वत:च्या एका निर्णयामुळे पराभव झाल्यानंतर डेव्हिड मिलर चांगलाच भावूक झाल्याचं पाहायला मिळाले",
-            "content": "David Miller GT vs DC IPL 2026: आयपीएल 2026 च्या हंगामात (IPL 2026) काल गुजरात टायटन्स आणि दिल्ली कॅपिटल्स (DC VS GT) यांच्यात खेळवण्यात आला. या सामन्यात गुजरातने दिल्लीवर एका धावेने विजय मिळवला. 2 चेंडूंत 2 धावांची गरज असताना दिल्ली कॅपिटल्सच्या डेव... [2224 chars]",
-            "url": "https://marathi.abplive.com/sports/cricket/david-miller-gt-vs-dc-ipl-2026-david-miller-emotional-after-lose-match-by-1-run-against-gujarat-axar-patel-shubman-gill-ipl-marathi-news-1419517",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/09/78dc22138cf60a87313b4397e604a9951775702732888987_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-04-09T02:45:43Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "c43f6c6b09fc2a7ec168e501c57b6b8d",
-            "title": "DC vs GT: शेवटच्या २ बॉलमध्ये गेम फिरला! दिल्लीचा हिरोच व्हिलन ठरला, जिंकत आलेली मॅच अशी गमावली",
-            "description": "DC vs GT: दिल्लीचा हिरो डेव्हिड मिलर याने मॅच जिंकवून देण्याच्या नादात अशी एक चूक केली, ज्यामुळे संपूर्ण गेम फिरला आणि गुजरातने दिल्लीच्या हातून विजय खेचून आणला.",
-            "content": "Published by :\nLast Updated:Apr 09, 2026 7:10 AM IST\nDC vs GT: दिल्लीचा हिरो डेव्हिड मिलर याने मॅच जिंकवून देण्याच्या नादात अशी एक चूक केली, ज्यामुळे संपूर्ण गेम फिरला आणि गुजरातने दिल्लीच्या हातून विजय खेचून आणला.\nआयपीएलमध्ये बुधवारी रात्री क्रिकेट ... [3263 chars]",
-            "url": "https://news18marathi.com/sport/dc-vs-gt-david-miller-one-last-2-boll-mistake-gujarat-defeat-delhi-by-1-run-ws-l-1662814.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/04/DC-vs-Gat-2026-04-a0d59f8b55b6576c41400194fcf5b9cd-1200x675.jpg",
-            "publishedAt": "2026-04-09T01:40:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
-            }
-        }
-    ],
+    "sports": [],
     "entertainment": [
         {
             "id": "2c0b59c04d1cc6d436b7be1132a1cc9c",

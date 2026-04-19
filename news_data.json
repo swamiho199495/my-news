@@ -1,13 +1,58 @@
 {
     "general": [
         {
-            "id": "7738f2a414ea7becd5f931e197d01b57",
-            "title": "Weather Alert : महाराष्ट्रातील हवामानात मोठे बदल, रविवारी अवकाळी पाऊस कोसळणार, या जिल्ह्यांना अलर्ट",
-            "description": "हवामान खात्याने काही जिल्ह्यांसाठी अवकाळी पावसाचा यलो अलर्ट जारी केला आहे, तर काही भागांमध्ये उष्णतेचा तडाखा जाणवणार आहे. 19 एप्रिल रोजी हवामान कसं असेल पाहुयात.",
-            "content": "1/ 7\nमहाराष्ट्रातील हवामानात पुन्हा एकदा मोठे बदल पाहायला मिळत आहेत. 19 एप्रिल रोजी राज्यावर दुहेरी संकट पाहायला मिळेल. हवामान खात्याने काही जिल्ह्यांसाठी अवकाळी पावसाचा यलो अलर्ट जारी केला आहे, तर काही भागांमध्ये उष्णतेचा तडाखा जाणवणार आहे. 19 एप्रि... [1425 chars]",
-            "url": "https://news18marathi.com/photogallery/pune/maharashtra-weather-updates-imd-has-issued-a-yellow-alert-for-rain-for-eight-districts-in-the-state-on-sunday-l18w-local18-1670795.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/04/weather-76-2026-04-4b7658b9533aef63b491a81b9afe5a1f-1200x675.jpg",
-            "publishedAt": "2026-04-19T01:12:00Z",
+            "id": "0c0d4c7f21d4ec2e565c7880ac048266",
+            "title": "अमेरिका चर्चेत मोठा अडथळा; २२ एप्रिलपूर्वी युद्धविराम धोक्यात?",
+            "description": "Iran US ceasefire talks: इराण आणि अमेरिकेतील चर्चेत मोठे मतभेद समोर आले आहेत. २२ एप्रिलची मुदत संपण्यापूर्वी होर्मुझ सामुद्रधुनीचा प्रश्न पुन्हा गंभीर होण्याची चिन्हे.",
+            "content": "अमेरिकेने इराणी बंदरांवर नौदलाची नाकेबंदी कायम ठेवणे वारंवार होणारा विश्वासघात असल्याचे सांगत इराणने शनिवारी होर्मुझची सामुद्रधुनी पुन्हा बंद करण्याची घोषणा केली. यापूर्वी, इराणने या जलमार्गातून सुरक्षित प्रवासासाठी जहाजांकडून शुल्क आकारण्याचा आग्रह ... [1572 chars]",
+            "url": "https://www.loksatta.com/desh-videsh/iran-us-ceasefire-talks-deadline-strait-of-hormuz-marathi-news-sgk-96-5845516/",
+            "image": "https://images.loksattaimg.com/2026/04/iran-war.jpg",
+            "publishedAt": "2026-04-19T06:33:30Z",
+            "lang": "mr",
+            "source": {
+                "id": "62d1010536af7ab30a2a024770aa0e02",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com"
+            }
+        },
+        {
+            "id": "e6c15fcb43d1d3680450cc25374bcbbe",
+            "title": "Deepika Padukone pregnant Ranveer singh: दीपिका पदुकोणने पुन्हा गोड बातमी दिली, घरी चिमुकला पाहुणा येणार, रणवीर सिंग बाबा होणार",
+            "description": "दीपिका पादुकोण आणि रणवीर सिंह हे बॉलीवूड मधील सर्वात लोकप्रिय जोड्यांपैकी एक आहे. 2018 मध्ये दोघांनी लग्न केलं.",
+            "content": "Deepika Padukone Pregnant Ranveer Singh: रणवीर सिंग आणि दीपिका पदुकोण दुसऱ्यांदा आई-बाबा होणार आहेत. दीपिकाने एका गोंडस फोटोसह तिच्या दुसऱ्या गरोदरपणाची घोषणा केली आहे. दुवाच्या जन्मानंतर दोन वर्षांनी दीपिका पदुकोण पुन्हा मातृत्व अनुभवणार आहे. एक खास... [1552 chars]",
+            "url": "https://marathi.abplive.com/entertainment/deepika-padukone-pregnant-news-ranveer-singh-set-to-become-a-father-second-time-1420803",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/19/5f8df89008dc3f5d211f9f99670dbc7d17765788331421063_original.png?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-04-19T06:07:43Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "edab9d7aeffbb3286acc4338d83fa92a",
+            "title": "Bigg Boss Marathi: विजेता म्हणून ज्या नावाची चर्चा तोच स्पर्धक OUT? फिनालेच्या काही तास आधीच बिग बॉसच्या घरात काय घडलं?",
+            "description": "Bigg Boss Marathi 6: बिग बॉस मराठीचा ग्रँड फिनाले आज पार पडणार आहे. कोण एलिमिनेट होणार? याकडे सर्वांचेच लक्ष आहे.",
+            "content": "Bigg Boss Marathi 6 Grand Finale Twist: ज्या दिवसाची सर्व प्रेक्षक आतुरतेने वाट पाहत होते, तो दिवस अखेर जवळ आला. आज बिग बॉस मराठीच्या सहाव्या सिझनचा (Bigg Boss Marathi) ग्रँड फिनाले आहे. 17 स्पर्धकांमध्ये सुरू झालेला प्रवास अखेर टॉप 5 स्पर्धकांपर्यंत... [1663 chars]",
+            "url": "https://marathi.abplive.com/entertainment/rakesh-bapat-to-self-evict-major-drama-before-bigg-boss-marathi-6-finale-1420804",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/19/face3c3698cc15e1a089c74a221feb9417765784400281339_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-04-19T06:01:07Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "e18786c2a5f099504913289386fe686b",
+            "title": "Deepika Padukone Pregnant : दुआनंतर रणवीर सिंगच्या घरी छोटा 'धुरंधर', दीपिका पादुकोणने Photo पोस्ट करत दिली Good News",
+            "description": "Deepika Padukone Pregnant : दीपिका पादुकोण पुन्हा प्रेग्नंट असल्याची चर्चा होती, अखेर ती खरी ठरली आहे. दीपिकाने स्वत: सोशल मीडियावर फोटो पोस्ट केला आहे.",
+            "content": "1/ 7\nअभिनेता रणवीर सिंग आणि अभिनेत्री दीपिका पादुकोण हे सेलिब्रिटी कपल सध्या चर्चेत होतं ते धुरंधर फिल्ममुळे. रणवीरची धुरंधर फिल्म सुपरहिट ठरली. 3000 कोटींची कमाई करणारी ही पहिली भारतीय फिल्म आहे. त्यामुळे या फिल्मबाबत आणि रणवीरबाबत सगळीकडून प्रतिक्र... [1212 chars]",
+            "url": "https://news18marathi.com/photogallery/entertainment/deepika-padukone-pregnant-again-after-dua-second-baby-of-ranveer-singh-children-1670928.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/04/ENT-58-2026-04-f240e6f06e01d741da73a182d6042c24-1200x675.jpg",
+            "publishedAt": "2026-04-19T05:46:00Z",
             "lang": "mr",
             "source": {
                 "id": "bfd324c66556f858b94a8093cae1427c",
@@ -16,138 +61,93 @@
             }
         },
         {
-            "id": "616bb2643aa92feba3968eb42d4916f1",
-            "title": "Asha Bhosle | चंदेरी स्वरांचं सुवर्णपर्व",
-            "description": "चित्रपटसृष्टीच्या अथांग आकाशातील एक ध्रुवतारा निखळला आहे. आशा भोसलेज्यांच्या केवळ नावाचा उच्चार केला, तरी कानात मधुर सुरांची बरसात होते. त्या आज आपल्यात नाहीत, ही बातमी पचवणे माझ्यासाठी आणि कोट्यवधी रसिकांसाठी केवळ अशक्य आहे.",
-            "content": "चित्रपटसृष्टीच्या अथांग आकाशातील सतत तेजाळणारा एक तारा आशाताईंच्या जाण्याने निखळला आहे. आशा भोसले यांच्या केवळ नावाचा उच्चार केला, तरी कानात मधुर सुरांची बरसात होते. त्या आज आपल्यात नाहीत, हे वास्तव पचवणे माझ्यासाठी आणि कोट्यवधी रसिकांसाठी केवळ अशक्य... [3065 chars]",
-            "url": "https://pudhari.news/features/bahar/asha-bhosle-a-shining-star-of-indian-cinema-falls-silent-ap84",
-            "image": "https://media.assettype.com/pudharinews%2F2026-04-18%2Fqobkanrf%2F6.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-04-18T23:30:00Z",
+            "id": "c67e6352a222ab9d3ca01b62f2fbe5b3",
+            "title": "Deepika Padukone Pregnant Again : दीपिका पादुकोण दुसऱ्यांदा होणार आई, दुआच्या हातात प्रेग्नंसी किट दाखवत शेअर केली गुड न्यूज",
+            "description": "अभिनेत्री दीपिका पादुकोणने लेक दुआचा गोंडस फोटो शेअर करत ती दुसऱ्यांदा आई होणार असल्याची गोड बातमी चाहत्यांशी शेअर केली आहे.",
+            "content": "बॉलीवूड अभिनेत्री दीपिका पादुकोण सध्या मातृत्वाचा अनुभव घेत आहे. तिची मुलगी दुवा आता दीड वर्षांची झाली. काही महिन्यांपूर्वी तिने दुआचे फोटो सर्वांना दाखवले होते. आता पुन्हा एकदा पादुकोण आणि सिंह कुटुंबात आनंदाचे क्षण येणार आहेत.\nअभिनेत्री दीपिका पादु... [4859 chars]",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/deepika-padukone-announce-second-pregnancy-with-ranveer-singh-by-shared-daughter-dua-photo/articleshow/130365416.cms",
+            "image": "https://static.langimg.com/mt/thumb/130365539/deepika-padukone.jpg?imgsize=64982&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-04-19T05:36:42Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "27c7478d9a1e38da9eb76df5beac3184",
+            "title": "Ajit Agarkar : रोहित अन् विराटच्या दुश्मनावर BCCI मेहरबान! अजित आगरकरचं कॉन्ट्रॅक्ट वाढवणार, कधीपर्यंत असेल चीफ सिलेक्टर?",
+            "description": "Ajit Agarkar Continue As Chief Selector : भारतीय क्रिकेट नियामक मंडळाने (BCCI) टीम इंडियाच्या निवड समितीचे मुख्य अध्यक्ष अजित आगरकर यांच्याबाबत एक मोठा निर्णय घेतल्याची माहिती समोर आली आहे.",
+            "content": "Published by :\nLast Updated:Apr 19, 2026 11:05 AM IST\nAjit Agarkar Continue As Chief Selector : भारतीय क्रिकेट नियामक मंडळाने (BCCI) टीम इंडियाच्या निवड समितीचे मुख्य अध्यक्ष अजित आगरकर यांच्याबाबत एक मोठा निर्णय घेतल्याची माहिती समोर आली आहे.\nAjit A... [2495 chars]",
+            "url": "https://news18marathi.com/sport/ajit-agarkar-continue-as-chief-selector-of-bcci-contract-set-to-be-extended-amid-2027-odi-world-cup-1670927.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/04/Ajit-Agarkar-Continue-AS-Chief-Selector-of-BCCI-2026-04-835a79492ade9b2588c3457573116a5e-1200x675.jpg",
+            "publishedAt": "2026-04-19T05:35:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "0219619fcc6f9d26834e964dfa9fda05",
+            "title": "SRH vs CSK IPL 2026 Ruturaj Gaikwad: चेन्नईचा सलग चौथा पराभव! हातात आलेला सामना निसटला; कर्णधार ऋतुराज गायकवाडने सांगितले पराभवाचे नेमके कारण",
+            "description": "Ruturaj Gaikwad: चेन्नई सुपर किंग्सचा कर्णधार ऋतुराज गायकवाडने स्पष्ट केले की, आधीच आपल्या बाजूने झुकलेल्या सामन्यात हैदराबादविरुद्ध संघाला १० धावांनी पराभव का पत्करावा लागला.",
+            "content": "हैदराबाद: सनरायझर्स हैदराबाद आणि चेन्नई सुपर किंग्स यांच्यात काल शनिवारी (१८ एप्रिल) झालेल्या चुरशीच्या सामन्यात हैदराबादने चेन्नईवर १० धावांनी मात केली. या विजयासह हैदराबादने हंगामातील तिसरा विजय नोंदवला, तर चेन्नईला पराभवाचा 'चौका' (सलग चौथा पराभव)... [2189 chars]",
+            "url": "https://marathi.abplive.com/sports/ipl/why-csk-lost-to-srh-by-10-runs-in-sunrisers-hyderabad-vs-chennai-super-kings-captain-ruturaj-gaikwad-told-reason-1420798",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/19/3d83d3ec33470e4cc55467018fb25f4617765764299821075_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-04-19T05:27:28Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "bf7cfcc8e334389fc9f8393aed82c365",
+            "title": "Raigad Crime News: 10 वर्षांपासून प्रेमसंबंध, प्रेयसीचा अचानक लग्नास नकार, नैराश्यात प्रियकराने उचललं टोकाचं पाऊल; मृतदेहाजवळ सापडला तरुणीचा फोटो, रायगड हादरलं",
+            "description": "Raigad Crime News: प्रेमप्रकरणातून निर्माण झालेल्या मानसिक तणावातून एका तरुणाने स्वतःला संपवून घेतल्याची हृदयद्रावक घटना अलिबाग शहरातील रामनाथ परिसरात उघडकीस आली आहे.",
+            "content": "Raigad Crime News: प्रेमप्रकरणातून निर्माण झालेल्या मानसिक तणावातून एका तरुणाने स्वतःला संपवून घेतल्याची हृदयद्रावक घटना अलिबाग (Alibaug) शहरातील रामनाथ परिसरात उघडकीस आली आहे. अक्षय युवराज निकाळे (वय 30, मूळ रा. नाशिक) असे या युवकाचे नाव असून, या दु... [1468 chars]",
+            "url": "https://marathi.abplive.com/crime/raigad-crime-news-30-year-old-young-man-takes-extreme-step-after-rejection-in-love-at-alibaug-maharashtra-1420796",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/19/bad66d25dbdb6fc6c36046d03e0cd76d1776576405248923_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-04-19T05:27:26Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "7c9f4e13ab7b6d6ec0a184e79db4a9be",
+            "title": "Nashik Crime News | आधी मैत्री, मग विवाहाचे आमिष आणि 'गजवा-ए-हिंद'च्या नावाखाली छळ; नाशिकमधील धक्कादायक प्रकार उघड",
+            "description": "Nashik Crime News | शहरातील आयटी कंपनीतील प्रकरण ताजे असतानाच आणखी एक धक्कादायक घटना समोर आली आहे.",
+            "content": "या घटनेमुळे शहरात पुन्हा एकदा खळबळ उडाली आहे. पोलिसांनी दिलेल्या माहितीनुसार, पीडित तरुणी आणि आरोपीची ओळख जून २०२४ मध्ये झाली होती. त्यानंतर जानेवारी २०२६ पर्यंत आरोपीने तिचा विविध ठिकाणी छळ केल्याचा आरोप आहे. जवळीक साधून जबरदस्तीने मिठी मारणे, शरीरा... [964 chars]",
+            "url": "https://pudhari.news/maharashtra/north-maharashtra/nashik/nashik-panchavati-rape-conversion-pressure-case-tanzeer-inamdar-arrested-updates-sd22",
+            "image": "https://media.assettype.com/pudharinews%2F2024-07%2Fff3a7815-5710-453a-8491-1e72b8b076dc%2FHuman%20Trafficking.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-04-19T05:25:19Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari News",
+                "url": "https://pudhari.news"
+            }
+        },
+        {
+            "id": "8d426fee97277ef4516e3075f709eef2",
+            "title": "Women Nashik TCS Case | राष्ट्रीय महिला आयोगाकडून पीडित महिलांचे जबाब सुरु",
+            "description": "Women Nashik TCS Case | टीसीएस प्रकरण : चार सदस्यीय समितीकडून चौकशी",
+            "content": "सुमारे दोन तास चाललेल्या बैठकीनंतर पीडितेचा ऑनलाइन जबाब नोंदविण्यात आला. पुढील दोन दिवसांत इतर पीडित महिला, त्यांचे कुटुंबीय, साक्षीदार तसेच संबंधित व्यक्तींचे सविस्तर जबाब नोंदविण्यात येणार आहेत. या प्रक्रियेत गोपनीयता आणि सुरक्षेला प्राधान्य दिले ज... [379 chars]",
+            "url": "https://pudhari.news/maharashtra/north-maharashtra/nashik/ncw-committee-reaches-nashik-tcs-case-investigation-nida-khan-bail-plea-updates-sd22",
+            "image": "https://media.assettype.com/pudharinews%2F2025-12-06%2Fanjnnwrt%2Fsuraj-kambale-43.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-04-19T05:16:45Z",
             "lang": "mr",
             "source": {
                 "id": "ece2c054afd67d7d9de71c5ac9770bd6",
                 "name": "Pudhari",
                 "url": "https://pudhari.news"
-            }
-        },
-        {
-            "id": "72890af624f2a650a447826239b321cc",
-            "title": "Bigg Boss Marathi 6 Finale: या स्पर्धकांनी गाजवला सीझन सहा, कोण ठरणार महा विजेता? बिग बॉस मराठी ६ ची महाट्रॉफीची झलकही आली समोर",
-            "description": "Bigg Boss Marathi Season 6 Finale :गेल्या तीन महिन्यांपासून सुरू असलेला बिग बॉस मराठी चा सहावा सीझन लवरच प्रेक्षकांचा निरोप घेणार आहे. या शोचा विजेता आता समोर येणार आहे.",
-            "content": "बिग बॉस मराठी सीझन ६ च्या नव्या घराची पडद्यामागची गोष्ट\nमुंबई: बिग बॉस मराठीचा सीझन ६ चांगलाच गाजला. लवकरच विजेताही घोषित होणार आहे. रितेश देशमुख च्या दमदार होस्टिंगचीही चर्चा झाली. यासीझनननं टीआरपीचे रेकॉर्डसही मोडेल. भांडणं, कठीण टास्क्स, हलके-फुलक... [4536 chars]",
-            "url": "https://maharashtratimes.com/entertainment/bigg-boss-marathi/bigg-boss-marathi-season-6-grand-finale-top-5-contestants-interesting-facts-and-trophy/articleshow/130361395.cms",
-            "image": "https://static.langimg.com/mt/thumb/130361395/bigg-boss-marathi-season-6-finale.jpg?imgsize=149770&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-04-18T19:48:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
-            }
-        },
-        {
-            "id": "8b014cac1325d4de558351f8b24d680e",
-            "title": "CSK vs SRH : 'चेन्नईसाठी हैदराबादचा मॅचविनर ठरला व्हिलन'; हातातली मॅच गमावल्यावर कॅप्टन ऋतुराज गायकवाडने सांगितला टर्निंग पॉइंट",
-            "description": "चेन्नई सुपर किंग्स आणि सनरायझर्स हैदराबादमध्ये झालेल्या सामन्यात आपल्या घरच्या मैदानावर हैदराबाद संघाने तिसऱ्या विजयाची नोंद केली. चेन्नई सुपर किंग्जचा 10 धावांनी पराभव करत पॉईंट टेबलमध्ये चौथ्या स्थानी झेप घेतली आहे. प्रथम फलंदाजी करताना हैदराबाद संघाने दमदार सुरुवात केली होती. मात्र चेन्नईच्या गोलंदाजांनी त्यानंतर कमबॅक करत हैदराबादला 194-4 धावांच्या आतच रोखले.",
-            "content": "मुंबई : चेन्नई सुपर किंग्स आणि सनरायझर्स हैदराबादमध्ये झालेल्या सामन्यात आपल्या घरच्या मैदानावर हैदराबाद संघाने तिसऱ्या विजयाची नोंद केली. चेन्नई सुपर किंग्जचा 10 धावांनी पराभव करत पॉईंट टेबलमध्ये चौथ्या स्थानी झेप घेतली आहे. प्रथम फलंदाजी करताना हैद... [4065 chars]",
-            "url": "https://maharashtratimes.com/sports/cricket/iplt20/news/ipl-2026-csk-vs-srh-captain-ruturaj-gaikwad-reveals-the-reason-for-the-defeat-against-sunrisers-hyderabad/articleshow/130360964.cms",
-            "image": "https://static.langimg.com/mt/thumb/130361424/ruturaj-gaikwad-ipl-2026.jpg?imgsize=94682&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-04-18T19:33:59Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
-            }
-        },
-        {
-            "id": "374293626dc816fa84b3d5cfca0c5f2b",
-            "title": "Horoscope Today 19 April 2026 : आज अक्षय्य तृतीयेचा दिवस 'या' 6 राशींसाठी भाग्यशाली! सूर्यदेवाच्या कृपेने मनातील इच्छा होतील पूर्ण, 12 राशींचे आजचे राशीभविष्य",
-            "description": "Horoscope Today 19 April 2026 : आज रविवारचा दिवस 12 राशींसाठी कसा असेल? कोणासाठी दिवस फलदायी ठरेल? आजचे राशीभविष्य जाणून घ्या...",
-            "content": "Horoscope Today 19 April 2026 : वैदिक पंचांगानुसार, आज 19 एप्रिल 2026, आजचा वार रविवार आहे. ज्योतिष शास्त्रानुसार, आजचा दिवस अनेक राशींसाठी खास आणि लाभदायक ठरण्याची शक्यता आहे. कारण आज अक्षय्य तृतीयेचा (Akshaya Tritiya) दिवस आहे. या दिवशी ग्रहांची हा... [1860 chars]",
-            "url": "https://marathi.abplive.com/astro/horoscope-today-19-april-2026-akshaya-tritiya-aajche-rashi-bhavishya-sunday-astrological-prediction-12-zodiac-signs-in-marathi-astro-news-1420768",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/19/3976f916f5abb8f2b053079edd3ad6041776540114665358_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-04-18T18:35:57Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "1f774828c497840e28b23d1dadf2df90",
-            "title": "SRH vs CSK IPL 2026 : जिंकता जिंकता हरले... शेवटच्या 10 मिनिटांत हैदराबादने असा उलटवला डाव की चेन्नई पाहतच राहिली; नेमकं काय घडलं?",
-            "description": "SRH vs CSK IPL 2026 : आयपीएल 2026 च्या 27 व्या सामन्यात सनरायझर्स हैदराबादने अटीतटीच्या लढतीत चेन्नई सुपर किंग्सचा 10 धावांनी पराभव केला.",
-            "content": "Sunrisers Hyderabad beat Chennai Super Kings IPL 2026 : आयपीएल 2026 च्या 27 व्या सामन्यात सनरायझर्स हैदराबादने अटीतटीच्या लढतीत चेन्नई सुपर किंग्सचा 10 धावांनी पराभव केला. हैदराबादच्या राजीव गांधी इंटरनॅशनल स्टेडियमवर झालेल्या या सामन्यात ईशान किशनच्... [2760 chars]",
-            "url": "https://marathi.abplive.com/sports/cricket/sunrisers-hyderabad-beat-chennai-super-kings-by-10-runs-last-over-thriller-srh-win-ipl-2026-points-table-update-marathi-news-1420766",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/18/d0df42a4606be14c76abe4e5b781732217765364338341378_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-04-18T18:21:14Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "182954942d0d6cb1953e215d2ad1ce9b",
-            "title": "Bigg Boss Marathi 6 च्या ट्रॉफीची पहिली झलक समोर, पाहून स्पर्धक थक्क; असं आहे काय त्यात? PHOTO",
-            "description": "Bigg Boss Marathi 6 Trophy : बिग बॉस मराठी 6 च्या विजेत्याला मिळणाऱ्या त्या महाट्रॉफीची पहिली झलक समोर आली आहे. आधीच्या सगळ्या सीझनपेक्षा ही ट्रॉफी खूप खास आहे.",
-            "content": "1/ 8\nबिग बॉस मराठी 6 चा ग्रँड फिनाले आता अवघ्या काही तासांवर येऊन ठेपला आहे. गेल्या 100 दिवसांपासून स्पर्धकांसह प्रेक्षक ज्याची आतुरतेने वाट पाहत होते त्या महाट्रॉफीचं अखेर दिमाखदार अनावरण करण्यात आलं.\n2/ 8\nटॉप 5 स्पर्धकांच्या हस्ते म्हणजे, विशाल, अन... [1248 chars]",
-            "url": "https://news18marathi.com/photogallery/entertainment/bigg-boss-marathi-6-trophy-first-look-design-grand-finale-1670728.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/04/bbm-6-1-2026-04-a4a874333e279339f068c8066cd0b10f-1200x675.jpg",
-            "publishedAt": "2026-04-18T17:18:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "fc501843b96f90a78168018dfdc7208c",
-            "title": "PM Modi : नारी शक्ती विधेयकावर मोदींचा विरोधकांवर हल्लाबोल म्हणाले की...",
-            "description": "महिला आरक्षण विधेयक संसदेत मंजूर न झाल्यानंतर पंतप्रधान नरेंद्र मोदी यांनी देशाला संबोधित करत विरोधकांवर टीका केली. महिलांच्या सक्षमीकरणासाठी ही मोठी संधी हुकल्याचे त्यांनी नमूद केले. National and International News | Latest News",
-            "content": "पंतप्रधान नरेंद्र मोदी यांनी देशाला संबोधित करताना महिला आरक्षण विधेयकावर आपली भूमिका स्पष्ट केली. संसदेत हे विधेयक आवश्यक दोन-तृतीयांश बहुमत न मिळाल्याने मंजूर होऊ शकले नाही.\nPM Modi : नारी शक्ती विधेयकावर मोदींचा विरोधकांवर हल्लाबोल म्हणाले की...\nप... [1504 chars]",
-            "url": "https://www.lokshahi.com/desh-videsh/modi-attacks-opponents-on-nari-shakti-bill-says-11741605",
-            "image": "https://img-cdn.publive.online/fit-in/1200x675/lokshahi-marathi/media/media_files/2026/04/18/riddhi-11-2026-04-18-22-31-34.png",
-            "publishedAt": "2026-04-18T17:01:51Z",
-            "lang": "mr",
-            "source": {
-                "id": "c0d1b7b50c678b3f876b44480266dd1b",
-                "name": "Lokshahi Marathi News",
-                "url": "https://www.lokshahi.com"
-            }
-        },
-        {
-            "id": "9b4fd9c02c2636fa2261c86dd3ddac6a",
-            "title": "मोठी खळबळ! भारतीय जहाजांवर फायरिंग होताच सरकारची मोठी कारवाई, इराणच्या… जगाचं लक्ष आता भारताकडे",
-            "description": "India Iran Relation : होर्मुज सामुद्रधुनीतून जात असताना एका भारतीय व्यापारी जहाजांवर गोळीबार झाल्याची माहिती समोर आली आहे. इराणी नौदलाकडून करण्यात आलेल्या या गोळीबारानंतर सरकारने आक्रमक भूमिका घेतली आहे.",
-            "content": "इराण आणि अमेरिकेत तणाव वाढलेला असताना होर्मुज सामुद्रधुनीतून जात असताना एका भारतीय व्यापारी जहाजांवर गोळीबार झाल्याची माहिती समोर आली आहे. इराणी नौदलाकडून करण्यात आलेल्या या गोळीबारानंतर सरकारने आक्रमक भूमिका घेतली आहे. या घटनेनंतर परराष्ट्र मंत्रालय... [1606 chars]",
-            "url": "https://www.tv9marathi.com/international/firing-on-indian-ships-in-hormuz-strait-mea-summoned-iranian-ambassador-1650419.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/04/Iran-india.webp",
-            "publishedAt": "2026-04-18T16:40:24Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "6c2f793cae8687d3e0cbeaad8c73860e",
-            "title": "Pm Modi Speech: 'ही तर भ्रूण हत्या', पंतप्रधान मोदींनी काँग्रेसची पापं वाचून दाखवली",
-            "description": "\"काँग्रेस नेहमी महिला आरक्षणाच्या विरोधात  काम करत आली आहे, त्यांनी षडयंत्र रचलं आहे, त्यांनी नेहमी अडचण आणली, काँग्रेस आणि त्यांच्या साथीदार पक्षाने नवीन खोटं समोर आणलं,",
-            "content": "Published by :\nLast Updated:Apr 18, 2026 10:01 PM IST\n\"काँग्रेस नेहमी महिला आरक्षणाच्या विरोधात काम करत आली आहे, त्यांनी षडयंत्र रचलं आहे, त्यांनी नेहमी अडचण आणली, काँग्रेस आणि त्यांच्या साथीदार पक्षाने नवीन खोटं समोर आणलं,\nमुंबई: \"लोकसभेत लोकांच्या ... [4757 chars]",
-            "url": "https://news18marathi.com/national/this-is-feticide-prime-minister-narendra-modi-criticizes-congress-sp-and-tmc-over-women-reservation-bill-1670724.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/04/pm-modi-on-rauhl-gandhi-2026-04-0be434eb44ab0a35bfe472dd2cd2fe75-1200x675.jpg",
-            "publishedAt": "2026-04-18T16:31:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
             }
         }
     ],

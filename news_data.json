@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "cb0223ee9faa16369ec884139a626b0e",
+            "title": "SRH vs DC IPL 2026 : अभिषेकचं शतक अन् मलिंगाच्या जादूने काव्या मारनच्या हैदराबादचं दिवस बदलले, पॉइंट्स टेबलमध्ये उलथापालथ",
+            "description": "IPL 2026 Points Table Update : विजयासह हैदराबादने पॉइंट्स टेबलमध्ये 8 गुणांसह तिसऱ्या स्थानावर झेप घेतली असून प्लेऑफच्या दिशेने मोठे पाऊल टाकले आहे.",
+            "content": "Sunrisers Hyderabad beat Delhi Capitals IPL 2026 : आयपीएल 2026 च्या 31 व्या सामन्यात सनरायझर्स हैदराबादने (SRH) दिल्ली कॅपिटल्सचा (DC) 47 धावांनी पराभव केला. हैदराबादच्या राजीव गांधी आंतरराष्ट्रीय स्टेडियमवर झालेल्या या हाय-स्कोअरिंग सामन्यात फलंदाजी... [2204 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/sunrisers-hyderabad-won-by-47-runs-beat-delhi-capitals-abhishek-sharma-eshan-malinga-ipl-2026-points-table-marathi-news-1421145",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/21/918dd866964a13fe4796b28a072df95317767950574061378_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-04-21T18:12:57Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
             "id": "475fc22052458b6cdb499592bd2255db",
             "title": "Tushar Doshi : पोलीस अधीक्षक तुषार दोशी अडचणीत? स्वतःच्या बदलीच्या दिवशीच साताऱ्यातील सहा-सात पोलिसांच्या बदल्या केल्याचा आरोप",
             "description": "Satara SP Transfer : या प्रकरणी शिवसेना जिल्हा प्रमुखांनी उपमुख्यमंत्री एकनाथ शिंदे आणि पालकमंत्री शंभूराज देसाई यांना पत्र लिहित चौकशी करण्याची मागणी केली आहे.",
@@ -133,21 +148,6 @@
                 "id": "f331a5ed3965fb59761dfcecfc7e7a34",
                 "name": "BBC",
                 "url": "https://www.bbc.com"
-            }
-        },
-        {
-            "id": "1b26185cc20b355756c8b5d4fa16c3ca",
-            "title": "CSMT : एकाच प्लॅटफॉर्मवर दोन लोकल आमनेसामने, सीएसएमटी स्टेशन मास्तर निलंबित, रेल्वे प्रशासनाची कारवाई",
-            "description": "Mumbai Local Train Disruption : सीएसएमटी स्थानकात दोन लोकल आमनेसामने आल्याच्या गंभीर घटनेनंतर मध्य रेल्वेने स्टेशन मास्तरवर निलंबनाची कारवाई केली आहे.",
-            "content": "मुंबई : छत्रपती शिवाजी महाराज टर्मिनस (CSMT Station) येथे दोन लोकल एकाच ट्रॅकवर आमनेसामने आल्याच्या गंभीर घटनेनंतर मध्य रेल्वे प्रशासनाने मोठी कारवाई केली आहे. या प्रकरणी संबंधित स्टेशन मास्तरला निलंबित करण्यात आलं आहे. मंगळवारी दुपारी सुमारे 3 वाजण्... [2058 chars]",
-            "url": "https://marathi.abplive.com/news/mumbai/csmt-station-master-suspended-mumbai-local-train-incident-marathi-1421124",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/04/21/6da42851c652849b601f06e14dc36351177677847210393_original.png?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-04-21T13:27:53Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
             }
         }
     ],

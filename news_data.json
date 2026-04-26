@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "b6ac042037e2fc0f35ed9df9c5681d03",
+            "title": "संजय गायकवाड यांच्याकडे मराठी भाषेची सूत्रे द्यायची का?; हे असे भारी भारी आमदार कुठे सापडतात?",
+            "description": "An article regarding the controversy sparked by MLA Sanjay Gaikwad over Govind Pansare book, Shivaji Kon Hota?. संजय गायकवाड यांच्यापर्यंत ते पुस्तक पोहोचवण्यामागे काही परकीय शक्तींचा हात होता का? एखादे पुस्तक ३८ वर्षानंतर अशा पद्धतीने चर्चेत आणले त्यामागे त्या पुस्तकाचा खप वाढावा अशी तर कुणाची चाल नसेल..? - Latest Marathi News (मराठी बातम्या). Find Breaking Headlines, Current and Latest editorial news in Marathi at Lokmat.com",
+            "content": "अतुल कुलकर्णी\nसंपादक, मुंबई\nश्री. एकनाथ शिंदेजी\nजय महाराष्ट्र\nआमदार संजय गायकवाड आपल्या पक्षाची कीर्ती सर्वदूर जावी यासाठी जी विधाने करत आहेत त्यासाठी त्यांचा सत्कार करायला हवा. त्या सत्काराची हीच ती वेळ आणि हाच तो क्षण आहे... १९८८ मध्ये गोविंद पानसर... [2745 chars]",
+            "url": "https://www.lokmat.com/editorial/an-article-regarding-the-controversy-sparked-by-mla-sanjay-gaikwad-over-govind-pansare-book-shivaji-kon-hota-a-a283-c629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/shinde-gaikwad-sanay-181_2026041690635.jpg",
+            "publishedAt": "2026-04-26T00:58:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "ff9762c8150746827821a08d529386fe",
+                "name": "Lokmat.com",
+                "url": "https://www.lokmat.com"
+            }
+        },
+        {
             "id": "2e268155bcfc206dbd08c28a3f81a338",
             "title": "IPL 2026 Points Table : डबल हेडरनंतर पॉइंट्स टेबलमध्ये जोरदार चुरस, पहिल्या स्थानी कोण?",
             "description": "IPL 2026 Points Table After 36th Match : इशान किशन आणि अभिषेक शर्मा या दोघांनी दुसऱ्या विकेटसाठी 132 धावांची निर्णायक भागीदारी केली. या भागीदारीमुळे हैदराबादला एकतर्फी विजय मिळवता आला. हैदराबादला यासह पॉइंट्स टेबलमध्ये फायदा झाला आहे.",
@@ -133,21 +148,6 @@
                 "id": "d0ecbd318b81c0114aad430372084c1a",
                 "name": "ABP Majha",
                 "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "d340629b3a266293317a906fae7f0d6e",
-            "title": "PBKS vs DC : 264 धावा करूनही 2 बॉलमध्ये मॅच फिरली, अक्षर पटेलची टीम कुठे हरली?",
-            "description": "दिल्ली कॅपिटल्सने प्रथम फलंदाजी करताना 264 धावा ठोकल्या होत्या. या लक्ष्याचा पाठलाग करताना पंजाब किंग्जने हे लक्ष्य 6 विकेट राखून गाठत हा सामना जिंकला.",
-            "content": "1/ 11\nआयपीएलमध्ये आज दिल्लीच्या अरूण जेटली स्टेडिअमवर पंजाब किंग्जने दिल्ली कॅपिटल्सचा 6 विकेट राखून पराभव केला आहे. पंजाबने यावेळी 264 इतकी मोठी धावसंख्या देखील चेज केली. आतापर्यंत कोणत्याच टीमला अशी कामगिरी करता आली नाही.\n4/ 11\nप्रभासिमरन एका बाजून... [824 chars]",
-            "url": "https://news18marathi.com/photogallery/sport/pbks-defeat-dc-by-6-wicket-shreyas-iyer-won-the-match-ipl-2026-delhi-capital-vs-punjab-king-ipl-2026-1675915.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/04/pkknvkj-2026-04-8bb6c9f86defd30eec4b373ec2a59698-1200x675.jpg",
-            "publishedAt": "2026-04-25T14:33:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
             }
         }
     ],

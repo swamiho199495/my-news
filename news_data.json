@@ -1,6 +1,51 @@
 {
     "general": [
         {
+            "id": "e0cfc6323e730cbb8938a665b2a1cbc3",
+            "title": "पश्चिम बंगाल विधानसभा निवडणूक निकाल 2026",
+            "description": "मतमोजणी 4 मे रोजी (सोमवार) सकाळी 8 वाजता सुरू होईल.",
+            "content": "ही इंटरॅक्टिव्ह माहिती पाहण्यासाठी जावा स्क्रिप्ट असलेला आधुनिक ब्राउझर आणि चांगल्या इंटरनेट कनेक्शनची आवश्यकता आहे.\nएकूण निकाल\nसविस्तर निकाल पाहण्यासाठी नकाशावर क्लिक करा किंवा सर्चचा वापर करा.\nया फिल्टरमध्ये ज्या राज्यांचे निवडणूक निकाल जाहीर केले ... [531 chars]",
+            "url": "https://www.bbc.com/marathi/resources/idt-1fcf6806-7261-49ab-849d-86c508d45b68",
+            "image": "https://www.bbc.co.uk/favicon.ico",
+            "publishedAt": "2026-05-04T01:45:55Z",
+            "lang": "mr",
+            "source": {
+                "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+                "name": "BBC",
+                "url": "https://www.bbc.com"
+            }
+        },
+        {
+            "id": "9a874741c18ae69f1ef34b8fe37f6d60",
+            "title": "सासूबाईंचे निधन झाल्याचे माहित असूनही जोरजोरात हसत होती Archana Puran Singh, स्वत:च सांगितले कारण",
+            "description": "अभिनेत्री अर्चना पूरण सिंह ही तिच्या मनमोकळ्या हसण्यासाठी ओळखली जाते. पण बरेचदा हे हसणे सुद्धा तिच्या किती आव्हानात्मक असते याबद्दल तिने सांगितले आहे.",
+            "content": "अभिनेत्री अर्चना पूरण सिंहने अनेक सिनेमांमध्ये काम केले असले तरी कपिल शर्माच्या शोमुळे ती जास्त चर्चेत राहते. या शोमध्ये तिच्यावर अनेकदा विनोद केले जातात की ती केवळ हसूनच लाखो रुपये कमावत असते. मात्र या हसण्याच्या तिला वैयक्तिक आयुष्यात काही प्रमाणात... [5192 chars]",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/archana-puran-singh-continued-laughed-after-knowing-about-mother-in-law-death/articleshow/130742329.cms",
+            "image": "https://static.langimg.com/mt/thumb/130742693/archana-puran-singh-1.jpg?imgsize=64974&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-05-04T01:17:20Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "76eb9e1790d80eba6c23b08d061a87e7",
+            "title": "GT vs PBKS: पंजाब किंग्सचा सलग दुसरा पराभव, रोमांचकारी सामन्यात गुजरातनं बाजी मारली",
+            "description": "GT vs PBKS: आयपीएल २०२६ च्या दुहेरी सामन्यातील दुसरा सामना ३ मे रोजी गुजरात टायटन्स आणि पंजाब किंग्स यांच्यात खेळला गेला. गुजरातने पंजाबला पराभूत करून दोन गुण मिळवले आहेत.",
+            "content": "आयपीएल २०२६ मध्ये सलग तिसरा विजय मिळवून गुजरात टायटन्सने प्लेऑफची स्पर्धात अधिक चुरशीची बनवली आहे. शुभमन गिलच्या नेतृत्वाखालील गुजरात संघाने एका थरारक आणि कमी धावसंख्येच्या सामन्यात पंजाब किंग्सला ४ गडी राखत पराभूत केलं. शेवटच्या षटकापर्यंत सामना रंग... [696 chars]",
+            "url": "https://saamtv.esakal.com/sports/ipl-2026-gt-edge-past-pbks-in-thriller-seal-victory-in-final-over-gujarat-titans-beat-table-toppers-punjab-kings-bbj88",
+            "image": "https://cf-images.assettype.com/saamtv%2F2026-05-03%2Frxxmdndf%2Fnew-size-thumbnail-2026-05-04T002732.749.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-05-04T00:33:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "36c482d58a61229d6b752791e526b574",
+                "name": "Saam Tv",
+                "url": "https://saamtv.esakal.com"
+            }
+        },
+        {
             "id": "daefcc03c9554c721c34294a9236eba7",
             "title": "GT vs PBKS IPL 2026 : गुजरातची हवा टाईट! 164 धावांचा पाठलाग करताना फुटला घाम; शेवटच्या बॉलपर्यंत रंगला सामना, पंजाबचा सलग दुसरा पराभव",
             "description": "Gujarat Titans vs Punjab Kings IPL 2026 : आयपीएलच्या 46 व्या सामन्यात गुजरात टायटन्सने पंजाब किंग्जचा 4 गडी राखून पराभव केला आहे.",
@@ -104,15 +149,35 @@
                 "name": "News18 Marathi",
                 "url": "https://news18marathi.com"
             }
+        }
+    ],
+    "market": [],
+    "it_tech": [],
+    "sports": [],
+    "entertainment": [
+        {
+            "id": "47696a626b6f568b088baf853ed85c23",
+            "title": "Horoscope Today 4 May 2026 : आज सोमवारच्या दिवशी 7 राशींवर असणार महादेवाची कृपा; संध्याकाळपर्यंत मिळणार शुभ संकेत, आजचे राशीभविष्य",
+            "description": "Horoscope Today 4 May 2026 : सर्व 12 राशींसाठी आज सोमवारचा दिवस नेमका कसा असणार आहे. यासाठी वाचूयात सर्व 12 राशींचं आजचं राशीभविष्य.",
+            "content": "Horoscope Today 4 May 2026 : वैदिक ज्योतिष शास्त्रानुसार, आज 4 मे 2026 चा दिवस आहे. त्यानुसार आजचा वार सोमवार आहे. हा दिवस भगवान शंकराला (Lord Shiva) समर्पित आहे. आजच्या दिवशी भक्त महादेवाच्या मंदिरात जाऊन पूजा करतात. तसेच, उपवास धरतात. आयुष्यात येणा... [3105 chars]",
+            "url": "https://marathi.abplive.com/astro/horoscope-today-4-may-2026-monday-marathi-rashi-bhavishya-zodiac-signs-marathi-astrology-1422634",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/03/7a032bebab5872b0fa673f32ec82698d1777802404424358_original.jpeg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-05-04T01:30:20Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
         },
         {
-            "id": "3fa89e16e9debf51c92a89ab707c1d79",
-            "title": "SRH vs KKR: कॅच पकडण्यासाठी 15 मीटर पळाला; नंतर धडपडला, पॉवेलचा पराक्रम पाहून फॅन्सही अवाक; Video Viral",
-            "description": "आयपीएल 2026 च्या हंगामात जवळपास प्रत्येक संघाच्या क्षेत्ररक्षणात लक्षणीय घसरण झाली असून अनेक सोपे झेल सोडले गेले असले तरी, काही झेल हे अविश्वसनीय होते. याचेच एक उदाहरण आजच्या हैदराबाद आणि कोलकाताच्या सामन्यात पाहायला मिळाले.",
-            "content": "हैदराबाद: आयपीएल 2026 हंगामात काही संघ आणि खेळाडूंची कामगिरी खूपच निराशाजनक राहिली आहे. मात्र, क्षेत्ररक्षण हे एक असे क्षेत्र आहे जिथे विजयी आणि पराभूत संघांमध्ये कोणताही स्पष्ट फरक दिसून आलेला नाही. या हंगामात क्षेत्ररक्षणाचा दर्जा अत्यंत सुमार राहि... [2303 chars]",
-            "url": "https://maharashtratimes.com/sports/cricket/iplt20/news/rovman-powell-takes-brilliant-catch-of-heinrich-klaasen-srh-vs-kkr-ipl-2026/articleshow/130732988.cms",
-            "image": "https://static.langimg.com/mt/thumb/130733313/rovman-powell-catch-video.jpg?imgsize=95234&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-05-03T13:23:06Z",
+            "id": "9a874741c18ae69f1ef34b8fe37f6d60",
+            "title": "सासूबाईंचे निधन झाल्याचे माहित असूनही जोरजोरात हसत होती Archana Puran Singh, स्वत:च सांगितले कारण",
+            "description": "अभिनेत्री अर्चना पूरण सिंह ही तिच्या मनमोकळ्या हसण्यासाठी ओळखली जाते. पण बरेचदा हे हसणे सुद्धा तिच्या किती आव्हानात्मक असते याबद्दल तिने सांगितले आहे.",
+            "content": "अभिनेत्री अर्चना पूरण सिंहने अनेक सिनेमांमध्ये काम केले असले तरी कपिल शर्माच्या शोमुळे ती जास्त चर्चेत राहते. या शोमध्ये तिच्यावर अनेकदा विनोद केले जातात की ती केवळ हसूनच लाखो रुपये कमावत असते. मात्र या हसण्याच्या तिला वैयक्तिक आयुष्यात काही प्रमाणात... [5192 chars]",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/archana-puran-singh-continued-laughed-after-knowing-about-mother-in-law-death/articleshow/130742329.cms",
+            "image": "https://static.langimg.com/mt/thumb/130742693/archana-puran-singh-1.jpg?imgsize=64974&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-05-04T01:17:20Z",
             "lang": "mr",
             "source": {
                 "id": "86afe444484a22a46a5f6295debcbf1a",
@@ -121,38 +186,124 @@
             }
         },
         {
-            "id": "dcfebc53b1c66646498ac83c6ba1892d",
-            "title": "उन्हाळ्यात एसीचे स्फोट का होतात? असे अपघात टाळण्यासाठी 'ही' काळजी घ्या",
-            "description": "उन्हाळ्यात एसीमध्ये स्फोट होण्याच्या घटना का घडतात? एसीचा स्फोट होण्यापासून कसं टाळता येऊ शकतं?",
-            "content": "6 तासांपूर्वी\nवाचन वेळ: 4 मिनिटे\nभारतात उष्णता वाढते आहे. अनेक भागात तापमान 40-45 अंशापर्यंत पोहोचलं आहे.\nदाट लोकवस्तीच्या शहरांमध्ये वाढती लोकसंख्या, ट्रॅफिकचा दबाव आणि प्रदूषणामुळे उष्णतेचा कहर वाढतच चालला आहे.\nअशा परिस्थितीत एअर कंडिशनरचा (एसी) वा... [3911 chars]",
-            "url": "https://www.bbc.com/marathi/articles/cp3pz1v4dv4o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_marathi/5ff1/live/c96e9940-46f0-11f1-9217-a5b6a670d3f7.jpg",
-            "publishedAt": "2026-05-03T13:20:55Z",
+            "id": "f40af5c63581c164b2a1cf9856c8879f",
+            "title": "Horoscope Today 4 May 2026: आजचा सोमवार 7 राशींचं नशीब पालटणारा! भोलेनाथांच्या कृपेने आर्थिक चणचण मिटणार, आजचे राशीभविष्य",
+            "description": "Horoscope Today 4 May 2026: ज्योतिषशास्त्रानुसार, आज 4 मे 2026 सोमवारचा दिवस 12 राशींसाठी कसा असेल? कोणासाठी दिवस फलदायी ठरेल? आजचे राशीभविष्य जाणून घ्या...",
+            "content": "Horoscope Today 4 May 2026: वैदिक पंचांगानुसार, आज 4 मे 2026, आजचा वार सोमवार आहे. ज्योतिषशास्त्रानुसार, आजचा दिवस अनेक राशींसाठी खास आणि लाभदायक ठरण्याची शक्यता आहे. या दिवशी ग्रहांची हालचाल पाहता दिवस फार महत्त्वाचा आहे, आज ग्रहांचा दुर्लभ संयोगही ... [2044 chars]",
+            "url": "https://marathi.abplive.com/astro/horoscope-today-4-may-2026-monday-aajche-rashi-bhavishya-astrological-prediction-12-zodiac-signs-astrological-marathi-news-1422686",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/04/f45ea2887c2eb1a6af8094c63f6f8f4d1777856551357381_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-05-04T01:02:40Z",
             "lang": "mr",
             "source": {
-                "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-                "name": "BBC",
-                "url": "https://www.bbc.com"
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
             }
         },
         {
-            "id": "2b6af84aff92131d41893903e236d689",
-            "title": "Maharashtra News LIVE : महाराष्ट्राच्या बाहेरही इंदोरीकरांची किर्ती - छगन भुजबळ",
-            "description": "Meta Description (Marathi): भोरमधील अत्याचार प्रकरणाचा निषेध केला जात आहे. नाशिकमध्ये ११ हजार विद्यार्थी नीट परीक्षा देणार आहेत. तर दुसरीकडे भोंदू अशोक खरातवर ईडीची कारवाई केली जात आहे.",
-            "content": "पुणे विद्यापीठाच्या प्रवेशद्वारावरती वृक्षतोडीच्या विरोधात आंदोलन\nपुणे – सावित्रीबाई फुले पुणे विद्यापीठाच्या प्रवेशद्वारावरती वृक्षतोडीच्या विरोधात आंदोलन करण्यात येत आहे. गणेश खिंड रोडवरील ५२९ वृक्षतोडीच्या विरोधात युवासेना उद्धव ठाकरे गट, युवक काँ... [20293 chars]",
-            "url": "https://www.tv9marathi.com/maharashtra/maharashtra-news-live-updates-in-marathi-aajchya-thalak-batamya-3-may-2026-maharashtra-politics-pune-bhor-case-neet-exam-tempreture-ashok-kharat-ed-action-1660644.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/05/breaking-news.jpg",
-            "publishedAt": "2026-05-03T12:10:24Z",
+            "id": "4604b34eb963f1c3f94510c99ee54933",
+            "title": "अभिनेता राहुल रॉय म्हणाला, ‘मला दया नको, काम द्या !’ बहिणीच्या घरी राहतो, निराधार नाही…",
+            "description": "राहुल रॉय याने त्याच्या विषयीच्या वावड्यांवर अखेर मौन सोडले असून,आपल्यावर दया दाखवणाऱ्यांना प्रत्युत्तर दिले आहे. अभिनेत्याने म्हटलंय की, मी सुरक्षित असून आपल्या बहिणीसोबत राहत आहे आणि अफवांवर विश्वास ठेवू नये.",
+            "content": "एकेकाळी आशिकी चित्रपटाने एका रात्रीत स्टार झालेल्या बॉलीवूड अभिनेता राहुल रॉय याच्या संदर्भातील व्हिडीओ सोशल मीडियावर व्हायरल होत आहे. राहुल रॉय याचे अलिकडील काही रिल्स आणि व्हिडीओत पाहून राहुल रॉय याच्या आर्थिक परिस्थिती संदर्भात वेगवेगळे दावे केले ... [1886 chars]",
+            "url": "https://www.tv9marathi.com/entertainment/actor-rahul-roy-said-i-dont-want-pity-give-me-work-he-is-not-destitute-1661270.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/05/New-Project-2026-05-03T230224.434.jpg",
+            "publishedAt": "2026-05-03T17:36:01Z",
             "lang": "mr",
             "source": {
                 "id": "86b106434a8aa7ab0755463f15cc13f7",
                 "name": "TV9 Marathi",
                 "url": "https://www.tv9marathi.com"
             }
+        },
+        {
+            "id": "5691c44012b103a195cb18a6f29204ed",
+            "title": "गोविंदाचं चालू होतं अफेअर, म्हणूनच गुडघ्याला लागली गोळी? पत्नी सुनीता आहुजाच्या विधानामुळे खळबळ!",
+            "description": "सुनीता आहुजा यांंनी लाफ्टर शेफ्स-3 मध्ये सहभाग नोंदवला. यावेळी त्या हसत हसत बोलताना दिसत आहेत. याच कार्यक्रमात कृष्णा अभिषेक आणि त्याची पत्नी कश्मिरा हे दोघेही दिसत आहेत. प्रसिद्ध कन्टेंट क्रिएटर एल्विश यादवही दिसतोय.",
+            "content": "Govinda And Sunita Ahuja : अभिनेता गोविंदा यांची पत्नी सुनीता आहुजा या नेहमीच आपल्या बिनधास्त स्वभावामुळे नेहमी ओळखल्या जातात. त्यांनी अनेकदा आपल्या वैयक्तिक आयुष्यावर तसेच बॉलिवुडमधील चुकीच्या गोष्टींवर दिलखुलासपणे मत व्यक्त केलं आहे. सुनीता आहुजा य... [1507 chars]",
+            "url": "https://www.tv9marathi.com/entertainment/sunita-ahuja-comment-on-extra-marital-affair-and-actor-govinda-2024-pistul-firing-accident-1661217.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/05/govinda-and-sunita-ahuja.jpg",
+            "publishedAt": "2026-05-03T16:32:04Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "b13aa32cc19eb5e8ba21fea2f05db826",
+            "title": "Aajche Rashi Bhavishya: आजचे राशी भविष्य, 4 मे; आठवड्याचा पहिला दिवस तुमच्यासाठी कसा असणार? वाचा",
+            "description": "Today Horoscope in Marathi: आजचा दिवस कुठल्या राशीच्या व्यक्तींसाठी कसा असेल याबाबत सविस्तर माहिती जाणून घ्या. पाहूयात मेष, वृषभ, मिथुन, कर्क, सिंह, कन्या, तूळ, वृश्चिक, धनु, मकर, कुंभ, मीन या 12 राशींसाठी कसा असेल दिवस?, धर्म कर्म भविष्य News, Times Now Marathi",
+            "content": "मेष आजचे राशी भविष्य / Aries Horoscope Today: चंद्र या राशीतून आठव्या गोचरात आहे. राशीस्वामी मंगळ, शनीसह बाराव्या घरात गोचर करेल आणि वित्त व स्थावर मालमत्ता क्षेत्रात यश देईल. आज करिअरमध्ये प्रगतीचा दिवस आहे. सूर्य आणि बुध या राशीत आहेत. नोकरीतील अना... [5944 chars]",
+            "url": "https://marathi.timesnownews.com/spirituality/horoscope-today-4-may-2026-marathi-article-154235940",
+            "image": "https://marathiimages.timesnownews.com/thumb/msid-154235940,width-1280,height-720,resizemode-75/154235940.jpg",
+            "publishedAt": "2026-05-03T16:26:40Z",
+            "lang": "mr",
+            "source": {
+                "id": "1abd1651d0b483586059eb6771d942d8",
+                "name": "Times Now Marathi",
+                "url": "https://marathi.timesnownews.com"
+            }
+        },
+        {
+            "id": "c855d116dc7f8cdf8824d11ad9e52dde",
+            "title": "Sudesh Kumar Passes Away At Age Of 95; सुप्रसिद्ध अभिनेते सुदेश कुमार यांचं ब्रेन स्ट्रोकमुळे निधन, वयाच्या 95व्या वर्षी घेतला जगाचा निरोप",
+            "description": "Sudesh Kumar : दिग्गज अभिनेते सुदेश कुमार यांचं वयाच्या ९५व्या वर्षी ब्रेन स्ट्रोकमुळे निधन झालं आहे.",
+            "content": "मुंबई - १९६० च्या दशकातील प्रसिद्ध अभिनेते आणि निर्माते सुदेश कुमार यांचं वयाच्या ९५व्या वर्षी निधन झालं आहे. सुदेश कुमार यांना ब्रेन स्ट्रोकचा झटका आलेला. त्यानंतर त्यांना १ मे रोजी मुंबईतील ब्रीच कँडी रुग्णालयात दाखल करण्यात आलेलं. सुदेश कुमार यांच... [4926 chars]",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sudesh-kumar-passes-away-at-age-of-95-because-of-brain-stroke/articleshow/130735435.cms",
+            "image": "https://static.langimg.com/mt/thumb/130735552/sudesh-kumar-passes-away-at-age-of-95.jpg?imgsize=65672&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-05-03T15:52:16Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "49f96ba07e679ef00f139c31a507435d",
+            "title": "Kiara Adwani : आधी संमती पण आता अभिनेत्रीचे बदलले मन? Toxic सिनेमातील Intimate Seen बदलण्याची मागणी!",
+            "description": "Toxic: The Fairytale For Grown Ups चित्रपटातील इंटिमेट सीनवरून नवा वाद निर्माण झाला आहे. कियारा अडवाणी सुरुवातीला संमती देऊन सीन शूट केले होते.",
+            "content": "Toxic: The Fairytale For Grown Ups चित्रपटातील इंटिमेट सीनवरून नवा वाद निर्माण झाला आहे. कियारा अडवाणी सुरुवातीला संमती देऊन सीन शूट केले होते.\nKiara Adwani सिनेमासाठी Intimate seen देण्यास तयार होती\nसंमती आणि कम्फर्ट लक्षात घेऊन पुढे शूट करण्यात आले... [2206 chars]",
+            "url": "https://www.navarashtra.com/movies/bollywood/kiara-advani-requested-to-filmmakers-of-toxic-to-cut-intimate-seen-with-yash-1217717.html",
+            "image": "https://d2lkn59rua3ry2.cloudfront.net/wp-content/uploads/2026/05/n-2026-05-03T210502.534.jpg",
+            "publishedAt": "2026-05-03T15:35:33Z",
+            "lang": "mr",
+            "source": {
+                "id": "b8e291c9466e6780091c3b439f38d8a7",
+                "name": "navarashtra.com",
+                "url": "https://www.navarashtra.com"
+            }
+        },
+        {
+            "id": "2ec6cb6e6c567791aa400d5bf7df98ae",
+            "title": "'पत्नी ही अशीच मिळत नाही...' 67 व्या बोहोल्यावर चढणार प्रसिद्ध अभिनेता? सांगितलं इतकी वर्ष सिंगल राहण्याचं कारण",
+            "description": "इतकी वर्ष उलटली तरी या सुपरहिरोने लग्न का केलं नाही? आता खुद्द अभिनेत्यानेच आपल्या लग्नावर, अफेअर्सवर आणि एकूणच नात्यांवर अत्यंत रोखठोक भाष्य केलं आहे.",
+            "content": "Published by :\nLast Updated:May 03, 2026 9:07 PM IST\nइतकी वर्ष उलटली तरी या सुपरहिरोने लग्न का केलं नाही? आता खुद्द अभिनेत्यानेच आपल्या लग्नावर, अफेअर्सवर आणि एकूणच नात्यांवर अत्यंत रोखठोक भाष्य केलं आहे.\nमुंबई: ९० च्या दशकात ज्यांनी आपल्या हाताच्या ... [2170 chars]",
+            "url": "https://news18marathi.com/entertainment/actor-mukesh-khanna-set-to-tie-the-knot-at-age-67-reveals-the-reason-behind-remaining-single-for-so-many-years-1681666.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/05/mukesh-khanna-2026-05-f8df75272d5e1d68252a034d67e767a0-1200x675.jpg",
+            "publishedAt": "2026-05-03T15:16:29Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "ba5fec439d3920a754f35708acc18d95",
+            "title": "Raqesh Bapat On Child With Riddhi Dogra; 'कौटुंबिक पाठींबा नव्हता म्हणून आम्ही मुलांचा विचार केला नाही' वैयक्तिक आयुष्याबद्दल राकेश बापटचं वक्तव्य",
+            "description": "Raqesh Bapat : राकेश बापटचं लग्न रिद्धी डोगरासोबत झालेलं. पण, लग्नाच्या काही वर्षांनी त्यांचा घटस्फोट झाला. नुकत्याच दिलेल्या एका मुलाखतीमध्ये राकेशनं वैयक्तिक आयुष्याबद्दल आणि मुलांबद्दल भाष्य केलंय.",
+            "content": "मुंबई - मराठी अभिनेता राकेश बापट बिग बॉस मराठीच्या सहाव्या पर्वामुळे चर्चेत आला. राकेश बापट प्रोफेशनल आयुष्यासोबतच वैयक्तिक आयुष्यामुळे चर्चेत असतो. अशातच आता नुकत्याच एका मुलाखतीदरम्यान राकेशनं त्याच्या वैयक्तिक आयुष्याबद्दल भाष्य केलंय.\nघटस्फोटाबद्... [4233 chars]",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/raqesh-bapat-talks-about-reason-of-why-he-and-riddhi-dogra-did-not-plan-for-child/articleshow/130734927.cms",
+            "image": "https://static.langimg.com/mt/thumb/130735117/raqesh-bapat-on-child-with-riddhi-dogra.jpg?imgsize=65680&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-05-03T15:16:27Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
         }
-    ],
-    "market": [],
-    "it_tech": [],
-    "sports": [],
-    "entertainment": []
+    ]
 }

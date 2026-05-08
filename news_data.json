@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "a3b61d1e23940747b7477fc6238d07ab",
+            "title": "RCB vs LSG: आरसीबीने सामना कुठे गमावला? मॅचनंतर रजत पाटीदारने सगळ्या चुका बोलून दाखवल्या",
+            "description": "रॉयल चॅलेंजर्स बेंगळुरु आणि लखनौ सुपर जायट्ंस यांच्यात आयपीएल 2026 चा सामना रंगला. या सामन्यात लखनौचा दमदार विजय झाला.",
+            "content": "लखनौ: लखनौच्या एकाना स्टेडियमवर रॉयल चॅलेंजर्स बेंगळुरु आणि लखनौ सुपर जायट्ंसमध्ये सामना रंगला. या सामन्यात पावसाचा व्यत्यय आल्याने सामना 19-19 षटकांचा रंगला. प्रथम फलंदाजी करण्यासाठी उतरलेल्या लखनौने 209 धावा केल्या आणि डीएलएस पद्धतीमुळे आरसीबीला 21... [2312 chars]",
+            "url": "https://maharashtratimes.com/sports/cricket/iplt20/news/rajat-patidar-react-on-rcb-loss-match-agaisnt-lsg-by-9-runs-in-ipl-2026/articleshow/130920309.cms",
+            "image": "https://static.langimg.com/mt/thumb/130921861/rajat-patidar-on-rcb-loss-against-lsg.jpg?imgsize=89530&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-05-07T19:57:08Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
             "id": "20e033690561b833631f50dfa40b73d1",
             "title": "Prince Yadav : चेसमास्टर विराट कोहली शून्यावर बाद, प्रिन्स यादवचा बॉल कोहली पाहत राहिला अन् स्टम्प उडाले, सेलिब्रेशनचा व्हिडिओ व्हायरल",
             "description": "Who is Prince Yadav Clean Bowled Virat Kohli: लखनौ सुपर जायंटसचा वेगवान गोलंदाज प्रिन्स यादवनं विराट कोहलीला शुन्यावर बाद केलं आहे.",
@@ -133,21 +148,6 @@
                 "id": "36c482d58a61229d6b752791e526b574",
                 "name": "Saam Tv",
                 "url": "https://saamtv.esakal.com"
-            }
-        },
-        {
-            "id": "07b2c8ead61d13e54e5d4d10df322d98",
-            "title": "West Bengal : ममता बॅनर्जी सरकार बरखास्त; राज्यपालांचा मोठा निर्णय, बंगालमध्ये भाजप सरकार स्थापनेचा मार्ग मोकळा",
-            "description": "West Bengal Cabinet Dissolved : पश्चिम बंगालमध्ये निवडणुकीतील पराभवानंतर मुख्यमंत्रीपदाचा राजीनामा देण्यास नकार दिल्यानंतर राज्यपालांनी ममता बॅनर्जी यांच्या मंत्रिमंडळाला बरखास्त केलं आहे.",
-            "content": "Mamata Banerjee Government Dissolved : पश्चिम बंगालच्या राजकारणात मोठी घडामोड घडली आहे. मुख्यमंत्रीपदाचा राजीनामा देण्यास नकार दिल्यानंतर राज्यपालांनी ममता बॅनर्जी यांच्या मंत्रिमंडळाला बरखास्त केलं आहे. विधानसभा निवडणुकीत तृणमूल काँग्रेसचा मोठा पराभ... [1782 chars]",
-            "url": "https://marathi.abplive.com/news/politics/west-bengal-governor-dismisses-mamata-banerjee-cabinet-bjp-government-marathi-news-1423177",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/07/dffc62c59d1fc74d6c5479928098b092177816454693193_original.png?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-05-07T14:36:03Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
             }
         }
     ],

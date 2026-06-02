@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "c1210d2a6ae2ac78e9156e17ce3ce572",
+            "title": "Pune News : पुणे विषारी दारू प्रकरणातील आरोपींना पाहून नातेवाईकांचा संताप, मारण्यासाठी धावले, फुगेवाडीत काय घडलं?",
+            "description": "पुण्यातील विषारी दारु प्रकरणी सीआयडीकडून तपास सुरु आहे. तपासाचा एक भाग घेऊन सीआयडी आरोपींना घेऊन पंचनाम्यासाठी फुगेवाडीत गेले. पण यावेळी आरोपींना पाहून मृतांच्या नातेवाईकांचा संताप अनावर झाला.",
+            "content": "श्रीकृष्ण पांचाळ, पिंपरी- चिंचवड : पुणे आणि पिंपरी-चिंचवडमधील विषारी दारू प्रकरणामुळे नागरिकांचा संताप आता उघडपणे समोर येऊ लागला आहे. या दुर्दैवी घटनेत आतापर्यंत 18 जणांचा मृत्यू झाला असून अनेक कुटुंबांचा आधार हिरावला गेला आहे. या प्रकरणी पिंपरी-चिंच... [6898 chars]",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/phugewadi-people-aggressive-after-seeing-accused-of-pune-toxic-liquor-case/articleshow/131450074.cms",
+            "image": "https://static.langimg.com/mt/thumb/131450087/pune-news.jpg?imgsize=90286&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-06-01T20:49:32Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
             "id": "936d94648ec150a4ee22e80748dd4991",
             "title": "'लाडकी बहीण' योजनेतून 80 लाख अपात्र? सरकार कोट्यवधी रुपयांची वसुली कशी करणार?",
             "description": "'मुख्यमंत्री माझी लाडकी बहीण' ही योजना महायुती सरकारने जून 2024 पासून विधानसभा निवडणुकीच्या तोंडावर सुरू केली होती.",
@@ -133,21 +148,6 @@
                 "id": "86b106434a8aa7ab0755463f15cc13f7",
                 "name": "TV9 Marathi",
                 "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "acd8822f29324fe9debe94daa26c2e89",
-            "title": "NEET Paper Leak: पापाचा घडा भरला! लाखो विद्यार्थ्यांचे भविष्य उद्ध्वस्त करणाऱ्या मास्टरमाईंड पी.व्ही. कुलकर्णीची चार मजली इमारत भुईसपाट",
-            "description": "P V Kulkarni: पी. व्ही. कुलकर्णीच्या इमारतीवर कारवाई",
-            "content": "सुनील जाधव बीड: देशभरात गाजलेल्या नीट पेपरफुटी प्रकरणात सीबीआयने कारवाईचा वेग वाढविला दरम्यान, या घोटाळ्यातील प्रमुख आरोपी म्हणून समोर आलेल्या सेवानिवृत्त प्राध्यापक पी. व्ही. कुलकर्णी याच्या बीड शहरातील मालमत्तेवरही प्रशासनाने कारवाई केली आहे. शहरात... [3562 chars]",
-            "url": "https://maharashtratimes.com/maharashtra/beed/neet-paper-leak-case-pv-kulkarni-beed-building-demolition/articleshow/131444811.cms",
-            "image": "https://static.langimg.com/mt/thumb/131445118/neet-paper-leak-pv-kulkarni.jpg?imgsize=129104&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-06-01T14:41:26Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
             }
         }
     ],

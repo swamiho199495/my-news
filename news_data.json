@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "a197b90a9919acb03f156887fb2e2531",
+            "title": "TMC Crisis : भाजपच्या तिकिटावर खासदार होऊन दाखवा, बघुया तुम्ही किती हिरो आहात; महुआ मोईत्रांचं फुटीरांना आव्हान, युसूफ पठाणची लाज काढली",
+            "description": "TMC Political Crisis Updates : पश्चिम बंगालच्या विधानसभा निवडणुकीच्या निकालानंतर तृणमूल काँग्रेस फुटली असून 58 आमदारांच्या नंतर आता 20 खासदारांनी ममता बॅनर्जींची साथ सोडली आहे.",
+            "content": "TMC Political Crisis Updates : ज्या खासदाराला भाजपमध्ये जायचं आहे त्याने आधी तृणमूलच्या तिकिटावर निवडून आलेल्या खासदारकीचा राजीनामा द्यावा, अशी मागणी खासदार महुआ मोईत्रा यांनी केली. या खासदारांनी पुन्हा निवडणूक लढवावी आणि मग जनतेचा कौल घ्यावा, असं आव... [3058 chars]",
+            "url": "https://marathi.abplive.com/news/politics/mahua-moitra-tmc-revolt-yusuf-pathan-kakoli-ghosh-dastidar-mamata-banerjee-marathi-news-1427324",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/08/522b76f768100a8fe594fca9cecb457a178093986662693_original.png?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-06-08T17:34:38Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
             "id": "410ee7d2dcbced125528263e2fcc53d1",
             "title": "Monsoon Rain : मान्सूनचे रौद्र रूप दिसणार… या राज्यांना अतिमुसळधार पावसाचा इशारा, महाराष्ट्रातही बरसणार",
             "description": "Heavy Rainfall Alert : भारतीय हवामान विभागाने दिलेल्या माहितीनुसार 8 जून रोजी नैऋत्य मान्सूनने महाराष्ट्र, कर्नाटक, आंध्र प्रदेश आणि तेलंगणाच्या काही भागांमध्ये आगेकूच केली आहे. आता उद्या अनेक राज्यांमध्ये पावसाचा कहर पहायला मिळणार आहे.",
@@ -133,21 +148,6 @@
                 "id": "86afe444484a22a46a5f6295debcbf1a",
                 "name": "Maharashtra Times",
                 "url": "https://maharashtratimes.com"
-            }
-        },
-        {
-            "id": "0398ccf49df4328407d04928ac0e7dd0",
-            "title": "गर्लफ्रेंडच्या बाबतीत संजय दत्तला टक्कर देणारा अभिनेता, केला 300 गर्लफ्रेंड असल्याचा दावा",
-            "description": "गर्लफ्रेंडच्या बाबतीत बॉलिवूड अभिनेता संजय दत्तला टक्कर देतो हा 90 च्या दशकातील प्रसिद्ध अभिनेता. होत्या 300 गर्लफ्रेंड. कोण आहे हा अभिनेता?",
-            "content": "बॉलिवूड अभिनेता संजय दत्तच्या आयुष्यावर आधारित ‘संजू’ चित्रपट प्रदर्शित झाल्यानंतर त्याच्या वैयक्तिक आयुष्याविषयी अनेक गोष्टी चर्चेत आल्या होत्या. त्यामध्ये त्याच्या आयुष्यात 300 हून अधिक गर्लफ्रेंड्स असल्याचा दावा विशेष गाजला होता. मात्र, आता 90 च्य... [1643 chars]",
-            "url": "https://www.tv9marathi.com/entertainment/bollywood-actor-aashiqui-actor-rahul-roy-had-300-girlfriend-reveal-in-laughter-chefs-season-3-1686127.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/06/rahul-roy-look.jpg",
-            "publishedAt": "2026-06-08T12:40:13Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
             }
         }
     ],

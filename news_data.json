@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "5549a4cbed2a357bd193336c40256c6b",
+            "title": "Monsoon Update: महाराष्ट्रात ऑरेंज अलर्ट.. वादळी वारे अन् मुसळधार पाऊस!",
+            "description": "मान्सूनने अखेर दक्षिण महाराष्ट्र व्यापला असून देवगड, सिंधुदुर्ग, कोल्हापूर, सांगली आणि सातारा भागात हजेरी लावली आहे. जाणून घ्या कुठे-कुठे देण्यात आला आहे ऑरेंज अलर्ट.",
+            "content": "मान्सून कुठपर्यंत पोहोचला?\nसध्या ईशान्य भारतातील सेवन सिस्टर्सचा बहुतांश भाग मान्सूनने व्यापला आहे. दक्षिण भारतातील काही राज्यांमध्येही मान्सून दाखल झाला असला तरी पावसाचे स्वरूप सर्वत्र एकसमान नाही. अनेक ठिकाणी केवळ तुरळक आणि विखुरलेल्या स्वरूपात पाऊ... [458 chars]",
+            "url": "https://www.mumbaitak.in/city-news/story/monsoon-update-2026-imd-june-10-weather-exactly-where-in-maharashtra-has-an-orange-alert-been-issued-gusty-winds-and-heavy-rain-forecast-3263084-2026-06-10",
+            "image": "https://akm-img-a-in.tosshub.com/lingo/mbtak/images/story/202606/6a2996eb99ca6-monsoon-update-2026-imd-june-10-weather-exactly-where-in-maharashtra-has-an-orange-alert-been-issued-105501756-16x9.png",
+            "publishedAt": "2026-06-10T16:56:20Z",
+            "lang": "mr",
+            "source": {
+                "id": "021482c68fa91158375da25add667cfc",
+                "name": "Mumbaitak.in",
+                "url": "https://www.mumbaitak.in"
+            }
+        },
+        {
             "id": "d5b551f43ae324da14af0a5ccd6c94a4",
             "title": "ममता बॅनर्जी यांच्या TMC पक्षातून कोण बंडखोरी करणार? बंडखोर 19 खासदारांची यादी समोर",
             "description": "tmc split : ममता बॅनर्जी यांच्या टीएमसी पक्षात उभी फूट पडली आहे. बंडखोर खासदारांची यादी समोर आली आहे.",
@@ -133,21 +148,6 @@
                 "id": "d0ecbd318b81c0114aad430372084c1a",
                 "name": "ABP Majha",
                 "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "4cd4e0641d6eb14f554616fe8f977c45",
-            "title": "Weather Alert : आता वादळ येणार! महाराष्ट्रात गुरुवारी धो धो पाऊस कोसळणार, 15 जिल्ह्यांना अलर्ट",
-            "description": "11 जूनसाठी हवामान खात्याने कोकण विभागातील 1, पश्चिम महाराष्ट्रातील 2, मराठवाड्यातील 2 आणि विदर्भातील 10 अशा एकूण 15 जिल्ह्यांना पावसाचा यलो अलर्ट दिला आहे. तसेच राज्यातील अनेक जिल्ह्यांमध्ये हलक्या ते मध्यम स्वरूपाच्या पावसाची शक्यता वर्तविण्यात आली आहे.",
-            "content": "1/ 7\nराज्यात मान्सून सक्रिय होत असल्याचे पाहायला मिळत आहे. 11 जूनसाठी हवामान खात्याने कोकण विभागातील 1, पश्चिम महाराष्ट्रातील 2, मराठवाड्यातील 2 आणि विदर्भातील 10 अशा एकूण 15 जिल्ह्यांना पावसाचा यलो अलर्ट दिला आहे. तसेच राज्यातील अनेक जिल्ह्यांमध्ये ... [1317 chars]",
-            "url": "https://news18marathi.com/photogallery/pune/maharashtra-weather-updates-imd-issued-a-yellow-alert-for-rain-for-15-districts-in-the-state-on-thursday-l18w-local18-1709232.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/06/weather-1-9-2026-06-c62f8eaa2237b2d3802da0165c34d0b1-1200x675.jpg",
-            "publishedAt": "2026-06-10T13:54:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
             }
         }
     ],

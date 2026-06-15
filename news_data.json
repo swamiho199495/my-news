@@ -1,6 +1,36 @@
 {
     "general": [
         {
+            "id": "cb1d9ae7a3bcc4069d5c4563334d5c50",
+            "title": "Rare Medical Condition | २५ वर्षांचा तरुण, पण शरीर लहान मुलासारखं!",
+            "description": "चीनमधील हुनान प्रांतात राहणाऱ्या एका २५ वर्षीय तरुणाची थक्क करणारी आणि भावुक करणारी कहाणी सध्या सोशल मीडियावर प्रचंड व्हायरल होत आहे.",
+            "content": "बीजिंग : चीनमधील हुनान प्रांतात राहणाऱ्या एका २५ वर्षीय तरुणाची थक्क करणारी आणि भावुक करणारी कहाणी सध्या सोशल मीडियावर प्रचंड व्हायरल होत आहे. वांग जुनमिंंग असे या तरुणाचे नाव असून, त्याचे वय २५ वर्षे असले तरी त्याचे शरीर आणि मानसिक अवस्था एखाद्या लह... [1232 chars]",
+            "url": "https://pudhari.news/vishwasanchar/25-year-old-man-with-childlike-body-condition-rare-case-reported-ap84",
+            "image": "https://cf-images.assettype.com/pudharinews%2F2026-06-14%2Fdbq31q5q%2F2.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-06-14T22:54:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari",
+                "url": "https://pudhari.news"
+            }
+        },
+        {
+            "id": "aff27583e7fe30606a2f29febb2f37c6",
+            "title": "IND W vs PAK W : 'आमच्या पराभवासाठी भारताच्या दोघीच जबाबदार'; पाकिस्तानची कर्णधार फातिमा सनाने कोणाला ठरवलं व्हिलन?",
+            "description": "टी-२० वर्ल्ड कपमध्ये भारतीय संघाने पाकिस्तानचा ६४ धावांनी पराभव पहिला विजय साकारला. या सामन्यामध्ये भारताने प्रथम फलंदाजी करताना २० ओव्हरमध्ये १७०-६ धावा केल्या होत्या. या धावांचा पाठलाग करताना पाकिस्तानच्या संघाला १०६ धावांवर ऑल आऊट केले. भारतीय संघाने हा सामना ओढून आणला, कारण पाकिस्तानने दमदार सुरूवात केली होती. पॉवरप्लेमध्ये पाकिस्तानने एकच विकेट गमावली होती. दीप्तीच्या स्पेलनंतर त्यांची घसरगुंडी उडाली. पहिल्याच सामन्यात झालेल्या पराभवानंतर पाकिस्तानची कर्णधार फातिमा सना हिने कोणाला जबाबदार ठरवलं जाणून घ्या.",
+            "content": "मुंबई : टी-२० वर्ल्ड कपमध्ये भारतीय संघाने पाकिस्तानचा ६४ धावांनी पराभव पहिला विजय साकारला. या सामन्यामध्ये भारताने प्रथम फलंदाजी करताना २० ओव्हरमध्ये १७०-६ धावा केल्या होत्या. या धावांचा पाठलाग करताना पाकिस्तानच्या संघाला १०६ धावांवर ऑल आऊट केले. भा... [4340 chars]",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/womens-t20-world-cup-2026-ind-w-vs-pak-w-pakistan-captain-fatima-sana-big-statement-on-match-turning-point/articleshow/131727849.cms",
+            "image": "https://static.langimg.com/mt/thumb/131727895/ind-w-vs-pak-w-fatima-sana.jpg?imgsize=133220&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-06-14T18:59:56Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
             "id": "163ead94891aed149c5b9a2277ece0b2",
             "title": "मुख्यमंत्र्यांच्या आश्वासनानंतर Rohit Pawar यांचं उपोषण स्थगित, 22 जूनपासून पावसाळी अधिवेशन, त्याआधी शेतकरी कर्जमाफीबाबत बैठक होणार",
             "description": "रोहित पवारांनी अखेर तीन दिवसांनी आपलं अन्नत्याग आंदोलन स्थगित केलं आहे. मंत्री गिरीश महाजन यांनी पंढरपुरात रोहित पवारांच्या आंदोलनस्थळाला भेट दिली. यावेळी सकारात्मक चर्चा झाल्यानंतर रोहित पवार यांनी आपलं उपोषण स्थगित करत असल्याची घोषणा केली.",
@@ -119,15 +149,65 @@
                 "name": "TV9 Marathi",
                 "url": "https://www.tv9marathi.com"
             }
+        }
+    ],
+    "market": [],
+    "it_tech": [],
+    "sports": [],
+    "entertainment": [
+        {
+            "id": "cb1d9ae7a3bcc4069d5c4563334d5c50",
+            "title": "Rare Medical Condition | २५ वर्षांचा तरुण, पण शरीर लहान मुलासारखं!",
+            "description": "चीनमधील हुनान प्रांतात राहणाऱ्या एका २५ वर्षीय तरुणाची थक्क करणारी आणि भावुक करणारी कहाणी सध्या सोशल मीडियावर प्रचंड व्हायरल होत आहे.",
+            "content": "बीजिंग : चीनमधील हुनान प्रांतात राहणाऱ्या एका २५ वर्षीय तरुणाची थक्क करणारी आणि भावुक करणारी कहाणी सध्या सोशल मीडियावर प्रचंड व्हायरल होत आहे. वांग जुनमिंंग असे या तरुणाचे नाव असून, त्याचे वय २५ वर्षे असले तरी त्याचे शरीर आणि मानसिक अवस्था एखाद्या लह... [1232 chars]",
+            "url": "https://pudhari.news/vishwasanchar/25-year-old-man-with-childlike-body-condition-rare-case-reported-ap84",
+            "image": "https://cf-images.assettype.com/pudharinews%2F2026-06-14%2Fdbq31q5q%2F2.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-06-14T22:54:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari",
+                "url": "https://pudhari.news"
+            }
         },
         {
-            "id": "49b2cb6c1ed41fe89db3db594d5ec6e5",
-            "title": "MLC Election : भाजपने मतदार उचलले, कोकण अन् गोव्याला धाडले; सांगली-सातारा विधान परिषद निवडणुकीत 'रिसॉर्ट पॉलिटिक्स'",
-            "description": "सांगली-सातारा विधान परिषद निवडणुकीच्या पार्श्वभूमीवर राजकीय घडामोडींना वेग आला आहे. मतदानात कोणताही दगाफटका होऊ नये यासाठी भाजपने आपल्या मतदारांना कोकण आणि गोव्याला पाठवलं आहे.",
-            "content": "लेखकाबद्दलचेतन पाटीलचेतन पाटील महाराष्ट्र टाइम्स ऑनलाइनमध्ये डिजीटल कंटेट प्रोड्यूसर म्हणून कार्यरत आहेत. ते महाराष्ट्र टाइम्स ऑनलाइन इथे सेकंड शिफ्ट इंचार्ज म्हणून जबाबदारी सांभाळत आहेत. महाराष्ट्र, देश, विदेश, राजकीय, क्रीडा, मनोरंजन अशा विविध बीटच... [4635 chars]",
-            "url": "https://maharashtratimes.com/maharashtra/satara/satara-and-sangli-bjp-corporators-tour-to-konkan-and-goa-over-mlc-election/articleshow/131723968.cms",
-            "image": "https://static.langimg.com/mt/thumb/131724076/satara-politics.jpg?imgsize=41508&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-06-14T15:41:14Z",
+            "id": "8c61b5a6cddc52c6abbbf3490e6b4b9d",
+            "title": "Maharashtrachi Hasya Jatra: 'महाराष्ट्राची हास्यजत्रा'चं प्रेक्षकांसाठी सरप्राइज गिफ्ट! चाहत्यांच्या आग्रहास्तव चॅनलचा मोठा निर्णय",
+            "description": "Maharashtrachi Hasya Jatra: अवघ्या महाराष्ट्राला खळखळवून हसवणारा आणि घराघरांमध्ये आनंदाचे कारंजे उडवणारा सोनी मराठी वाहिनीवरील ‘महाराष्ट्राची हास्यजत्रा’ हा शो आता आणखी एका मोठ्या आणि धमाकेदार ट्विस्टसह प्रेक्षकांच्या भेटीला येत आहे.",
+            "content": "Published by :\nLast Updated:Jun 14, 2026 10:19 PM IST\nMaharashtrachi Hasya Jatra: अवघ्या महाराष्ट्राला खळखळवून हसवणारा आणि घराघरांमध्ये आनंदाचे कारंजे उडवणारा सोनी मराठी वाहिनीवरील ‘महाराष्ट्राची हास्यजत्रा’ हा शो आता आणखी एका मोठ्या आणि धमाकेदार ट्व... [2121 chars]",
+            "url": "https://news18marathi.com/entertainment/surprise-gift-for-the-audience-of-maharashtrachi-hasya-jatra-the-channel-makes-a-major-decision-following-requests-from-fans-1712196.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/06/maharashtrachi-hasya-jatra-2026-06-e68451a0e5d5065dbaf39411eb71b108-1200x675.jpg",
+            "publishedAt": "2026-06-14T16:49:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "62667074c0818404c8ae87b8c96b0cde",
+            "title": "माधुरीचं 28 वर्ष जुनं गाणं… रस्त्यावरून लोकांना उचललं, शर्ट उडवताच बनलं कल्ट…",
+            "description": "माधुरी दीक्षितच्या 'एक दोन तीन' गाण्याला आज २८ वर्षे झाली तरी त्याची मोहिनी कायम आहे. रस्त्यावरून लोकांना आणून त्यांना गाण्यात नाचवल्याने आणि त्यातील एकाने शर्ट उडवल्याने हे गाणं कल्ट बनलं. माधुरीच्या अदा, संगीत आणि या अनोख्या प्रसंगाने गाणं अजूनही लोकप्रिय आहे.",
+            "content": "Madhuri Dixit Song Ek Do Teen : बॉलिवूडमध्ये असंख्य गाणी आहेत. अविट गोडीची, रसाळ आणि मधाळ. यातील प्रत्येक गाण्याची गोडी काही औरच आहे. आजही असंख्य गाणी लोक गुणगुणत असतात. पण काही गाणी अशी असतात की त्याला तोडच नाही. 90च्या दशकानेही अशीच गाणी दिली. पण त... [2069 chars]",
+            "url": "https://www.tv9marathi.com/entertainment/bollywood/madhuri-dixits-ek-do-teen-the-28-year-old-cult-song-and-its-viral-street-dancer-story-1690656.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/06/Madhuri-Dixit-4.jpg",
+            "publishedAt": "2026-06-14T16:18:02Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "a638352655cfb1ea16f567d96266fb58",
+            "title": "Mohsin Akhtar Mir Second Marriage; उर्मिला मातोंडकरचा एक्स पत्नी मोहसिन अख्तर मीरनं केलं दुसरं लग्न; दाखवली दुसऱ्या पत्नीची झलक; पोस्ट करत व्यक्त केला आनंद",
+            "description": "Mohsin Akhtar Mir Second Marriage : उर्मिला मातोंडकरचा एक्स पती मोहसिन अख्तर मीरनं दुसरं लग्न केलं असून पत्नीसोबतचे फोटो सोशल मीडियावर शेअर केले आहेत.",
+            "content": "मुंबई - उर्मिला मातोंडकर आणि मोहसिन अख्तर यांनी २०१६ मध्ये लग्न केलं आणि २०२४ मध्ये घटस्फोट घेतला. आता, अभिनेत्री उर्मिलाचा एक्स पती त्याच्या दुसऱ्या लग्नामुळे चर्चेत आहे. उर्मिलापासून विभक्त झाल्यानंतर जवळपास दोन वर्षांनी, उद्योगपती आणि मॉडेल मोहसिन... [4139 chars]",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/urmila-matondkar-ex-husband-mohsin-akhtar-mir-married-with-nidhaa-bhatt/articleshow/131723475.cms",
+            "image": "https://static.langimg.com/mt/thumb/131723807/mohsin-akhtar-mir-second-marriage.jpg?imgsize=111252&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-06-14T15:12:03Z",
             "lang": "mr",
             "source": {
                 "id": "86afe444484a22a46a5f6295debcbf1a",
@@ -136,23 +216,94 @@
             }
         },
         {
-            "id": "436d7b7fe4524046f468316dc19e0148",
-            "title": "Maharashtra News LIVE : टीएमसीच्या बंडखोर खासदारांनी लोकसभा अध्यक्षांना पक्ष विलीनीकरणाचे पत्र केले सादर",
-            "description": "अमरावती विधान परिषद निवडणुकीतील काँग्रेस उमेदवाराची नवी अपडेट, पंढरपुरात रोहित पवारांच्या आंदोलनाला मनोज जरांगे पाटील देणार भेट; तसेच मुंबई आणि नाशिकमधील हवामानाचा 'यलो अलर्ट' यांसह महाराष्ट्रातील सर्व ताज्या घडामोडी वाचा एकाच ठिकाणी.",
-            "content": "पंतप्रधान मोदी 20 जून रोजी राष्ट्रपती मुर्मू यांच्या गावाला भेट देणार\nपंतप्रधान नरेंद्र मोदी 20 जून रोजी ओडिशातील राष्ट्रपती मुर्मू यांच्या सासरच्या गावाला भेट देणार आहेत. अधिकाऱ्यांनी सांगितले की, पंतप्रधान २० जून रोजी ओडिशाच्या मयूरभंज जिल्ह्यातील ... [19763 chars]",
-            "url": "https://www.tv9marathi.com/maharashtra/maharashtra-news-live-updates-in-marathi-aajchya-thalak-batamya-14-june-2026-mansoon-alert-faramer-loan-waiver-rohit-pawar-andolan-el-nino-devendra-fadnavis-eknath-shinde-sunetra-pawar-1690025.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/06/BREAKING-NEWS-1-5.jpg",
-            "publishedAt": "2026-06-14T15:23:02Z",
+            "id": "8f2e8250acb5b8a54f71295c9bac0405",
+            "title": "Urmila Matondkar : उर्मिला मातोंडकरच्या EX-Husband ने हुरकलं लग्न! पोस्ट करत म्हणाला ‘तू जिथे असशील तिथे समाधानी…’",
+            "description": "मोहसीन अख्तरने नुकतीच दुसऱ्यांदा लग्नगाठ बांधल्याची आनंदाची बातमी सोशल मीडियाच्या माध्यमातून चाहत्यांसोबत शेअर केली आहे. अभिनेत्री उर्मिला मातोंडकरचा माजी पती असलेल्या मोहसीनच्या या पोस्टची सध्या सोशल मीडियावर जोरदार चर्चा रंगली आहे. त्याने पत्नी निधा भट्टसोबतच्या निकाहाचे खास क्षण शेअर करत एक भावनिक आणि मोठे कॅप्शनही लिहिले आहे",
+            "content": "सारांश\nमोहसीन अख्तरने नुकतीच दुसऱ्यांदा लग्नगाठ बांधल्याची आनंदाची बातमी सोशल मीडियाच्या माध्यमातून चाहत्यांसोबत शेअर केली आहे. अभिनेत्री उर्मिला मातोंडकरचा माजी पती असलेल्या मोहसीनच्या या पोस्टची सध्या सोशल मीडियावर जोरदार चर्चा रंगली आहे. त्याने पत... [2763 chars]",
+            "url": "https://www.navarashtra.com/entertainment/urmila-matondkar-ex-husband-mohsin-akhtar-married-nida-bhat-1253220.html",
+            "image": "https://d2lkn59rua3ry2.cloudfront.net/wp-content/uploads/2026/06/n-13.jpg",
+            "publishedAt": "2026-06-14T15:11:17Z",
             "lang": "mr",
             "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
+                "id": "b8e291c9466e6780091c3b439f38d8a7",
+                "name": "navarashtra.com",
+                "url": "https://www.navarashtra.com"
+            }
+        },
+        {
+            "id": "842a8ae0f85f06f006df7421c4dd997a",
+            "title": "first impression पाडण्यात 'या' राशीचे लोक असतात पटाईत; आज ठरवलेली डेट होणार सक्सेसफुल!",
+            "description": "Today Love Horoscope: मेष ते मीन सर्व 12 राशींच्या कपल्ससाठी आजचा दिवस पार्टनरसोबत कसा जाणार? कोणत्या राशींच्या नात्यातील जुनी प्रेमाची ठिणगी आज पुन्हा पेटणार? आणि कोणाला आज पार्टनरसोबत बसून गैरसमज दूर करावे लागणार? तुमच्या नात्याचे संपूर्ण भविष्य एका क्लिकवर अगदी थोडक्यात जाणून घ्या",
+            "content": "1/ 12\nमेष (Aries): गणेशजी म्हणतात की, तुमचे लव्ह लाईफ सध्या उत्तम सुरू आहे. तुम्ही नात्यात असाल किंवा विवाहित असाल, तर आज तुम्ही रोमँटिक डेटवर जाऊ शकता. आज तुम्ही काहीतरी धाडसी निर्णय किंवा जोखीम घ्याल, जे पाहून तुमच्या आजूबाजूचे लोक थक्क होतील. जे स... [3163 chars]",
+            "url": "https://news18marathi.com/photogallery/astrology/daily-love-horoscope-15-june-2026-romance-predictions-marathi-chirag-daruwala-1712106.html",
+            "image": "https://images.news18.com/news18marathi/uploads/2026/06/love-horo-2026-06-18ac3d11905e4662d34a507274ad8d58-1200x675.jpg",
+            "publishedAt": "2026-06-14T14:44:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "bfd324c66556f858b94a8093cae1427c",
+                "name": "News18 Marathi",
+                "url": "https://news18marathi.com"
+            }
+        },
+        {
+            "id": "9bf334b28912f1e1747df31417bfb481",
+            "title": "Farheen Prabhakar Unknown Facts; शाहरुखच्या सिनेमाची ऑफर नाकारली, आली वैयक्तिक आयुष्याला कलाटणी, घटस्फोटित क्रिकेटपटूसोबत लग्न; आता जगतेय असं आयुष्य",
+            "description": "Farheen Prabhakar : बॉलिवूड अभिनेत्री फरहीन खान तिच्या प्रोफेशनल आणि वैयक्तिक आयुष्यामुळे चर्चेत असायची. जाणून घेऊया अभिनेत्रीबद्दल.",
+            "content": "मुंबई - ९० च्या दशकात बॉलिवूडमधील अनेक कलाकारांना रातोरात प्रसिद्धी मिळाली. याच काळात फरहीन प्रभाकर इंडस्ट्रीतील सर्वात लोकप्रिय नवीन अभिनेत्रींपैकी एक होती. पण, तिच्या हातून एक ब्लॉकबस्टर चित्रपट निसटला आणि यामुळे तिच्या आयुष्याची दिशाच बदलली. याचदर... [4366 chars]",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/farheen-prabhakar-career-actress-married-with-cricketer-manoj-prabhakar-know-unknown-facts-about-her/articleshow/131723010.cms",
+            "image": "https://static.langimg.com/mt/thumb/131723211/farheen-prabhakar-unknown-facts.jpg?imgsize=58566&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-06-14T14:37:44Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "3036b07e011a727b3b42ba84e73756f1",
+            "title": "Vijay Deverakonda And Rashmika Mandanna Awarded Scholarships To 180 Students; विजय आणि रश्मिकाची वचनपूर्ती, दिली 180 विद्यार्थ्यांना शिष्यवृत्ती; चाहत्यांकडून जोडप्याचं कौतुक",
+            "description": "Vijay Deverakonda : रश्मिका मंदाना आणि विजय देवराकोंडा यांनी तेलंगणातील १८० गुणवंत विद्यार्थ्यांना शिष्यवृत्ती प्रदान केली. त्यांनी विद्यार्थ्यांचा सत्कार करून त्यांना करिअरमध्ये पुढे जाण्यासाठी प्रोत्साहनही दिले.",
+            "content": "मुंबई - दाक्षिणात्य चित्रपटसृष्टीतील लोकप्रिय जोडी, रश्मिका मंदाना आणि विजय देवराकोंडा, सध्या चर्चेत आहेत. रश्मिका आणि विजय यांनी तेलंगणातील गुणवंत विद्यार्थ्यांना शिष्यवृत्ती दिली असून, त्यांची यादी त्यांनी सोशल मीडियावर शेअर केली आहे.\nअल्लू अर्जुन ... [4061 chars]",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/vijay-deverakonda-and-rashmika-mandanna-awarded-scholarships-to-180-students/articleshow/131722300.cms",
+            "image": "https://static.langimg.com/mt/thumb/131722423/vijay-deverakonda-and-rashmika-mandanna-awarded-scholarships-to-180-students.jpg?imgsize=102668&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-06-14T13:52:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "9ff686cf7b9c98ea1b54b7c0429c778b",
+            "title": "New Marathi Movie : देव-दानवांचा मेळा, मोठ्या पडद्यावर रंगणार! नवा कोरा मराठी सिनेमा ‘गरुडा’; पोस्टर झाले लाँच",
+            "description": "‘राजा शिवाजी’, ‘देऊळबंद 2’ आणि ‘तुंबाडची मंजुळा’ यांसारख्या चित्रपटांच्या यशानंतर मराठी सिनेसृष्टीत ऐतिहासिक आणि पौराणिक विषयांवरील चित्रपटांना मोठा प्रतिसाद मिळताना दिसत आहे. प्रेक्षकांच्या श्रद्धा, इतिहास आणि सांस्कृतिक भावनांशी जोडलेले विषय पडद्यावर आल्याने अशा चित्रपटांना वेगळाच बूस्ट मिळत असल्याचे चित्र आहे.",
+            "content": "सारांश\n‘राजा शिवाजी’, ‘देऊळबंद 2’ आणि ‘तुंबाडची मंजुळा’ यांसारख्या चित्रपटांच्या यशानंतर मराठी सिनेसृष्टीत ऐतिहासिक आणि पौराणिक विषयांवरील चित्रपटांना मोठा प्रतिसाद मिळताना दिसत आहे. प्रेक्षकांच्या श्रद्धा, इतिहास आणि सांस्कृतिक भावनांशी जोडलेले विषय... [2380 chars]",
+            "url": "https://www.navarashtra.com/entertainment/marathi-cinema/poster-launch-of-garuda-starring-raj-misal-1253163.html",
+            "image": "https://d2lkn59rua3ry2.cloudfront.net/wp-content/uploads/2026/06/n-4.jpg",
+            "publishedAt": "2026-06-14T13:37:35Z",
+            "lang": "mr",
+            "source": {
+                "id": "b8e291c9466e6780091c3b439f38d8a7",
+                "name": "navarashtra.com",
+                "url": "https://www.navarashtra.com"
+            }
+        },
+        {
+            "id": "c7971f57e651d1add0e4405d3166ec0c",
+            "title": "\"माझी संपत्ती श्वानाच्या नावावर करेन\"; गोविंदाच्या पत्नीचे विधान, भाचा कृष्णा अभिषेकबद्दल काय म्हणाली?",
+            "description": "Sunita Ahuja Property News: सुनीता आहुजांनी आपली सगळी संपत्ती श्वानाच्या नावावर करण्याचे विधान केले आहे. यावर भाचा कृष्णा अभिषेकबद्दलही तिने प्रतिक्रिया दिली.",
+            "content": "गोविंदाची पत्नी सुनीता आहुजाने गंमतीत सांगितलं की, ती आपली सगळी संपत्ती आपल्या लाडक्या पाळीव श्वानाच्या नावावर करण्याचा विचार करत आहेत. सुनीता मुंबई विमानतळावर आपल्या पाळीव श्वानाबरोबर आली होती, तिथे तिने फोटोग्राफर्सबरोबर संवाद साधला. तिने आपल्या श्... [1233 chars]",
+            "url": "https://www.loksatta.com/manoranjan/bollywood/sunita-ahuja-says-she-will-transfer-property-on-pet-dog-name-krushna-abhishek-hrc-97-5958515/",
+            "image": "https://images.loksattaimg.com/2026/06/sunita-ahuja-property-statement.jpg",
+            "publishedAt": "2026-06-14T13:31:13Z",
+            "lang": "mr",
+            "source": {
+                "id": "62d1010536af7ab30a2a024770aa0e02",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com"
             }
         }
-    ],
-    "market": [],
-    "it_tech": [],
-    "sports": [],
-    "entertainment": []
+    ]
 }

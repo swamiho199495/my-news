@@ -1,43 +1,13 @@
 {
     "general": [
         {
-            "id": "c9632069de765776adf5f6b4906e54e8",
-            "title": "Anna Hazare : अण्णा हजारे पुन्हा मैदानात! वयाच्या नव्वदीत सरकारविरोधात आंदोलन; ५ जुलैची डेडलाईन कोणत्या कारणांसाठी?",
-            "description": "Anna Hazare: ज्येष्ठ समाजसेवक अण्णा हजारे हे पुन्हा एकदा आंदोलनाच्या मैदानात उतरण्याची शक्यता आहे. अण्णा हजारे यांनी राज्य सरकारविरोधात उपोषणाचा इशारा दिला आहे.",
-            "content": "Published by :\nLast Updated:Jun 22, 2026 2:21 PM IST\nAnna Hazare: ज्येष्ठ समाजसेवक अण्णा हजारे हे पुन्हा एकदा आंदोलनाच्या मैदानात उतरण्याची शक्यता आहे. अण्णा हजारे यांनी राज्य सरकारविरोधात उपोषणाचा इशारा दिला आहे.\nसाहेबराव कोकणे, प्रतिनिधी, अहिल्यानग... [1832 chars]",
-            "url": "https://news18marathi.com/maharashtra/anna-hazare-objection-rti-new-rules-letter-to-devendra-fadnavis-hunger-strike-1718085.html",
-            "image": "https://images.news18.com/news18marathi/uploads/2026/06/Anna-Hazare-Hunger-Strike-2026-06-0136ff549b0e2f843980045d5f8669e3-1200x675.jpg",
-            "publishedAt": "2026-06-22T08:37:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "bfd324c66556f858b94a8093cae1427c",
-                "name": "News18 Marathi",
-                "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "992d63a7beec080ce67b3690e153298a",
-            "title": "Bhaskar Jadhav and Milind Narvekar: मिलिंद नार्वेकर म्हणाले, 'त्यांना Frustration आलंय'; आता भास्कर जाधवांचं प्रत्युत्तर",
-            "description": "Bhaskar Jadhav and Milind Narvekar: गाडीचा हॉर्न वाजवत असल्याने भास्कर जाधव संतापून म्हणाले, 'मिलिंद नार्वेकर कोण लागून गेला, पक्षाचा नेता असला म्हणून काय झालं'",
-            "content": "Bhaskar Jadhav and Milind Narvekar: सहा खासदार फुटल्यामुळे ठाकरे गटात अस्थिरता निर्माण झाली असतानाच भास्कर जाधव आणि मिलिंद नार्वेकर यांच्यातील वादामुळे पक्षातील दुफळी समोर आली होती. भास्कर जाधव यांनी शिवसेनेच्या वर्धापनदिन कार्यक्रमात केलेल्या एका वक... [3188 chars]",
-            "url": "https://marathi.abplive.com/news/politics/bhaskar-jadhav-and-milind-narvekar-shivsena-ubt-conflict-video-maharashtra-politics-marathi-news-1429024",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/22/57ec6ee5f3da0c10b1c1d96250441ee61782115566941954_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-06-22T08:06:24Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "57551ba54f734018738ccce3dad3f7f9",
-            "title": "Nagpur Rajiv Potdar : नागपुरात मविआच्या मतांमध्येच फूट, भाजपच्या डॉ.राजीव पोतदारांचा मोठा विजय; काँग्रेसच्या पदाधिकाऱ्यांचा संताप",
-            "description": "Nagpur Legislative Council Election Results : नागपूर विधानपरिषद पोटनिवडणुकीत भाजपचा दणदणीत विजय झाला आहे. भाजपचे उमेदवार राजीव पोतदार यांचा तब्बल 682 मतांनी विक्रमी विजय झाला आहे.",
-            "content": "जितेंद्र खापरे, नागपूर : नागपूर स्थानिक स्वराज्य संस्था मतदारसंघाच्या विधानपरिषद पोटनिवडणुकीत भाजपचे उमेदवार डॉ. राजीव पोतदार यांनी 682 मते मिळाली तर काँग्रेसचे अतुल लोंढे यांना 130 मते मिळाली. डॉ. पोतदार यांनी काँग्रेसचे उमेदवार अतुल लोंढे यांचा तब्... [5089 chars]",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/nagpur-legislative-council-election-results-bjp-dr-rajiv-potdar-wins-congress-votes-split/articleshow/131904146.cms",
-            "image": "https://static.langimg.com/mt/thumb/131904218/nagpur-legislative-council-election-results.jpg?imgsize=138602&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-06-22T07:58:00Z",
+            "id": "abd231e66b551772255fb59265eb28cd",
+            "title": "Lucknow Fire: पप्पा, मला वाचवा, आग लागलीय! लेकाचा अखेरचा कॉल; आता मोबाईल बंद, असहाय वडिलांची धडधड वाढली",
+            "description": "Lucknow Fire: कोचिंग सेंटरला लागलेल्या आगीत १५ जणांचा होरपळून शेवट झाला. शॉर्ट सर्किटमुळे आग लागल्याचा प्राथमिक अंदाज आहे. या दुर्घटनेबद्दल पंतप्रधान मोदींनी शोक व्यक्त केला आहे.",
+            "content": "लखनऊ: उत्तर प्रदेशची राजधानी लखनऊमधील अलीगंजमधील इमारतीला दुपारी तीनच्या सुमारास आग लागली. या भीषण आगीत १५ जणांचा मृत्यू झाला आहे. १५ जणांचे शव बाहेर काढण्यात आले आहेत. या कंपनीत आयटी कंपनीचं एक कोचिंग सेंटर आहे. त्या सेंटरला आग लागली. अवघ्या काही मि... [5837 chars]",
+            "url": "https://maharashtratimes.com/india-news/lucknow-building-fire-papa-please-save-me-last-calls-from-son-to-father/articleshow/131914072.cms",
+            "image": "https://static.langimg.com/mt/thumb/131914112/up-fire-call.jpg?imgsize=139389&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-06-22T15:45:52Z",
             "lang": "mr",
             "source": {
                 "id": "86afe444484a22a46a5f6295debcbf1a",
@@ -46,73 +16,13 @@
             }
         },
         {
-            "id": "8cf952efaf5c84ad4e767000723396dd",
-            "title": "ओमराजे निंबाळकर यांच्याबाबत धक्कादायक माहिती पुढे, भाजपाला फिरवली मतं, अगोदरच सर्वकाही..",
-            "description": "Vidhan Parishad Election Result 2026 Omraje Nimbalkar : विधान परिषद निवडणुकीचे निकाल पुढे आले आहेत. यादरम्यानच आता धक्कादायक आकडेवारी पुढे आली. ओमराजे निंबाळकर यांनी काल शिवसेना शिंदे गटात जाणार असल्याचे जाहीर केले असले तरीही आकडेवारी काही वेगळेच सांगत आहे.",
-            "content": "शिवसेना ठाकरे गटातून 6 खासदारांनी बंडखोरी केली. लोकसभा अध्यक्षांना पत्र देत स्वतंत्र गट स्थापन केला. उद्धव ठाकरे यांना मोठा धक्का बसला. खासदारांच्या फुटीची कुणकुण लागताच ठाकरे गटाने एक बैठक मातोश्रीवर घेतली. या खासदारांनी या बैठकीला दांडी मारत ऑनलाईन... [1525 chars]",
-            "url": "https://www.tv9marathi.com/maharashtra/shocking-details-regarding-the-dharashiv-legislative-council-election-have-emerged-following-mp-omraje-nimbalkar-decision-1695629.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/06/Omraje-Nimbalkar-9-1.jpg",
-            "publishedAt": "2026-06-22T07:46:32Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "f843d22aa11f1a67301cea321c42b806",
-            "title": "July 2026 Monthly Horoscope: जून संपतोय..जुलै महिना 8 राशींचं नशीब पालटणार, सणांची रेलचेल, ग्रहांचे शुभ योग, मासिक राशीभविष्य...",
-            "description": "July 2026 Monthly Horoscope: ज्योतिषशास्त्रानुसार, जुलै 2026 महिना हा ग्रह संक्रमणाच्या दृष्टीने अत्यंत खास असणार आहे. महिना 12 राशींसाठी कसा जाणार? मासिक राशीभविष्य वाचा",
-            "content": "July 2026 Monthly Horoscope: जून (June 2026) महिन्याचे काही दिवसच शिल्लक आहेत. आता जुलैचा (July 2026) संपूर्ण महिना कसा जाणार? याची उत्सुकता सर्वांनाच आहे. ज्योतिषशास्त्रानुसार पाहायला गेलं तर, ग्रह आणि नक्षत्रांच्या राशी बदलांमुळे हा महिना खूप खास अ... [3886 chars]",
-            "url": "https://marathi.abplive.com/astro/july-2026-monthly-horoscope-astrology-marathi-news-july-2026-masik-rashi-bhavishya-for-aries-to-pisces-of-12-zodiac-signs-1429020",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/22/ba049ec0a67757fcbf0c51f2d07af7141782113953871381_original.png?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-06-22T07:39:35Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "7c3506a87e008704e8a6de84c70527a4",
-            "title": "Video: ओमराजे निंबाळकर म्हणाले, एकनाथ शिंदेंच्या नेतृत्वात काम करणार; आदित्य ठाकरेंची पहिली प्रतिक्रिया",
-            "description": "एकनाथ शिंदे साहेबांच्या नेतृत्वात मी काम करणार, शिवसेना पक्षात प्रवेश करतोय, अशी घोषणा खासदार ओमराजे निंबाळकर यांनी धाराशिवमधील गोवर्धन वाडीतून केली.",
-            "content": "मुंबई : धाराशिवचे खासदार आणि ठाकरेंच्या शिवसेनेतील निष्ठावंत नेते म्हणून ओळख असलेल्या ओमराजे निंबाळकरांनी (Omraje nimbalkar)अखेर आपला निर्णय जाहीर केला. ओमराजेंनी धाराशिवमध्ये आपल्या कार्यकर्त्यांशी संवाद साधत आपली भूमिका मांडली, तसेच कार्यकर्त्यांच्... [2025 chars]",
-            "url": "https://marathi.abplive.com/news/politics/omraje-nimbalkar-stated-that-the-leadership-of-eknath-shinde-will-be-at-work-aditya-thackeray-first-reaction-shivsena-1429019",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/22/fced828a1109d1c25bf96b22b37167cf17821133418411002_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-06-22T07:30:32Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "9dce63bbe961f3a2e5d55460710ceb86",
-            "title": "यशस्वी जयस्वालनं फादर्स डे निमित्त वडिलांना दिली कोट्यवधींची लक्झरीअस कार; किंमत जाणून थक्क व्हाल!",
-            "description": "Yashasvi Jaiswal gifted his father a luxury car Mercedes GLS worth crores on Father's Day; You will be surprised to know the price - जयस्वालला संघात स्थान न मिळण्याचे मुख्य कारण म्हणजे, वनडेमोध्ये शुभमन गिल ओपनिंग करतो आणि यशस्वी देखील ओपनर आहे. याशिवाय मिडल ऑर्डरमध्ये विराट कोहलीपासून ते श्रेयस अय्यरपर्यंत एकापेक्षा एक दिग्गज फलंदाज आहेत. याच समीकरणामुळे चांगली कामगिरी करूनही यशस्वीला इंग्लंड दौऱ्यापासून दूर रहावे लागले आहे. Find Latest cricket articles and live match coverage on Lokmat.com",
-            "content": "भारतीय क्रिकेट संघ १ जुलैपासून इंग्लंड दौऱ्यावर आहे. या दौऱ्यात एकूण ५ टी-२० आणि ३ एकदिवसीय सामने खेळवले जाणार आहेत. पण, सलामीवीर यशस्वी जयस्वालला इंग्लंड दौऱ्यासाठी वनडे संघात स्थान मिळालेले नाही. मात्र, असे असले तरी, तो सध्या जोरदार चर्चेत आहे. त्य... [769 chars]",
-            "url": "https://www.lokmat.com/cricket/news/yashasvi-jaiswal-gifted-his-father-a-luxury-car-mercedes-gls-worth-crores-on-fathers-day-you-will-be-surprised-to-know-the-price-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/yashaswi-jaiswal-ghrt-jh_2026061727557.jpg",
-            "publishedAt": "2026-06-22T07:26:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "ff9762c8150746827821a08d529386fe",
-                "name": "Lokmat.com",
-                "url": "https://www.lokmat.com"
-            }
-        },
-        {
-            "id": "71414c1820c4fb471260339ff74f999d",
-            "title": "‘वैभव सूर्यवंशी पाकिस्तानचा नवा पप्पा’, २९ बॉलमध्ये श्रीलंकेचा उडवला धुरळा, पण पाकिस्तान होतेय ट्रोल, पाहा व्हायरल मीम्स",
-            "description": "भारत अ संघाने श्रीलंका अ संघाचा ६६ धावांनी पराभव केला.",
-            "content": "लेखकाबद्दलमंदार गुरवमंदार गुरव हे गेल्या १० वर्षांपासून डिजिटल पत्रकारीता या क्षेत्रात काम करत आहेत. ते महाराष्ट्र टाइम्समध्ये गेल्या ५ वर्षांपासून व्हायरल सेक्शनमध्ये कार्यरत आहेत. सोशल मीडियावर व्हायरल होणारे व्हिडीओ, मीम्स आणि चर्चेत असलेल्या घडाम... [2113 chars]",
-            "url": "https://maharashtratimes.com/viral/viral-news/vaibhav-sooryavanshis-29-ball-94-sparks-pakistan-ke-chhote-papa-trend-funny-memes-viral/articleshow/131903614.cms",
-            "image": "https://static.langimg.com/mt/thumb/131903614/vaibhav-sooryavanshis-29-ball-94-sparks-pakistan-ke-chhote-papa-trend-funny-memes-viral.jpg?imgsize=1717854&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-06-22T07:23:25Z",
+            "id": "c860d3c2f4890d20b9e535489f28ce2e",
+            "title": "Shekhar Suman On Reason Of Quit BJP; भाजपमध्ये गेलेले शेखर सुमन, अवघ्या 24 तासांत सोडलेला पक्ष, सांगितलं कारण",
+            "description": "Shekhar Suman : शेखर सुमन यांनी काही वर्षांपूर्वी भाजपमध्ये प्रवेश केलेला. पण २४ तासांमध्ये त्यांनी पक्ष सोडण्याचा निर्णय घेतला. नुकत्याच एका मुलाखतीमध्ये यामागचं कारण शेखर यांनी सांगितलं आहे.",
+            "content": "मुंबई - इंडस्ट्रीमधील अनेक कलाकार राजकारणात प्रवेश करतात, तेव्हा त्यांची मोठ्या प्रमाणावर चर्चा होते. पण काही निर्णय लोकांना आश्चर्यचकित करतात. शेखर सुमन यांच्या बाबतीतही असंचं घडलं. टेलिव्हिजन आणि चित्रपटांमधील एक लोकप्रिय चेहरा असलेले शेखर यांनी एक... [4478 chars]",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/shekhar-suman-reveals-reason-of-quit-bjp-within-24-hours/articleshow/131913748.cms",
+            "image": "https://static.langimg.com/mt/thumb/131913905/shekhar-suman-on-reason-of-quit-bjp.jpg?imgsize=151064&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-06-22T15:26:26Z",
             "lang": "mr",
             "source": {
                 "id": "86afe444484a22a46a5f6295debcbf1a",
@@ -121,33 +31,123 @@
             }
         },
         {
-            "id": "2e147b230e02599049c2f09d88054155",
-            "title": "Monsoon Rain Mumbai: मोठी बातमी: मान्सून पुण्यात दाखल, पुढील 48 तासांत मुंबईत धडकणार, हवामान खात्याकडून पावसाविषयी महत्त्वाची अपडेट",
-            "description": "Monsoon Rain Mumbai: पावसाविषयी आनंदाची बातमी. मान्सून पुण्यात दाखल झाला असून लवकरच मुंबईत प्रवेश करेल, असे सांगितले जात आहे.",
-            "content": "Monsoon Rain Mumbai: नैऋत्य मोसमी वारे अर्थात मान्सूनबाबत हवामान खात्याने महत्त्वाची माहिती जारी केली आहे. त्यानुसार पुढील 48 तासांमध्ये मान्सून (Monsoon) मुंबईत प्रवेश करणार आहे. तर मान्सूनने पुण्यात प्रवेश केल्याचेही हवामान खात्याने जाहीर केले आहे.... [2192 chars]",
-            "url": "https://marathi.abplive.com/news/mumbai/monsoon-rain-in-pune-will-be-in-mumbai-in-next-48-hours-says-imd-weather-updates-in-marathi-1429012",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/06/22/ca92a1e7f98bf005f500b35259ad011a1782112622663954_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-06-22T07:18:44Z",
+            "id": "efd5af0105f646f76d3aa3fe26fda99e",
+            "title": "US Iran Deal: होर्मुझबद्दल इराणचा मोठा निर्णय; बदल्यात अमेरिकेकडून विशेष सवलत जाहीर, भारताला गुड न्यूज",
+            "description": "US Iran Deal: इराण आणि अमेरिका यांच्यात गेल्या ४ महिन्यांपासून सुरू असलेला संघर्ष संपवण्यासाठी दोन्ही देशांचे प्रतिनिधी चर्चा करत आहेत. या चर्चा सकारात्मक आहेत.",
+            "content": "तेहरान: स्वित्झर्लंडच्या थंड वातावरणात इराण आणि अमेरिका यांच्यात संघर्ष संपवण्यासाठी चर्चा सुरू आहे. दोन्ही देशांमध्ये निर्माण झालेला तणाव संपुष्टात येण्याचे संकेत दिसू लागले आहेत. अमेरिकेच्या ट्रेजरी विभागानं इराणच्या तेल निर्यातीवरील निर्बंध उठवले ... [6573 chars]",
+            "url": "https://maharashtratimes.com/international/international-news/us-iran-talks-us-waives-sanctions-on-iranian-crude-oil-petroleum-products-for-60-days/articleshow/131912862.cms",
+            "image": "https://static.langimg.com/mt/thumb/131913639/trump-and-mojtaba-khamenai.jpg?imgsize=165387&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-06-22T15:11:47Z",
             "lang": "mr",
             "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
             }
         },
         {
-            "id": "8a8eb5b9b468258f0afd681d5cf5094b",
-            "title": "‘महाभारत’मधील कुंतीने दीड वर्षे सर्वांपासून गुप्त ठेवलं लग्न, आता थेट शेअर केले नवऱ्यासोबतचे रोमँटिक फोटो",
-            "description": "टीव्ही इंडस्ट्रीमधील लोकप्रिय अभिनेत्री आणि महाभारतमधील कुंतीच्या भूमिकेत दिसणाऱ्या अभिनेत्रीने दीड वर्षे गुप्त ठेवलं लग्न. आता नवऱ्यासोबतचे रोमँटिक फोटो शेअर करत चाहत्यांना दिली माहिती.",
-            "content": "टीव्ही इंडस्ट्रीतील लोकप्रिय अभिनेत्री शफक नाझ सध्या तिच्या वैयक्तिक आयुष्यामुळे चर्चेत आली आहे. ‘महाभारत’ या गाजलेल्या मालिकेत कुंतीची भूमिका साकारून घराघरांत पोहोचलेल्या शफकने नुकताच तिच्या लग्नाचा खुलासा करून चाहत्यांना मोठा धक्का दिला आहे.\nविशेष ... [701 chars]",
-            "url": "https://www.tv9marathi.com/photo-gallery/mahabharat-fame-shafaq-naazreveals-secret-marriage-after-more-than-1-year-share-romantic-photos-1695582.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/06/Mahabharat-fame-Actress.jpg",
-            "publishedAt": "2026-06-22T07:04:05Z",
+            "id": "146e531ac0d6e3f5bee6f550f9fdd3a1",
+            "title": "Uddhav Thackeray : उद्धव ठाकरेंच्या आमदाराने बैठकीला गैरहजर राहण्याचे थेट कारणच सांगितले; म्हणाले.'आमचा उमेदवार...'",
+            "description": "UBT MLAs meeting News : उद्धव ठाकरे यांच्या शिवसेनेच्या सहा खासदारांनी सोमवारी सायंकाळी शिवसेनेत प्रवेश केला. त्यामुळे राज्यातील वातावरण चांगलेच तापले आहे. uddhav-thackeray-mla-meeting-rahul-patil-absence-shiv-sena-ubt",
+            "content": "17 जागांपैकी परभणीची जागा चुरशीची होती, आमचे नगरसेवक जिगरीने लढले होते, त्यामुळं परभणीत थांबलो होतो, असं राहुल पाटील म्हणाले. सहा खासदारांनी बंडखोरी केली नसून ती गद्दारी आहे. आमदारांबाबत केला जाणारा चुकीचा आहे, राहुल पाटील यांनी स्पष्ट केले.\nखासदार व... [365 chars]",
+            "url": "https://sarkarnama.esakal.com/maharashtra/uddhav-thackeray-mla-meeting-rahul-patil-absence-shiv-sena-ubt-sw79",
+            "image": "https://cf-images.assettype.com/sarkarnama%2F2025-04-03%2Fqvfyclx1%2FUddhav-Thackeray.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-06-22T14:33:44Z",
+            "lang": "mr",
+            "source": {
+                "id": "21fafcf8e95490efcfa4a7f85030132b",
+                "name": "Sarkarnama",
+                "url": "https://sarkarnama.esakal.com"
+            }
+        },
+        {
+            "id": "b7fd90f651115fee719a30b21e6de6d8",
+            "title": "6 खासदारांच्या पक्षांतरावर अण्णा हजारे भडकले, म्हणाले; श्रद्धा, निष्ठा…",
+            "description": "Anna Hajare : शिवसेना उद्धव बाळासाहेब ठाकरे पक्षाच्या 6 बंडखोर खासदारांनी आज एकनाथ शिंदे यांच्या उपस्थितीत शिवसेनेत जाहीर पक्षप्रवेश केला आहे. यावर अण्णा हजारे यांनी टीका केली आहे.",
+            "content": "राज्याच्या राजकारणात आज मोठी घडामोड पहायला मिळाली. शिवसेना उद्धव बाळासाहेब ठाकरे पक्षाच्या 6 बंडखोर खासदारांनी आज एकनाथ शिंदे यांच्या उपस्थितीत शिवसेनेत जाहीर पक्षप्रवेश केला आहे. संजय जाधव, नागेश पाटील आष्टीकर, संजय देशमुख, ओमराजे निंबाळकर, भाऊसाहेब... [1553 chars]",
+            "url": "https://www.tv9marathi.com/maharashtra/anna-hazare-criticizes-6-rebel-mps-joining-eknath-shinde-shiv-sena-1695932.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/06/Anna-Hajare-on-6-MP-.jpg",
+            "publishedAt": "2026-06-22T14:26:46Z",
             "lang": "mr",
             "source": {
                 "id": "86b106434a8aa7ab0755463f15cc13f7",
                 "name": "TV9 Marathi",
                 "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "5c4ee25ce46792ff242022529684c9ba",
+            "title": "Lucknow Fire: कोणी बाथरुममध्ये लपलं, तर कोणी छतावरुन उडी मारुन जीव वाचवला; अग्नितांडवात 15 जणांचा होरपळून अंत",
+            "description": "Lucknow Fire: कोचिंग सेंटरला लागलेल्या आगीत १५ जणांचा होरपळून शेवट झाला आहे. यामधील बहुतांश जण २० ते २४ वर्षे वयोगटातील आहेत. मुख्यमंत्र्यांकडून या दुर्घटनेची दखल घेण्यात आली आहे.",
+            "content": "लखनऊ: उत्तर प्रदेशची राजधानी लखनऊ येथील अलीगंजमधील पुरनिया परिसरात असलेल्या कोचिंग सेंटरला लागलेल्या आगीत १५ जणांचा मृत्यू झाला आहे. यामध्ये तीन महिलांचा समावेश आहे. मृत व्यक्ती २० ते २४ वर्षे वयोगटातील आहेत. या दुर्दैवी घटनेनं परिसरावर शोककळा पसरली ... [6136 chars]",
+            "url": "https://maharashtratimes.com/india-news/lucknow-building-fire-15-dead-student-jumped-off-building-some-hides-in-bathroom/articleshow/131912092.cms",
+            "image": "https://static.langimg.com/mt/thumb/131912140/up-fire.jpg?imgsize=186762&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-06-22T14:20:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "ad67eb2184816428bdf4d6a007c0a62d",
+            "title": "Dipali Sayyad : महाराष्ट्राची एप्स्टिन फाईल चर्चेत; दिपाली सय्यद साकारणार रुपाली चाकणकरांची भूमिका, फर्स्ट लूक व्हायरल",
+            "description": "Dipali Sayyad : राज्यातील राजकीय आणि सामाजिक वर्तुळात चर्चेचा विषय ठरलेल्या घटनांवर[...]",
+            "content": "Dipali Sayyad : राज्यातील राजकीय आणि सामाजिक वर्तुळात चर्चेचा विषय ठरलेल्या घटनांवर आधारित असल्याचे सांगितल्या जाणाऱ्या ‘महाराष्ट्राची एप्स्टिन फाईल’ या आगामी मराठी चित्रपटाचे चित्रीकरण सध्या मुंबईत सुरू आहे. चित्रपटाबाबत प्रेक्षकांमध्ये आधीपासूनच उत... [1223 chars]",
+            "url": "https://prahaar.in/2026/06/22/maharashtras-epstein-file-in-the-spotlight/",
+            "image": "https://prahaar.in/rppl/wp-content/uploads/2026/06/dipali-sayyad-640x450.png",
+            "publishedAt": "2026-06-22T13:20:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "3de73b670124dc029f7e7679f05b20d9",
+                "name": "Prahaar.in",
+                "url": "https://prahaar.in"
+            }
+        },
+        {
+            "id": "e6ad4fa67254cb791126bdb02aa9d160",
+            "title": "Lucknow Fire: मी स्वत: 14 बॉडी पाहिल्या! DCMना अश्रू अनावर; कोचिंग सेंटरला भीषण आग, जीव वाचवण्यासाठी पळापळ",
+            "description": "Lucknow Fire: कोचिंग सेंटरला लागलेल्या भीषण आगीत १४ जणांचा शेवट झाला आहे. इमारतीला लागलेली आग विझवण्याचं काम सुरू आहे. या दुर्घटनेबद्दल पंतप्रधान मोदी यांनी शोक व्यक्त केला आहे.",
+            "content": "लखनऊ: उत्तर प्रदेशची राजधानी लखनऊमधील अलीगंज येथील पुरविया परिसरातील एका इमारतीला सोमवारी भीषण आग लागली. यानंतर परिसरात खळबळ उडाली. या आगीत १४ जणांचा शेवट झाला आहे. आग लागताच एकच गोंधळ उडाला. बघता बघता आगीच्या ज्वाळा आणि धूर संपर्ण इमारतीत पसरला. संप... [6469 chars]",
+            "url": "https://maharashtratimes.com/india-news/lucknow-coaching-centre-fire-14-dead-high-level-enquiry-ordered-pm-modi-express-grief/articleshow/131909490.cms",
+            "image": "https://static.langimg.com/mt/thumb/131910923/fire-in-building.jpg?imgsize=150192&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-06-22T13:17:27Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "a4d00270bb757dfb8576f7aab0852114",
+            "title": "आमदारकी गेल्यावर गरीबी आली का? ‘पंचायत’मधील अभिनेत्याचा रस्त्यावर भाजी खरेदी करतानाचा फोटो व्हायरल",
+            "description": "'पंचायत'मधील आमदारजी रस्त्यावर भाजी विकत घेतानाचा फोटो सोशल मीडियावर प्रचंड व्हायरल. फोटो पाहून चाहत्यांनी दिल्या भन्नाट प्रतिक्रिया",
+            "content": "ॲमेझॉन प्राइम व्हिडिओवरील लोकप्रिय वेब सीरिज ‘पंचायत’ च्या चारही सीझनला प्रेक्षकांचा जबरदस्त प्रतिसाद मिळाला आहे. आता या मालिकेच्या पाचव्या सीझनची प्रेक्षक आतुरतेने वाट पाहत आहेत. या मालिकेतील प्रत्येक कलाकाराने आपल्या दमदार अभिनयाच्या जोरावर प्रेक्ष... [1742 chars]",
+            "url": "https://www.tv9marathi.com/entertainment/actor-pankaj-jha-buying-vegetables-photos-goes-viral-1695895.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/06/actor-Pankaj-Jha.jpg",
+            "publishedAt": "2026-06-22T12:54:19Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "6b2a24d1a20c802c509c2ab43887068c",
+            "title": "FIFA World Cup 2026: ऑस्ट्रियाविरुद्ध ‘एक’ गोल अन् Lionel Messi रचणार इतिहास; ‘तो’ वर्ल्ड रेकॉर्ड मोडणार?",
+            "description": "Lionel Messi Can Break Records Against Austria fifa match: फिफा विश्वचषक स्पर्धेतील गट फेरीच्या सामन्यात अर्जेंटिनाचा सामना ऑस्ट्रियाशी होईल. या सामन्यात मेस्सीला एक मोठा विक्रम प्रस्थापित करण्याची संधी आहे.",
+            "content": "सारांश\nLionel Messi Can Break Records Against Austria fifa match: फिफा विश्वचषक स्पर्धेतील गट फेरीच्या सामन्यात अर्जेंटिनाचा सामना ऑस्ट्रियाशी होईल. या सामन्यात मेस्सीला एक मोठा विक्रम प्रस्थापित करण्याची संधी आहे.\nविस्तार\nLionel Messi रचणार इतिहास\nव... [2959 chars]",
+            "url": "https://www.navarashtra.com/sports/lionel-messi-fifa-world-cup-2026-argentina-vs-austria-records-goals-klose-hat-trick-1259845.html",
+            "image": "https://d2lkn59rua3ry2.cloudfront.net/wp-content/uploads/2026/06/messi-1.jpg",
+            "publishedAt": "2026-06-22T12:27:09Z",
+            "lang": "mr",
+            "source": {
+                "id": "b8e291c9466e6780091c3b439f38d8a7",
+                "name": "navarashtra.com",
+                "url": "https://www.navarashtra.com"
             }
         }
     ],

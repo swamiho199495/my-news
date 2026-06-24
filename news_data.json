@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "ed4bee81956e51f99f182c855bcd330a",
+            "title": "Memes: रोनाल्डो ट्रोलर्सला पुरून उरला! उझबेकिस्तानला ५-० ने चिरडलं, फॅन्स मीम्समधून करताहेत जल्लोष",
+            "description": "पोर्तुगालने उझबेकिस्तानचा ५-० ने पराभव केला.",
+            "content": "लेखकाबद्दलमंदार गुरवमंदार गुरव हे गेल्या १० वर्षांपासून डिजिटल पत्रकारीता या क्षेत्रात काम करत आहेत. ते महाराष्ट्र टाइम्समध्ये गेल्या ५ वर्षांपासून व्हायरल सेक्शनमध्ये कार्यरत आहेत. सोशल मीडियावर व्हायरल होणारे व्हिडीओ, मीम्स आणि चर्चेत असलेल्या घडाम... [2113 chars]",
+            "url": "https://maharashtratimes.com/viral/viral-news/ronaldo-answers-critics-with-two-goals-in-portugals-dominant-win-funny-memes-and-jokes-viral/articleshow/131949783.cms",
+            "image": "https://static.langimg.com/mt/thumb/131949783/ronaldo-answers-critics-with-two-goals-in-portugals-dominant-win-funny-memes-and-jokes-viral.jpg?imgsize=2278509&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-06-23T20:49:01Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
             "id": "d17c9bb2a9a8d721ed0e2784bdbb5fc8",
             "title": "१४०० भाग, ४ वर्षांचा प्रवास…; अखेर स्टार प्रवाहची ‘ही’ मालिका संपणार, मुख्य अभिनेत्रीची पोस्ट! म्हणाली, “One Last…”",
             "description": "Star Pravah Muramba Serial Off Air: स्टार प्रवाहची 'मुरांबा' मालिका बंद होणार! १४०० भागानंतर घेणार निरोप, अभिनेत्री शिवानी मुंढेकरने शेअर केली भावुक पोस्ट....",
@@ -133,21 +148,6 @@
                 "id": "bfd324c66556f858b94a8093cae1427c",
                 "name": "News18 Marathi",
                 "url": "https://news18marathi.com"
-            }
-        },
-        {
-            "id": "6c5d7fb7213baf43d423ad997f13a1a7",
-            "title": "WT20 WC 2026: एक पराभव आणि टीम इंडियाचं उपांत्य फेरीचं गणित झालं किचकट, आता करो या मरो!",
-            "description": "आयसीसी वुमन्स टी20 वर्ल्डकप 2026 स्पर्धा आता रंगतदार वळणावर आली आहे. उपांत्य फेरीत जागा मिळवण्यासाठी आता जोरदार रस्सीखेच पाहायला मिळत आहे. असं असताना टीम इंडियाचं गणित एक पराभवामुळे किचकट झालं आहे.",
-            "content": "वुमन्स टी20 वर्ल्डकप 2026 स्पर्धेच्या अ गटात उपांत्य फेरीसाठी जोरदार चुरस पाहायला मिळत आहे. या गटात भारतासह ऑस्ट्रेलिया, दक्षिण अफ्रिका, बांग्लादेश, पाकिस्तान आणि नेदरलँड हे संघ आहेत. यापैकी पाकिस्तान नेदरलँड संघ स्पर्धेतील तीन सामने खेळल्यानंतर आऊट ... [2200 chars]",
-            "url": "https://www.tv9marathi.com/sports/cricket-news/womens-t20-wc-2026-defeat-against-south-africa-complicates-team-india-semi-final-equation-now-do-or-die-situation-1696625.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/06/Team_India_Cricket.jpg",
-            "publishedAt": "2026-06-23T14:03:27Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
             }
         }
     ],

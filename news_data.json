@@ -1,6 +1,36 @@
 {
     "general": [
         {
+            "id": "1dc28d5934519f71b4ea22d7192f309b",
+            "title": "Maharashtra weather : कोकणासह राज्यभरात धो-धो पाऊस, 'या' जिल्ह्यांना मोठा अलर्ट",
+            "description": "Maharashtra weather : पुढील काही दिवस कोकणात चांगल्या पावसाची शक्यता कायम राहण्याचा अंदाज आहे. अशातच 3 जुलै 2026 रोजी राज्यातील एकूण हवामान विभागाचा अंदाज पुढीलप्रमाणे नमूद केला आहे.",
+            "content": "हे ही वाचा : नागराज मंजुळेंच्या ‘खाशाबा’चा नादखुळा टीझर, हिरोच्या भूमिकेनं ताणली उत्सुकता; चित्रपट प्रदर्शनाची तारीख समोर\nकोकण\nकोकणात अधिक प्रभावीपणे पावसाची शक्यता आहे. मुंबई, ठाणे, पालघर, रत्नागिरी या ठिकाणी मुसळधार ते अतिमुसळधार पावसाची शक्यता वर्... [1333 chars]",
+            "url": "https://www.mumbaitak.in/amp/city-news/story/maharashtra-weather-torrential-rain-across-the-state-including-konkan-high-alert-for-these-districts-3268513-2026-07-02",
+            "image": "https://akm-img-a-in.tosshub.com/lingo/mbtak/images/story/202607/6a468159d2a50-maharashtra-weather-021844319-16x9.jpg",
+            "publishedAt": "2026-07-02T23:30:05Z",
+            "lang": "mr",
+            "source": {
+                "id": "021482c68fa91158375da25add667cfc",
+                "name": "Mumbai Tak",
+                "url": "https://www.mumbaitak.in"
+            }
+        },
+        {
+            "id": "72716c4792e5a8068ae1294fd63e60d3",
+            "title": "Weather Alerts Meaning IMD | हवामान खात्याच्या चार अलर्टस्‌चा अर्थ",
+            "description": "पावसाळा सुरू झाला की आपण टीव्ही, वृत्तपत्रे आणि सोशल मीडियावर हवामान खात्याचे वेगवेगळे अलर्ट पाहत असतो. मात्र, या रेड, ऑरेंज किंवा यलो अलर्टचा नेमका अर्थ काय, कोणत्या अलर्टला किती पाऊस पडतो आणि आपण काय काळजी घेतली पाहिजे, याची माहिती बहुतांश लोकांना नसते. हवामान खात्याच्या याच इशाऱ्यांमागील नेमके गणित आणि त्यांचे अर्थ सोप्या भाषेत समजून घेऊयात.",
+            "content": "जून महिना पूर्णपणे कोरडा गेल्यानंतर जुलै महिन्याच्या प्रारंभी पावसाने महाराष्ट्रात जोरदार एन्ट्री केली आहे. मुंबईसह राज्याच्या विविध भागांत मुसळधार पाऊस सुरू आहे. पावसाळा सुरू झाला की आपण टीव्ही, वृत्तपत्रे आणि सोशल मीडियावर हवामान खात्याचे वेगवेगळे ... [1614 chars]",
+            "url": "https://pudhari.news/vishwasanchar/imd-weather-alerts-green-yellow-orange-red-meaning-ap84",
+            "image": "https://cf-images.assettype.com/pudharinews%2F2026-07-02%2Fzhecnaiv%2FRain.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-07-02T23:00:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari News",
+                "url": "https://pudhari.news"
+            }
+        },
+        {
             "id": "63e4f96172dfff9d570c3706ef5ae5d6",
             "title": "ENGW vs SAW Semi Final Toss : दक्षिण आफ्रिकेचा बॉलिंगचा निर्णय, इंग्लंडला किती धावांवर रोखणार?",
             "description": "England vs South Africa Women 2nd Semi Final Toss and Playing 11 : यजमान इंग्लंडने उपांत्य फेरीतील सामन्यात पाहुण्या दक्षिण आफ्रिकेविरुद्ध बॅटिंग करणार आहे. इंग्लंड दक्षिण आफ्रिकेसमोर किती धावांपर्यंत पोहचते याकडे चाहत्यांचं लक्ष असणार आहे.",
@@ -118,36 +148,6 @@
                 "id": "86b106434a8aa7ab0755463f15cc13f7",
                 "name": "TV9 Marathi",
                 "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "620378f292d02b8c1fb6e69189ff7086",
-            "title": "Milind Narvekar : मॅनहोल दुर्घटनेसाठी पालिका आयुक्त अश्विनी भिडे यांनाच जबाबदार धरले जाणे कितपत योग्य आहे? : मिलिंद नार्वेकर",
-            "description": "Milind Narvekar : ठाकरेंच्या शिवसेनेचे आमदार मिलिंद नार्वेकर यांनी साकीनाका मॅनहोल दुर्घटनेप्रकरणी एक पोस्ट केली आहे. उपमहापौर संजय घाडी यांच्या पोस्टला त्यांनी रिट्विट केलं आहे.",
-            "content": "मुंबई : उद्धव ठाकरेंच्या शिवसेनेचे विधानपरिषदेतील आमदार मिलिंद नार्वेकर यांनी एक्सवर एक सोशल मीडिया पोस्ट केली आहे. मुंबईतील साकीनाका येथे मॅनहोलमध्ये पडून एका व्यक्तीचा मृत्यू झाल्याच्या घटनेबाबतची मिलिंद नार्वेकर यांची ती पोस्ट आहे. मॅनहोल दुर्घटना... [1670 chars]",
-            "url": "https://marathi.abplive.com/news/politics/milind-narvekar-support-ashwini-bhide-over-sakinaka-manhole-incident-demand-strict-action-lower-officers-marathi-news-1430288",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/02/a31b4b9db78e7ad96f96701ab95714c61782999818822989_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-07-02T13:53:12Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "313ea84458fec32a17b5d6bb637b8bf5",
-            "title": "आमिर खान 'या' दिवशी करणार तिसरं लग्न; लग्नपत्रिका आणि मुलांची हजेरी चर्चेत!",
-            "description": "Aamir Khan Third Marriage: अभिनेता आमिर खान ५ जुलै रोजी गर्लफ्रेंड गौरी स्प्रॅटसोबत साधेपणाने विवाहबंधनात अडकणार आहे. या भावनिक सोहळ्यात त्याची चारही मुलं एकत्र दिसणार आहेत.",
-            "content": "आमिर खान त्याचं तिसरं लग्न अत्यंत साधेपणाने आणि मोजक्या लोकांच्या उपस्थितीत करण्याच्या तयारीत आहे. स्क्रीनच्या वृत्तानुसार, आमिर आणि गौरी स्प्रॅट मुंबईतील वांद्रे येथील आमिरच्या निवासस्थानी लग्नाची अधिकृत नोंदणी करणार आहेत. यानंतर एक छोटेखानी विवाहसो... [1419 chars]",
-            "url": "https://www.loksatta.com/manoranjan/bollywood/aamir-khan-third-marriage-gauri-spratt-wedding-date-july-5-at-mumbai-resident-bollywood-ads-02-5995808/",
-            "image": "https://images.loksattaimg.com/2026/07/aamir-khan-third-marriage-gauri-spratt-wedding.jpg",
-            "publishedAt": "2026-07-02T13:52:34Z",
-            "lang": "mr",
-            "source": {
-                "id": "62d1010536af7ab30a2a024770aa0e02",
-                "name": "Loksatta",
-                "url": "https://www.loksatta.com"
             }
         }
     ],

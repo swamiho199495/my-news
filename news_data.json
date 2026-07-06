@@ -151,8 +151,481 @@
             }
         }
     ],
-    "market": [],
-    "it_tech": [],
-    "sports": [],
+    "market": [
+        {
+            "id": "388579cdc380ae1549b7bb95be82940e",
+            "title": "एकाच शेअरमध्ये सर्व पैसे गुंतवू नका; झिरोधाचे निखिल कामथ आणणार Kite Nudge फीचर",
+            "description": "Nithin Kamath Portfolio Diversification: झिरोधाच्या नितीन कामथ यांनी गुंतवणुकीतील वैविध्याचे महत्त्व सांगितले आहे. ओव्हर-इन्व्हेस्टमेंट रोखण्यासाठी येत आहे नवीन 'Kite Nudge' फिचर.",
+            "content": "५ वर्षांत ‘निफ्टी आयटी’ ८% घसरला, पण ‘TCS’ ४०% पडला!\nनितीन कामथ यांनी सोशल मीडिया प्लॅटफॉर्म ‘एक्स’वर दिग्गज आयटी कंपनी टीसीएस आणि निफ्टी आयटी इंडेक्सच्या कामगिरीची तुलना करत डायव्हर्सिफिकेशनचे महत्त्व पटवून दिले. कामथ यांनी सांगितले की, गेल्या ५ वर्... [1628 chars]",
+            "url": "https://www.loksatta.com/business/personal-finance/savings-investments/nithin-kamath-portfolio-diversification-advice-zerodha-kite-nudge-feature-rap-91-5995563/",
+            "image": "https://images.loksattaimg.com/2026/07/zerodha-nitin-kamath.jpg",
+            "publishedAt": "2026-07-02T12:21:05Z",
+            "lang": "mr",
+            "source": {
+                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "6ac3c59852ee7f5887c94790038cf6d5",
+            "title": "रतन टाटांच्या निकटवर्तीयाचा राजीनामा, १००० कोटींचा पोर्टफोलिओ...",
+            "description": "Mehli Mistry Resigns RNT Associates: मेहली मिस्त्री यांनी आरएनटी असोसिएट्सच्या संचालकपदाचा दिला राजीनामा. रतन टाटा यांच्या १,००० कोटींच्या गुंतवणुकीचे काय होणार? वाचा सविस्तर.",
+            "content": "‘मनीकंट्रोल’च्या वृत्तानुसार, मेहली मिस्त्री यांनी ३० जून रोजी संचालक मंडळाला पाठवलेल्या पत्रात, ‘इतर कामांच्या व्यस्ततेमुळे’ १ जुलै २०२६ पासून आपण या पदावरून पायउतार होत असल्याचे नमूद केले आहे. तसेच, “दिवंगत रतन नवल टाटा यांनी ज्या उद्देशाने या कंपन... [1926 chars]",
+            "url": "https://www.loksatta.com/business/news/mehli-mistry-resigns-rnt-associates-ratan-tata-investment-portfolio-marathi-rap-91-5994446/",
+            "image": "https://images.loksattaimg.com/2026/07/mehli-mistry-resigns-rnt-associates-ratan-tata-portfolio-exit_d95204.jpg",
+            "publishedAt": "2026-07-02T06:14:39Z",
+            "lang": "mr",
+            "source": {
+                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "861e1992304d718191319d1e8b798bd7",
+            "title": "कोणता फंड तुम्हाला बनवेल मालामाल? जाणून घ्या फरक",
+            "description": "Flexi Cap vs Multi Cap Mutual Funds: शेअर बाजारातील तेजी-मंदीत चांगल्या परताव्यासाठी फ्लेक्सी-कॅप आणि मल्टी-कॅप फंडात काय फरक आहे? गुंतवणूक करण्यापूर्वी नक्की वाचा.",
+            "content": "फ्लेक्सी-कॅप म्हणजे काय?\nफ्लेक्सी-कॅप फंड हे लार्जकॅप, मिडकॅप आणि स्मॉलकॅप अशा तिन्ही प्रकारच्या शेअर्समध्ये गुंतवणूक करतात. या फंडाचे सर्वात मोठे वैशिष्ट्य म्हणजे फंड मॅनेजर यापैकी कोणत्याही फंडात परिस्थितीनुसार कमी जास्त गुंतवणूक करू शकतो. सेबीच्या... [1383 chars]",
+            "url": "https://www.loksatta.com/business/mutual-funds/flexi-cap-vs-multi-cap-mutual-funds-best-investment-tips-marathi-rap-91-5991412/",
+            "image": "https://images.loksattaimg.com/2026/06/flexi-cap-vs-multi-cap-mutual-funds-investment-guide-stock-market.jpg",
+            "publishedAt": "2026-06-30T15:23:26Z",
+            "lang": "mr",
+            "source": {
+                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "6f57ccbf1055acf1458b94a94e8864a8",
+            "title": "अर्थवेध : ये रे ये रे पावसा...",
+            "description": "भारतीय मॉन्सून अर्थव्यवस्था: उशिरा आलेल्या पावसामुळे शेती, महागाई आणि शेअर बाजारावर वाढते अनिश्चिततेचे सावट; ग्रामीण मागणी आणि गुंतवणुकीवर होणाऱ्या परिणामाची सखोल मांडणी. Indian monsoon & economy: Delayed rains threaten kharif output, fuel food inflation, delay rate cuts and hit rural demand, impacting stock markets and growth.",
+            "content": "गौरव बोरा, शेअर बाजार विश्‍लेषक\nभारतीय अर्थव्यवस्थेचा खरा कणा कोणता?’’ असा प्रश्न विचारला, तर त्याचे उत्तर आजही ‘मॉन्सून’ हेच आहे. भारतीय हवामान विभागानुसार, देशातील वार्षिक पावसापैकी सुमारे ७० टक्के पाऊस जून ते सप्टेंबर या काळात पडतो. त्यामुळे मॉन्स... [843 chars]",
+            "url": "https://www.esakal.com/sakal-money/economic-impact-of-monsoon-on-indian-markets-gaurav-bora-vsw03",
+            "image": "https://cf-images.assettype.com/esakal%2F2026-06-28%2Fhpl17sjc%2FSakal-Money.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-06-29T01:51:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "c63148ffff45b2b662b31f99c84e5239",
+                "name": "eSakal",
+                "url": "https://www.esakal.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "e5473e15414da32c1b68213225430fde",
+            "title": "भारतीयांची Bitcoin Investment ला मोठी पसंती; क्रिप्टो मार्केटचा नवा ट्रेंड",
+            "description": "CoinDCX Crypto Report 2026 reveals huge insights on Bitcoin Investment India. भारतीयांचा मीम टोकन्सऐवजी बिटकॉइन आणि सुरक्षित क्रिप्टो गुंतवणुकीकडे कल वाढला; वाचा सविस्तर रिपोर्ट.",
+            "content": "अहवालानुसार, सध्याची बाजारपेठ केवळ तात्पुरत्या गतीवर चालण्याऐवजी मजबूत विश्वासावर आधारलेली आहे. जागतिक क्रिप्टो मार्केटमध्ये बिटकॉइनचा वाटा वाढून ५८.२% झाला आहे, तर कॉईनडीसीएक्सवर भारतातील प्रत्येक प्रमुख शहरात आणि सर्व वयोगटांमध्ये ‘बीटीसी’ ही सर्वा... [3255 chars]",
+            "url": "https://www.loksatta.com/business/news/coindcx-crypto-investor-report-2026-bitcoin-marathi-investment-trends-aam-93-5985166/",
+            "image": "https://images.loksattaimg.com/2026/06/coindcx-crypto-report-2026-bitcoin-investment-india-trends.jpg",
+            "publishedAt": "2026-06-27T09:51:21Z",
+            "lang": "mr",
+            "source": {
+                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "9ccdd59c757899cc993a7566d9908a32",
+            "title": "कोविडनंतर थंडावले ऑक्सिजन प्लांट; कोट्यवधींच्या सार्वजनिक गुंतवणुकीचे काय?",
+            "description": "Oxygen plants have cooled down after Covid; What about public investment worth crores?. Nagpur : कोरोनाच्या दुसऱ्या लाटेत ऑक्सिजनच्या एका सिलिंडरसाठी जिवाची घालमेल करणारे दिवस नागपूरकरांनी अनुभवले. त्या काळात शहरातील ऑक्सिजनची मागणी तब्बल १७८ मेट्रिक टनांवर पोहोचली होती. | Nagpur Marathi News (मराठी बातम्या). Find Breaking Headlines, Current and Latest Nagpur news in Marathi at Lokmat.com",
+            "content": "सुमेध वाघमारे\nलोकमत न्यूज नेटवर्क\nनागपूर : कोरोनाच्या दुसऱ्या लाटेत ऑक्सिजनच्या एका सिलिंडरसाठी जिवाची घालमेल करणारे दिवस नागपूरकरांनी अनुभवले. त्या काळात शहरातील ऑक्सिजनची मागणी तब्बल १७८ मेट्रिक टनांवर पोहोचली होती. भविष्यात अशी जीवघेणी परिस्थिती प... [1916 chars]",
+            "url": "https://www.lokmat.com/nagpur/oxygen-plants-have-cooled-down-after-covid-what-about-public-investment-worth-crores-a-a1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/whatsapp-image-2026-06-26-at-3.06.45-pm_2026061730380.jpeg",
+            "publishedAt": "2026-06-26T09:37:01Z",
+            "lang": "mr",
+            "source": {
+                "id": "1db34a6190be0a479b28f37a9ae9d47e",
+                "name": "Lokmat",
+                "url": "https://www.lokmat.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "0afff4c170167a8f90bb77e7afe00647",
+            "title": "डिलिव्हरी बॉय ते व्हॉट्सॲपचे नवे बॉस; पाहा कुणाल शाह यांची नेटवर्थ",
+            "description": "Kunal Shah WhatsApp CEO Success Story: क्रेडचे कुणाल शाह बनले व्हॉट्सॲपचे नवे सीईओ; मेटा करणार ८,५५० कोटींची गुंतवणूक. पाहा त्यांची संघर्षमय यशोगाथा.",
+            "content": "कुणाल शाह कोण आहेत?\nकुणाल शाह हे एक भारतीय उद्योजक आणि गुंतवणूकदार आहेत. त्यांनी क्रेड या फिनटेक स्टार्टअपची स्थापना केली आहे. त्यांनी २०१८ मध्ये वैयक्तिक भांडवलासह या कंपनीची सुरुवात केली होती. क्रेडच्या आधी कुणाल शाह यांनी फ्रीचार्ज या डिजिटल पेमें... [1335 chars]",
+            "url": "https://www.loksatta.com/business/technology/kunal-shah-whatsapp-ceo-cred-meta-deal-success-story-net-worth-aam-93-5976930/",
+            "image": "https://images.loksattaimg.com/2026/06/kunal-shah-whatsapp-ceo-cred-meta-investment-success-story-1.jpg",
+            "publishedAt": "2026-06-23T09:28:10Z",
+            "lang": "mr",
+            "source": {
+                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "d914780dd195e05080ba26938eb72182",
+            "title": "धीरेंद्र कुमार यांनी सांगितल्या म्युच्युअल फंडातील 'या' गंभीर चुका",
+            "description": "Mutual Fund Investment Tips: म्युच्युअल फंडात गुंतवणूक करताना नवखे गुंतवणूकदार कोणत्या चुका करतात? जाणून घ्या व्हॅल्यू रिसर्चचे सीईओ धीरेंद्र कुमार यांचा सविस्तर सल्ला.",
+            "content": "दरम्यान बिझनेस टुडेच्या एका कार्यक्रमात व्हॅल्यू रिसर्चचे सीईओ धीरेंद्र कुमार यांनी नवख्या गुंतवणूकदारांकडून म्युच्युअल फंडात गुंतवणूक करताना होणाऱ्या चुकांवर प्रकाश टाकला आहे.\nधिरेंद्र कुमार यांनी नमूद केले की, जे लोक म्युच्युअल फंडात गुंतवणूक सुरू ... [1677 chars]",
+            "url": "https://www.loksatta.com/business/mutual-funds/mutual-fund-investment-tips-dhirendra-kumar-value-research-mistakes-guide-aam-93-5976659/",
+            "image": "https://images.loksattaimg.com/2026/06/mutual-fund-investment-tips-dhirendra-kumar-value-research-advice.jpg",
+            "publishedAt": "2026-06-23T07:43:29Z",
+            "lang": "mr",
+            "source": {
+                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "5c60556932fe9f268a72984cd928b6c3",
+            "title": "म्युच्युअल फंडात गुंतवणूक करून नफा कमावण्याचा विचार करताय? आधी पाहा वॉरेन बफेंचे ७ गोल्डन रुल्स",
+            "description": "म्युच्युअल फंडात गुंतवणूक करून नफा कमावण्याचा विचार करताय? आधी पाहा वॉरेन बफेंचे ७ गोल्डन रुल्स - Mutual Fund Warren Buffett Rules: म्युच्युअल फंडामध्ये गुंतवणूक करणाऱ्या नवीन लोकांना अनेकदा असं वाटतं की, यासाठी खूप मोठ्या ज्ञानाची किंवा एखाद्या मोठ्या सल्लागाराची गरज असते. परंतु, जगातील सर्वात यशस्वी गुंतवणूकदारांपैकी एक असलेले वॉरेन बफे असं मानत नाहीत. . Find Latest Business Articles at Lokmat.com",
+            "content": "Mutual Fund Warren Buffett Rules: म्युच्युअल फंडामध्येगुंतवणूक करणाऱ्या नवीन लोकांना अनेकदा असं वाटतं की, यासाठी खूप मोठ्या ज्ञानाची किंवा एखाद्या मोठ्या सल्लागाराची गरज असते. परंतु, जगातील सर्वात यशस्वी गुंतवणूकदारांपैकी एक असलेले वॉरेन बफे असं मानत... [2422 chars]",
+            "url": "https://www.lokmat.com/business/mutual-funds/thinking-of-making-a-profit-by-investing-in-mutual-funds-sip-first-check-out-warren-buffett-7-golden-rules-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/warren-buffett-cash2_202002378295.jpg",
+            "publishedAt": "2026-06-22T06:22:21Z",
+            "lang": "mr",
+            "source": {
+                "id": "1db34a6190be0a479b28f37a9ae9d47e",
+                "name": "Lokmat",
+                "url": "https://www.lokmat.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "bd2d06fc72840861d59dadb21d728d83",
+            "title": "मुंबई शेअर बाजारात गुंतवणूकदारांनी अवघ्या काही तासांत कमावले २.७५ लाख कोटी रुपये",
+            "description": "गेल्या काही महिन्यांपासून नकारात्मक असलेल्या भारतीय शेअर बाजारांमध्ये आज मोठी उसळी पाहायला मिळत आहे. कच्च्या तेलाच्या किमतीतील घसरण, जागतिक सकारात्मक संकेत, वाढलेली विदेशी गुंतवणूक आणि रिलायन्स इंडस्ट्रीजसारख्या मोठ्या कंपन्यांच्या शेअर्सच्या खरेदीमुळे सेन्सेक्स ५०३.४५ अंशांनी वाढून ७७,३०६.३५ अंशांवर, तर निफ्टी १५१.९५ अंशांनी वाढून २४,१६५.०५ अंकांवर पोहोचला. यामुळे बीएसई सेन्सेक्सवरील कंपन्यांच्या बाजार भांडवलात सुमारे २.७५ लाख कोटी […] | loksatta.com",
+            "content": "गेल्या काही महिन्यांपासून नकारात्मक असलेल्या भारतीय शेअर बाजारांमध्ये आज मोठी उसळी पाहायला मिळत आहे. कच्च्या तेलाच्या किमतीतील घसरण, जागतिक सकारात्मक संकेत, वाढलेली विदेशी गुंतवणूक आणि रिलायन्स इंडस्ट्रीजसारख्या मोठ्या कंपन्यांच्या शेअर्सच्या खरेदीमु... [8761 chars]",
+            "url": "https://www.loksatta.com/shorts/business/bse-market-cap-investors-wealth-grows-share-market-today-sensex-nifty-aam-93-5973914/",
+            "image": "https://images.loksattaimg.com/2026/06/share-market-today-sensex-nifty-live-bse-market-cap-rise-june.jpg",
+            "publishedAt": "2026-06-22T06:02:03Z",
+            "lang": "mr",
+            "source": {
+                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com",
+                "country": "in"
+            }
+        }
+    ],
+    "it_tech": [
+        {
+            "id": "9ba2688839bfea9e7a16adf2a8fbf9f2",
+            "title": "खाजगी कृत्रिम रेतन तंत्रज्ञांना विविध सेवांसाठी अनुदान, गाय म्हशींसाठी किती अनुदान मिळणार?",
+            "description": "खाजगी कृत्रिम रेतन तंत्रज्ञांना विविध सेवांसाठी अनुदान, गाय म्हशींसाठी किती अनुदान मिळणार?  - Agriculture News : कृत्रिम रेतन व लसीकरणाच्या नोंदी भारत पशुधन प्रणालीवर केल्याप्रमाणे प्रोत्साहनपर अनुदान देण्यात येणार आहे. . Find Latest Farming and Agriculture related articles and news at Lokmat.com Agro",
+            "content": "वर्धा : खाजगी कृत्रिम रेतन तंत्रज्ञांना कृत्रिम रेतन सेवा पुरविण्यासाठी प्रोत्साहनपर अनुदान देण्याची तरतूद करण्यात आली आहे. त्यानुसार महाराष्ट्र गोजातीय प्रजनन नियमन प्राधिकरणाकडे नोंदणीकृत असलेल्या खाजगी कृत्रिम रेतन तंत्रज्ञांना राष्ट्रीय गोकुळ अभि... [978 chars]",
+            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/latest-news-private-artificial-insemination-technicians-will-get-subsidy-for-various-services-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/terna-hs_2026071735924.jpeg",
+            "publishedAt": "2026-07-05T12:16:05Z",
+            "lang": "mr",
+            "source": {
+                "id": "1db34a6190be0a479b28f37a9ae9d47e",
+                "name": "Lokmat",
+                "url": "https://www.lokmat.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "3adc355629b2a841075d7610e20a640d",
+            "title": "व्हेलच्या हाडापासून ते AI च्या भविष्यवाणीपर्यंत..., अमेरिकेने जमिनीत गाडलं मोठं रहस्य, काय असते टाईम कॅप्सूल",
+            "description": "From whale bones to AI predictions..., America buried a big secret in the ground, what is a time capsule?. Time Capsule: जगातील सर्वात बलाढ्य देश असलेली अमेरिका यावर्षी आपल्या स्वातंत्र्याची २५० वर्षे पूर्ण करत आहे. हे वर्ष अविस्मरणीय व्हावे यासाठी विविध उपक्रम हाती घेण्यात आले आहेत. तसेच या ऐतिहासिक प्रसंगी भविष्यातील पिढ्यांसाठी आठवणींचा ठेवा म्हणून एक अनोखी भेट जमिनीखाली पुरण्यात आली आहे. - Latest Marathi News (मराठी बातम्या). Find Breaking Headlines, Current and Latest international news in Marathi at Lokmat.com",
+            "content": "जगातील सर्वात बलाढ्य देश असलेली अमेरिका यावर्षी आपल्या स्वातंत्र्याची २५० वर्षे पूर्ण करत आहे. हे वर्ष अविस्मरणीय व्हावे यासाठी विविध उपक्रम हाती घेण्यात आले आहेत. तसेच या ऐतिहासिक प्रसंगी भविष्यातील पिढ्यांसाठी आठवणींचा ठेवा म्हणून एक अनोखी भेट जमिन... [1071 chars]",
+            "url": "https://www.lokmat.com/international/from-whale-bones-to-ai-predictions-america-buried-a-big-secret-in-the-ground-what-is-a-time-capsule-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/time-capsool-2_2026071735854.jpg",
+            "publishedAt": "2026-07-05T10:44:49Z",
+            "lang": "mr",
+            "source": {
+                "id": "1db34a6190be0a479b28f37a9ae9d47e",
+                "name": "Lokmat",
+                "url": "https://www.lokmat.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "933757818351881d7193743945f16b27",
+            "title": "निफ्टी २५००० पार जाणार? बँक निफ्टी व सेन्सेक्सचे नवे टार्गेट्स",
+            "description": "Share Market Prediction Marathi: निफ्टी, बँक निफ्टी आणि सेन्सेक्समध्ये मोठी हालचाल अपेक्षित. जाणून घ्या सोने, चांदी आणि आयटी शेअर्समधील गुंतवणुकीचे महत्त्वाचे टार्गेट्स.",
+            "content": "निफ्टी निर्देशांकावर तेजी अवतरण्यास, सकारात्मक गोष्टी जसं की समाधानकारक पाऊस, व्यापार करारात भारतासाठी सुसह्य अशी आयात कराची रचना, कंपन्यांचे त्रैमासिक समाधानकारक निकाल व कंपनी संचालक मंडळाचा आशादायक भविष्यकालीन वाटचालीबद्दल मार्गदर्शन, समाधानकारक पा... [2828 chars]",
+            "url": "https://www.loksatta.com/business/personal-finance/share-market-prediction-marathi-nifty-bank-nifty-sensex-targets-investment-tips-rap-91-6000654/",
+            "image": "https://images.loksattaimg.com/2026/07/share-market-prediction-marathi-nifty-bank-nifty-sensex-gold-targets.jpg",
+            "publishedAt": "2026-07-05T09:09:35Z",
+            "lang": "mr",
+            "source": {
+                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "0c66b8bd736895ac1e82d69b81842127",
+            "title": "बाल लैंगिक शोषणाला प्रोत्साहन देणाऱ्या जाहिराती त्वरित थांबवा, केंद्र सरकारचे मेटाला आदेश",
+            "description": "Center Orders Meta Stop Sexual Abuse Ads Instagram Notice Gkt 96 - इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालयाने या प्रकरणात मेटाला नोटीस बजावली असल्याची माहिती एका सरकारी अधिकाऱ्याने दिली आहे.. Latest Marathi News (मराठी बातम्या). Find Latest Desh Videsh news in Marathi at Loksatta.com",
+            "content": "इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालयाने या प्रकरणात मेटाला नोटीस बजावली असल्याची माहिती एका सरकारी अधिकाऱ्याने दिली आहे. मेटाला बजावलेल्या नोटीसमध्ये सरकारने इन्स्टाग्रामला बाल लैंगिक शोषण आणि शोषणाला प्रोत्साहन देणाऱ्या किंवा त्यापर्यंत पोह... [1862 chars]",
+            "url": "https://www.loksatta.com/desh-videsh/center-orders-meta-stop-sexual-abuse-ads-instagram-notice-gkt-96-6000641/",
+            "image": "https://images.loksattaimg.com/2026/07/Center-Orders-Meta-Stop-Child-Abuse-Ads-1.jpg",
+            "publishedAt": "2026-07-05T09:06:06Z",
+            "lang": "mr",
+            "source": {
+                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "784a47c3d4638c028a2447025acbe8b6",
+            "title": "AI च्या घसरणीनंतर Nifty 50 बनला जागतिक सुरक्षित आश्रयस्थान; गुंतवणूक वाढली!",
+            "description": "Indian Share Market: जागतिक बाजारातील AI अस्थिरतेनंतर परदेशी गुंतवणूकदार पुन्हा निफ्टी ५० कडे वळले. मॉर्गन स्टॅनलेने भारताला म्हटले 'मॅक्रो अॅसेट क्लास'. सविस्तर विश्लेषण.",
+            "content": "वर्षभराच्या बहुतांश काळात, ‘एआय’ क्षेत्रातील गुंतवणुकीच्या संधींचा अभाव भारतासाठी एक अडथळा ठरला. कारण गुंतवणूकदारांनी दक्षिण कोरिया आणि तैवानसारख्या बाजारांकडे आपला मोर्चा वळवला होता, जिथे त्यांना उत्कृष्ट परतावा मिळाला. मात्र, आता त्या गुंतवणुकीच्या... [1219 chars]",
+            "url": "https://www.loksatta.com/business/stock-market/indian-share-market-nifty-50-global-investors-safe-haven-stock-growth-ai-fall-aam-93-6000444/",
+            "image": "https://images.loksattaimg.com/2026/07/indian-share-market-nifty-50-global-investors-safe-haven-stock-growth.jpg",
+            "publishedAt": "2026-07-05T07:42:42Z",
+            "lang": "mr",
+            "source": {
+                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "bcc060f0e5d08bdc2f1ce34a17edc72c",
+            "title": "एआयमुळे आयटी संकट; पुणे-मुंबईत घरांची विक्री घटली",
+            "description": "AI Impact IT Layoffs Pune Mumbai Housing: एआय तंत्रज्ञानामुळे आयटी क्षेत्रातील नोकऱ्यांवरील संकट आणि जागतिक मंदीचा पुणे-मुंबईतील गृहनिर्माण क्षेत्राला मोठा फटका बसला असून घरांची विक्री घटली आहे.",
+            "content": "अनारॉक ग्रुपने देशातील महानगरांतील गृहनिर्माण क्षेत्राचा अहवाल जाहीर केला आहे. यानुसार, महानगरांमध्ये यंदा एप्रिल ते जून तिमाहीत एकूण ९० हजार ७१५ घरांची विक्री झाली तर १ लाख ६ हजार नवीन घरांचा पुरवठा झाला. घरांच्या विक्रीतील घट पुणे १५ टक्के, मुंबई ८... [2113 chars]",
+            "url": "https://www.loksatta.com/pune/ai-impact-it-layoffs-pune-mumbai-housing-sector-home-sales-drop-anarock-report-pune-print-news-rnb-99-6000441/",
+            "image": "https://images.loksattaimg.com/2026/07/New-Project-2026-07-05T125818.376.jpg",
+            "publishedAt": "2026-07-05T07:31:06Z",
+            "lang": "mr",
+            "source": {
+                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "6c9413bcd0be88ae5d6bd0bf3f33cb93",
+            "title": "Premium|Foreign Investment India : परदेशी भांडवलाचा ओघ कमी का होतोय?",
+            "description": "परदेशी गुंतवणूक घट: कर, एआय तंत्रज्ञान आणि रुपयाच्या घसरणीमुळे भारतातील FII ओघ का कमी होतोय याचा सखोल ऊहापोह; जागतिक भांडवल तैवान, दक्षिण कोरिया, अमेरिकेकडे कसे वळते याचे विश्लेषण | Foreign capital outflow from India: How tax regime, AI tech gap and rupee depreciation are eroding competitiveness and diverting global funds to Taiwan, South Korea and US.",
+            "content": "डॉ. दिलीप सातभाई - dvsatbhaiandco@gmail.com\nपरदेशी गुंतवणूकदार केवळ करामुळे भारतातून बाहेर पडत आहेत असे नाही. परंतु जागतिक निधीकडे अनेक पर्याय उपलब्ध असताना करातील हा फरक भारताच्या स्पर्धात्मकतेवर परिणाम करतो याची नोंद घेण्यास अर्थ मंत्रालय कमी पडले ... [1351 chars]",
+            "url": "https://www.esakal.com/premium-article/foreign-investment-india-fii-outflow-indian-rupee-bank-deposits-economic-growth-global-capital-amp17",
+            "image": "https://cf-images.assettype.com/esakal%2F2026-07-04%2Fr34a54xw%2FAbhi-5.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-07-05T01:59:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "c63148ffff45b2b662b31f99c84e5239",
+                "name": "eSakal",
+                "url": "https://www.esakal.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "f8952b956d0f6f950fbcfdc6251e3101",
+            "title": "ईएसआय रुग्णालयांत तंत्रज्ञान वापर वाढविणार",
+            "description": "ESI to increase use of technology in hospitals. Maharashtra Assembly Monsoon Session: राज्यातील ईएसआय (कामगार विमा) रुग्णालयांमध्ये आधुनिक तंत्रज्ञानाचा अधिकाधिक वापर करून आरोग्यसेवा अधिक सक्षम, जलद आणि सुलभ करण्यासाठी शासन कटिबद्ध असल्याची ग्वाही सार्वजनिक आरोग्यमंत्री प्रकाश आबिटकर यांनी दिली. | Maharashtra Marathi News (मराठी बातम्या). Find Breaking Headlines, Current and Latest Maharashtra news in Marathi at Lokmat.com",
+            "content": "मुंबई - राज्यातील ईएसआय (कामगार विमा) रुग्णालयांमध्ये आधुनिक तंत्रज्ञानाचा अधिकाधिक वापर करून आरोग्यसेवा अधिक सक्षम, जलद आणि सुलभ करण्यासाठी शासन कटिबद्ध असल्याची ग्वाही सार्वजनिक आरोग्यमंत्री प्रकाश आबिटकर यांनी शुक्रवारी विधानपरिषदेत आ. मनीषा कायंद... [524 chars]",
+            "url": "https://www.lokmat.com/maharashtra/esi-to-increase-use-of-technology-in-hospitals-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/hospital-fee-case_202006439790.png",
+            "publishedAt": "2026-07-04T05:38:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "1db34a6190be0a479b28f37a9ae9d47e",
+                "name": "Lokmat",
+                "url": "https://www.lokmat.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "68e0872b4e1e4ee725e5655752abe153",
+            "title": "सोलापूर विमानसेवा, उड्डाणपूल आणि ‘आयटी पार्क’ला गती, प्रलंबित प्रश्नांवर मुख्यमंत्र्यांसमवेत बैठक",
+            "description": "Solapur Infrastructure: मुख्यमंत्री देवेंद्र फडणवीस यांच्या बैठकीत सोलापूर विमानसेवा, उड्डाणपूल, आयटी पार्क आणि ई-बस सेवा प्रकल्पांना मंजुरी. Read Solapur Latest News.",
+            "content": "विधानभवन येथे सोलापूर शहरातील राष्ट्रीय महामार्ग प्राधिकरणाच्या प्रस्तावित दोन उड्डाणपुलांसंदर्भात मुख्यमंत्री यांच्या उपस्थितीत बैठक झाली. त्यास ग्रामविकास मंत्री तथा सोलापूरचे पालकमंत्री जयकुमार गोरे, सार्वजनिक बांधकाम मंत्री शिवेंद्रसिंहराजे भोसले... [2901 chars]",
+            "url": "https://www.loksatta.com/kolhapur/solapur-airport-flyover-it-park-projects-cm-devendra-fadnavis-meeting-sap-05-5998349/",
+            "image": "https://images.loksattaimg.com/2026/07/New-Project-2026-07-04T092721.229.jpg",
+            "publishedAt": "2026-07-04T05:29:08Z",
+            "lang": "mr",
+            "source": {
+                "id": "a1865c05a235b8ca6564b10cf28f9ca3",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "09ad59ceadf8893206bd73ab116d49f4",
+            "title": "'शेतीतून समृद्धीसाठी कष्टाला तंत्रज्ञानाची जोड आवश्यकच', लोकमत सरपंच अवॉर्ड सोहळ्यातील परिसंवादात तज्ज्ञांचा सूर",
+            "description": "For prosperity through agriculture, it is necessary to combine hard work with technology, experts say in a symposium at the Lokmat Sarpanch Award ceremony. Lokmat Sarpanch Award: शेतीत यशस्वी होण्यासाठी केवळ कष्ट पुरेसे नसून आधुनिक तंत्रज्ञानाचा अभ्यास, योग्य नियोजन आणि बदल स्वीकारण्याची मानसिक तयारी आवश्यक आहे. योग्य तंत्रज्ञानाचा वापर केल्यास शेती करूनही आर्थिकदृष्ट्या समृद्ध होता येते, असा सूर लोकमत सरपंच अवॉर्डनिमित्त आयोजित परिसंवादात तज्ज्ञांनी व्यक्त केला. | Maharashtra Marathi News (मराठी बातम्या). Find Breaking Headlines, Current and Latest Maharashtra news in Marathi at Lokmat.com",
+            "content": "मुंबई - शेतीत यशस्वी होण्यासाठी केवळ कष्ट पुरेसे नसून आधुनिक तंत्रज्ञानाचा अभ्यास, योग्य नियोजन आणि बदल स्वीकारण्याची मानसिक तयारी आवश्यक आहे. योग्य तंत्रज्ञानाचा वापर केल्यास शेती करूनही आर्थिकदृष्ट्या समृद्ध होता येते, असा सूर लोकमत सरपंच अवॉर्डनिम... [4183 chars]",
+            "url": "https://www.lokmat.com/maharashtra/for-prosperity-through-agriculture-it-is-necessary-to-combine-hard-work-with-technology-experts-say-in-a-symposium-at-the-lokmat-sarpanch-award-ceremony-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/lokmat-sarpanch-awards-parisanwad-1_2026071735078.jpg",
+            "publishedAt": "2026-07-04T05:16:36Z",
+            "lang": "mr",
+            "source": {
+                "id": "1db34a6190be0a479b28f37a9ae9d47e",
+                "name": "Lokmat",
+                "url": "https://www.lokmat.com",
+                "country": "in"
+            }
+        }
+    ],
+    "sports": [
+        {
+            "id": "b3241d2acd1035dac9f0854071070c02",
+            "title": "Brazil vs Norway : नेयमार रडला, पेले यांच्या विक्रमाशी बरोबरी! सामन्यानंतर नॉर्वे अन् Erling Haaland ची जखमेवर मीठ चोळणारी कृती Video Viral",
+            "description": "Neymar cries after Brazil vs Norway World Cup match: फिफा वर्ल्ड कप २०२६ मध्ये ब्राझीलच्या पराभवानंतर भावनिक आणि संस्मरणीय क्षण पाहायला मिळाले. नॉर्वेकडून २-१ असा धक्का बसताच नेयमारला अश्रू अनावर झाले. या पराभवासह ब्राझीलचे विश्वचषकातील आव्हान संपुष्टात आले.",
+            "content": "Norway's Erling Haaland viral celebration after Brazil win: नॉर्वे संघाने फिफा फुटबॉल वर्ल्ड कप २०२६ स्पर्धेत सोमवारी इतिहास रचला... पाचवेळच्या विजेत्या ब्राझील संघाला त्यांनी २-१ असा फरकाने पराभूत करून स्पर्धेबाहेर फेकले. एर्लिंग हालंडच्या दोन गोलने... [373 chars]",
+            "url": "https://www.esakal.com/krida/watch-erling-haaland-leads-norways-celebration-as-neymar-breaks-down-following-brazils-exit-in-fifa-world-cup-2026-video-viral",
+            "image": "https://cf-images.assettype.com/esakal%2F2026-07-05%2Fljgotffz%2FNeymar-cries-after-Brazil-vs-Norway-World-Cup-match?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-07-05T23:15:32Z",
+            "lang": "mr",
+            "source": {
+                "id": "9b7ea871fc552e5338bb7d66d4ff9a55",
+                "name": "Esakal",
+                "url": "https://www.esakal.com"
+            }
+        },
+        {
+            "id": "389b009afe0897cc6b87b1dcd398cacc",
+            "title": "वर्ल्ड कप फायनलमध्ये ऑस्ट्रेलियाने सातव्यांदा मारली बाजी, इंग्लंडवर घरच्या मैदानावर 7 विकेटने मात",
+            "description": "वुमन्स वर्ल्ड कप २०२६ च्या अंतिम सामन्यामध्ये ऑस्ट्रेलियाने इंग्लंडला ७ विकेटने पराभूत करत सातव्यांदा विजेतेपदावर नाव कोरले आहे. या सामन्यामध्ये ऑस्ट्रेलिया संघाने टॉस जिंकत प्रथम गोलंदाजी करण्याचा निर्णय घेतला होत. इंग्लंडने पहिल्यांदा फलंदाजी करताना १५०-४ धावा केल्या होत्या. वर्ल्ड कप इतिहासामधील चौथी सर्वात मोठी धावसंख्या उभारली होती. मात्र ऑस्ट्रेलिया संघाने १८ व्या ओव्हरमध्ये सहज हे आव्हान पूर्ण करत इतिहास रचला आहे. आठवेळा फायनल गाठणाऱ्या ऑस्ट्रेलिया सातवेळा विजय मिळवला आहे. ऑस्ट्रेलियाने इंग्लंडला आतापर्यंत तीनवेळा फायनलला हरवले आहे.",
+            "content": "मुंबई : वुमन्स वर्ल्ड कप २०२६ च्या अंतिम सामन्यामध्ये ऑस्ट्रेलियाने इंग्लंडला ७ विकेटने पराभूत करत सातव्यांदा विजेतेपदावर नाव कोरले आहे. या सामन्यामध्ये ऑस्ट्रेलिया संघाने टॉस जिंकत प्रथम गोलंदाजी करण्याचा निर्णय घेतला होत. इंग्लंडने पहिल्यांदा फलंदा... [4641 chars]",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/australia-women-won-7-wickets-against-england-in-icc-womens-t20-world-cup-2026-final/articleshow/132197376.cms",
+            "image": "https://static.langimg.com/mt/thumb/132201302/womens-world-cup-winner-2026.jpg?imgsize=174624&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-07-05T18:07:19Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "344af649bdc5554ed4afbecb4ea1c7d1",
+            "title": "IND vs ENG : दुसऱ्या टी20 सामन्यात भारताचा पराभव, पण डावखुऱ्या फलंदाजांनी रचला इतिहास",
+            "description": "भारताने इंग्लंडविरुद्धचा दुसरा टी20 सामना गमवला. इंग्लंडने भारताला 4 विकेट आणि सहा चेंडू राखून पराभूत केलं. यासह पाच सामन्यांच्या टी20 मालिकेत 1-0 ने आघाडी घेतली. असं असलं तरी भारताच्या डावखुऱ्या फलंदाजांनी या सामन्यात विश्वविक्रम रचला.",
+            "content": "भारतीय संघाने इंग्लंडविरुद्धच्या दुसऱ्या टी20 सामन्यात डावखुरा प्रयोग केला. या सामन्यात भारताने डावखुऱ्या फलंदाजांची फौज उतरवली होती. भारताचा पराभव झाला पण या डावखुऱ्या फलंदाजांनी एक विश्वविक्रम रचला. (Photo: BCCI)\nइंग्लंडविरुद्धच्या दुसऱ्या टी20 साम... [669 chars]",
+            "url": "https://www.tv9marathi.com/photo-gallery/sports-photos/india-set-a-record-in-the-second-t20-match-against-england-by-fielding-six-left-handed-batsmen-among-their-top-seven-1705315.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/07/India_Left_Handed_Batsman-3-1.jpg",
+            "publishedAt": "2026-07-05T17:45:20Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "1b1dfddbfbb5984fd0990a0156409fa8",
+            "title": "३ शतकवीर! वैभव सूर्यवंशी हा डाव साधणार?",
+            "description": "इंग्लंड दौऱ्यावर चार धुरंधरांमध्ये शतकी धमाका करण्याची ताकद, कोण साधणार डाव? | Indian Scored A T20I Century On English Soil",
+            "content": "इंग्लंडच्या मैदानात T20I मध्ये शतकी डाव साधणारे ३ भारतीय; चौथा कोण?\nया चौघांमध्ये आहे ती धमक\nहिटमॅन रोहित शर्मानेही २०१८ मध्येच इंग्लंडच्या मैदानात शतकी धमाका केला होता. पण त्यानंतर ४ वर्षे एकाही बॅटरला ही कामगिरी करता आली नाही.\n२०२२ मध्ये सूर्यकुमार... [331 chars]",
+            "url": "https://www.lokmat.com/cricket/web-stories/three-batsmen-including-suryakumar-yadav-and-rohit-sharma-have-scored-a-century-on-english-soil-will-vaibhav-suryavanshi-be-fourth-ct4-a1004/",
+            "image": "https://www.lokmat.com/cricket/web-stories/three-batsmen-including-suryakumar-yadav-and-rohit-sharma-have-scored-a-century-on-english-soil-will-vaibhav-suryavanshi-be-fourth-ct4-a1004/assets/1.jpeg",
+            "publishedAt": "2026-07-05T16:24:10Z",
+            "lang": "mr",
+            "source": {
+                "id": "ff9762c8150746827821a08d529386fe",
+                "name": "Lokmat.com",
+                "url": "https://www.lokmat.com"
+            }
+        },
+        {
+            "id": "34f4ff292cd59983baffc8a0aa2c41fa",
+            "title": "मुरली विजय भर कार्यक्रमात दिनेश कार्तिकबाबत बोलला असं काही..., सारेच झाले अवाक्",
+            "description": "Murali Vijay said something about Dinesh Karthik in the Bhar program..., everyone was speechless - दिनेश कार्तिकची पहिली पत्नी निकिता हिच्यासोबत मुरली विजयचे असलेलं अफेअर आणि त्यानंतर त्या दोघांनी केलेलं लग्न याची क्रिकेट जगतात बरीच चर्चा झाली होती. त्यामुळे दिनेश कार्तिक आणि मुरली विजय यांच्यात वितुष्ट निर्माण झाले होते. दरम्यान, आता मुरली विजय याने तामिळनाडू क्रिकेट संघटनेच्या वार्षिक कार्यक्रमात दिनेश कार्तिकबाबत केलेल्या वक्तव्याची चर्चा सुरू आहे.  Find Latest cricket articles and live match coverage on Lokmat.com",
+            "content": "भारतीय क्रिकेटमधील दोन माजी खेळाडू असलेल्या दिनेश कार्तिक आणि मुरली विजय यांच्यातील वाद सर्वांना माहिती आहे. दिनेश कार्तिकची पहिली पत्नी निकिता हिच्यासोबत मुरली विजयचे असलेलं अफेअर आणि त्यानंतर त्या दोघांनी केलेलं लग्न याची क्रिकेट जगतात बरीच चर्चा झ... [1247 chars]",
+            "url": "https://www.lokmat.com/cricket/news/murali-vijay-said-something-about-dinesh-karthik-in-the-bhar-program-everyone-was-speechless-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/murli-vijay-dinesh-kartik-2_2026071736016.jpg",
+            "publishedAt": "2026-07-05T15:17:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "ff9762c8150746827821a08d529386fe",
+                "name": "Lokmat.com",
+                "url": "https://www.lokmat.com"
+            }
+        },
+        {
+            "id": "5dbb331b9f7203cf9fed5bf7adf836fd",
+            "title": "पृथ्वी शॉने होणाऱ्या बायकोला फसवलं? आकृती अग्रवालच्या इन्स्टा पोस्टने उडाली खळबळ; म्हणाली, “त्या सर्व अफवा खऱ्या आहेत”",
+            "description": "Prithvi Shaw Fiancee Akriti Agarwal Cryptic Instagram Story Viral Claims Cricketer Cheated On Her Marathi News Bdg 99 - Prithvi Shaw Fiancee Insta Post: पृथ्वी शॉ ची होणारी पत्नी आकृती अग्रवाल हिने इन्स्टाग्रामवर केलेल्या पोस्टमुळे सध्या सोशल मीडियावर चर्चांना उधाण आलंय, पृथ्वीने तिला धोका दिल्याचा उल्लेख तिने यात केल्याचं म्हटलं जात आहे.\n. Latest Marathi News (मराठी बातम्या). Find Latest Krida news in Marathi at Loksatta.com",
+            "content": "पृथ्वीची होणारी पत्नी आकृतीने तिच्या इन्स्टाग्रामवर एक स्टोरी शेअर केली आहे. तिने यात पृथ्वी शॉचं नाव स्पष्टपणे घेतलं नसलं तरी, पण या दोघांमध्ये काहीतरी बिनसल्याची चर्चा सोशल मीडियावर काही काळापासून सुरू होती. अशा स्थितीत, आकृतीने शॉचे नाव न घेता एक ... [1446 chars]",
+            "url": "https://www.loksatta.com/krida/prithvi-shaw-fiancee-akriti-agarwal-cryptic-instagram-story-viral-claims-cricketer-cheated-on-her-marathi-news-bdg-99-6001236/",
+            "image": "https://images.loksattaimg.com/2026/07/Prithvi-shaw-4.jpg",
+            "publishedAt": "2026-07-05T14:49:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "62d1010536af7ab30a2a024770aa0e02",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com"
+            }
+        },
+        {
+            "id": "e0656c6b1f8b92bc58995c6ade0b5d80",
+            "title": "ENG vs IND 3rd T20 : भारत विरुद्ध इंग्लंड तिसऱ्या सामन्याची वेळ बदलली! आता 7 वाजता नाही, तर 3 तास उशिरा सुरू होणार मॅच, जाणून घ्या A टू Z",
+            "description": "India vs England 3rd T20 Timing changed : भारत आणि इंग्लंड यांच्यातील पाच सामन्यांच्या टी-20 मालिकेतील दोन सामने पूर्ण झाले असून आता दोन्ही संघ तिसऱ्या सामन्यासाठी सज्ज झाले आहेत.",
+            "content": "India vs England 3rd T20 Timing changed : भारत आणि इंग्लंड यांच्यातील पाच सामन्यांच्या टी-20 मालिकेतील दोन सामने पूर्ण झाले असून आता दोन्ही संघ तिसऱ्या सामन्यासाठी सज्ज झाले आहेत. मालिकेतील पहिला सामना पावसामुळे रद्द झाला, तर दुसऱ्या सामन्यात इंग्लंड... [2014 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/india-vs-england-3rd-t20-match-timing-changed-will-now-start-at-10-pm-get-all-the-details-here-eng-vs-ind-3rd-t20-marathi-news-1430629",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/05/a36da5393dcd81e728b095b36ab068bf17832494684731378_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-07-05T11:04:41Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "b6ec070a7a48979afda5a2c32f32dc4b",
+            "title": "Sri Lanka A vs India A 2nd Test : एकाने धावा केल्या, दुसऱ्याने 10 विकेट्स घेतल्या; सुदर्शन-गुरनूर ब्रारने श्रीलंकेच्या संपूर्ण टीमला गुडघ्यावर आणले, टीम इंडियाचा एकतर्फी विजय",
+            "description": "Sri Lanka A vs India A 2nd Unofficial Test : इंडिया ए संघाने श्रीलंका एविरुद्धच्या दोन सामन्यांच्या कसोटी मालिकेतील दुसरा सामना तब्बल 10 विकेट्सनी जिंकत मालिका 1-0 अशी आपल्या नावावर केली.",
+            "content": "Sri Lanka A vs India A 2nd Unofficial Test : ध्रुव जुरेलच्या दमदार नेतृत्वाखाली इंडिया ए संघाने श्रीलंका एविरुद्धच्या दोन सामन्यांच्या कसोटी मालिकेतील दुसरा सामना तब्बल 10 विकेट्सनी जिंकत मालिका 1-0 अशी आपल्या नावावर केली. पहिला सामना अनिर्णित राहिल्... [2393 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/india-win-by-10-wickets-clinch-series-1-0-vs-sri-lanka-2nd-unofficial-test-day-4-gurnoor-brar-sai-sudharsan-marathi-news-1430621",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/05/bccf53fa29712336ee688042d05a7f6817832461265251378_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-07-05T10:08:58Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "51241a4fb32e5094b777e647ee812932",
+            "title": "माझा विश्वासघात झाला; पृथ्वी शॉ आणि आकृतीचे नाते तुटले? साखरपुड्याच्या 4 महिन्यांतच…",
+            "description": "पृथ्वी शॉ आणि त्याची होणारी पत्नी आकृती अग्रवाल यांच्या चार महिन्यांपूर्वी साखरपुडा झाला होता. पण आता त्यांचे नाते तुटल्याच्या चर्चांना उधाण आले आहे. आकृतीने तिच्या सोशल मीडियावर केलेल्या पोस्टने सर्वांचे लक्ष वेधले आहे.",
+            "content": "भारतीय क्रिकेटर पृथ्वी शॉ आणि त्याची होणारी पत्नी आकृती अग्रवाल हे कायमच चर्चेत राहिले आहेत. आता त्यांच्या नात्याबाबत सोशल मीडियावर मोठा दावा करण्यात येत आहे. मार्च २०२६ मध्ये दोघांनी साखरपुडा केल्यानंतर आता मोठी खळबळजनक माहिती समोर येत आहे. आकृती अग... [1266 chars]",
+            "url": "https://www.tv9marathi.com/photo-gallery/breakup-rumours-surrounding-prithvi-shaw-and-akriti-agarwal-have-reportedly-unfollowed-each-other-1704970.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/07/Prithvi-Shaw-And-Akriti-Agarawal-6.jpg",
+            "publishedAt": "2026-07-05T09:45:06Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "ab9a58ec15721e5ed98799cf9b06dd02",
+            "title": "IND VS ENG 3rd T20 Vaibhav Sooryavanshi : मँचेस्टरमध्ये नुसती झलक दाखवली, आता नॉटिंगहॅममध्ये होणार खरा राडा; वैभव सूर्यवंशी पुन्हा कधी ॲक्शनमध्ये दिसणार? वाचा A टू Z",
+            "description": "IND VS ENG 3rd T20 Vaibhav Sooryavanshi : इंग्लंडविरुद्ध खेळल्या गेलेल्या दुसऱ्या टी-20 सामन्यात टीम इंडियाला पराभवाचा सामना करावा लागला असला, तरी हा सामना एका ऐतिहासिक घटनेचा साक्षीदार ठरला.",
+            "content": "IND VS ENG 3rd T20 Vaibhav Sooryavanshi : इंग्लंडविरुद्ध खेळल्या गेलेल्या दुसऱ्या टी-20 सामन्यात टीम इंडियाला पराभवाचा सामना करावा लागला असला, तरी हा सामना एका ऐतिहासिक घटनेचा साक्षीदार ठरला. अवघ्या 15 वर्षांच्या वैभव सूर्यवंशीला या सामन्यात पदार्पण ... [1927 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/india-vs-england-3rd-t20i-vaibhav-sooryavanshi-when-will-play-next-match-date-and-time-ind-vs-eng-marathi-news-1430593",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/05/1cfb3cc3206ccf85f269e369c65adbb017832384907251378_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-07-05T08:01:51Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        }
+    ],
     "entertainment": []
 }

@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "4f001b85c25338fdd459d63cce6b260a",
+            "title": "Donald Trump : इराणला ज्या लोकांना मारायचं आहे त्या यादीत पहिल्या स्थानावर माझं नाव, डोनाल्ड ट्रम्प यांचा दावा, इराणवर मोठ्या हल्ल्याची ट्रम्प यांची धमकी",
+            "description": "Donald Trump : अमेरिकेचे अध्यक्ष डोनाल्ड ट्रम्प यांनी इराणवर विनाशकारी हल्ला करण्याचा इशारा दिला आहे. यामुळं युद्धाचं संकट निर्माण झालं आहे.",
+            "content": "Donald Trump America Iran War नवी दिल्ली: अमेरिका आणि इराण यांच्यात पुन्हा वादाची ठिणगी पडली आहे. होर्मुझच्या सामुद्रधुनीतून जाणाऱ्या तीन तेलवाहतूक करणाऱ्या जहाजांवर हल्ले झाल्यानंतर अमेरिकेनं आक्रमक भूमिका घेतली आहे. अमेरिकेच्या हवाई दलानं इराणच्या ... [1898 chars]",
+            "url": "https://marathi.abplive.com/news/world/us-iran-war-donald-trump-claim-his-name-at-top-in-iran-killing-list-trump-warning-big-attack-on-iran-marathi-news-1431054",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/08/ba1a3c7584a41cff48dddddeb3452cea1783534980848989_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-07-08T18:24:06Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
             "id": "74283447856e9032667181705fc8b4d3",
             "title": "KDMC Doctor Assault Case : शिंदेंच्या शिवसेनेचे मारकुटे नगरसेवक रमेश म्हात्रेंना अटक, तब्येत बिघडल्याने लागोलाग रुग्णालयात दाखल!",
             "description": "KDMC Doctor Assault Case Ramesh Mhatre Arrested : डोंबिवलीच्या शास्त्रीनगर रुग्णालयातील डॉक्टर मारहाण प्रकरणी शिवसेना नगरसेवक रमेश म्हात्रे यांना अखेर पोलिसांनी अटक केली आहे.",
@@ -133,21 +148,6 @@
                 "id": "d0ecbd318b81c0114aad430372084c1a",
                 "name": "ABP Majha",
                 "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "c30cc2dd2ec82297171b9789c9c09e61",
-            "title": "Rajesh Sharma Hospitalized; शूटिंग सुरू असताना राजेश शर्मांना चावला किडा; प्रकृती नाजूक, 'भूतबंगला' फेम अभिनेत्यावर उपचार सुरू",
-            "description": "Rajesh Sharma Hospitalized : सुप्रसिद्ध अभिनेते राजेश शर्मा यांना शूटिंगदरम्यान किडा चावला असून त्या किड्याचं विष अभिनेत्याच्या शरीरात पसरलं आहे. त्यामुळे राजेश शर्मा यांची प्रकृती गंभीर असल्यामुळे त्यांच्यावर रुग्णालयात उपचार सुरू आहेत.",
-            "content": "मुंबई - अनेक बॉलिवूड चित्रपटांमध्ये सहाय्यक भूमिका साकारणारे अभिनेते राजेश शर्मा सध्या पश्चिम बंगालमधील एका रुग्णालयात मृत्यूशी झुंज देत आहेत. चित्रपटाच्या सेटवर एक किडा त्यांना चावला आणि त्यांची प्रकृती खालावली. त्यांची प्रकृती गंभीर झाल्यानं त्यांन... [4751 chars]",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/actor-rajesh-sharma-hospitalized-suspected-insect-bite/articleshow/132266049.cms",
-            "image": "https://static.langimg.com/mt/thumb/132266375/rajesh-sharma-hospitalized.jpg?imgsize=92449&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-07-08T14:36:21Z",
-            "lang": "mr",
-            "source": {
-                "id": "86afe444484a22a46a5f6295debcbf1a",
-                "name": "Maharashtra Times",
-                "url": "https://maharashtratimes.com"
             }
         }
     ],

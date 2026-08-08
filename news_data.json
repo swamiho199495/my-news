@@ -1,43 +1,73 @@
 {
     "general": [
         {
-            "id": "8ab525492f6de761d96eb9c49d2cb1ea",
-            "title": "Mumbai Local: धावत्या लोकलमध्ये पुरूष प्रवाशाकडून महिलेला मारहाण, मुंबईतील धक्कादायक प्रकार; पाहा संजापजनक VIDEO",
-            "description": "Mumbai News: मुंबईतून एक संतापजनक घटना समोर आली आहे. धावत्या लोकलमध्ये महिला प्रवाशाला मारहाण करण्यात आली. पुरूष प्रवाशाने महिलेला बेल्टने मारहाण केली.",
-            "content": "मुंबई लोकलमध्ये प्रवाशांवर जीवघेणा हल्ल्यापासून ते हत्या करण्यापर्यंतच्या अनेक घटना गेल्या काही दिवसांपासून वारंवार समोर येत आहेत. यामुळे रेल्वे प्रवाशांच्या सुरक्षिततेचा प्रश्न ऐरणीवर आला आहे. अशातच मुंबई लोकलमधील आणखी एक धक्कादायक प्रकार समोर आला आ... [1027 chars]",
-            "url": "https://saamtv.esakal.com/mumbai-pune/mumbai-local-shocker-man-assaults-woman-inside-running-train-disturbing-man-uses-belt-during-heated-argument-video-goes-viral-pvm91",
-            "image": "https://cf-images.assettype.com/saamtv%2F2026-08-07%2Fyte44o7e%2FChatGPT-Image-Aug-7-2026-120627-PM.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-08-07T06:38:44Z",
-            "lang": "mr",
-            "source": {
-                "id": "36c482d58a61229d6b752791e526b574",
-                "name": "Saam Tv",
-                "url": "https://saamtv.esakal.com"
-            }
-        },
-        {
-            "id": "72136cec16724df8bd4afd2ec928de8d",
-            "title": "PM Modi Meeting with Shiv Sena MPs: पीएम मोदींची शिवसेनेच्या सात खासदारांसोबत 'ब्रेकफास्ट पे चर्चा', ओमराजे निंबाळकरांच्या 'त्या' गोष्टीची खास विचारपूस; बैठकीतील Inside Story",
-            "description": "PM Modi Meeting with Shiv Sena MPs: शिवसेनेच्या सात खासदारांसह पंतप्रधान नरेंद्र मोदी यांनी स्वतंत्र संवाद साधला असून, या बैठकीची आता इनसाईड स्टोरी समोर आली आहे.",
-            "content": "PM Modi Meeting with Shiv Sena MPs: पंतप्रधान नरेंद्र मोदी (PM Narendra Modi) यांनी शिवसेनेच्या खासदारांशी ब्रेकफास्ट बैठकीत (Breakfast Meeting) संवाद साधला. या बैठकीची इनसाईड स्टोरी आता समोर आली आहे. बैठकीत राजकीय घडामोडींसोबतच मतदारसंघातील विकासकाम... [1922 chars]",
-            "url": "https://marathi.abplive.com/news/politics/pm-modi-breakfast-meeting-with-shiv-sena-mps-inside-story-development-works-pmo-direct-contact-omraje-nimbalkar-eknath-shinde-maharashtra-politics-marathi-news-1434690",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/07/5d9be2ede5a9cd4e056b92856d182b4e1786084634046923_original.png?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-08-07T06:37:48Z",
+            "id": "4562e61d7fb46c5920e9c4674eaf3eaa",
+            "title": "IND vs SL XI Day 1 : वेगवान गोलंदाज एक्स्पोज, पण फिरकीपटूंनी पलटवला डाव; 'या' तिघांनी वाचवली टीम इंडियाची इज्जत, पहिल्या दिवशी नेमकं काय काय घडलं?",
+            "description": "Sri Lanka XI vs India 3-Day Warm-up Match Day 1 Stumps : भारत आणि श्रीलंका इलेव्हन यांच्यातील तीन दिवसीय सराव सामन्याला आज कोलंबोतील नॉनडिस्क्रिप्ट्स क्रिकेट क्लब मैदानावर सुरुवात झाली.",
+            "content": "Sri Lanka XI vs India 3-Day Warm-up Match Day 1 Stumps : भारत आणि श्रीलंका इलेव्हन यांच्यातील तीन दिवसीय सराव सामन्याला आज कोलंबोतील नॉनडिस्क्रिप्ट्स क्रिकेट क्लब मैदानावर सुरुवात झाली. पहिल्या दिवसाचा खेळ संपेपर्यंत श्रीलंका इलेव्हनने 90 षटकांत 8 गड... [2279 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/ind-vs-slc-xi-day-1-highlights-kuldeep-yadav-manav-suthar-ravindra-jadeja-hosts-at-363-8-at-stumps-marathi-news-1434744",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/07/518b9d4b5abe6ce0a69f1985b8d2beb317861077118581378_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-08-07T13:02:32Z",
             "lang": "mr",
             "source": {
                 "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
+                "name": "marathi.abplive.com",
                 "url": "https://marathi.abplive.com"
             }
         },
         {
-            "id": "c2e398365c0a4e3e4dc61a132cf6b949",
-            "title": "ओमराजे निंबाळकर यांच्याकडून नरेंद्र मोदी यांनी घेतली मोठी माहिती, शिंदेंच्या खासदारांसोबत स्वतंत्र चर्चा, थेट..",
-            "description": "फुटीर खासदार पंतप्रधान नरेंद्र मोदी यांच्या भेटीला पोहोचले. यादरम्यान त्यांच्यात चर्चा झाली. शिवसेना ठाकरे गटातून शिवसेना शिंदे गटात प्रवेश केलेल्या 6 खासदारांसोबत नरेंद्र मोदी यांनी स्वतंत्रपणे संवाद साधल्याची माहिती मिळतंय.",
-            "content": "दिल्लीत पावसाळी अधिवेशन सुरू आहे. या पावसाळी अधिवेशनानिमित्ताने सर्व खासदार दिल्लीत आहेत. यादरम्यानच फुटीर खासदार पंतप्रधान नरेंद्र मोदी यांच्या भेटीला पोहोचले. यादरम्यान ब्रेकफास्टही त्यांनी नरेंद्र मोदी यांच्यासोबत केला. शिवसेना ठाकरे गटातून बंडखोर... [1662 chars]",
-            "url": "https://www.tv9marathi.com/national/prime-minister-narendra-modi-held-separate-interaction-with-seven-mps-from-the-shiv-sena-shinde-faction-1728451.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/08/Omraje-Nimbalkar-and-Narendra-Modi-.jpg",
-            "publishedAt": "2026-08-07T06:10:15Z",
+            "id": "da9443635b64ed3180e9d849a593580d",
+            "title": "उपमुख्यमंत्री एकनाथ शिंदे यांनी शिवसेनेच्या खासदारांसह दिल्ली येथे घेतली पंतप्रधान नरेंद्र मोदी यांची भेट",
+            "description": "उपमुख्यमंत्री एकनाथ शिंदे यांनी शिवसेनेच्या खासदारांसह दिल्ली येथे पंतप्रधान नरेंद्र मोदी यांची सदिच्छा भेट घेतली. महाराष्ट्राचा विकास, पावसाची परिस्थिती आणि विविध महत्त्वाच्या विषयांवर सकारात्मक चर्चा झाल्याची माहिती शिवसेनेकडून देण्यात आली.",
+            "content": "मुंबई : (Eknath Shinde Meets PM Modi) देशाचे पंतप्रधान नरेंद्र मोदी यांची शिवसेना मुख्य नेते व उपमुख्यमंत्री एकनाथ शिंदे यांनी शिवसेनेच्या खासदारांसह दिल्ली येथे शुक्रवार दि.७ रोजी सदिच्छा भेट घेतली. या भेटीदरम्यान महाराष्ट्राचा सर्वांगीण विकास, सध्य... [465 chars]",
+            "url": "https://www.mahamtb.com/Encyc/2026/8/7/eknath-shinde-meets-prime-minister-narendra-modi-with-shiv-sena-mps-delhi-.php",
+            "image": "https://www.mahamtb.com/Encyc/2026/8/7/NEW-Template-for-Articles-and-News---2026-08-07T172943.003_202608071733025845_H@@IGHT_350_W@@IDTH_696.jpg",
+            "publishedAt": "2026-08-07T12:59:44Z",
+            "lang": "mr",
+            "source": {
+                "id": "5d6a9204995806af9e83b10da11a825a",
+                "name": "MahaMTB",
+                "url": "https://www.mahamtb.com"
+            }
+        },
+        {
+            "id": "05d5af100233f5352e885bdb48151daa",
+            "title": "प्रशांत किशोर यांच्या रणनीतीकार पदी नियुक्तीबाबत माहिती नाही",
+            "description": "प्रशांत किशोर यांच्या राष्ट्रवादी काँग्रेसमधील संभाव्य नियुक्तीबाबत माहिती नसल्याचे प्रदेशाध्यक्ष सुनील तटकरे यांनी स्पष्ट केले. सुनेत्रा पवार आणि प्रशांत किशोर यांची भेट ही केवळ सदिच्छा भेट असल्याचे त्यांनी सांगितले.",
+            "content": "प्रदेशाध्यक्ष सुनील तटकरे; ती केवळ सदिच्छा भेट\nमुंबई : (Sunil Tatkare on Prashant Kishor) प्रशांत किशोर यांची राजकीय रणनीतीकार म्हणून निवड झाल्याचे मला माहिती नाही. पण त्यांची आणि उपमुख्यमंत्री सुनेत्रा पवार यांची भेट झाल्याचे मी वाचले. त्यांची औपचार... [3134 chars]",
+            "url": "https://www.mahamtb.com/Encyc/2026/8/7/sunil-tatkare-on-prashant-kishor-meeting-ncp-strategist-clarification-.php",
+            "image": "https://www.mahamtb.com/Encyc/2026/8/7/NEW-Template-for-Articles-and-News---2026-08-07T182216.225_202608071822370939_H@@IGHT_350_W@@IDTH_696.jpg",
+            "publishedAt": "2026-08-07T12:59:44Z",
+            "lang": "mr",
+            "source": {
+                "id": "5d6a9204995806af9e83b10da11a825a",
+                "name": "MahaMTB",
+                "url": "https://www.mahamtb.com"
+            }
+        },
+        {
+            "id": "b99cfcf1eff55dc4ec95efd4766fe2bf",
+            "title": "Tanya Puri On Bollywood Actor; 'विवाहित असूनही निम्म्या वयाच्या मुलींसोबत संबंध ठेवतो', डिटेक्टिव्हनं केली बॉलिवूड अभिनेत्याची पोलखोल",
+            "description": "Tanya Puri On Actor : ﻿डिटेक्टिव्ह तान्या पुरीनं एका मुलाखतीमध्ये बॉलिवूड अभिनेत्याची पोलखोल केली आहे.",
+            "content": "मुंबई - कलाकारांच्या वैयक्तिक आयुष्यात अनेकदा अडचणी असतात. काही स्टार जोडपी त्यांचं नातं चांगलं नसतानाही एकत्र राहतात. ते आपल्या मुलांसाठी किंवा सामाजिक टीका टाळण्यासाठी परिस्थितीशी तडजोड करतात. आता, खाजगी गुप्तहेर तान्या पुरीनं एका बॉलिवूड जोडप्याबद... [4458 chars]",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/detective-tanya-puri-shocking-revelation-about-bollywood-actor-affair/articleshow/133033850.cms",
+            "image": "https://static.langimg.com/mt/thumb/133034177/tanya-puri-on-bollywood-actor.jpg?imgsize=89220&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-08-07T12:34:18Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
+            }
+        },
+        {
+            "id": "5d956b0a774db011c3f074243e1ca536",
+            "title": "तामिळनाडूचे CM विजय थलपती यांचा घटस्फोट होणार नाही ! पत्नीची कोर्टातून अचानक माघार…",
+            "description": "तामिळनाडूचे मुख्यमंत्री विजय थलपती यांची पत्नी संगिता हीने अभिनेत्री तृष्णा यांच्या त्यांचे संबंध असल्याचे कळाल्यानंतर कोर्टात घटस्फोटासाठी फेब्रुवारी २०२६ मध्ये याचिका दाखल केली होती, आता ही याचिका संगिता यांनी मागे घेतली आहे...",
+            "content": "तामिळनाडुचे मुख्यमंत्री सी.जोसेफ विजय आणि त्यांची पत्नी संगिता याच्या दरम्यान सुरु असलेल्या घटस्फोटाच्या प्रकरणाला वेगळे वळण लागले आहे. गेल्या काही महिन्यांपासून दोघे वेगळे होणार असल्याची चर्चा होती. परंतू आता संगिता चेंगलपट्टू यांनी कोर्टात दाखल केल... [2697 chars]",
+            "url": "https://www.tv9marathi.com/entertainment/tamil-nadu-cm-vijay-will-not-get-divorced-wife-withdraws-petition-1728836.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/08/vijay-thalapathy-and-sangeetha-divorce-case.jpg",
+            "publishedAt": "2026-08-07T12:28:24Z",
             "lang": "mr",
             "source": {
                 "id": "86b106434a8aa7ab0755463f15cc13f7",
@@ -46,73 +76,13 @@
             }
         },
         {
-            "id": "dc0741edfbc206b1741c4242b83a9a34",
-            "title": "Raj Thackeray | 'एसआयआर'वर करडी नजर ठेवा",
-            "description": "Raj Thackeray | पश्चिम बंगालमधील एक कोटी नावे यादीतून गायब झाल्याचा दावा",
-            "content": "पश्चिम बंगालमधील एक कोटी नावे मतदार-यादीतून गायब झाल्याचा दावा करताना महाराष्ट्रात त्याची पुनरावृत्ती होऊ नये, यासाठी प्रत्येक मतदान केंद्रावर मनसेचे अधिकाधिक बूथ लेव्हल एजंट (बीएलए) नियुक्त करावेत, अशा स्पष्ट सूचनाही त्यांनी गुरुवारी नाशिकमध्ये दिल्... [1315 chars]",
-            "url": "https://pudhari.news/maharashtra/north-maharashtra/nashik/raj-thackeray-nashik-tour-mns-voter-list-sir-allegation-sd22",
-            "image": "https://cf-images.assettype.com/pudharinews%2F2026-08-07%2Frsuvoomu%2FRaj-Thackeray-Explains-Chinas-Gaokao-Exam.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-08-07T06:09:43Z",
-            "lang": "mr",
-            "source": {
-                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
-                "name": "Pudhari",
-                "url": "https://pudhari.news"
-            }
-        },
-        {
-            "id": "f80201a2b4a8c687f3b044511cff3696",
-            "title": "Shubman Gill: गिलला दुखापत, बीसीसीआयकडून नव्या कॅप्टनचे नाव समोर, सांभाळणार संघाची धुरा",
-            "description": "भारतीय संघाचा कर्णधार शुभमन गिलला दुखापत झाली आहे. या दुखापतीमुळे आता त्याला खेळता येणार नाही. बीसीसीआयने थेट संघाचा कर्णधार बदलला आहे. आता बीसीसीआयने नवीन कर्णधाराच्या नावाची घोषणा केली आहे. नव्या कर्णधाराच्या नेतृत्त्वात भारतीय संघ आता मैदानावर उतरला आहे.",
-            "content": "भारत आणि श्रीलंका यांच्यात कसोटी सामन्यांची मालिका सुरु होणार आहे. या कसोटी सामन्यांच्या मालिकेत दोन सामने रंगणार आहे. भारतीय संघ श्रीलंकेत पोहोचला असून जोरदार सराव करतानाही दिसला. याचे अनेक व्हिडिओ सोशल मीडियावर मोठ्या प्रमाणात व्हायरल झाले. आता या ... [2309 chars]",
-            "url": "https://www.tv9marathi.com/sports/shubman-gill-injured-so-bcci-changed-captain-for-india-vs-sl-series-1728469.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/08/shubman-gill-1.png",
-            "publishedAt": "2026-08-07T06:08:39Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
-            }
-        },
-        {
-            "id": "aa6d08fd6a0ce0290160177fe64273f7",
-            "title": "Doctors strike Nashik | नााशिकमध्ये डॉक्टरांच्या संपाचा 3 रा दिवस; आपत्कालीन सेवा बंद झाल्याने आरोग्य यंत्रणा कोलमडली",
-            "description": "Doctors strike Nashik | शहर आणि ग्रामीण भागातील खासगी रुग्णालयांत या संपाचा परिणाम दिसून येत आहे. सर्व खासगी रुग्णालयांतील बाह्यरुग्ण विभाग पूर्णपणे ठप्प झाले आहेत.",
-            "content": "शहर आणि ग्रामीण भागातील खासगी रुग्णालयांत या संपाचा परिणाम दिसून येत आहे. सर्व खासगी रुग्णालयांतील बाह्यरुग्ण विभाग पूर्णपणे ठप्प झाले आहेत. नियोजित तपासणी, पाठपुरावा आणि किरकोळ शस्त्रक्रिया पुढे ढकलल्या आहेत. अनेक रुग्णालयाबाहेर रुग्णांची गर्दी दिसत... [1561 chars]",
-            "url": "https://pudhari.news/goa/nashik-doctors-strike-affects-emergency-services-ima-calls-off-strike-after-hc-notice-sd22",
-            "image": "https://cf-images.assettype.com/pudharinews%2F2026-04-04%2Fay8akvv1%2FSgnp-2026-03-27T142653.621.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-08-07T05:53:53Z",
-            "lang": "mr",
-            "source": {
-                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
-                "name": "Pudhari",
-                "url": "https://pudhari.news"
-            }
-        },
-        {
-            "id": "d4f4f3a774df3e28055896ebfffd807a",
-            "title": "Nashik Simhastha Kumbh Mela | नाशिकच्या रस्त्यांवरील खड्ड्यांवर मुख्यमंत्री ॲक्शन मोडमध्ये; मुंबईत तातडीची उच्चस्तरीय बैठक",
-            "description": "Nashik Simhastha Kumbh Mela | शहरातील रस्त्यांवरील खड्ड्यांचा प्रश्न अत्यंत गंभीर झाला असून, यावर राज्यभरात चर्चा रंगली आहे.",
-            "content": "खड्ड्यांमुळे वाढलेले अपघात, नागरिकांचा तीव्र संताप आणि विकासकामांवर निर्माण झालेले प्रश्नचिन्ह यामुळे प्रशासनावर प्रचंड दबाव आहे. मुख्यमंत्र्यांच्या बैठकीमुळे अधिकाऱ्यांची अहवाल व माहिती सादर करण्याची लगबग सुरू आहे.\nया घडामोडींच्या पार्श्वभूमीवर, शहर... [836 chars]",
-            "url": "https://pudhari.news/maharashtra/north-maharashtra/nashik/devendra-fadnavis-holds-high-level-meeting-on-nashik-potholes-and-kumbh-mela-prep-sd22",
-            "image": "https://cf-images.assettype.com/pudharinews%2F2026-07-17%2Fcw8fkk1f%2FDevendra.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-08-07T05:43:34Z",
-            "lang": "mr",
-            "source": {
-                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
-                "name": "Pudhari",
-                "url": "https://pudhari.news"
-            }
-        },
-        {
-            "id": "9425752e81a14b62bd996930eae55941",
-            "title": "Gashmeer Mahajani Post Viral: 'माझा आवडता प्राणी- माझे बाबा'; गश्मीर महाजनीची 'ती' इन्स्टा पोस्ट चर्चेत",
-            "description": "Gashmeer Mahajani Post Viral: गश्मीरनं इन्स्टा पोस्ट केलीय, जी व्हायरल होतेय. या पोस्टमध्ये",
-            "content": "Gashmeer Mahajani Post Viral: मराठी सिनेसृष्टीचा (Marathi Film Industry) हँडसम हंक म्हणून ओळखला जाणारा प्रसिद्ध अभिनेता गश्मीर महाजनी (Actor Gashmeer Mahajani). करिअरच्या सुरुवातीला नृत्यदिग्दर्शक (Choreographer) म्हणून काम केलेल्या गश्मीरला स्टारकीड... [1611 chars]",
-            "url": "https://marathi.abplive.com/entertainment/gashmeer-mahajani-upcoming-project-announcement-poster-my-favorite-animal-my-dad-insta-post-viral-1434686",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/07/bef3cd8859f5642385cd257bf6a3fe9d178608013875088_original.jpg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-08-07T05:27:19Z",
+            "id": "c56ffd2aecfb08ed1db2519b6cb6436b",
+            "title": "IND vs SL : कर्णधार KL राहुलची मोठी चूक, कुलदीप यादवने थेट डोकं पकडलं; LIVE सामन्यात नेमकं काय घडलं? पाहा VIDEO",
+            "description": "KL Rahul Drops Simple Catch Off Kuldeep Yadav : भारत आणि श्रीलंका यांच्यातील दोन सामन्यांच्या कसोटी मालिकेला 15 ऑगस्टपासून सुरुवात होणार आहे.",
+            "content": "KL Rahul Drops Simple Catch Off Kuldeep Yadav : भारत आणि श्रीलंका यांच्यातील दोन सामन्यांच्या कसोटी मालिकेला 15 ऑगस्टपासून सुरुवात होणार आहे. या मालिकेपूर्वी दोन्ही संघ तयारीला लागले असून भारत आणि श्रीलंका इलेव्हन यांच्यात तीन दिवसीय सराव सामना खेळवल... [2290 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/kl-rahul-drops-simple-catch-off-kuldeep-yadav-during-ind-vs-sl-practice-match-video-marathi-news-1434738",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/07/fca7e165e47eea2a1feacf3a2307e1a617861053979311378_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-08-07T12:23:52Z",
             "lang": "mr",
             "source": {
                 "id": "d0ecbd318b81c0114aad430372084c1a",
@@ -121,33 +91,63 @@
             }
         },
         {
-            "id": "f78bf4b45e7d9c0577d39995734b5d28",
-            "title": "Doctors Strike : परभणीत डॉक्टरांच्या संपाला चांगला प्रतिसाद",
-            "description": "Doctors Strike : परभणीत डॉक्टरांच्या संपाला चांगला प्रतिसाद- सीसीएमपी पात्रता लागत आहे असलेल्या बीएचएमएस डॉक्टरांची महाराष्ट्र मेडिकल कौन्सील मध्ये नोंदणी देण्याच्या प्रस्तावाच्या निषेधार्थ आयएमए महाराष्ट्रच्या वतीने संप पुकारण्यात आला.",
-            "content": "बीएचएमएस डॉक्टरांना सीसीएमपी कोर्स पूर्ण केल्यानंतर महाराष्ट्र मेडिकल कौन्सिलमध्ये नोंदणी देण्याच्या प्रस्तावाच्या निषेधार्थ संपाचे आवाहन केले होते. या स्पष्ट केले आहे. प्रस्तावित नोंदणी आयएमए महाराष्ट्रने २४ तासांच्या संपाचे आवाहन केले होते. या आंदो... [963 chars]",
-            "url": "https://pudhari.news/maharashtra/marathwada/parbhani/good-response-to-doctors-strike-in-parbhani-np88",
-            "image": "https://cf-images.assettype.com/pudharinews%2F2025-12-16%2Fyvhebpjw%2FDoctor.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-08-07T05:20:00Z",
+            "id": "d8bc159aa0d86f542196ed7ff9cf0275",
+            "title": "Sushma Andhare: जरांगेंच्या निशाण्यावर एकनाथ शिंदे, सुषमा अंधारेंना वाटतेय वेगळीच शंका; पडद्याआड कोणत्या घडामोडी सुरू असल्याचा दावा?",
+            "description": "Sushma andhare on eknath shinde: मनोज जरांगे यांनी राज्याचे मुख्यमंत्री देवेंद्र फडणवीस आणि उपमुख्यमंत्री एकनाथ शिंदे यांच्यावर हल्लाबोल केल्यानंतर शिवसेना (उद्धव बाळासाहेब ठाकरे) पक्षाच्या उपनेत्या सुषमा अंधारे यांनी देखील या वादत उडी घेतली असून त्यांनी वेगळीच शंका उपस्थित केली आहे. 'या निमित्ताने पुन्हा एकदा चर्चा सुरू झाली आहे की मराठा आरक्षणाचे नेमकं झालं काय? खरंच एकनाथ शिंदे यांनी दिलेलं आरक्षण खरं होत का?' असं म्हणत अंधारे यांनी उपमुख्यमंत्री एकनाथ शिंदे यांच्या मराठा आरक्षण देण्यासंदर्भातील हेतूवरच शंका उपस्थित केली आहे.",
+            "content": "पुणे : राज्यभरात पुन्हा एकदा मराठा आरक्षणाचा प्रश्न पेटताना दिसत आहे. मराठा आरक्षण आंदोलक मनोज जरांगे यांनी 29 ऑगस्ट पासून पुन्हा एकदा आमरण उपोषणाचा इशारा दिला असतानाच आता मराठवाड्यात कुणबी जातीचे प्रमाणपत्र मिळवणाऱ्या 4 मराठा लोकप्रतिनिधींचे दाखले ज... [4489 chars]",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/sushma-andhare-attack-on-eknath-shinde-serious-doubts-raised-about-manoj-jarange-patil-maratha-reservation/articleshow/133033292.cms",
+            "image": "https://static.langimg.com/mt/thumb/133033819/sushma-andhare-2.jpg?imgsize=157990&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-08-07T12:20:13Z",
             "lang": "mr",
             "source": {
-                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
-                "name": "Pudhari",
-                "url": "https://pudhari.news"
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "Maharashtra Times",
+                "url": "https://maharashtratimes.com"
             }
         },
         {
-            "id": "d08647c00829828c36da218c5d2c45ec",
-            "title": "पुण्यात आल्यानंतर पहिल्या बॉयफ्रेंडला विसरली, एका प्रियकराने केला दुसऱ्याचा मर्डर",
-            "description": "pune crime news : शाळेपासून प्रेमात असलेल्या तरुणीची पुण्यात आल्यानंतर सागरशी जवळीक वाढली. याच प्रेमसंबंधातून तिचा जुना प्रियकर दिनेश पीजीमध्ये पोहोचला आणि सागरची हत्या केली.",
-            "content": "हेही वाचा : 'तू त्याच्यासोबत का बोलतेस?' 17 वर्षीय मैत्रिणीचा घरात घुसून चिरला गळा अन्...\nसागरला भेटायचंय म्हणून आला अन् थेट केला मर्डर\nहिंजवडीतील या पीजीमध्ये सागर गायकवाड गेल्या चार दिवसांपासून मॅनेजर म्हणून काम करत होता. बुधवारी रात्री संबंधित तरु... [1173 chars]",
-            "url": "https://www.mumbaitak.in/amp/crime/story/pune-crime-news-hinjewadi-pg-sagar-gaikwad-murder-love-triangle-dinesh-jhambare-arrest-marathi-news-3277391-2026-08-07",
-            "image": "https://akm-img-a-in.tosshub.com/lingo/mbtak/images/story/202608/6a7566504cb3f-pune-crime-news-0759552-16x9.jpg",
-            "publishedAt": "2026-08-07T05:01:34Z",
+            "id": "a10ff71a6b2dc8372fafd4f10e2efc55",
+            "title": "Sunil Tatkare : अख्खा महाराष्ट्र आठ वेळा पालथा घातलाय, मला रणनीतीकारांची गरज नाही; प्रशांत किशोर-सुनेत्रा पवारांची भेट, सुनील तटकरेंची मोठी प्रतिक्रिया",
+            "description": "Sunil Tatkare On Prashant Kishor : पवारसाहेब आणि अजितदादा यांच्यासोबत फिल्डवर काम करणारे आम्ही कार्यकर्ते आहोत, त्यामुळे आम्हाला सर्व्हे किंवा रणनीतीकारांची गरज नाही, असं सुनील तटकरे म्हणाले.",
+            "content": "मुंबई : प्रसिद्ध रणनीतीकार प्रशांत किशोर (Prashant Kishor) आणि राष्ट्रवादीच्या अध्यक्षा सुनेत्रा पवार (Sunetra Pawar) यांच्या भेटीवर राष्ट्रादीचे प्रदेशाध्यक्ष सुनील तटकरेंनी (Sunil Tatkare) मोठी प्रतिक्रिया दिली आहे. त्यांची ही भेट औपचारिक असावी, पण... [2260 chars]",
+            "url": "https://marathi.abplive.com/news/politics/sunil-tatkare-reaction-on-prashant-kishor-meet-sunetra-pawar-political-adviser-ncp-maharashtra-politics-1434733",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/07/a45615ee1b5fdc21bc5f582b98a26980178610427659193_original.png?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-08-07T12:05:02Z",
             "lang": "mr",
             "source": {
-                "id": "021482c68fa91158375da25add667cfc",
-                "name": "Mumbai Tak",
-                "url": "https://www.mumbaitak.in"
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "550d0a353ee9e1b00f320491e6ff9ca6",
+            "title": "Devendra Fadnavis Karj Mafi : कर्जमाफीसाठी 5029 कोटी वर्ग, 6 लाख 22 हजार शेतकऱ्यांचं कर्ज माफ; प्रोत्साहनपर रकमेबाबत देवेंद्र फडणवीस यांचं मोठं वक्तव्य",
+            "description": "Karj Mafi : 6.22 लाख शेतकऱ्यांच्या कर्जखात्यांमध्ये 5029 कोटी रुपये जमा करण्यात आल्याची माहिती मुख्यमंत्री देवेंद्र फडणवीस यांनी दिली.",
+            "content": "Devendra Fadnavis Karj Mafi मुंबई: मुख्यमंत्री देवेंद्र फडणवीस यांच्या हस्ते पुण्यश्लोक अहिल्यादेवी होळकर शेतकरी कर्जमाफी योजनेच्या 5029 कोटी रुपयांचा हा पहिला हप्ता वर्ग करण्यात आला. या रकमेतून 6 लाख 22 हजार 207 शेतकऱ्यांची कर्जमाफी करण्यात आली आहे.... [1790 chars]",
+            "url": "https://marathi.abplive.com/business/devendra-fadnavis-transfer-5029-crore-for-karj-mafi-six-lakh-22-farmers-loan-nil-marathi-news-1434735",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/07/9b248bc71de4fa5a84050dea75549f481786103789048989_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-08-07T12:02:16Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "0f61f63bbf8ed157df270e8696a7e26a",
+            "title": "\"पतीला चीट करताना पकडलं!\"; श्वेता तिवारीचा धक्कादायक खुलासा",
+            "description": "The Traitors Season 2 Trailer: करण जोहरच्या 'द ट्रेटर्स २'चा ट्रेलर रिलीज! श्वेता तिवारीने पतीच्या चीटिंगवर केला मोठा खुलासा, रिया चक्रवर्ती अन् मुनव्वर फारुकीची एन्ट्री.",
+            "content": "‘ट्रेटर २’चा ट्रेलर नुकताच प्रेक्षकांच्या भेटीला आला आहे. यामध्ये कोण-कोण सहभागी होणार आहे हे टीझरमध्ये उघड झाले आहे. मल्लिका शेरावत, रिया चक्रवर्ती, मुन्नवर फारुकी, श्वेता तिवारी, पारुल गुलाटी, अभिषेक मल्हान असे अनेक कलाकार यात दिसणार आहेत.\nश्वेता त... [1410 chars]",
+            "url": "https://www.loksatta.com/manoranjan/ott/the-traitors-season-2-trailer-out-shweta-tiwari-comment-on-cheating-husband-rhea-chakraborty-saying-about-leaving-country-nsp-98-6064761/",
+            "image": "https://images.loksattaimg.com/2026/08/riya-.jpg",
+            "publishedAt": "2026-08-07T11:59:20Z",
+            "lang": "mr",
+            "source": {
+                "id": "62d1010536af7ab30a2a024770aa0e02",
+                "name": "Loksatta",
+                "url": "https://www.loksatta.com"
             }
         }
     ],

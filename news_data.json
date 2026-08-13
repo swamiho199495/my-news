@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "4dbdb25aa9dc64b42ae8a59651d2449f",
+            "title": "Ghatkopar landslide | मुंबईत घरांवर दरड कोसळून सहाजणांचा मृत्यू, ४ जखमी",
+            "description": "मुंबईत सुरू असलेल्या मुसळधार पावसामुळे घाटकोपर भागातील चिरागनगर परिसरात गौसिया चाळीवर डोंगराचा मोठा कडा बुधवारी पहाटे दोन ते तीन घरांवर कोसळून किमान सहाजणांचा मृत्यू झाला.",
+            "content": "मुंबई : मुंबईत सुरू असलेल्या मुसळधार पावसामुळे घाटकोपर भागातील चिरागनगर परिसरात गौसिया चाळीवर डोंगराचा मोठा कडा बुधवारी पहाटे दोन ते तीन घरांवर कोसळून किमान सहाजणांचा मृत्यू झाला. चौघे जखमी झाले असून, काहीजण ढिगाऱ्याखाली अडकल्याने मृतांची संख्या वाढण... [489 chars]",
+            "url": "https://pudhari.news/maharashtra/mumbai/mumbai-landslide-six-killed-and-four-injured-after-homes-hit-by-landslide-ap84",
+            "image": "https://cf-images.assettype.com/pudharinews%2F2026-08-12%2Fgbuao1qy%2F1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-08-12T21:07:15Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari News",
+                "url": "https://pudhari.news"
+            }
+        },
+        {
             "id": "5ec90ce755191b6c2a0083a106eacf89",
             "title": "IPL 2027: CSK, KKR, गुजरात नाही तर हार्दिक पांड्या ‘या’ संघाकडून खेळणार? त्या फोटोमुळे चर्चांना उधाण",
             "description": "IPL 2027: If not CSK, KKR, Gujarat, then Hardik Pandya will play for 'this' team? That photo sparks discussions - Hardik Pandya News: चेन्नई सुपरकिंग्स, कोलकाता नाईटरायडर्स आणि गुजरात टायटन्सच्या संघांनी हार्दिकला संघात घेण्यासाठी उत्सुकता दाखवली आहे. मात्र आता या चर्चेत असलेल्या संघात नाही तर एका वेगळ्याच संघात दाखल होणार असल्याच्या चर्चांना उधाण आले आहे.  Find Latest cricket articles and live match coverage on Lokmat.com",
@@ -133,21 +148,6 @@
                 "id": "ff9762c8150746827821a08d529386fe",
                 "name": "Lokmat.com",
                 "url": "https://www.lokmat.com"
-            }
-        },
-        {
-            "id": "6befc2b38b460616da61aaa19c0a3481",
-            "title": "Abhijeet Dipke : अभिजीत दीपकेंची मोठी घोषणा! जंतर-मंतर सिझन 2 लवकरच…नेमकं काय होणार?",
-            "description": "कॉकरोच जनता पार्टीने दिल्लीच्या जंतर-मंतरमध्ये आंदोलन केल्यानंतर धर्मेंद्र प्रधान यांनी केंद्रीय शिक्षणमंत्रिपदाचा राजीनामा दिला. या आंदोलनाला देशभरातून पाठिंबा मिळाला. आता कॉकरोच जनता पार्टीने आपली कार्यकारणी जाहीर केली आहे. आ",
-            "content": "Abhijeet Dipke New Protest Announcement : कॉकरोच जनता पार्टीने दिल्लीच्या जंतर-मंतरमध्ये आंदोलन केल्यानंतर धर्मेंद्र प्रधान यांनी केंद्रीय शिक्षणमंत्रिपदाचा राजीनामा दिला. या आंदोलनाला देशभरातून पाठिंबा मिळाला. आता कॉकरोच जनता पार्टीने आपली कार्यकारण... [1574 chars]",
-            "url": "https://www.tv9marathi.com/national/cjp-founder-abhijeet-dipke-announced-jantar-mantar-season-2-will-start-soon-will-be-fresh-protest-1732598.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/08/abhijeet-dipke-1-1.jpg",
-            "publishedAt": "2026-08-12T14:19:37Z",
-            "lang": "mr",
-            "source": {
-                "id": "86b106434a8aa7ab0755463f15cc13f7",
-                "name": "TV9 Marathi",
-                "url": "https://www.tv9marathi.com"
             }
         }
     ],

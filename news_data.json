@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "0db6d66ff81298f7bf84c791b0cd1183",
+            "title": "देशात खरंच साखरेचा तुटवडा आहे का? सरकारनं 10 लाख टन साखर आयातीचा निर्णय का घेतला? ISMA नं दिली महत्वाची माहिती",
+            "description": "ISMA on Sugar Price : देशात खरच साखरेचा तुटवडा आहे का? असा सवाल उपस्थित केला जात आहे. यााबबात इंडियन शुगर मिल्स असोसिएशन अर्थात ISMA ने सविस्तर माहिती दिली आहे.",
+            "content": "ISMA on Sugar Price : सणासुदीच्या काळात साखरेनं ग्राहकांना मोठा झटका दिला आहे. साखऱेच्या दरात (Sugar Pric) मोठी वाढ झाली आहे. गेल्या एका महिन्यात किरकोळ आणि घाऊक बाजारात साखरेच्या किंमती 24 टक्क्यांची वाढ झाली आहे. साखरेच दर 60 ते 70 रुपये प्रति किलो... [2844 chars]",
+            "url": "https://marathi.abplive.com/business/sugar-price-news-isma-on-sugar-price-there-is-no-shortage-of-sugar-in-the-country-according-to-neeraj-shirgaokar-president-of-the-indian-sugar-mills-association-isma-1436697",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/24/147461efe737568ed3ee0075d59c1adc1787591491640339_original.png?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-08-24T17:53:23Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
             "id": "6b9fd62844ddaf9529d8f78a56fd5f8f",
             "title": "Chandrapur Firing: न्यायालयासमोरच गोळीबार! नाराळपाणी दुकानावर उभ्या असलेल्या तरुणावर धाडधाड झाडल्या गोळ्या",
             "description": "Chandrapur Firing In Front Court : राजुरा तालुका न्यायालयासमोरील परिसरात तरुणावर गोळीबार करण्यात आला. विनोद उर्फ पापा जाधव यांचा उपचारादरम्यान मृत्यू झाला. प्रकरणातील दोन आरोपी पोलिसांना शरण आले असून तपास सुरू आहे.",
@@ -133,21 +148,6 @@
                 "id": "c0d1b7b50c678b3f876b44480266dd1b",
                 "name": "Lokshahi Marathi News",
                 "url": "https://www.lokshahi.com"
-            }
-        },
-        {
-            "id": "7d5d6a7687ad47bcd69c8fef11760906",
-            "title": "शेतकरी कर्जमुक्ती योजनेचा दुसरा हप्ता वाटप; मुख्यमंत्र्यांच्या हस्ते ६ लाख ३६ हजार पात्र शेतकऱ्यांना - Marathi News",
-            "description": "शेतकरी कर्जमुक्ती योजनेच्या दुसऱ्या टप्प्यात ६ लाख ३६ हजार ३६ पात्र शेतकऱ्यांना ५,०८६ कोटींचा कर्जमुक्ती लाभ मुख्यमंत्री देवेंद्र फडणवीस यांच्या हस्ते वितरित करण्यात आला.",
-            "content": "मुंबई : (Farmer Loan Waiver Scheme) पुण्यश्लोक अहिल्यादेवी होळकर शेतकरी कर्जमुक्ती योजनेच्या दुसऱ्या टप्प्यातील ६ लाख ३६ हजार ३६ पात्र शेतकऱ्यांना ५ हजार ८६ कोटींच्या कर्जमुक्तीचा लाभ सोमवारी, मुख्यमंत्री देवेंद्र फडणवीस यांच्या हस्ते थेट ऑनलाइन पद्ध... [1365 chars]",
-            "url": "https://www.mahamtb.com/Encyc/2026/8/24/shetkari-karjamukti-yojana-second-phase-6-36-lakh-farmers-.php",
-            "image": "https://www.mahamtb.com/Encyc/2026/8/24/NEW-Template-for-Articles-and-News---2026-08-24T205051.041_202608242051348957_H@@IGHT_350_W@@IDTH_696.jpg",
-            "publishedAt": "2026-08-24T15:30:45Z",
-            "lang": "mr",
-            "source": {
-                "id": "5d6a9204995806af9e83b10da11a825a",
-                "name": "MahaMTB",
-                "url": "https://www.mahamtb.com"
             }
         }
     ],

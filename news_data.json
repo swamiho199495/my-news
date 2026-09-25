@@ -121,6 +121,21 @@
             }
         },
         {
+            "id": "1b914dc3e7dfeca8e9fe3ce228d517b8",
+            "title": "IMD Weather Update : 17 राज्यांना पावसाचा हाय अलर्ट, गरज असेल तरच घराबाहेर पडा, महाराष्ट्रालाही मोठा इशारा",
+            "description": "भारतीय हवामान विभागाकडून मुसळधार पावसाचा इशारा देण्यात आला आहे. 17 राज्यांना हाय अलर्ट देण्यात आला असून, महाराष्ट्रातही पावसाचा जोर वाढणार आहे.",
+            "content": "महाराष्ट्रात ऑगस्टचा संपूर्ण महिना आणि सप्टेंबर महिन्याचे पहिले दोन आठवडे पावसाने दडी मारली, त्यामुळे पावसाभावी परिस्थिती गंभीर बनली आहे. पिकांना मोठा फटका बसला असून, शेतकऱ्यांचं नुकसान झालं आहे. मात्र आता दिलासादायक बातमी म्हणजे मान्सून पुन्हा एकदा ... [1723 chars]",
+            "url": "https://www.tv9marathi.com/maharashtra/imd-weather-update-high-alert-for-rain-in-17-states-step-out-only-if-necessary-big-warning-for-maharashtra-as-well-1763457.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/09/IMD-Weather-Update-22.jpg",
+            "publishedAt": "2026-09-24T13:11:30Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
             "id": "5dc7e24e8857d5805f4eca6cd4acfcd7",
             "title": "Devendra Fadnavis Field Visit | नुकसानग्रस्त पिकांची मुख्यमंत्र्यांकडून बांधावर जाऊन पाहणी; भरपाई देण्याच्या घोषणेचा पुनरुच्चार",
             "description": "Devendra Fadnavis Field Visit | मुख्यमंत्री देवेंद्र फडणवीस यांनी गुरूवारी (दि. २४) वाशिम जिल्ह्यातील नुकसानग्रस्त पिकांची प्रत्यक्ष शेताच्या बांधावर जाऊन पाहणी केली.",
@@ -133,21 +148,6 @@
                 "id": "ece2c054afd67d7d9de71c5ac9770bd6",
                 "name": "Pudhari",
                 "url": "https://pudhari.news"
-            }
-        },
-        {
-            "id": "554fbca70083ba808fde609dec21b86d",
-            "title": "Rahul Gandhi : मोदी-शाहांच्या पाठिंब्याने ज्ञानेश कुमारांनी देशाची वाट लावली, आता राजीनामा दिला नाही तर... राहुल गांधींचा इशारा",
-            "description": "Rahul Gandhi CEC Controversy : राहुल गांधी यांनी मुख्य निवडणूक आयुक्त ज्ञानेश कुमार यांच्यावर गंभीर आरोप केले आहेत. 'वोट चोरी' प्रकरणी त्यांनी ज्ञानेश कुमारांच्या राजीनाम्याची मागणी केली.",
-            "content": "Rahul Gandhi Election Commission Attack : देशामधील निवडणूक प्रक्रियेच्या पारदर्शकतेवरून आणि भारतीय निवडणूक आयोगाच्या (ECI) कारभारावरून विरोधी पक्षनेते राहुल गांधी यांनी केंद्र सरकार आणि मुख्य निवडणूक आयुक्त ज्ञानेश कुमार यांच्यावर थेट शब्दांत जोरदार ... [1939 chars]",
-            "url": "https://marathi.abplive.com/news/politics/rahul-gandhi-pc-on-election-commission-gyanesh-kumar-vote-theft-narendra-modi-amit-shah-india-politics-marathi-1440130",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/24/1136de5afba76886a09a38e0de18f1eb179025263605193_original.png?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-09-24T12:24:22Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
             }
         }
     ],

@@ -1,6 +1,21 @@
 {
     "general": [
         {
+            "id": "88a0a8c4bbcac5ea519af6ef28954b61",
+            "title": "Solapur politics : एसआयआरवरून भाजपचा पलटवार",
+            "description": "Solapur politics : पत्रकार परिषद : काँग्रेसने ‘फेक नरेटिव्ह’ पसरवून जनतेची दिशाभूल केली",
+            "content": "पत्रकार परिषद : काँग्रेसने ‘फेक नरेटिव्ह’ पसरवून जनतेची दिशाभूल केली\nपुढारी वृत्तसेवा\nसोलापूर : मुख्य निवडणूक आयुक्त ज्ञानेश कुमार यांच्या विरोधात काँग्रेसने केलेल्या आंदोलनानंतर सोलापूर भाजपने मंगळवारी (दि. २९) पत्रकार परिषद घेत काँग्रेसवर जोरदार पल... [1852 chars]",
+            "url": "https://pudhari.news/amp/story/maharashtra/solapur/solapur-bjp-counterattack-on-sir-congress-fake-narrative-allegation-sk95",
+            "image": "https://cf-images.assettype.com/pudharinews%2F2026-09-29%2F9wnf59ym%2Fdownload.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-09-30T00:06:12Z",
+            "lang": "mr",
+            "source": {
+                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
+                "name": "Pudhari",
+                "url": "https://pudhari.news"
+            }
+        },
+        {
             "id": "28a2319d20c3e276fe04ed55046051c3",
             "title": "ठाण्यात शिवसेना ठाकरे गटाचे पदाधिकारी प्रदीप पूर्णेकर यांच्यावर गोळीबार, प्रकृती चिंताजनक",
             "description": "Thane Crime Update | ठाण्यातील घोडबंदर येथे शिवसेना ठाकरे गट पदाधिकारी प्रदीप पूर्णेकर यांच्यावर गोळीबार झाला असून त्यांची प्रकृती चिंताजनक आहे.",
@@ -133,21 +148,6 @@
                 "id": "62d1010536af7ab30a2a024770aa0e02",
                 "name": "Loksatta",
                 "url": "https://www.loksatta.com"
-            }
-        },
-        {
-            "id": "7479009397b414562f88032cf3c5b2d8",
-            "title": "Global News| El Nino मुळे भयानक स्थिती ओढावणार, S. Jaishankar यांनी व्यक्त केली भीती",
-            "description": "भारताचे परराष्ट्रमंत्री एस.जयशंकर यांनी अल-निनोमुळे भीषण परिस्थिती उद्भवणार असल्याची भीती व्यक्त केलीय. अमेरिकेतील न्यूयॉर्कमध्ये एशिया सोसायटीने आयोजित कार्यक्रमात जयशंकर बोलत होते. त्यांनी म्हटले की युद्धांमुळे इंधन आणि खतांची टंचाई निर्माण झाली आहे. खतांची टंचाई आणि अल-निनोमुळे अन्नधान्याचा तुटवडा निर्माण होणार आहे. याचा परिणाम जागतिक पातळीवर जाणवेल अशी भीती जयशंकर यांनी व्यक्त केली आहे. या अन्नधान्य टंचाईचा सर्वात मोठा फटका गरीब व विकसनशील देशांना बसेल असं जयशंकर यांनी म्हटलंय.\nGlobal News | S. Jaishankar expresses concern over dire situation likely to arise due to El Niño.",
-            "content": "भारताचे परराष्ट्रमंत्री एस.जयशंकर यांनी अल-निनोमुळे भीषण परिस्थिती उद्भवणार असल्याची भीती व्यक्त केलीय. अमेरिकेतील न्यूयॉर्कमध्ये एशिया सोसायटीने आयोजित कार्यक्रमात जयशंकर बोलत होते. त्यांनी म्हटले की युद्धांमुळे इंधन आणि खतांची टंचाई निर्माण झाली आह... [334 chars]",
-            "url": "https://marathi.ndtv.com/videos/global-news-s-jaishankar-expresses-concern-over-severe-conditions-due-to-el-nino-1166410",
-            "image": "https://c.ndtvimg.com/dmx-images/video/images/vod/medium/2026-09/1166410_maxresdefault.jpg?downsize=1600:900",
-            "publishedAt": "2026-09-29T14:07:38Z",
-            "lang": "mr",
-            "source": {
-                "id": "ec488dea8dd7e47f68689e73bce51589",
-                "name": "NDTV Marathi",
-                "url": "https://marathi.ndtv.com"
             }
         }
     ],

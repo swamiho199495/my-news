@@ -1,88 +1,13 @@
 {
     "general": [
         {
-            "id": "d8524046f373c9586fa069bd3f2682f1",
-            "title": "Sindhudurg News : सिंधुदुर्गात 'ऑक्टोबर हिट'चा तडाखा वाढणार",
-            "description": "कुडाळ : सिंधुदुर्ग जिल्ह्यात गेल्या १५ दिवसांपासून पावसाने पूर्णपणे ओढ दिली असून, अचानक उन्हाचा तडाखा वाढल्याने 'ऑक्टोबर हिट'चे तीव्र सावट पसरले आहे.",
-            "content": "कुडाळ : सिंधुदुर्ग जिल्ह्यात गेल्या १५ दिवसांपासून पावसाने पूर्णपणे ओढ दिली असून, अचानक उन्हाचा तडाखा वाढल्याने 'ऑक्टोबर हिट'चे तीव्र सावट पसरले आहे. वाढत्या उकाड्यामुळे नागरिक हैराण झाले असतानाच, प्रादेशिक हवामान केंद्र, मुंबई आणि डॉ. बाळासाहेब सावं... [2615 chars]",
-            "url": "https://pudhari.news/maharashtra/kokan/sindhudurg/sindhudurg-october-heat-wave-threatens-dc95",
-            "image": "https://cf-images.assettype.com/pudharinews%2F2025-06-28%2Fptux2r0w%2FHeat-Wave-Maharashtra.jpg?rect=0%2C45%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-10-01T23:38:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
-                "name": "Pudhari",
-                "url": "https://pudhari.news"
-            }
-        },
-        {
-            "id": "fbf1c5cfb1f3cbf3291c99545c5bbdd3",
-            "title": "kolhapur | पाणी अन चारा टंचाईमुळे पशुधन विक्रीची नामुष्की",
-            "description": "महाराष्ट्रात ३५८ पैकी २६५ तालुक्यांत दुष्काळ जाहीर करण्यात आला आहे. या निर्णयाचा मोठा परिणाम मराठवाडा, विदर्भ आणि उत्तर महाराष्ट्रावर जाणवत आहे.",
-            "content": "कोल्हापूर; सेंट्रल डेस्क : महाराष्ट्रात ३५८ पैकी २६५ तालुक्यांत दुष्काळ जाहीर करण्यात आला आहे. या निर्णयाचा मोठा परिणाम मराठवाडा, विदर्भ आणि उत्तर महाराष्ट्रावर जाणवत आहे. पिण्याच्या पाण्यासह चारा टंचाईच्या संभाव्य शक्यतेमुळे शेतकरी कमी दरात पशुधन वि... [1399 chars]",
-            "url": "https://pudhari.news/maharashtra/kolhapur/water-and-fodder-shortages-force-farmers-to-sell-their-livestock-ap84",
-            "image": "https://cf-images.assettype.com/pudharinews%2F2026-10-01%2Fqf8kphd7%2F1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-10-01T22:30:00Z",
-            "lang": "mr",
-            "source": {
-                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
-                "name": "pudhari.news",
-                "url": "https://pudhari.news"
-            }
-        },
-        {
-            "id": "e1538da81258eebe804eaa09e7bb6fa8",
-            "title": "ODI World Cup 2027 मध्ये भारत-पाकिस्तान सामन्याची तारीख जाहीर! विश्वचषक स्पर्धेची रूपरेषा जाहीर",
-            "description": "ODI World Cup 2027 मध्ये भारत-पाकिस्तान सामन्याची तारीख जाहीर! विश्वचषक स्पर्धेची रूपरेषा जाहीर",
-            "content": "नवी दिल्ली : २०२७ वन-डे क्रिकेट विश्वचषक स्पर्धेत भारत, पाकिस्‍तान, ऑस्‍ट्रेलिया एकाच गटात आले असून, जाहीर रूपरेषेनुसार भारत-पाकिस्‍तान लढत १० ऑक्‍टोबर रोजी रंगणार आहे. याशिवाय, भारत-ऑस्‍ट्रेलिया लढत ७ ऑक्‍टोबरला केपटाऊन येथे होईल. २०२३ च्‍या वर्ल्डक... [1052 chars]",
-            "url": "https://pudhari.news/sports/odi-world-cup-2027-schedule-india-vs-pakistan-match-date-announced-rg84",
-            "image": "https://cf-images.assettype.com/pudharinews%2F2026-10-01%2F1qu6t2rr%2Ficc-ODI-World-Cup-2027-.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-10-01T18:19:52Z",
-            "lang": "mr",
-            "source": {
-                "id": "ece2c054afd67d7d9de71c5ac9770bd6",
-                "name": "Pudhari",
-                "url": "https://pudhari.news"
-            }
-        },
-        {
-            "id": "9a1e5e5ce9cff6cda6eba4196ead52ca",
-            "title": "Maharashtra Drought : आणखी 19 तालुक्यांत दुष्काळाचे सावट, मंत्रिमंडळ उपसमितीचे तातडीने सर्व्हेचे आदेश; 'हे' नियम लागू",
-            "description": "Maharashtra Drought Survey Order : महाराष्ट्रातील 265 तालुक्यांमध्ये दुष्काळ जाहीर केल्यानंतर आता उर्वरित 19 तालुक्यांमध्येही दुष्काळाची पाहणी करण्याचे निर्देश देण्यात आले आहेत.",
-            "content": "मुंबई : राज्य सरकारने महाराष्ट्रातील 265 तालुक्यांमध्ये अधिकृतपणे दुष्काळ जाहीर केल्यानंतर आता उर्वरित तालुक्यांमधील स्थितीवरही नजर ठेवली जात आहे. लोकप्रतिनिधींनी केलेल्या मागणीची दखल घेत सरकारने दुष्काळ घोषित केलेल्या तालुक्यांव्यतिरिक्त अन्य 19 ताल... [2348 chars]",
-            "url": "https://marathi.abplive.com/news/maharashtra/dushkal-new-talukas-drought-survey-maharashtra-government-cabinet-sub-committee-decision-marathi-news-1440911",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/01/b5fd8dd9ad47619678b05f76341b7982179087155210393_original.png?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-10-01T16:19:34Z",
-            "lang": "mr",
-            "source": {
-                "id": "d0ecbd318b81c0114aad430372084c1a",
-                "name": "ABP Majha",
-                "url": "https://marathi.abplive.com"
-            }
-        },
-        {
-            "id": "447178828a93b09b00f541fa0d37cc16",
-            "title": "Abhijit Dipke: ‘आम्हाला अटक करायची असेल तर आता करा’; शिवाजी पार्क आंदोलनावर अभिजीत दिपकेंचा फडणवीसांना इशारा",
-            "description": "दिल्लीतील आंदोलनादरम्यान केंद्रीय गृहमंत्री अमित शाह यांनी केलेल्या कथित चुकीची पुनरावृत्ती करू नका, असा इशारा त्यांनी फडणवीसांना दिला. \nराजनीति",
-            "content": "मुख्य निवडणूक आयुक्त ज्ञानेश कुमार यांच्या राजीनाम्याची मागणी करत कॉकरोच जनता पार्टीने २ ऑक्टोबरपासून आंदोलनाची घोषणा केली आहे. मुंबईतून या आंदोलनाची सुरुवात करून ते देशातील इतर शहरांमध्ये नेण्याची भूमिका CJPचे संस्थापक अभिजीत दिपके यांनी मांडली आहे.... [2127 chars]",
-            "url": "https://www.lokshahi.com/lokshahi-politics/arrest-us-if-you-want-abhijit-dipkes-warning-to-fadnavis-over-shivaji-park-protest-12613642",
-            "image": "https://img-cdn.publive.online/fit-in/1200x675/lokshahi-marathi/media/media_files/2026/10/01/abhijit-dipke-2026-10-01-19-05-13.png",
-            "publishedAt": "2026-10-01T16:16:37Z",
-            "lang": "mr",
-            "source": {
-                "id": "c0d1b7b50c678b3f876b44480266dd1b",
-                "name": "Lokshahi Marathi News",
-                "url": "https://www.lokshahi.com"
-            }
-        },
-        {
-            "id": "b33c987e321a2b16bab8fec86e5c294b",
-            "title": "Marathwada Drought: मराठवाड्यात दुष्काळाच्या झळा तीव्र; टँकरच्या संख्येत वाढ, नेमकी कशी आहे सध्याची स्थिती?",
-            "description": "Marathwada rain: जुलैच्या शेवटच्या आठवड्यात परभणी वगळता विभागातील उर्वरित सात जिल्ह्यांतील एकूण २५७ गावे आणि १३० वाड्यांना ४२८ टँकरद्वारे पाणी पुरवठा सुरू होता. जुलै महिन्यात झालेल्या पावसानंतर ऑगस्टच्या पहिल्या आठवड्यात टँकरच्या संख्येत घट झाली होती. परंतु त्यानंतर अपवाद वगळता कुठेही दमदार पाऊस न झाल्याने पिण्याच्या पाण्याचा प्रश्न गंभीर होत चालला आहे.",
-            "content": "म. टा. प्रतिनिधी, छत्रपती संभाजीनगर: मराठवाड्यात दुष्काळाच्या झळा अधिक जाणवू लागल्या आहेत. पाणी टंचाईचा प्रश्न अधिक गंभीर होत चालला आहे. दहा दिवसातच पाणी पुरवठा करणाऱ्या टँकरच्या संख्येत ५० हून अधिक भर पडली आहे. आजघडीला पाण्याचे दुर्भिक्ष असलेल्या वि... [4458 chars]",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/severe-water-crisis-in-marathwada-over-50-tankers-added-intensifying-drought/articleshow/134622788.cms",
-            "image": "https://static.langimg.com/mt/thumb/134623471/news.jpg?imgsize=137087&width=1600&height=900&resizemode=75",
-            "publishedAt": "2026-10-01T16:11:27Z",
+            "id": "5ff476a15a7e10e97002a16d25eb92cd",
+            "title": "Jahnavi Killekar Explaination On Kolhapur Bisleri Water Bath ; कोल्हापुरात बिस्लेरीच्या पाण्याने आंघोळ केल्याचं म्हटल्याने ट्रोल, वैतागून जान्हवी किल्लेकरने दाखवले भयानक पुरावे",
+            "description": "अभिनेत्री जान्हवी किल्लेकरने एका मुलाखतीत ती कोल्हापूरला शूटला गेल्यावर बिस्लेरीच्या पाण्याने अंघोळ केल्याचं म्हटलं. त्यामुळे अनेक कोल्हापूरकरांच्या भावना दुखावल्या. त्यामुळे ती प्रचंड ट्रोल झाली. यावर आता तिने काही पुरावे शेअर केले आहेत.",
+            "content": "अभिनेत्री जान्हवी किल्लेकर ही बिग बॉग मराठीची स्पर्धक बनल्यानंतर सतत चर्चेत येऊ लागली. तिला प्रमुख पाहुणी म्हणून बऱ्याच ठिकाणी आमंत्रित केले जाऊ लागले. तसेच अनेक ऑफर्सही तिला येऊ लागल्या. ती वेगवेगळ्या मुलाखतींमध्ये झळकू लागली. पण सध्या ती एका वेगळ्य... [5205 chars]",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/jahnavi-killekar-share-skip-problem-photo-after-bisleri-water-bath-in-kolhapur-controversy/articleshow/134631123.cms",
+            "image": "https://static.langimg.com/mt/thumb/134631765/jahnavi-killekar-post.jpg?imgsize=233733&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-10-02T04:21:15Z",
             "lang": "mr",
             "source": {
                 "id": "86afe444484a22a46a5f6295debcbf1a",
@@ -91,28 +16,13 @@
             }
         },
         {
-            "id": "eccf54faba1ed059bfd586527c222ff4",
-            "title": "दुष्काळी १९ तालुक्यांची यादी जाहीर, मातब्बर नेत्यांच्या तालुक्यांचा समावेश",
-            "description": "Maharashtra Drought List: राज्य सरकारने आणखी १९ तालुक्यांत दुष्काळ जाहीर केला. अशोक चव्हाण, मुनगंटीवार, वडेट्टीवार यांच्या तालुक्यांचा समावेश. पाहा पूर्ण यादी.",
-            "content": "राज्यातील दुष्काळी परिस्थिती लक्षात घेऊन पहिल्या टप्यात शनिवारी २६५ तालुक्यात दुष्काळी परिस्थिती जाहीर करण्यात आली होती. दुष्काळी तालुक्यांच्या यादीवरुन मंगळवारच्या मंत्रिमंडळ बैठकीत अनेक मंत्र्यांनी उघड नाराजी व्यक्त करीत आपल्याही मतदार संघात दुष्का... [2264 chars]",
-            "url": "https://www.loksatta.com/mumbai/maharashtra-government-19-drought-affected-talukas-list-released-css-98-6167862/",
-            "image": "https://images.loksattaimg.com/2026/10/New-Project-2026-10-01T212606.036.jpg",
-            "publishedAt": "2026-10-01T15:56:46Z",
-            "lang": "mr",
-            "source": {
-                "id": "62d1010536af7ab30a2a024770aa0e02",
-                "name": "loksatta.com",
-                "url": "https://www.loksatta.com"
-            }
-        },
-        {
-            "id": "5d550ae37e55f814a34b87825d7f1a0a",
-            "title": "ICC ODI World Cup 2027 Schedule : आयसीसी वनडे वर्ल्ड कप 2027चं वेळापत्रक जाहीर, भारत-पाकिस्तानचा 10 ऑक्टोबरला थरार, पाहा संपूर्ण शेड्युल",
-            "description": "ICC ODI World Cup 2027 Schedule Update In Marathi : आयसीसी पुरुष वनडे विश्वचषक 2027 चं अधिकृत वेळापत्रक आज,1 ऑक्टोबर 2026 रोजी जाहीर करण्यात आलं.",
-            "content": "ICC ODI World Cup 2027 Schedule Update In Marathi : आयसीसी पुरुष वनडे विश्वचषक 2027 चं अधिकृत वेळापत्रक आज,1 ऑक्टोबर 2026 रोजी जाहीर करण्यात आलं. दक्षिण आफ्रिका, झिम्बाब्वे आणि नामिबिया यांच्या संयुक्त यजमानपदाखाली होणाऱ्या या स्पर्धेत 14 संघ, 12 मैद... [5095 chars]",
-            "url": "https://marathi.abplive.com/sports/cricket/icc-odi-world-cup-2027-schedule-announced-india-pakistan-australia-south-africa-england-check-full-schedule-in-marathi-news-1440895",
-            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/01/87b6b4e50b3ac1f0ff17a3352590831017908595660981378_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-            "publishedAt": "2026-10-01T15:55:11Z",
+            "id": "3858ffb743b12e353b9431638a771b80",
+            "title": "Raigad Diveagar beach Tragedy : समुद्रातून पाच मिनिटात बाहेर काढलं, तरी आळंदीच्या आठ विद्यार्थ्यांचे प्राण कसे गेले? कारण आलं समोर",
+            "description": "Raigad Diveagar beach Tragedy : समुद्रात भरतीची वेळ असताना पाण्यात उतरलेल्या ८ विद्यार्थ्यांचा नाकातोंडात पाणी आणि वाळू गेल्याने करुण अंत झाला.",
+            "content": "पुणे : सहलीचा आनंद लुटण्यासाठी हसत-खेळत घराबाहेर पडलेल्या आळंदीतील आठ विद्यार्थ्यांचा दिवेआगरच्या समुद्रात बुडून मृत्यू झाला आहे. रायगड श्रीवर्धन जिल्ह्यातील तालुक्यातील दिवेआगर (Raigad Diveagar beach death) समुद्रकिनारी काल (गुरुवारी, ता १) सायंकाळी... [1548 chars]",
+            "url": "https://marathi.abplive.com/news/pune/raigad-diveagar-beach-tragedy-how-did-eight-students-from-alandi-lose-their-lives-even-though-they-were-pulled-out-of-the-sea-within-five-minutes-reason-has-come-out-1440945",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/02/af55d482c6b25c142f74965659dc5d5717909143004431075_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-10-02T04:12:12Z",
             "lang": "mr",
             "source": {
                 "id": "d0ecbd318b81c0114aad430372084c1a",
@@ -121,33 +31,123 @@
             }
         },
         {
-            "id": "25485529bc68fe9ed90e9eaa2c79a1cc",
-            "title": "शिवानी रांगोळेच्या नव्या वेबसीरिजची घोषणा; पहिल्यांदाच साकारणार वकिलाची भूमिका, म्हणाली...",
-            "description": "Shivani Rangole's new web series announced; She will play the role of a lawyer for the first time, she said.... अभिनेत्री शिवानी रांगोळे सध्या रंगभूमीवरही सक्रीय आहे. ‘शंकर जयकिशन’ या नाटकातून ती भरत जाधव आणि महेश मांजरेकर यांच्यासोबत महत्त्वाची भूमिका साकारताना दिसत आहे. आता शिवानी आणखी एका नव्या प्रोजेक्टमुळे चर्चेत आली आहे. - Latest Marathi News (मराठी बातम्या). Find Breaking Headlines, Current and Latest filmy news in Marathi at Lokmat.com",
-            "content": "‘तुला शिकवीन चांगलाच धडा’ या मालिकेतील भूमिकेमुळे लोकप्रिय झालेली अभिनेत्री शिवानी रांगोळे सध्या रंगभूमीवरही सक्रीय आहे. ‘शंकर जयकिशन’ या नाटकातून ती भरत जाधव आणि महेश मांजरेकर यांच्यासोबत महत्त्वाची भूमिका साकारताना दिसत आहे. आता शिवानी आणखी एका नव्... [1160 chars]",
-            "url": "https://www.lokmat.com/filmy/television/shivani-rangoles-new-web-series-announced-she-will-play-the-role-of-a-lawyer-for-the-first-time-she-said-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/shivani-rangole-new-series-fb_2026101794132.jpeg",
-            "publishedAt": "2026-10-01T15:17:00Z",
+            "id": "af8f03c9cbe0cb0dafa3587af916cd5b",
+            "title": "Diveagar Accident: सहलीला मजा करायला गेलो अन् ..., दिवेआगर येथे विद्यार्थ्यांचा मृत्यू कसा झाला? मित्रांनी सांगितला थरारक अनुभव",
+            "description": "Diveagar Beach Incident : रायगडच्या दिवेआगर येथे पिकनीकसाठी गेलेल्या आळंदी येथील ८ विद्यार्थ्यांचा मृत्यू झाला. या घटनेत बचावलेल्या विद्यार्थ्यांनी घटनेच्या वेळी काय घडलं होतं याचा थरारक अनुभव सांगितला.",
+            "content": "रायगडच्या दिवेआगर समुद्रकिनाऱ्यावर पिकनिकसाठी गेलेल्या पुण्यातल्या आळंदीतील ८ विद्यार्थ्यांचा मृत्यू झाला. आळंदी येथील विनर्स अकॅडमीचे अकरावी आणि बारावीचे विद्यार्थी आणि शिक्षक दिवेआगर येथे फिरण्यासाठी गेले होते. पण पोहण्यासाठी समुद्रात उतरले असता पा... [1608 chars]",
+            "url": "https://saamtv.esakal.com/maharashtra/diveagar-accident-update-8-students-drown-during-picnic-survivors-recall-the-terrifying-experience-pvm91",
+            "image": "https://cf-images.assettype.com/saamtv%2F2026-10-02%2Fbjmiil05%2FDiveagar.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-10-02T04:07:42Z",
             "lang": "mr",
             "source": {
-                "id": "ff9762c8150746827821a08d529386fe",
-                "name": "Lokmat.com",
-                "url": "https://www.lokmat.com"
+                "id": "36c482d58a61229d6b752791e526b574",
+                "name": "Saam Tv",
+                "url": "https://saamtv.esakal.com"
             }
         },
         {
-            "id": "85e2a9610434ad516c1ab306227abc86",
-            "title": "Abhijeet Dipke : फक्त ज्ञानेश कुमार यांच्या राजीनाम्यासाठी अभिजीत दीपके मुंबईत येत नाहीयत, त्याआडून सीजेपीचा मोठा डाव",
-            "description": "Abhijeet Dipke : 2 ऑक्टोबरला कॉकरोच जनता पार्टी मुंबईत शिवाजीपार्कला आंदोलन करणार आहे. वरवर हे मुख्य निवडणूक आयुक्त ज्ञानेश कुमार यांच्या राजीनाम्याच्या मागणीसाठी आंदोलन आहे असं दिसतय. पण तो एकमेव हेतू नाहीय.",
-            "content": "कॉकरोच जनता पार्टी उद्या 2 ऑक्टोबरला मुंबईत विरोध प्रदर्शन करणार आहे. मुख्य निवडणूक आयुक्त ज्ञानेश कुमार यांच्या राजीनाम्यासाठी हे आंदोलन असलं, तरी या निमित्ताने CJP कडून इतरही मागण्या केल्या जाणार आहेत. सीजेपी संस्थापक अभिजीत दीपके या आंदोलनाचं नेतृ... [1592 chars]",
-            "url": "https://www.tv9marathi.com/maharashtra/abhijeet-dipke-cjp-mumbai-protest-at-shivajipark-on-october-2-beyond-cec-gyanesh-kumar-resignation-there-are-other-demands-too-1769406.html",
-            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/10/Abhijeet-Dipke-8.jpg",
-            "publishedAt": "2026-10-01T15:11:41Z",
+            "id": "fb50b05b013dee3171cd3ba40c6b74b5",
+            "title": "Samruddhi Mahamarg Accident: दुर्गादेवीची मूर्ती घेऊन परतत होते, मागून कंटेनरने जोरदार धडक दिली अन्...; 7 जणांचा दुर्दैवी अंत, समृद्धी महामार्गावर नेमकं काय घडलं?",
+            "description": "Samruddhi Mahamarg Accident: धामणगाव पोलीस ठाण्याच्या हद्दीत समृद्धी महामार्गावर दुर्गामातेची मूर्ती घेऊन परतणाऱ्या कार्यकर्त्यांच्या वाहनाचा भीषण अपघात झाला.",
+            "content": "Samruddhi Mahamarg Accident: नवरात्रौत्सवाच्या (Navratri Festival) तोंडावर अमरावती जिल्ह्यातून मन हेलावून टाकणारी घटना समोर आली आहे. धामणगाव पोलीस ठाण्याच्या हद्दीत समृद्धी महामार्गावर (Samruddhi Mahamarg) दुर्गामातेची मूर्ती घेऊन परतणाऱ्या कार्यकर्त... [2433 chars]",
+            "url": "https://marathi.abplive.com/crime/samruddhi-mahamarg-accident-amaravati-dhamangaon-durga-idol-bolero-and-truck-collision-7-died-12-injured-wardha-maharashtra-marathi-news-1440939",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/02/cf58c5c584d8be0257f7a0de8b0e78a41790912323768923_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-10-02T03:39:10Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "745f5166f727e618c52dbf7456766207",
+            "title": "Raigad Diveagar beach Tragedy: मी दोघांना वाचवायचा प्रयत्न केला पण मोठी लाट आली अन्... डोळ्यांदेखत मित्र वाहून गेले, आळंदीच्या विद्यार्थ्याने दिवेआगर बीचवर घडलेला प्रसंग सांगितला",
+            "description": "Raigad Diveagar beach Tragedy: आळंदीतील विनर्स अकॅडमीच्या सहलीवेळी ही दुर्घटना घटली. समुद्रात उतरले पण पाण्याच्या खोलीचा प्रवाहाचा अंदाजच आला नाही.",
+            "content": "पुणे : सहलीचा आनंद लुटण्यासाठी हसत-खेळत घराबाहेर पडलेल्या आळंदीतील आठ विद्यार्थ्यांचा दिवेआगरच्या समुद्रात बुडून मृत्यू झाला आहे. रायगड श्रीवर्धन जिल्ह्यातील तालुक्यातील दिवेआगर (Raigad Diveagar beach death) समुद्रकिनारी काल (गुरुवारी, ता १) सायंकाळी... [1038 chars]",
+            "url": "https://marathi.abplive.com/news/india/raigad-diveagar-beach-tragedy-an-attempt-was-made-to-save-two-student-but-a-huge-wave-struck-an-eyewitness-to-the-incident-at-diveagar-recounted-what-happened-1440940",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/02/dba9457a6de9927db786d291fcc63ba017909118244621075_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-10-02T03:30:56Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "c5b5aeddf75ff9f8d8e65ba2833836e6",
+            "title": "Riteish Deshmukh: तू आधी फराहसोबत काम कर, मग बोल..; प्राजक्ताला रितेश देशमुख स्पष्टच बोलला..",
+            "description": "Riteish Deshmukh: नुकत्याच एका कार्यक्रमात अभिनेत्री आणि इन्फ्लुएन्सर प्राजक्ता कोळीने रितेश देशमुखची मुलाखत घेतली. यावेळी त्याने दिग्दर्शिका, कोरिओग्राफर फराह खानबद्दल तिला थेट प्रश्न विचारला.",
+            "content": "रितेश देशमुख आणि फराह खान यांची जोडी सध्या चर्चेत आहे. ‘लॉक अप सिझन 2’मध्ये दोघांनी एकत्र सूत्रसंचालन केल्यानंतर त्यांच्या ऑनस्क्रीन केमिस्ट्रीचीही चर्चा झाली. नुकत्याच मुंबईत झालेल्या ‘FICCI फ्रेम्स 2026’ कार्यक्रमात दोघं पुन्हा एकत्र दिसले. यावेळी ... [1858 chars]",
+            "url": "https://www.tv9marathi.com/entertainment/riteish-deshmukh-warns-prajakta-koli-regarding-farah-khan-asked-have-you-worked-with-her-watch-video-1769556.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/10/Prajakta-Koli-and-Riteish-Deshmukh.jpg",
+            "publishedAt": "2026-10-02T03:28:51Z",
             "lang": "mr",
             "source": {
                 "id": "86b106434a8aa7ab0755463f15cc13f7",
                 "name": "TV9 Marathi",
                 "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "f4524c8c26b41d17bf525abf8068e0bd",
+            "title": "IND A vs AUS A : साई सुदर्शन निघाला फुसका बार, स्वत:ला सिद्ध करायची संधी होती, पण पुन्हा टाकली नांगी; ऑस्ट्रेलियाकडून मायदेशातच इंडियाची कोंडी",
+            "description": "India A vs Australia A 2nd Unofficial Test : इंडिया अ आणि ऑस्ट्रेलिया अ यांच्यातील दुसऱ्या चार दिवसीय सामन्यात भारतीय संघ अडचणीत सापडला आहे.",
+            "content": "India A vs Australia A 2nd Unofficial Test : इंडिया अ आणि ऑस्ट्रेलिया अ यांच्यातील दुसऱ्या चार दिवसीय सामन्यात भारतीय संघ अडचणीत सापडला आहे. सामन्याच्या तिसऱ्या दिवसअखेर ऑस्ट्रेलिया अ संघाने आपला दुसरा डाव 173 धावांवर 4 गडी बाद असताना घोषित केला. त्य... [1921 chars]",
+            "url": "https://marathi.abplive.com/sports/cricket/sai-sudharsan-flop-ind-a-vs-aus-a-2nd-unofficial-test-australia-set-india-target-of-365-runs-day-4-update-marthi-news-1440938",
+            "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/02/357280bebaded2fa87769d233a13c19717909112739811378_original.jpg?impolicy=abp_cdn&imwidth=1200",
+            "publishedAt": "2026-10-02T03:21:18Z",
+            "lang": "mr",
+            "source": {
+                "id": "d0ecbd318b81c0114aad430372084c1a",
+                "name": "ABP Majha",
+                "url": "https://marathi.abplive.com"
+            }
+        },
+        {
+            "id": "2b40d0d05bb66ce72cff768c734a3a05",
+            "title": "Swara Bhaskar : मद्यधुंद अवस्थेत दिग्दर्शकाने दार ठोठावलं; मध्यरात्री केली विचित्र मागणी, स्वरा भास्करने सांगितला धक्कादायक प्रसंग",
+            "description": "Swara Bhaskar : एका रोमँटिक सीनच्या सरावासाठी दिग्दर्शकाने स्वराला एकांतात भेटण्यास बोलावले. या भेटीदरम्यान केवळ आपण दोघेच असणार असल्याचे समजल्यानंतर स्वराने त्याला स्पष्टपणे नकार दिला.",
+            "content": "Swara Bhaskar : अभिनेत्री स्वरा भास्कर सध्या ‘राईज अँड फॉल सीझन २’ या रिॲलिटी शोमुळे चर्चेत आहे. शोदरम्यान स्वराने एका मद्यधुंद दिग्दर्शकाने तिच्यासोबत गैरवर्तन करत अजब मागणी केली होती. तिच्या करिअरच्या सुरुवातीच्या काळातील घडलेली धक्कादायक घटना तिने... [1194 chars]",
+            "url": "https://www.dainikprabhat.com/director-knocked-on-the-door-in-a-drunken-state-and-made-a-bizarre-demand-at-midnight-swara-bhasker-recounts-the-shocking-incident",
+            "image": "https://axrmzc5ulsbu.compat.objectstorage.ap-hyderabad-1.oraclecloud.com/media.dainikprabhat.com/wp-content/uploads/2026/10/DD-2026-10-02T083329.673.jpg",
+            "publishedAt": "2026-10-02T03:04:00Z",
+            "lang": "mr",
+            "source": {
+                "id": "2dc9f5f6cf82001b1834b5f7a07f3311",
+                "name": "Dainik Prabhat",
+                "url": "https://www.dainikprabhat.com"
+            }
+        },
+        {
+            "id": "4bc3a090748f6f6fe2df8f4dd6e91d9b",
+            "title": "महाराष्ट्रात परतीचा पाऊस झोडपणार, मोठा इशारा, अलर्ट जारी, 24 तासात तब्बल..",
+            "description": "Maharashtra Weather Update : राज्यात गेल्या काही दिवसांपासून पावसाने पाठ फिरवली. आज भारतीय हवामान विभागाने पावसाचा मोठा इशारा अनेक भागात दिला. कमी दाबाचा क्षेत्र तयार झाल्याचे बघायला मिळतंय. परतीचा पाऊस धुमाकूळ घालतोय.",
+            "content": "राज्यात गेल्या काही दिवसांपासून पावसाने पाठ फिरवली. कोरडा दुष्काळ सरकारकडून जाहीर करण्यात आला. स्थिती भयंकर आहे. पिके पाण्याअभावी करपून गेली. पिण्याच्या पाण्याचा मोठा प्रश्न आहे. एल निनोचा प्रभाव देशात दिसत आहे. आता परतीच्या पावसाला सुरूवात झाली. मॉन... [1502 chars]",
+            "url": "https://www.tv9marathi.com/maharashtra/india-meteorological-department-has-issued-major-warning-regarding-retreating-monsoon-rains-in-konkan-marathwada-and-western-maharashtra-1769530.html",
+            "image": "https://images.tv9marathi.com/wp-content/uploads/2026/10/Maharashtra-Weather-86.jpg",
+            "publishedAt": "2026-10-02T02:59:24Z",
+            "lang": "mr",
+            "source": {
+                "id": "86b106434a8aa7ab0755463f15cc13f7",
+                "name": "TV9 Marathi",
+                "url": "https://www.tv9marathi.com"
+            }
+        },
+        {
+            "id": "9cfab1edf3dbd717bec2b7342917b977",
+            "title": "Jim Carrey Third Wedding With Young Girl Friend Min Ah ;आजोबा बनवल्यावर अभिनेत्याने अर्ध्या वयाच्या मुलीशी केलं तिसरं लग्न, दुसऱ्या घटस्फोटानंतर 29 वर्षांनी नवा संसार",
+            "description": "अभिनेता जिम कॅरी यांनी वयाच्या 64 व्या वर्षी तिसरे लग्न केल्याचे समोर आले आहे. त्यांची पत्नी त्यांच्याहून निम्म्या वयाची आहे.",
+            "content": "'डेडपूल' फेम अभिनेता जिम कॅरी याने वयाच्या 64 व्या वर्षी तिसऱ्यांदा गुपचूप लग्न केलं आहे. त्याने आपली गर्लफ्रेंड 'मिन आ' हिच्याशी लग्न केले; विशेष म्हणजे ती त्यांच्या वयाच्या अर्ध्या वयाची असून ते बराच काळ एकमेकांना डेट करत होते. हा विवाह अत्यंत खाजग... [5071 chars]",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/jim-carrey-married-long-time-girlfriend-min-ah-for-third-time/articleshow/134630442.cms",
+            "image": "https://static.langimg.com/mt/thumb/134630818/jim-carrey.jpg?imgsize=134062&width=1600&height=900&resizemode=75",
+            "publishedAt": "2026-10-02T02:58:57Z",
+            "lang": "mr",
+            "source": {
+                "id": "86afe444484a22a46a5f6295debcbf1a",
+                "name": "maharashtratimes.com",
+                "url": "https://maharashtratimes.com"
             }
         }
     ],
